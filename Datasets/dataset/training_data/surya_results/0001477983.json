@@ -1,0 +1,415 @@
+{
+    "text_lines": [
+        {
+            "text": "STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS ",
+            "bbox": [
+                115.0,
+                80.0,
+                568.0,
+                99.0
+            ]
+        },
+        {
+            "text": "ffice of the Secretary of State",
+            "bbox": [
+                120.0,
+                96.0,
+                282.0,
+                108.0
+            ]
+        },
+        {
+            "text": "es R. Langevin, Secretary of State",
+            "bbox": [
+                135.0,
+                140.0,
+                327.0,
+                152.0
+            ]
+        },
+        {
+            "text": "Room 43, State House",
+            "bbox": [
+                552.0,
+                153.0,
+                659.0,
+                165.0
+            ]
+        },
+        {
+            "text": "Providence, Rhode Island 02903-1105",
+            "bbox": [
+                478.0,
+                165.0,
+                657.0,
+                180.0
+            ]
+        },
+        {
+            "text": "401-277-2390",
+            "bbox": [
+                586.0,
+                180.0,
+                659.0,
+                194.0
+            ]
+        },
+        {
+            "text": "Monthly Organization/Employer Report",
+            "bbox": [
+                216.0,
+                184.0,
+                560.0,
+                205.0
+            ]
+        },
+        {
+            "text": " Due the 1st Monday of the month during the legislative session to report the previous months' activity.",
+            "bbox": [
+                123.0,
+                208.0,
+                655.0,
+                225.0
+            ]
+        },
+        {
+            "text": "Reporting Period: Month of May",
+            "bbox": [
+                120.0,
+                232.0,
+                309.0,
+                248.0
+            ]
+        },
+        {
+            "text": "Organization/Employer Name:",
+            "bbox": [
+                121.0,
+                254.0,
+                287.0,
+                270.0
+            ]
+        },
+        {
+            "text": "R. J. Reynolds Tobacco",
+            "bbox": [
+                307.0,
+                255.0,
+                457.0,
+                271.0
+            ]
+        },
+        {
+            "text": "Lobbyist Name: __",
+            "bbox": [
+                120.0,
+                270.0,
+                228.0,
+                287.0
+            ]
+        },
+        {
+            "text": "Peter J. McGinn",
+            "bbox": [
+                246.0,
+                271.0,
+                353.0,
+                285.0
+            ]
+        },
+        {
+            "text": "If any addresses or telephone numbers have changed since the last reporting period please check",
+            "bbox": [
+                120.0,
+                287.0,
+                629.0,
+                306.0
+            ]
+        },
+        {
+            "text": "here ",
+            "bbox": [
+                120.0,
+                305.0,
+                167.0,
+                319.0
+            ]
+        },
+        {
+            "text": "and note the change in the space provided at the end of this form.",
+            "bbox": [
+                170.0,
+                305.0,
+                517.0,
+                321.0
+            ]
+        },
+        {
+            "text": "Compensation/Expenditure Information:",
+            "bbox": [
+                121.0,
+                328.0,
+                390.0,
+                345.0
+            ]
+        },
+        {
+            "text": "Have you paid any type of compensation or incurred any obligation for payment to the above named",
+            "bbox": [
+                120.0,
+                346.0,
+                650.0,
+                364.0
+            ]
+        },
+        {
+            "text": "lobbyist for lobbying? (yes or no) No . If yes, please complete the following.",
+            "bbox": [
+                120.0,
+                364.0,
+                536.0,
+                380.0
+            ]
+        },
+        {
+            "text": "Compensation received for lobbying: $",
+            "bbox": [
+                120.0,
+                380.0,
+                329.0,
+                396.0
+            ]
+        },
+        {
+            "text": "Retainer: $",
+            "bbox": [
+                457.0,
+                390.0,
+                518.0,
+                405.0
+            ]
+        },
+        {
+            "text": "Part of salary received for lobbying: $",
+            "bbox": [
+                120.0,
+                397.0,
+                326.0,
+                413.0
+            ]
+        },
+        {
+            "text": "Contractual or agreed fee: $",
+            "bbox": [
+                456.0,
+                406.0,
+                609.0,
+                423.0
+            ]
+        },
+        {
+            "text": "Amount earned but not received: $",
+            "bbox": [
+                120.0,
+                414.0,
+                307.0,
+                430.0
+            ]
+        },
+        {
+            "text": "Reimbursements for expenses (please itemize):",
+            "bbox": [
+                119.0,
+                430.0,
+                370.0,
+                446.0
+            ]
+        },
+        {
+            "text": "Other (please explain):",
+            "bbox": [
+                119.0,
+                464.0,
+                245.0,
+                478.0
+            ]
+        },
+        {
+            "text": "Note: RIGL 22-10-2(d) requires disclosure in a dollar amount of the compensation for lobbying activity.",
+            "bbox": [
+                118.0,
+                479.0,
+                612.0,
+                497.0
+            ]
+        },
+        {
+            "text": "During this reporting period, have you made any expenditure or incurred any obligation of $25.00 or",
+            "bbox": [
+                118.0,
+                504.0,
+                651.0,
+                523.0
+            ]
+        },
+        {
+            "text": "more per occurence to promote or oppose any legislation, including but not limited to mailings, meals,",
+            "bbox": [
+                118.0,
+                521.0,
+                654.0,
+                540.0
+            ]
+        },
+        {
+            "text": "print or broadcast advertisements, or gifts? (yes or no)",
+            "bbox": [
+                119.0,
+                539.0,
+                412.0,
+                555.0
+            ]
+        },
+        {
+            "text": " No",
+            "bbox": [
+                429.0,
+                540.0,
+                448.0,
+                553.0
+            ]
+        },
+        {
+            "text": "If yes, please detail, including the names of the persons receiving and in whose behalf such ",
+            "bbox": [
+                118.0,
+                554.0,
+                596.0,
+                573.0
+            ]
+        },
+        {
+            "text": "expenditures have been made, the amount, date, place, and reason for the expenditure.",
+            "bbox": [
+                119.0,
+                572.0,
+                571.0,
+                589.0
+            ]
+        },
+        {
+            "text": "(indicate if attached pages",
+            "bbox": [
+                481.0,
+                625.0,
+                625.0,
+                640.0
+            ]
+        },
+        {
+            "text": "List any changes of address or telephone numbers:",
+            "bbox": [
+                117.0,
+                648.0,
+                385.0,
+                664.0
+            ]
+        },
+        {
+            "text": "(from)",
+            "bbox": [
+                118.0,
+                665.0,
+                155.0,
+                679.0
+            ]
+        },
+        {
+            "text": "(to) _",
+            "bbox": [
+                118.0,
+                683.0,
+                145.0,
+                696.0
+            ]
+        },
+        {
+            "text": "Signature of Employer or Designee",
+            "bbox": [
+                118.0,
+                725.0,
+                305.0,
+                739.0
+            ]
+        },
+        {
+            "text": "Please print name of Employer or Designee",
+            "bbox": [
+                433.0,
+                726.0,
+                653.0,
+                742.0
+            ]
+        },
+        {
+            "text": "\u1047\u1049%",
+            "bbox": [
+                682.0,
+                753.0,
+                698.0,
+                784.0
+            ]
+        },
+        {
+            "text": "Please indicate the capacity in which you are executing this document:",
+            "bbox": [
+                116.0,
+                758.0,
+                486.0,
+                775.0
+            ]
+        },
+        {
+            "text": "FOR OFFICIAL USE",
+            "bbox": [
+                196.0,
+                785.0,
+                297.0,
+                800.0
+            ]
+        },
+        {
+            "text": "REVIEWED:",
+            "bbox": [
+                194.0,
+                904.0,
+                244.0,
+                915.0
+            ]
+        },
+        {
+            "text": "CCEPTED:",
+            "bbox": [
+                127.0,
+                905.0,
+                166.0,
+                915.0
+            ]
+        },
+        {
+            "text": "rev. 1/97",
+            "bbox": [
+                615.0,
+                910.0,
+                649.0,
+                920.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

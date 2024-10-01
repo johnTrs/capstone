@@ -1,0 +1,235 @@
+{
+    "text_lines": [
+        {
+            "text": "TO:",
+            "bbox": [
+                95.0,
+                115.0,
+                122.0,
+                132.0
+            ]
+        },
+        {
+            "text": "R. B. SPELL",
+            "bbox": [
+                182.0,
+                115.0,
+                263.0,
+                133.0
+            ]
+        },
+        {
+            "text": "and and the store of the state of",
+            "bbox": [
+                446.0,
+                116.0,
+                662.0,
+                137.0
+            ]
+        },
+        {
+            "text": "FROM:",
+            "bbox": [
+                93.0,
+                143.0,
+                142.0,
+                160.0
+            ]
+        },
+        {
+            "text": "MAY 27",
+            "bbox": [
+                449.0,
+                145.0,
+                505.0,
+                163.0
+            ]
+        },
+        {
+            "text": "AUG 26",
+            "bbox": [
+                577.0,
+                147.0,
+                634.0,
+                165.0
+            ]
+        },
+        {
+            "text": "OCT 07",
+            "bbox": [
+                576.0,
+                165.0,
+                633.0,
+                185.0
+            ]
+        },
+        {
+            "text": "JUN 24",
+            "bbox": [
+                449.0,
+                166.0,
+                502.0,
+                184.0
+            ]
+        },
+        {
+            "text": "MAVERICK SPECIALS - PROGRESS REPORT",
+            "bbox": [
+                182.0,
+                194.0,
+                494.0,
+                216.0
+            ]
+        },
+        {
+            "text": "SUBJECT:",
+            "bbox": [
+                93.0,
+                195.0,
+                164.0,
+                213.0
+            ]
+        },
+        {
+            "text": "1.43",
+            "bbox": [
+                21.0,
+                204.0,
+                42.0,
+                230.0
+            ]
+        },
+        {
+            "text": "EFFECTIVENESS OF:   Pre-Sell   -  Booklet/Coupon   -   Maverick/Harley B1G1F     ",
+            "bbox": [
+                93.0,
+                260.0,
+                636.0,
+                295.0
+            ]
+        },
+        {
+            "text": "(Report on May 27 only)",
+            "bbox": [
+                97.0,
+                289.0,
+                266.0,
+                310.0
+            ]
+        },
+        {
+            "text": "PRE-SELL",
+            "bbox": [
+                92.0,
+                310.0,
+                167.0,
+                330.0
+            ]
+        },
+        {
+            "text": "la contributed",
+            "bbox": [
+                18.0,
+                378.0,
+                44.0,
+                528.0
+            ]
+        },
+        {
+            "text": "BOOKLET/COUPON",
+            "bbox": [
+                91.0,
+                459.0,
+                233.0,
+                476.0
+            ]
+        },
+        {
+            "text": ".. .",
+            "bbox": [
+                18.0,
+                520.0,
+                42.0,
+                552.0
+            ]
+        },
+        {
+            "text": "MAVERICK/HARLEY B1G1F",
+            "bbox": [
+                91.0,
+                605.0,
+                284.0,
+                622.0
+            ]
+        },
+        {
+            "text": "COMPETITIVE PROMOTIONAL ACTIVITY",
+            "bbox": [
+                89.0,
+                742.0,
+                409.0,
+                765.0
+            ]
+        },
+        {
+            "text": "(Report on May 27 only)",
+            "bbox": [
+                95.0,
+                763.0,
+                264.0,
+                782.0
+            ]
+        },
+        {
+            "text": "OLLEDZ",
+            "bbox": [
+                683.0,
+                776.0,
+                703.0,
+                829.0
+            ]
+        },
+        {
+            "text": "Average Coupon/Buydown Value On Targeted Brands (Doral/Basic/Monarch/Cambridge/GPC)",
+            "bbox": [
+                90.0,
+                783.0,
+                664.0,
+                809.0
+            ]
+        },
+        {
+            "text": " PACKS",
+            "bbox": [
+                213.0,
+                819.0,
+                263.0,
+                838.0
+            ]
+        },
+        {
+            "text": "CARTONS",
+            "bbox": [
+                214.0,
+                853.0,
+                284.0,
+                870.0
+            ]
+        },
+        {
+            "text": "1   of 3",
+            "bbox": [
+                649.0,
+                907.0,
+                691.0,
+                924.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

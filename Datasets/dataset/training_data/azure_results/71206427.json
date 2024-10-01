@@ -1,0 +1,1009 @@
+{
+    "text_lines": [
+        {
+            "line_text": "-",
+            "line_bbox": [
+                206.0,
+                1.0,
+                210.0,
+                10.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        206.0,
+                        2.0,
+                        210.0,
+                        4.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT BRIEF",
+            "line_bbox": [
+                324.0,
+                73.0,
+                435.0,
+                90.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        326.0,
+                        74.0,
+                        385.0,
+                        89.0
+                    ]
+                },
+                {
+                    "text": "BRIEF",
+                    "bbox": [
+                        393.0,
+                        75.0,
+                        435.0,
+                        90.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE:",
+            "line_bbox": [
+                110.0,
+                113.0,
+                151.0,
+                126.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE:",
+                    "bbox": [
+                        110.0,
+                        114.0,
+                        152.0,
+                        127.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "June 1, 1990",
+            "line_bbox": [
+                190.0,
+                114.0,
+                295.0,
+                127.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "June",
+                    "bbox": [
+                        192.0,
+                        114.0,
+                        226.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "1,",
+                    "bbox": [
+                        235.0,
+                        114.0,
+                        253.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "1990",
+                    "bbox": [
+                        260.0,
+                        114.0,
+                        293.0,
+                        128.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRAND: General Merchandising",
+            "line_bbox": [
+                110.0,
+                140.0,
+                354.0,
+                157.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRAND:",
+                    "bbox": [
+                        110.0,
+                        141.0,
+                        160.0,
+                        155.0
+                    ]
+                },
+                {
+                    "text": "General",
+                    "bbox": [
+                        175.0,
+                        141.0,
+                        234.0,
+                        156.0
+                    ]
+                },
+                {
+                    "text": "Merchandising",
+                    "bbox": [
+                        241.0,
+                        142.0,
+                        350.0,
+                        158.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ITEM: Package Fixture Circle-K",
+            "line_bbox": [
+                389.0,
+                144.0,
+                652.0,
+                164.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ITEM:",
+                    "bbox": [
+                        390.0,
+                        145.0,
+                        435.0,
+                        160.0
+                    ]
+                },
+                {
+                    "text": "Package",
+                    "bbox": [
+                        447.0,
+                        146.0,
+                        508.0,
+                        161.0
+                    ]
+                },
+                {
+                    "text": "Fixture",
+                    "bbox": [
+                        515.0,
+                        147.0,
+                        575.0,
+                        163.0
+                    ]
+                },
+                {
+                    "text": "Circle-K",
+                    "bbox": [
+                        582.0,
+                        148.0,
+                        649.0,
+                        165.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Nonspecific",
+            "line_bbox": [
+                175.0,
+                155.0,
+                268.0,
+                170.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Nonspecific",
+                    "bbox": [
+                        176.0,
+                        156.0,
+                        267.0,
+                        170.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Convenient Stores",
+            "line_bbox": [
+                450.0,
+                160.0,
+                592.0,
+                176.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Convenient",
+                    "bbox": [
+                        450.0,
+                        161.0,
+                        532.0,
+                        175.0
+                    ]
+                },
+                {
+                    "text": "Stores",
+                    "bbox": [
+                        540.0,
+                        162.0,
+                        590.0,
+                        176.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUMMARY OF PROJECT:",
+            "line_bbox": [
+                108.0,
+                181.0,
+                274.0,
+                198.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUMMARY",
+                    "bbox": [
+                        108.0,
+                        181.0,
+                        166.0,
+                        196.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        174.0,
+                        182.0,
+                        192.0,
+                        196.0
+                    ]
+                },
+                {
+                    "text": "PROJECT:",
+                    "bbox": [
+                        199.0,
+                        183.0,
+                        268.0,
+                        199.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "See Attached",
+            "line_bbox": [
+                280.0,
+                184.0,
+                385.0,
+                199.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "See",
+                    "bbox": [
+                        281.0,
+                        184.0,
+                        308.0,
+                        198.0
+                    ]
+                },
+                {
+                    "text": "Attached",
+                    "bbox": [
+                        315.0,
+                        185.0,
+                        383.0,
+                        199.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUPPLIERS BEING CONSIDERED:",
+            "line_bbox": [
+                107.0,
+                251.0,
+                334.0,
+                268.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUPPLIERS",
+                    "bbox": [
+                        108.0,
+                        251.0,
+                        181.0,
+                        265.0
+                    ]
+                },
+                {
+                    "text": "BEING",
+                    "bbox": [
+                        189.0,
+                        252.0,
+                        231.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "CONSIDERED:",
+                    "bbox": [
+                        239.0,
+                        253.0,
+                        332.0,
+                        269.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Chicago Show",
+            "line_bbox": [
+                105.0,
+                278.0,
+                210.0,
+                294.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Chicago",
+                    "bbox": [
+                        106.0,
+                        279.0,
+                        165.0,
+                        293.0
+                    ]
+                },
+                {
+                    "text": "Show",
+                    "bbox": [
+                        172.0,
+                        280.0,
+                        206.0,
+                        294.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Display Equation",
+            "line_bbox": [
+                105.0,
+                305.0,
+                241.0,
+                322.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Display",
+                    "bbox": [
+                        106.0,
+                        306.0,
+                        163.0,
+                        321.0
+                    ]
+                },
+                {
+                    "text": "Equation",
+                    "bbox": [
+                        171.0,
+                        307.0,
+                        239.0,
+                        322.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Chicago Display",
+            "line_bbox": [
+                105.0,
+                333.0,
+                233.0,
+                349.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Chicago",
+                    "bbox": [
+                        106.0,
+                        334.0,
+                        164.0,
+                        349.0
+                    ]
+                },
+                {
+                    "text": "Display",
+                    "bbox": [
+                        171.0,
+                        335.0,
+                        231.0,
+                        350.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Robert Nielson & Associates",
+            "line_bbox": [
+                103.0,
+                361.0,
+                332.0,
+                379.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Robert",
+                    "bbox": [
+                        104.0,
+                        361.0,
+                        156.0,
+                        376.0
+                    ]
+                },
+                {
+                    "text": "Nielson",
+                    "bbox": [
+                        162.0,
+                        362.0,
+                        222.0,
+                        377.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        230.0,
+                        364.0,
+                        239.0,
+                        377.0
+                    ]
+                },
+                {
+                    "text": "Associates",
+                    "bbox": [
+                        245.0,
+                        364.0,
+                        330.0,
+                        379.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FUNDING:",
+            "line_bbox": [
+                103.0,
+                403.0,
+                175.0,
+                418.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FUNDING:",
+                    "bbox": [
+                        104.0,
+                        403.0,
+                        173.0,
+                        419.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1990 Customized Merchandising",
+            "line_bbox": [
+                103.0,
+                431.0,
+                348.0,
+                449.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1990",
+                    "bbox": [
+                        104.0,
+                        431.0,
+                        137.0,
+                        446.0
+                    ]
+                },
+                {
+                    "text": "Customized",
+                    "bbox": [
+                        144.0,
+                        432.0,
+                        229.0,
+                        447.0
+                    ]
+                },
+                {
+                    "text": "Merchandising",
+                    "bbox": [
+                        236.0,
+                        434.0,
+                        346.0,
+                        449.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Services - SPNS",
+            "line_bbox": [
+                104.0,
+                460.0,
+                231.0,
+                474.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Services",
+                    "bbox": [
+                        104.0,
+                        460.0,
+                        170.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        179.0,
+                        461.0,
+                        187.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "SPNS",
+                    "bbox": [
+                        195.0,
+                        461.0,
+                        229.0,
+                        475.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SIGNATURES :",
+            "line_bbox": [
+                101.0,
+                557.0,
+                194.0,
+                572.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SIGNATURES",
+                    "bbox": [
+                        101.0,
+                        558.0,
+                        184.0,
+                        572.0
+                    ]
+                },
+                {
+                    "text": ":",
+                    "bbox": [
+                        186.0,
+                        559.0,
+                        194.0,
+                        572.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REQUESTING MANAGER",
+            "line_bbox": [
+                100.0,
+                597.0,
+                254.0,
+                616.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REQUESTING",
+                    "bbox": [
+                        101.0,
+                        598.0,
+                        185.0,
+                        614.0
+                    ]
+                },
+                {
+                    "text": "MANAGER",
+                    "bbox": [
+                        192.0,
+                        600.0,
+                        252.0,
+                        616.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MERCHANDISING MANAGER",
+            "line_bbox": [
+                98.0,
+                640.0,
+                277.0,
+                657.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MERCHANDISING",
+                    "bbox": [
+                        99.0,
+                        641.0,
+                        210.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "MANAGER",
+                    "bbox": [
+                        215.0,
+                        642.0,
+                        275.0,
+                        658.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GROUP PRODUCT DIRECTOR",
+            "line_bbox": [
+                98.0,
+                682.0,
+                287.0,
+                701.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GROUP",
+                    "bbox": [
+                        98.0,
+                        682.0,
+                        141.0,
+                        699.0
+                    ]
+                },
+                {
+                    "text": "PRODUCT",
+                    "bbox": [
+                        149.0,
+                        683.0,
+                        208.0,
+                        699.0
+                    ]
+                },
+                {
+                    "text": "DIRECTOR",
+                    "bbox": [
+                        215.0,
+                        685.0,
+                        283.0,
+                        701.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PURCHASING DEPARTMENT",
+            "line_bbox": [
+                97.0,
+                725.0,
+                276.0,
+                743.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PURCHASING",
+                    "bbox": [
+                        98.0,
+                        725.0,
+                        183.0,
+                        742.0
+                    ]
+                },
+                {
+                    "text": "DEPARTMENT",
+                    "bbox": [
+                        188.0,
+                        726.0,
+                        274.0,
+                        743.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                473.0,
+                766.0,
+                480.0,
+                783.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        473.0,
+                        769.0,
+                        480.0,
+                        774.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                526.0,
+                766.0,
+                533.0,
+                782.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        526.0,
+                        774.0,
+                        533.0,
+                        778.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                373.0,
+                768.0,
+                379.0,
+                781.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        373.0,
+                        771.0,
+                        379.0,
+                        774.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RETURN TO: REQUESTING MANAGER",
+            "line_bbox": [
+                79.0,
+                768.0,
+                349.0,
+                785.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RETURN",
+                    "bbox": [
+                        95.0,
+                        768.0,
+                        147.0,
+                        783.0
+                    ]
+                },
+                {
+                    "text": "TO:",
+                    "bbox": [
+                        155.0,
+                        769.0,
+                        182.0,
+                        784.0
+                    ]
+                },
+                {
+                    "text": "REQUESTING",
+                    "bbox": [
+                        195.0,
+                        769.0,
+                        281.0,
+                        785.0
+                    ]
+                },
+                {
+                    "text": "MANAGER",
+                    "bbox": [
+                        287.0,
+                        771.0,
+                        348.0,
+                        785.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                45.0,
+                805.0,
+                52.0,
+                821.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        45.0,
+                        807.0,
+                        52.0,
+                        811.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "4514cbta",
+            "line_bbox": [
+                94.0,
+                823.0,
+                165.0,
+                839.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "4514cbta",
+                    "bbox": [
+                        96.0,
+                        824.0,
+                        163.0,
+                        840.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "--",
+            "line_bbox": [
+                372.0,
+                911.0,
+                381.0,
+                928.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "--",
+                    "bbox": [
+                        372.0,
+                        911.0,
+                        381.0,
+                        925.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "462231045",
+            "line_bbox": [
+                0.0,
+                951.0,
+                77.0,
+                966.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "462231045",
+                    "bbox": [
+                        0.0,
+                        952.0,
+                        77.0,
+                        966.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCED FROM B&W WEB SITE",
+            "line_bbox": [
+                0.0,
+                968.0,
+                233.0,
+                983.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCED",
+                    "bbox": [
+                        0.0,
+                        969.0,
+                        69.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "bbox": [
+                        78.0,
+                        969.0,
+                        113.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "B&W",
+                    "bbox": [
+                        122.0,
+                        969.0,
+                        149.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "WEB",
+                    "bbox": [
+                        157.0,
+                        968.0,
+                        185.0,
+                        984.0
+                    ]
+                },
+                {
+                    "text": "SITE",
+                    "bbox": [
+                        193.0,
+                        968.0,
+                        228.0,
+                        984.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

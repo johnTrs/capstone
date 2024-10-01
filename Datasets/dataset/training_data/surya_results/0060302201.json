@@ -1,0 +1,226 @@
+{
+    "text_lines": [
+        {
+            "text": "RESEARCH COMPLETED OR IN PROGRESS",
+            "bbox": [
+                252.0,
+                62.0,
+                488.0,
+                76.0
+            ]
+        },
+        {
+            "text": "WHICH HAS POSSIBILITIES FOR PRESENTATION OR PUBLICATION",
+            "bbox": [
+                167.0,
+                76.0,
+                560.0,
+                92.0
+            ]
+        },
+        {
+            "text": "DIVISION_Analytical_Radiochemistry",
+            "bbox": [
+                385.0,
+                118.0,
+                632.0,
+                136.0
+            ]
+        },
+        {
+            "text": "NAME : __ Ronald ... Davis",
+            "bbox": [
+                54.0,
+                119.0,
+                219.0,
+                138.0
+            ]
+        },
+        {
+            "text": "NATURE OF WORK: Total aldebyde analysis in cigarette mainstream smoke.",
+            "bbox": [
+                53.0,
+                146.0,
+                554.0,
+                162.0
+            ]
+        },
+        {
+            "text": "PRESENT STATUS OF WORK (Cite progress reports where appropriate) Techniques worked out",
+            "bbox": [
+                55.0,
+                203.0,
+                665.0,
+                218.0
+            ]
+        },
+        {
+            "text": "and reported for pure aldehyde samples; must be adapted for cigarette mainstream smoke",
+            "bbox": [
+                57.0,
+                232.0,
+                668.0,
+                246.0
+            ]
+        },
+        {
+            "text": "by further laboratory work",
+            "bbox": [
+                56.0,
+                260.0,
+                248.0,
+                275.0
+            ]
+        },
+        {
+            "text": "INS NORK BEEN REPORTED IN MANUSCRIPT FORM? yes IF SO, GIVE DATE AND TITLE:",
+            "bbox": [
+                54.0,
+                286.0,
+                594.0,
+                303.0
+            ]
+        },
+        {
+            "text": "MBTH - A reagent for analysis of aliphatic aldehydes 7/5/67",
+            "bbox": [
+                56.0,
+                318.0,
+                499.0,
+                333.0
+            ]
+        },
+        {
+            "text": "NAMES OF OTHER PERSONS COLLABORATING IN WORK: L. W. McDowell",
+            "bbox": [
+                54.0,
+                344.0,
+                484.0,
+                361.0
+            ]
+        },
+        {
+            "text": "ESTINATE OF TIME NEEDED TO COMPLETE WORK: approximately one month",
+            "bbox": [
+                53.0,
+                402.0,
+                520.0,
+                418.0
+            ]
+        },
+        {
+            "text": "V.STIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT POR PRESENTATION: several weeks after completion",
+            "bbox": [
+                53.0,
+                431.0,
+                718.0,
+                445.0
+            ]
+        },
+        {
+            "text": "of work",
+            "bbox": [
+                501.0,
+                444.0,
+                555.0,
+                457.0
+            ]
+        },
+        {
+            "text": "ESTIMATE OF TIME NEEDED TO PREPARE MARUSCRIPT FOR PUBLICATION: _",
+            "bbox": [
+                53.0,
+                459.0,
+                501.0,
+                474.0
+            ]
+        },
+        {
+            "text": "several weeks after completion",
+            "bbox": [
+                500.0,
+                459.0,
+                717.0,
+                472.0
+            ]
+        },
+        {
+            "text": "of work",
+            "bbox": [
+                503.0,
+                471.0,
+                554.0,
+                483.0
+            ]
+        },
+        {
+            "text": "SCIENTIFIC MEETING OF CHOICE: none as yet",
+            "bbox": [
+                53.0,
+                487.0,
+                345.0,
+                503.0
+            ]
+        },
+        {
+            "text": "SCIENTIFIC JOURNAL OF CHOICE: Tobacco Science",
+            "bbox": [
+                53.0,
+                516.0,
+                374.0,
+                529.0
+            ]
+        },
+        {
+            "text": "COMMENTS: none",
+            "bbox": [
+                54.0,
+                543.0,
+                164.0,
+                559.0
+            ]
+        },
+        {
+            "text": "COMMENTS BY MANAGER OR DIRECTOR",
+            "bbox": [
+                53.0,
+                657.0,
+                276.0,
+                673.0
+            ]
+        },
+        {
+            "text": "DOES WORK MERIT PUBLICATION?",
+            "bbox": [
+                53.0,
+                685.0,
+                254.0,
+                699.0
+            ]
+        },
+        {
+            "text": "CAN TIME BE SPARED FOR COMPLETION ?",
+            "bbox": [
+                53.0,
+                713.0,
+                297.0,
+                729.0
+            ]
+        },
+        {
+            "text": "COMMENTS",
+            "bbox": [
+                53.0,
+                743.0,
+                113.0,
+                755.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

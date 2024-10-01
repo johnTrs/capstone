@@ -1,0 +1,3235 @@
+{
+    "text_lines": [
+        {
+            "line_text": "FA 956(5-85)",
+            "line_bbox": [
+                41.0,
+                39.0,
+                127.0,
+                52.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FA",
+                    "bbox": [
+                        42.0,
+                        39.0,
+                        56.0,
+                        52.0
+                    ]
+                },
+                {
+                    "text": "956(5-85)",
+                    "bbox": [
+                        62.0,
+                        39.0,
+                        126.0,
+                        53.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "gl 0081. (d)",
+            "line_bbox": [
+                42.0,
+                52.0,
+                125.0,
+                66.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "gl",
+                    "bbox": [
+                        42.0,
+                        53.0,
+                        56.0,
+                        66.0
+                    ]
+                },
+                {
+                    "text": "0081.",
+                    "bbox": [
+                        61.0,
+                        52.0,
+                        98.0,
+                        66.0
+                    ]
+                },
+                {
+                    "text": "(d)",
+                    "bbox": [
+                        103.0,
+                        52.0,
+                        126.0,
+                        66.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+            "line_bbox": [
+                231.0,
+                58.0,
+                494.0,
+                74.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BROWN",
+                    "bbox": [
+                        232.0,
+                        58.0,
+                        266.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        271.0,
+                        58.0,
+                        280.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "WILLIAMSON",
+                    "bbox": [
+                        284.0,
+                        59.0,
+                        354.0,
+                        73.0
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "bbox": [
+                        360.0,
+                        59.0,
+                        409.0,
+                        73.0
+                    ]
+                },
+                {
+                    "text": "CORPORATION",
+                    "bbox": [
+                        414.0,
+                        60.0,
+                        492.0,
+                        74.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "0465E",
+            "line_bbox": [
+                628.0,
+                51.0,
+                665.0,
+                63.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "0465E",
+                    "bbox": [
+                        628.0,
+                        52.0,
+                        661.0,
+                        63.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAPITAL BUDGET PROJECT",
+            "line_bbox": [
+                286.0,
+                72.0,
+                440.0,
+                87.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAPITAL",
+                    "bbox": [
+                        286.0,
+                        72.0,
+                        334.0,
+                        85.0
+                    ]
+                },
+                {
+                    "text": "BUDGET",
+                    "bbox": [
+                        340.0,
+                        73.0,
+                        382.0,
+                        86.0
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        387.0,
+                        73.0,
+                        437.0,
+                        87.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R&D",
+            "line_bbox": [
+                347.0,
+                100.0,
+                370.0,
+                111.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R&D",
+                    "bbox": [
+                        347.0,
+                        100.0,
+                        368.0,
+                        111.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Capital Budget",
+            "line_bbox": [
+                62.0,
+                122.0,
+                160.0,
+                137.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Capital",
+                    "bbox": [
+                        63.0,
+                        123.0,
+                        111.0,
+                        137.0
+                    ]
+                },
+                {
+                    "text": "Budget",
+                    "bbox": [
+                        116.0,
+                        123.0,
+                        159.0,
+                        137.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "($000)",
+            "line_bbox": [
+                342.0,
+                126.0,
+                382.0,
+                141.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "($000)",
+                    "bbox": [
+                        342.0,
+                        126.0,
+                        381.0,
+                        141.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date Submitted",
+            "line_bbox": [
+                559.0,
+                130.0,
+                657.0,
+                144.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date",
+                    "bbox": [
+                        559.0,
+                        131.0,
+                        587.0,
+                        143.0
+                    ]
+                },
+                {
+                    "text": "Submitted",
+                    "bbox": [
+                        593.0,
+                        131.0,
+                        655.0,
+                        144.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "\"Title",
+            "line_bbox": [
+                39.0,
+                146.0,
+                87.0,
+                161.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "\"Title",
+                    "bbox": [
+                        40.0,
+                        147.0,
+                        84.0,
+                        161.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Purpose",
+            "line_bbox": [
+                46.0,
+                176.0,
+                99.0,
+                189.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Purpose",
+                    "bbox": [
+                        47.0,
+                        176.0,
+                        97.0,
+                        190.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CIGARETTE TEST STATION (CTS400)",
+            "line_bbox": [
+                72.0,
+                165.0,
+                287.0,
+                181.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CIGARETTE",
+                    "bbox": [
+                        75.0,
+                        165.0,
+                        138.0,
+                        179.0
+                    ]
+                },
+                {
+                    "text": "TEST",
+                    "bbox": [
+                        143.0,
+                        166.0,
+                        172.0,
+                        179.0
+                    ]
+                },
+                {
+                    "text": "STATION",
+                    "bbox": [
+                        177.0,
+                        166.0,
+                        226.0,
+                        180.0
+                    ]
+                },
+                {
+                    "text": "(CTS400)",
+                    "bbox": [
+                        231.0,
+                        167.0,
+                        287.0,
+                        182.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1 X Maintenance of Existing Business",
+            "line_bbox": [
+                75.0,
+                192.0,
+                337.0,
+                210.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1",
+                    "bbox": [
+                        76.0,
+                        192.0,
+                        84.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "X",
+                    "bbox": [
+                        95.0,
+                        193.0,
+                        102.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "Maintenance",
+                    "bbox": [
+                        115.0,
+                        193.0,
+                        192.0,
+                        208.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        197.0,
+                        195.0,
+                        213.0,
+                        208.0
+                    ]
+                },
+                {
+                    "text": "Existing",
+                    "bbox": [
+                        217.0,
+                        195.0,
+                        273.0,
+                        209.0
+                    ]
+                },
+                {
+                    "text": "Business",
+                    "bbox": [
+                        277.0,
+                        196.0,
+                        334.0,
+                        209.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "5",
+            "line_bbox": [
+                366.0,
+                197.0,
+                377.0,
+                209.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "5",
+                    "bbox": [
+                        367.0,
+                        197.0,
+                        374.0,
+                        209.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Compliance with Outside Requirements",
+            "line_bbox": [
+                407.0,
+                198.0,
+                655.0,
+                214.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Compliance",
+                    "bbox": [
+                        408.0,
+                        199.0,
+                        477.0,
+                        212.0
+                    ]
+                },
+                {
+                    "text": "with",
+                    "bbox": [
+                        482.0,
+                        199.0,
+                        511.0,
+                        212.0
+                    ]
+                },
+                {
+                    "text": "Outside",
+                    "bbox": [
+                        517.0,
+                        200.0,
+                        567.0,
+                        213.0
+                    ]
+                },
+                {
+                    "text": "Requirements",
+                    "bbox": [
+                        571.0,
+                        201.0,
+                        654.0,
+                        214.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2",
+            "line_bbox": [
+                75.0,
+                207.0,
+                89.0,
+                220.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2",
+                    "bbox": [
+                        75.0,
+                        207.0,
+                        83.0,
+                        219.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Expansion of Existing Business",
+            "line_bbox": [
+                111.0,
+                208.0,
+                322.0,
+                222.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Expansion",
+                    "bbox": [
+                        115.0,
+                        208.0,
+                        177.0,
+                        221.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        184.0,
+                        209.0,
+                        199.0,
+                        221.0
+                    ]
+                },
+                {
+                    "text": "Existing",
+                    "bbox": [
+                        204.0,
+                        209.0,
+                        259.0,
+                        222.0
+                    ]
+                },
+                {
+                    "text": "Business",
+                    "bbox": [
+                        264.0,
+                        210.0,
+                        320.0,
+                        223.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "6",
+            "line_bbox": [
+                367.0,
+                210.0,
+                378.0,
+                222.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "6",
+                    "bbox": [
+                        368.0,
+                        210.0,
+                        375.0,
+                        222.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Company Improvements & Administrative",
+            "line_bbox": [
+                408.0,
+                212.0,
+                663.0,
+                227.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Company",
+                    "bbox": [
+                        408.0,
+                        212.0,
+                        456.0,
+                        225.0
+                    ]
+                },
+                {
+                    "text": "Improvements",
+                    "bbox": [
+                        463.0,
+                        213.0,
+                        546.0,
+                        226.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        551.0,
+                        214.0,
+                        560.0,
+                        227.0
+                    ]
+                },
+                {
+                    "text": "Administrative",
+                    "bbox": [
+                        565.0,
+                        214.0,
+                        662.0,
+                        228.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "3",
+            "line_bbox": [
+                75.0,
+                223.0,
+                84.0,
+                233.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "3",
+                    "bbox": [
+                        76.0,
+                        223.0,
+                        82.0,
+                        233.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "New Products",
+            "line_bbox": [
+                116.0,
+                222.0,
+                199.0,
+                235.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "New",
+                    "bbox": [
+                        116.0,
+                        223.0,
+                        136.0,
+                        234.0
+                    ]
+                },
+                {
+                    "text": "Products",
+                    "bbox": [
+                        142.0,
+                        223.0,
+                        198.0,
+                        235.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Requirements",
+            "line_bbox": [
+                420.0,
+                226.0,
+                505.0,
+                239.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Requirements",
+                    "bbox": [
+                        421.0,
+                        227.0,
+                        504.0,
+                        239.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "4",
+            "line_bbox": [
+                76.0,
+                234.0,
+                84.0,
+                245.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "4",
+                    "bbox": [
+                        76.0,
+                        234.0,
+                        83.0,
+                        245.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Cost Reduction",
+            "line_bbox": [
+                117.0,
+                235.0,
+                215.0,
+                249.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Cost",
+                    "bbox": [
+                        117.0,
+                        236.0,
+                        144.0,
+                        248.0
+                    ]
+                },
+                {
+                    "text": "Reduction",
+                    "bbox": [
+                        149.0,
+                        236.0,
+                        212.0,
+                        249.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "7",
+            "line_bbox": [
+                368.0,
+                238.0,
+                377.0,
+                252.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "7",
+                    "bbox": [
+                        368.0,
+                        238.0,
+                        377.0,
+                        251.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Quality Improvement",
+            "line_bbox": [
+                408.0,
+                239.0,
+                540.0,
+                254.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Quality",
+                    "bbox": [
+                        408.0,
+                        239.0,
+                        456.0,
+                        254.0
+                    ]
+                },
+                {
+                    "text": "Improvement",
+                    "bbox": [
+                        462.0,
+                        240.0,
+                        540.0,
+                        254.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Status",
+            "line_bbox": [
+                44.0,
+                259.0,
+                90.0,
+                272.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Status",
+                    "bbox": [
+                        47.0,
+                        259.0,
+                        88.0,
+                        272.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Estimate Cost",
+            "line_bbox": [
+                455.0,
+                264.0,
+                547.0,
+                277.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Estimate",
+                    "bbox": [
+                        456.0,
+                        265.0,
+                        511.0,
+                        277.0
+                    ]
+                },
+                {
+                    "text": "Cost",
+                    "bbox": [
+                        517.0,
+                        266.0,
+                        546.0,
+                        278.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "This Project is _X_Proposed",
+            "line_bbox": [
+                66.0,
+                276.0,
+                261.0,
+                292.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "This",
+                    "bbox": [
+                        67.0,
+                        276.0,
+                        95.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "Project",
+                    "bbox": [
+                        100.0,
+                        277.0,
+                        151.0,
+                        291.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        156.0,
+                        277.0,
+                        171.0,
+                        291.0
+                    ]
+                },
+                {
+                    "text": "_X_Proposed",
+                    "bbox": [
+                        174.0,
+                        277.0,
+                        259.0,
+                        291.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TOTAL",
+            "line_bbox": [
+                469.0,
+                281.0,
+                507.0,
+                294.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "bbox": [
+                        470.0,
+                        282.0,
+                        504.0,
+                        295.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAPITAL_ EXPENSE",
+            "line_bbox": [
+                539.0,
+                282.0,
+                663.0,
+                297.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAPITAL_",
+                    "bbox": [
+                        539.0,
+                        283.0,
+                        595.0,
+                        296.0
+                    ]
+                },
+                {
+                    "text": "EXPENSE",
+                    "bbox": [
+                        612.0,
+                        284.0,
+                        660.0,
+                        297.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Approved; Proposal No.",
+            "line_bbox": [
+                184.0,
+                292.0,
+                354.0,
+                306.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Approved;",
+                    "bbox": [
+                        204.0,
+                        292.0,
+                        267.0,
+                        306.0
+                    ]
+                },
+                {
+                    "text": "Proposal",
+                    "bbox": [
+                        274.0,
+                        293.0,
+                        329.0,
+                        307.0
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "bbox": [
+                        332.0,
+                        294.0,
+                        353.0,
+                        307.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "80",
+            "line_bbox": [
+                489.0,
+                296.0,
+                508.0,
+                307.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "80",
+                    "bbox": [
+                        490.0,
+                        296.0,
+                        503.0,
+                        307.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "80",
+            "line_bbox": [
+                566.0,
+                298.0,
+                582.0,
+                309.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "80",
+                    "bbox": [
+                        567.0,
+                        298.0,
+                        579.0,
+                        309.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project Dates",
+            "line_bbox": [
+                39.0,
+                313.0,
+                131.0,
+                328.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        40.0,
+                        314.0,
+                        89.0,
+                        328.0
+                    ]
+                },
+                {
+                    "text": "Dates",
+                    "bbox": [
+                        94.0,
+                        315.0,
+                        130.0,
+                        329.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Submission",
+            "line_bbox": [
+                162.0,
+                332.0,
+                234.0,
+                345.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Submission",
+                    "bbox": [
+                        162.0,
+                        333.0,
+                        230.0,
+                        346.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "88",
+            "line_bbox": [
+                248.0,
+                333.0,
+                269.0,
+                345.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "88",
+                    "bbox": [
+                        251.0,
+                        333.0,
+                        265.0,
+                        345.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Start",
+            "line_bbox": [
+                311.0,
+                335.0,
+                347.0,
+                347.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Start",
+                    "bbox": [
+                        311.0,
+                        335.0,
+                        346.0,
+                        348.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "7",
+            "line_bbox": [
+                368.0,
+                335.0,
+                384.0,
+                346.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "7",
+                    "bbox": [
+                        373.0,
+                        335.0,
+                        379.0,
+                        346.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "88",
+            "line_bbox": [
+                419.0,
+                336.0,
+                438.0,
+                347.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "88",
+                    "bbox": [
+                        421.0,
+                        336.0,
+                        435.0,
+                        347.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Completion",
+            "line_bbox": [
+                482.0,
+                336.0,
+                556.0,
+                349.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Completion",
+                    "bbox": [
+                        482.0,
+                        337.0,
+                        551.0,
+                        350.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "11",
+            "line_bbox": [
+                571.0,
+                339.0,
+                591.0,
+                350.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "11",
+                    "bbox": [
+                        572.0,
+                        339.0,
+                        586.0,
+                        350.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "88",
+            "line_bbox": [
+                625.0,
+                338.0,
+                642.0,
+                348.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "88",
+                    "bbox": [
+                        627.0,
+                        338.0,
+                        639.0,
+                        348.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Yr.",
+            "line_bbox": [
+                250.0,
+                346.0,
+                270.0,
+                358.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Yr.",
+                    "bbox": [
+                        250.0,
+                        346.0,
+                        270.0,
+                        358.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Mo.",
+            "line_bbox": [
+                365.0,
+                349.0,
+                388.0,
+                360.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Mo.",
+                    "bbox": [
+                        365.0,
+                        349.0,
+                        388.0,
+                        360.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Yr.",
+            "line_bbox": [
+                421.0,
+                350.0,
+                444.0,
+                360.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Yr.",
+                    "bbox": [
+                        422.0,
+                        350.0,
+                        442.0,
+                        360.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Mo.",
+            "line_bbox": [
+                572.0,
+                352.0,
+                592.0,
+                362.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Mo.",
+                    "bbox": [
+                        572.0,
+                        352.0,
+                        592.0,
+                        362.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Yr.",
+            "line_bbox": [
+                628.0,
+                351.0,
+                645.0,
+                362.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Yr.",
+                    "bbox": [
+                        628.0,
+                        351.0,
+                        645.0,
+                        362.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT DESCRIPTION",
+            "line_bbox": [
+                46.0,
+                371.0,
+                179.0,
+                386.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        46.0,
+                        371.0,
+                        96.0,
+                        385.0
+                    ]
+                },
+                {
+                    "text": "DESCRIPTION",
+                    "bbox": [
+                        101.0,
+                        371.0,
+                        177.0,
+                        387.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The Cigarette Test Station (CTS400) combines many of the stand-alone instruments that",
+            "line_bbox": [
+                65.0,
+                398.0,
+                647.0,
+                419.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        66.0,
+                        399.0,
+                        88.0,
+                        412.0
+                    ]
+                },
+                {
+                    "text": "Cigarette",
+                    "bbox": [
+                        93.0,
+                        399.0,
+                        156.0,
+                        413.0
+                    ]
+                },
+                {
+                    "text": "Test",
+                    "bbox": [
+                        161.0,
+                        400.0,
+                        190.0,
+                        414.0
+                    ]
+                },
+                {
+                    "text": "Station",
+                    "bbox": [
+                        195.0,
+                        401.0,
+                        243.0,
+                        415.0
+                    ]
+                },
+                {
+                    "text": "(CTS400)",
+                    "bbox": [
+                        250.0,
+                        401.0,
+                        306.0,
+                        415.0
+                    ]
+                },
+                {
+                    "text": "combines",
+                    "bbox": [
+                        311.0,
+                        402.0,
+                        366.0,
+                        416.0
+                    ]
+                },
+                {
+                    "text": "many",
+                    "bbox": [
+                        370.0,
+                        403.0,
+                        401.0,
+                        416.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        406.0,
+                        404.0,
+                        421.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        426.0,
+                        404.0,
+                        449.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "stand-alone",
+                    "bbox": [
+                        453.0,
+                        404.0,
+                        531.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "instruments",
+                    "bbox": [
+                        536.0,
+                        405.0,
+                        612.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "that",
+                    "bbox": [
+                        618.0,
+                        406.0,
+                        647.0,
+                        418.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R&D currently uses to measure cigarette weight, pressure drop, ventilation, and",
+            "line_bbox": [
+                64.0,
+                412.0,
+                606.0,
+                432.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R&D",
+                    "bbox": [
+                        65.0,
+                        413.0,
+                        89.0,
+                        425.0
+                    ]
+                },
+                {
+                    "text": "currently",
+                    "bbox": [
+                        93.0,
+                        413.0,
+                        156.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "uses",
+                    "bbox": [
+                        161.0,
+                        414.0,
+                        190.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        196.0,
+                        415.0,
+                        210.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "measure",
+                    "bbox": [
+                        215.0,
+                        415.0,
+                        265.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "cigarette",
+                    "bbox": [
+                        270.0,
+                        416.0,
+                        332.0,
+                        429.0
+                    ]
+                },
+                {
+                    "text": "weight,",
+                    "bbox": [
+                        337.0,
+                        417.0,
+                        387.0,
+                        430.0
+                    ]
+                },
+                {
+                    "text": "pressure",
+                    "bbox": [
+                        392.0,
+                        417.0,
+                        448.0,
+                        431.0
+                    ]
+                },
+                {
+                    "text": "drop,",
+                    "bbox": [
+                        453.0,
+                        418.0,
+                        491.0,
+                        431.0
+                    ]
+                },
+                {
+                    "text": "ventilation,",
+                    "bbox": [
+                        496.0,
+                        419.0,
+                        580.0,
+                        432.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        585.0,
+                        420.0,
+                        606.0,
+                        432.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "hardness into one compact module. The CTS400 has the additional measurement of",
+            "line_bbox": [
+                64.0,
+                426.0,
+                607.0,
+                445.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "hardness",
+                    "bbox": [
+                        65.0,
+                        427.0,
+                        121.0,
+                        440.0
+                    ]
+                },
+                {
+                    "text": "into",
+                    "bbox": [
+                        128.0,
+                        427.0,
+                        156.0,
+                        440.0
+                    ]
+                },
+                {
+                    "text": "one",
+                    "bbox": [
+                        161.0,
+                        428.0,
+                        183.0,
+                        441.0
+                    ]
+                },
+                {
+                    "text": "compact",
+                    "bbox": [
+                        189.0,
+                        428.0,
+                        237.0,
+                        441.0
+                    ]
+                },
+                {
+                    "text": "module.",
+                    "bbox": [
+                        241.0,
+                        428.0,
+                        292.0,
+                        442.0
+                    ]
+                },
+                {
+                    "text": "The",
+                    "bbox": [
+                        304.0,
+                        429.0,
+                        326.0,
+                        442.0
+                    ]
+                },
+                {
+                    "text": "CTS400",
+                    "bbox": [
+                        330.0,
+                        429.0,
+                        372.0,
+                        443.0
+                    ]
+                },
+                {
+                    "text": "has",
+                    "bbox": [
+                        377.0,
+                        430.0,
+                        400.0,
+                        443.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        406.0,
+                        430.0,
+                        428.0,
+                        444.0
+                    ]
+                },
+                {
+                    "text": "additional",
+                    "bbox": [
+                        434.0,
+                        431.0,
+                        503.0,
+                        444.0
+                    ]
+                },
+                {
+                    "text": "measurement",
+                    "bbox": [
+                        508.0,
+                        432.0,
+                        586.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        591.0,
+                        434.0,
+                        606.0,
+                        445.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "cigarette hardness in comparison with the CTS300. With this added measurement R&D will",
+            "line_bbox": [
+                65.0,
+                440.0,
+                662.0,
+                459.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "cigarette",
+                    "bbox": [
+                        66.0,
+                        441.0,
+                        128.0,
+                        454.0
+                    ]
+                },
+                {
+                    "text": "hardness",
+                    "bbox": [
+                        133.0,
+                        441.0,
+                        189.0,
+                        454.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        196.0,
+                        442.0,
+                        210.0,
+                        455.0
+                    ]
+                },
+                {
+                    "text": "comparison",
+                    "bbox": [
+                        216.0,
+                        442.0,
+                        283.0,
+                        456.0
+                    ]
+                },
+                {
+                    "text": "with",
+                    "bbox": [
+                        290.0,
+                        443.0,
+                        318.0,
+                        456.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        324.0,
+                        443.0,
+                        345.0,
+                        456.0
+                    ]
+                },
+                {
+                    "text": "CTS300.",
+                    "bbox": [
+                        350.0,
+                        443.0,
+                        401.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "With",
+                    "bbox": [
+                        411.0,
+                        444.0,
+                        440.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "this",
+                    "bbox": [
+                        447.0,
+                        445.0,
+                        475.0,
+                        458.0
+                    ]
+                },
+                {
+                    "text": "added",
+                    "bbox": [
+                        482.0,
+                        445.0,
+                        517.0,
+                        458.0
+                    ]
+                },
+                {
+                    "text": "measurement",
+                    "bbox": [
+                        522.0,
+                        446.0,
+                        600.0,
+                        459.0
+                    ]
+                },
+                {
+                    "text": "R&D",
+                    "bbox": [
+                        604.0,
+                        447.0,
+                        626.0,
+                        459.0
+                    ]
+                },
+                {
+                    "text": "will",
+                    "bbox": [
+                        631.0,
+                        448.0,
+                        659.0,
+                        460.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "be able to replace the Firmness Integrator that measures cigarette firmness in addition",
+            "line_bbox": [
+                65.0,
+                453.0,
+                663.0,
+                473.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "be",
+                    "bbox": [
+                        66.0,
+                        454.0,
+                        80.0,
+                        467.0
+                    ]
+                },
+                {
+                    "text": "able",
+                    "bbox": [
+                        86.0,
+                        454.0,
+                        114.0,
+                        467.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        120.0,
+                        455.0,
+                        135.0,
+                        467.0
+                    ]
+                },
+                {
+                    "text": "replace",
+                    "bbox": [
+                        141.0,
+                        455.0,
+                        190.0,
+                        468.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        195.0,
+                        456.0,
+                        217.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "Firmness",
+                    "bbox": [
+                        222.0,
+                        456.0,
+                        277.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "Integrator",
+                    "bbox": [
+                        282.0,
+                        457.0,
+                        352.0,
+                        470.0
+                    ]
+                },
+                {
+                    "text": "that",
+                    "bbox": [
+                        357.0,
+                        458.0,
+                        386.0,
+                        471.0
+                    ]
+                },
+                {
+                    "text": "measures",
+                    "bbox": [
+                        390.0,
+                        458.0,
+                        448.0,
+                        471.0
+                    ]
+                },
+                {
+                    "text": "cigarette",
+                    "bbox": [
+                        453.0,
+                        459.0,
+                        517.0,
+                        472.0
+                    ]
+                },
+                {
+                    "text": "firmness",
+                    "bbox": [
+                        523.0,
+                        460.0,
+                        579.0,
+                        473.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        584.0,
+                        460.0,
+                        599.0,
+                        473.0
+                    ]
+                },
+                {
+                    "text": "addition",
+                    "bbox": [
+                        605.0,
+                        461.0,
+                        660.0,
+                        473.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "**....... ..",
+            "line_bbox": [
+                699.0,
+                470.0,
+                707.0,
+                508.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "**.......",
+                    "bbox": [
+                        699.0,
+                        473.0,
+                        707.0,
+                        498.0
+                    ]
+                },
+                {
+                    "text": "..",
+                    "bbox": [
+                        701.0,
+                        498.0,
+                        707.0,
+                        505.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "to other measurements that are mentioned above. The Firmness Integrator is no longer",
+            "line_bbox": [
+                65.0,
+                467.0,
+                648.0,
+                487.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "to",
+                    "bbox": [
+                        66.0,
+                        468.0,
+                        79.0,
+                        480.0
+                    ]
+                },
+                {
+                    "text": "other",
+                    "bbox": [
+                        85.0,
+                        468.0,
+                        121.0,
+                        481.0
+                    ]
+                },
+                {
+                    "text": "measurements",
+                    "bbox": [
+                        126.0,
+                        469.0,
+                        210.0,
+                        482.0
+                    ]
+                },
+                {
+                    "text": "that",
+                    "bbox": [
+                        215.0,
+                        470.0,
+                        243.0,
+                        483.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        249.0,
+                        470.0,
+                        270.0,
+                        483.0
+                    ]
+                },
+                {
+                    "text": "mentioned",
+                    "bbox": [
+                        275.0,
+                        470.0,
+                        338.0,
+                        484.0
+                    ]
+                },
+                {
+                    "text": "above.",
+                    "bbox": [
+                        343.0,
+                        471.0,
+                        386.0,
+                        484.0
+                    ]
+                },
+                {
+                    "text": "The",
+                    "bbox": [
+                        397.0,
+                        472.0,
+                        420.0,
+                        485.0
+                    ]
+                },
+                {
+                    "text": "Firmness",
+                    "bbox": [
+                        425.0,
+                        472.0,
+                        481.0,
+                        486.0
+                    ]
+                },
+                {
+                    "text": "Integrator",
+                    "bbox": [
+                        487.0,
+                        473.0,
+                        557.0,
+                        487.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        563.0,
+                        474.0,
+                        578.0,
+                        487.0
+                    ]
+                },
+                {
+                    "text": "no",
+                    "bbox": [
+                        582.0,
+                        474.0,
+                        599.0,
+                        487.0
+                    ]
+                },
+                {
+                    "text": "longer",
+                    "bbox": [
+                        604.0,
+                        475.0,
+                        646.0,
+                        488.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "manufactured and parts are becoming difficult to obtain. Lastly, purchase of this",
+            "line_bbox": [
+                64.0,
+                482.0,
+                626.0,
+                500.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "manufactured",
+                    "bbox": [
+                        65.0,
+                        482.0,
+                        148.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        154.0,
+                        482.0,
+                        175.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "parts",
+                    "bbox": [
+                        181.0,
+                        483.0,
+                        216.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        221.0,
+                        483.0,
+                        243.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "becoming",
+                    "bbox": [
+                        248.0,
+                        483.0,
+                        304.0,
+                        497.0
+                    ]
+                },
+                {
+                    "text": "difficult",
+                    "bbox": [
+                        309.0,
+                        484.0,
+                        372.0,
+                        498.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        378.0,
+                        484.0,
+                        392.0,
+                        498.0
+                    ]
+                },
+                {
+                    "text": "obtain.",
+                    "bbox": [
+                        398.0,
+                        485.0,
+                        449.0,
+                        499.0
+                    ]
+                },
+                {
+                    "text": "Lastly,",
+                    "bbox": [
+                        459.0,
+                        486.0,
+                        512.0,
+                        499.0
+                    ]
+                },
+                {
+                    "text": "purchase",
+                    "bbox": [
+                        515.0,
+                        487.0,
+                        572.0,
+                        500.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        577.0,
+                        488.0,
+                        592.0,
+                        500.0
+                    ]
+                },
+                {
+                    "text": "this",
+                    "bbox": [
+                        598.0,
+                        488.0,
+                        626.0,
+                        500.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "instrument would provide similar capability as the Macon Plant and help facilitate",
+            "line_bbox": [
+                66.0,
+                495.0,
+                626.0,
+                514.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "instrument",
+                    "bbox": [
+                        66.0,
+                        496.0,
+                        135.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "would",
+                    "bbox": [
+                        140.0,
+                        496.0,
+                        175.0,
+                        509.0
+                    ]
+                },
+                {
+                    "text": "provide",
+                    "bbox": [
+                        181.0,
+                        496.0,
+                        230.0,
+                        510.0
+                    ]
+                },
+                {
+                    "text": "similar",
+                    "bbox": [
+                        235.0,
+                        496.0,
+                        284.0,
+                        511.0
+                    ]
+                },
+                {
+                    "text": "capability",
+                    "bbox": [
+                        289.0,
+                        497.0,
+                        358.0,
+                        512.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        363.0,
+                        497.0,
+                        379.0,
+                        512.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        385.0,
+                        498.0,
+                        406.0,
+                        512.0
+                    ]
+                },
+                {
+                    "text": "Macon",
+                    "bbox": [
+                        411.0,
+                        498.0,
+                        447.0,
+                        512.0
+                    ]
+                },
+                {
+                    "text": "Plant",
+                    "bbox": [
+                        453.0,
+                        499.0,
+                        489.0,
+                        513.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        495.0,
+                        499.0,
+                        517.0,
+                        513.0
+                    ]
+                },
+                {
+                    "text": "help",
+                    "bbox": [
+                        521.0,
+                        500.0,
+                        551.0,
+                        513.0
+                    ]
+                },
+                {
+                    "text": "facilitate",
+                    "bbox": [
+                        557.0,
+                        501.0,
+                        626.0,
+                        514.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "comparisions between laboratories.",
+            "line_bbox": [
+                65.0,
+                508.0,
+                297.0,
+                524.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "comparisions",
+                    "bbox": [
+                        65.0,
+                        509.0,
+                        148.0,
+                        522.0
+                    ]
+                },
+                {
+                    "text": "between",
+                    "bbox": [
+                        153.0,
+                        509.0,
+                        203.0,
+                        522.0
+                    ]
+                },
+                {
+                    "text": "laboratories.",
+                    "bbox": [
+                        208.0,
+                        510.0,
+                        297.0,
+                        524.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATED SPENDING SCHEDULE",
+            "line_bbox": [
+                269.0,
+                576.0,
+                456.0,
+                592.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATED",
+                    "bbox": [
+                        270.0,
+                        576.0,
+                        330.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "SPENDING",
+                    "bbox": [
+                        335.0,
+                        578.0,
+                        392.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "SCHEDULE",
+                    "bbox": [
+                        397.0,
+                        579.0,
+                        454.0,
+                        592.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Spent Prior to 1989",
+            "line_bbox": [
+                39.0,
+                598.0,
+                176.0,
+                612.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Spent",
+                    "bbox": [
+                        43.0,
+                        598.0,
+                        79.0,
+                        612.0
+                    ]
+                },
+                {
+                    "text": "Prior",
+                    "bbox": [
+                        83.0,
+                        599.0,
+                        120.0,
+                        612.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        125.0,
+                        599.0,
+                        140.0,
+                        612.0
+                    ]
+                },
+                {
+                    "text": "1989",
+                    "bbox": [
+                        146.0,
+                        599.0,
+                        174.0,
+                        612.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Balance to Spend",
+            "line_bbox": [
+                403.0,
+                602.0,
+                516.0,
+                616.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Balance",
+                    "bbox": [
+                        404.0,
+                        603.0,
+                        453.0,
+                        616.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        459.0,
+                        604.0,
+                        474.0,
+                        616.0
+                    ]
+                },
+                {
+                    "text": "Spend",
+                    "bbox": [
+                        479.0,
+                        604.0,
+                        516.0,
+                        617.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAPITAL",
+            "line_bbox": [
+                64.0,
+                615.0,
+                116.0,
+                627.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAPITAL",
+                    "bbox": [
+                        64.0,
+                        615.0,
+                        112.0,
+                        627.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "80",
+            "line_bbox": [
+                145.0,
+                616.0,
+                162.0,
+                627.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "80",
+                    "bbox": [
+                        146.0,
+                        616.0,
+                        160.0,
+                        627.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAPITAL",
+            "line_bbox": [
+                431.0,
+                619.0,
+                481.0,
+                631.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAPITAL",
+                    "bbox": [
+                        431.0,
+                        619.0,
+                        479.0,
+                        631.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPENSE",
+            "line_bbox": [
+                64.0,
+                629.0,
+                115.0,
+                640.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPENSE",
+                    "bbox": [
+                        64.0,
+                        629.0,
+                        112.0,
+                        640.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "0",
+            "line_bbox": [
+                152.0,
+                630.0,
+                162.0,
+                644.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "0",
+                    "bbox": [
+                        154.0,
+                        630.0,
+                        161.0,
+                        643.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPENSE",
+            "line_bbox": [
+                430.0,
+                632.0,
+                483.0,
+                645.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPENSE",
+                    "bbox": [
+                        431.0,
+                        633.0,
+                        479.0,
+                        645.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1989 SPENDING BY QUARTER",
+            "line_bbox": [
+                193.0,
+                668.0,
+                357.0,
+                684.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1989",
+                    "bbox": [
+                        194.0,
+                        669.0,
+                        221.0,
+                        682.0
+                    ]
+                },
+                {
+                    "text": "SPENDING",
+                    "bbox": [
+                        226.0,
+                        670.0,
+                        283.0,
+                        683.0
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "bbox": [
+                        287.0,
+                        671.0,
+                        302.0,
+                        684.0
+                    ]
+                },
+                {
+                    "text": "QUARTER",
+                    "bbox": [
+                        308.0,
+                        671.0,
+                        356.0,
+                        685.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YEAR",
+            "line_bbox": [
+                493.0,
+                673.0,
+                523.0,
+                685.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YEAR",
+                    "bbox": [
+                        493.0,
+                        673.0,
+                        520.0,
+                        685.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAPITAL",
+            "line_bbox": [
+                548.0,
+                674.0,
+                599.0,
+                686.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAPITAL",
+                    "bbox": [
+                        549.0,
+                        674.0,
+                        596.0,
+                        686.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPENSE",
+            "line_bbox": [
+                616.0,
+                674.0,
+                665.0,
+                686.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPENSE",
+                    "bbox": [
+                        616.0,
+                        675.0,
+                        662.0,
+                        687.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "JAN. - MAR.",
+            "line_bbox": [
+                103.0,
+                708.0,
+                178.0,
+                724.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "JAN.",
+                    "bbox": [
+                        104.0,
+                        709.0,
+                        129.0,
+                        723.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        131.0,
+                        709.0,
+                        136.0,
+                        723.0
+                    ]
+                },
+                {
+                    "text": "MAR.",
+                    "bbox": [
+                        138.0,
+                        709.0,
+                        168.0,
+                        724.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "APR, - JUN. JUL. SEP. OCT .- DEC.",
+            "line_bbox": [
+                178.0,
+                709.0,
+                395.0,
+                726.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "APR,",
+                    "bbox": [
+                        179.0,
+                        710.0,
+                        203.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        206.0,
+                        710.0,
+                        210.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "JUN.",
+                    "bbox": [
+                        213.0,
+                        710.0,
+                        243.0,
+                        725.0
+                    ]
+                },
+                {
+                    "text": "JUL.",
+                    "bbox": [
+                        252.0,
+                        710.0,
+                        283.0,
+                        725.0
+                    ]
+                },
+                {
+                    "text": "SEP.",
+                    "bbox": [
+                        287.0,
+                        711.0,
+                        317.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "OCT",
+                    "bbox": [
+                        326.0,
+                        712.0,
+                        347.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": ".-",
+                    "bbox": [
+                        349.0,
+                        712.0,
+                        359.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "DEC.",
+                    "bbox": [
+                        361.0,
+                        713.0,
+                        392.0,
+                        726.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TOTAL",
+            "line_bbox": [
+                417.0,
+                712.0,
+                453.0,
+                726.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "bbox": [
+                        417.0,
+                        712.0,
+                        452.0,
+                        726.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1990",
+            "line_bbox": [
+                491.0,
+                713.0,
+                524.0,
+                724.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1990",
+                    "bbox": [
+                        494.0,
+                        713.0,
+                        521.0,
+                        724.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAPITAL",
+            "line_bbox": [
+                43.0,
+                735.0,
+                92.0,
+                749.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAPITAL",
+                    "bbox": [
+                        43.0,
+                        736.0,
+                        90.0,
+                        750.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "_1991",
+            "line_bbox": [
+                485.0,
+                741.0,
+                524.0,
+                754.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "_1991",
+                    "bbox": [
+                        485.0,
+                        742.0,
+                        521.0,
+                        754.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPENSE",
+            "line_bbox": [
+                42.0,
+                762.0,
+                94.0,
+                776.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPENSE",
+                    "bbox": [
+                        42.0,
+                        763.0,
+                        90.0,
+                        777.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "_1992",
+            "line_bbox": [
+                485.0,
+                768.0,
+                525.0,
+                781.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "_1992",
+                    "bbox": [
+                        485.0,
+                        768.0,
+                        521.0,
+                        781.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1993",
+            "line_bbox": [
+                490.0,
+                793.0,
+                521.0,
+                804.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1993",
+                    "bbox": [
+                        493.0,
+                        793.0,
+                        521.0,
+                        804.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Beyond",
+            "line_bbox": [
+                486.0,
+                807.0,
+                528.0,
+                819.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Beyond",
+                    "bbox": [
+                        486.0,
+                        807.0,
+                        526.0,
+                        819.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1993",
+            "line_bbox": [
+                485.0,
+                820.0,
+                524.0,
+                832.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1993",
+                    "bbox": [
+                        493.0,
+                        820.0,
+                        521.0,
+                        833.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Submitted by",
+            "line_bbox": [
+                35.0,
+                839.0,
+                127.0,
+                855.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Submitted",
+                    "bbox": [
+                        40.0,
+                        839.0,
+                        105.0,
+                        855.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        110.0,
+                        841.0,
+                        126.0,
+                        854.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Approved by",
+            "line_bbox": [
+                396.0,
+                843.0,
+                473.0,
+                858.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Approved",
+                    "bbox": [
+                        396.0,
+                        844.0,
+                        452.0,
+                        858.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        457.0,
+                        845.0,
+                        473.0,
+                        858.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "W. O. Crain",
+            "line_bbox": [
+                62.0,
+                858.0,
+                139.0,
+                872.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "W.",
+                    "bbox": [
+                        63.0,
+                        858.0,
+                        77.0,
+                        872.0
+                    ]
+                },
+                {
+                    "text": "O.",
+                    "bbox": [
+                        81.0,
+                        859.0,
+                        98.0,
+                        872.0
+                    ]
+                },
+                {
+                    "text": "Crain",
+                    "bbox": [
+                        101.0,
+                        859.0,
+                        138.0,
+                        873.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "621099940J",
+            "line_bbox": [
+                523.0,
+                894.0,
+                631.0,
+                917.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "621099940J",
+                    "bbox": [
+                        524.0,
+                        895.0,
+                        629.0,
+                        918.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

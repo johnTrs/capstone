@@ -1,0 +1,190 @@
+{
+    "text_lines": [
+        {
+            "text": "Manuscript Review Form",
+            "bbox": [
+                95.0,
+                68.0,
+                255.0,
+                84.0
+            ]
+        },
+        {
+            "text": "TOBACCO SCIENCE",
+            "bbox": [
+                332.0,
+                126.0,
+                462.0,
+                143.0
+            ]
+        },
+        {
+            "text": "Registration No .",
+            "bbox": [
+                91.0,
+                170.0,
+                291.0,
+                185.0
+            ]
+        },
+        {
+            "text": "Date_March 18, 1968",
+            "bbox": [
+                506.0,
+                173.0,
+                664.0,
+                187.0
+            ]
+        },
+        {
+            "text": "AUTHORS _",
+            "bbox": [
+                90.0,
+                195.0,
+                602.0,
+                217.0
+            ]
+        },
+        {
+            "text": "\"Effect of Nitrates in Tobecco on the Catechol Yield in",
+            "bbox": [
+                206.0,
+                223.0,
+                641.0,
+                245.0
+            ]
+        },
+        {
+            "text": "TITLE _",
+            "bbox": [
+                90.0,
+                225.0,
+                187.0,
+                241.0
+            ]
+        },
+        {
+            "text": "Cigaratte Smoke\"",
+            "bbox": [
+                213.0,
+                254.0,
+                355.0,
+                271.0
+            ]
+        },
+        {
+            "text": "3/29/68",
+            "bbox": [
+                273.0,
+                305.0,
+                342.0,
+                321.0
+            ]
+        },
+        {
+            "text": "REVIEW COMPLETED_",
+            "bbox": [
+                90.0,
+                310.0,
+                261.0,
+                327.0
+            ]
+        },
+        {
+            "text": "RECOMMENDATION: X APPROVE IN ITS",
+            "bbox": [
+                377.0,
+                312.0,
+                688.0,
+                330.0
+            ]
+        },
+        {
+            "text": "PRESENT FORM ; ____NOT APPROVE (Give reasons below) ; ____APPROVE TENTATIVELY,",
+            "bbox": [
+                89.0,
+                337.0,
+                687.0,
+                359.0
+            ]
+        },
+        {
+            "text": "SUBJECT TO THE FOLLOWING SUGGESTED REVISIONS': (itemize below):",
+            "bbox": [
+                89.0,
+                364.0,
+                584.0,
+                387.0
+            ]
+        },
+        {
+            "text": "Paye 4 - Last line should be Mass spectrometric, instead of",
+            "bbox": [
+                88.0,
+                416.0,
+                618.0,
+                437.0
+            ]
+        },
+        {
+            "text": "Mass spectroscopic.",
+            "bbox": [
+                168.0,
+                443.0,
+                341.0,
+                461.0
+            ]
+        },
+        {
+            "text": "SCOLOO",
+            "bbox": [
+                654.0,
+                755.0,
+                685.0,
+                825.0
+            ]
+        },
+        {
+            "text": "NOTE-Execute in triplicate using additional sheets if more space is required. Retain the third",
+            "bbox": [
+                87.0,
+                845.0,
+                684.0,
+                867.0
+            ]
+        },
+        {
+            "text": "copy for your file. Return the original (signed) and the first carbon (nusigned) along with the",
+            "bbox": [
+                86.0,
+                857.0,
+                684.0,
+                880.0
+            ]
+        },
+        {
+            "text": "manuscript to this office. The unsigned copy and the manuscript will be returned to the author",
+            "bbox": [
+                87.0,
+                871.0,
+                684.0,
+                892.0
+            ]
+        },
+        {
+            "text": "for his consideration.",
+            "bbox": [
+                87.0,
+                886.0,
+                221.0,
+                900.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        766.0,
+        1000.0
+    ]
+}

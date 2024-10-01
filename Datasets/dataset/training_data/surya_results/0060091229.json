@@ -1,0 +1,298 @@
+{
+    "text_lines": [
+        {
+            "text": "M A R D E N - K A N E.   I N C.",
+            "bbox": [
+                203.0,
+                53.0,
+                506.0,
+                69.0
+            ]
+        },
+        {
+            "text": "(212) 582-6600",
+            "bbox": [
+                421.0,
+                80.0,
+                506.0,
+                94.0
+            ]
+        },
+        {
+            "text": "666 FIFTH AVE. \u00b7 NEW YORK.N. Y. 10103",
+            "bbox": [
+                203.0,
+                82.0,
+                424.0,
+                95.0
+            ]
+        },
+        {
+            "text": "TRAVEL INFORMATION SHEET",
+            "bbox": [
+                267.0,
+                164.0,
+                447.0,
+                178.0
+            ]
+        },
+        {
+            "text": "This information will be used by Marden-Kane in making travel arrangements for",
+            "bbox": [
+                73.0,
+                209.0,
+                638.0,
+                219.0
+            ]
+        },
+        {
+            "text": "your round-trip to Los Angeles, California.",
+            "bbox": [
+                72.0,
+                225.0,
+                388.0,
+                237.0
+            ]
+        },
+        {
+            "text": "Finalist Name: ",
+            "bbox": [
+                73.0,
+                260.0,
+                617.0,
+                273.0
+            ]
+        },
+        {
+            "text": "lone Address: _",
+            "bbox": [
+                73.0,
+                303.0,
+                628.0,
+                314.0
+            ]
+        },
+        {
+            "text": ".",
+            "bbox": [
+                278.0,
+                330.0,
+                290.0,
+                340.0
+            ]
+        },
+        {
+            "text": "Kome Telephone:",
+            "bbox": [
+                74.0,
+                345.0,
+                629.0,
+                358.0
+            ]
+        },
+        {
+            "text": "Business Telephone: _",
+            "bbox": [
+                75.0,
+                389.0,
+                599.0,
+                400.0
+            ]
+        },
+        {
+            "text": "Name of Guest: ",
+            "bbox": [
+                75.0,
+                431.0,
+                608.0,
+                442.0
+            ]
+        },
+        {
+            "text": "Relationship to Finalist: _",
+            "bbox": [
+                76.0,
+                469.0,
+                541.0,
+                490.0
+            ]
+        },
+        {
+            "text": "i",
+            "bbox": [
+                490.0,
+                514.0,
+                515.0,
+                525.0
+            ]
+        },
+        {
+            "text": "...",
+            "bbox": [
+                426.0,
+                516.0,
+                447.0,
+                529.0
+            ]
+        },
+        {
+            "text": "Major Airport Nearest",
+            "bbox": [
+                76.0,
+                517.0,
+                236.0,
+                531.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                430.0,
+                527.0,
+                509.0,
+                541.0
+            ]
+        },
+        {
+            "text": "your home:",
+            "bbox": [
+                76.0,
+                530.0,
+                154.0,
+                546.0
+            ]
+        },
+        {
+            "text": "___",
+            "bbox": [
+                271.0,
+                530.0,
+                379.0,
+                544.0
+            ]
+        },
+        {
+            "text": "Distance from your",
+            "bbox": [
+                77.0,
+                574.0,
+                215.0,
+                587.0
+            ]
+        },
+        {
+            "text": "home to airport:",
+            "bbox": [
+                77.0,
+                587.0,
+                199.0,
+                603.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                244.0,
+                589.0,
+                373.0,
+                601.0
+            ]
+        },
+        {
+            "text": "Do you prefer airline",
+            "bbox": [
+                78.0,
+                630.0,
+                238.0,
+                643.0
+            ]
+        },
+        {
+            "text": "seats in smoking or",
+            "bbox": [
+                79.0,
+                643.0,
+                222.0,
+                659.0
+            ]
+        },
+        {
+            "text": "non-smoking section:",
+            "bbox": [
+                79.0,
+                658.0,
+                232.0,
+                672.0
+            ]
+        },
+        {
+            "text": "Any special dietary",
+            "bbox": [
+                78.0,
+                710.0,
+                247.0,
+                726.0
+            ]
+        },
+        {
+            "text": "meal you and/or your",
+            "bbox": [
+                79.0,
+                727.0,
+                257.0,
+                740.0
+            ]
+        },
+        {
+            "text": "guest would prefer -_",
+            "bbox": [
+                79.0,
+                740.0,
+                311.0,
+                754.0
+            ]
+        },
+        {
+            "text": "RETURN TO:  Marden-Kane, Inc.",
+            "bbox": [
+                78.0,
+                814.0,
+                332.0,
+                829.0
+            ]
+        },
+        {
+            "text": "666 Fifth Avenue",
+            "bbox": [
+                180.0,
+                829.0,
+                325.0,
+                843.0
+            ]
+        },
+        {
+            "text": "New York, N.Y. 10103",
+            "bbox": [
+                180.0,
+                843.0,
+                359.0,
+                856.0
+            ]
+        },
+        {
+            "text": ". Attention: Ms. L. Sobel",
+            "bbox": [
+                171.0,
+                858.0,
+                386.0,
+                870.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

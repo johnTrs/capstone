@@ -1,0 +1,1972 @@
+{
+    "text_lines": [
+        {
+            "line_text": "09/08/95",
+            "line_bbox": [
+                62.0,
+                115.0,
+                115.0,
+                126.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "09/08/95",
+                    "bbox": [
+                        64.0,
+                        116.0,
+                        114.0,
+                        126.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "16:17",
+            "line_bbox": [
+                132.0,
+                115.0,
+                166.0,
+                126.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "16:17",
+                    "bbox": [
+                        133.0,
+                        115.0,
+                        164.0,
+                        127.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2214 340 9308",
+            "line_bbox": [
+                189.0,
+                114.0,
+                277.0,
+                127.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2214",
+                    "bbox": [
+                        190.0,
+                        114.0,
+                        221.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "340",
+                    "bbox": [
+                        226.0,
+                        114.0,
+                        246.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "9308",
+                    "bbox": [
+                        251.0,
+                        114.0,
+                        277.0,
+                        127.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LORILLARD",
+            "line_bbox": [
+                344.0,
+                115.0,
+                400.0,
+                126.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LORILLARD",
+                    "bbox": [
+                        344.0,
+                        115.0,
+                        399.0,
+                        127.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "*** NYO SLS GEN",
+            "line_bbox": [
+                448.0,
+                113.0,
+                545.0,
+                126.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "***",
+                    "bbox": [
+                        448.0,
+                        115.0,
+                        467.0,
+                        126.0
+                    ]
+                },
+                {
+                    "text": "NYO",
+                    "bbox": [
+                        472.0,
+                        114.0,
+                        493.0,
+                        126.0
+                    ]
+                },
+                {
+                    "text": "SLS",
+                    "bbox": [
+                        498.0,
+                        113.0,
+                        517.0,
+                        126.0
+                    ]
+                },
+                {
+                    "text": "GEN",
+                    "bbox": [
+                        522.0,
+                        113.0,
+                        543.0,
+                        126.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "@003/003",
+            "line_bbox": [
+                589.0,
+                112.0,
+                642.0,
+                128.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "@003/003",
+                    "bbox": [
+                        591.0,
+                        112.0,
+                        643.0,
+                        129.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SPECIAL PROMOTION EVALUATION",
+            "line_bbox": [
+                248.0,
+                136.0,
+                479.0,
+                157.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SPECIAL",
+                    "bbox": [
+                        248.0,
+                        140.0,
+                        305.0,
+                        158.0
+                    ]
+                },
+                {
+                    "text": "PROMOTION",
+                    "bbox": [
+                        311.0,
+                        138.0,
+                        385.0,
+                        156.0
+                    ]
+                },
+                {
+                    "text": "EVALUATION",
+                    "bbox": [
+                        391.0,
+                        136.0,
+                        474.0,
+                        154.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2",
+            "line_bbox": [
+                117.0,
+                185.0,
+                127.0,
+                196.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2",
+                    "bbox": [
+                        118.0,
+                        185.0,
+                        125.0,
+                        196.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "13",
+            "line_bbox": [
+                162.0,
+                180.0,
+                180.0,
+                192.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "13",
+                    "bbox": [
+                        166.0,
+                        180.0,
+                        179.0,
+                        192.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "9/8/95",
+            "line_bbox": [
+                456.0,
+                171.0,
+                500.0,
+                185.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "9/8/95",
+                    "bbox": [
+                        457.0,
+                        172.0,
+                        498.0,
+                        185.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AREA/REGION/DIVISION",
+            "line_bbox": [
+                97.0,
+                193.0,
+                264.0,
+                214.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AREA/REGION/DIVISION",
+                    "bbox": [
+                        98.0,
+                        194.0,
+                        262.0,
+                        214.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                470.0,
+                188.0,
+                508.0,
+                203.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        470.0,
+                        188.0,
+                        503.0,
+                        203.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROMO #",
+            "line_bbox": [
+                98.0,
+                224.0,
+                162.0,
+                240.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROMO",
+                    "bbox": [
+                        99.0,
+                        225.0,
+                        141.0,
+                        240.0
+                    ]
+                },
+                {
+                    "text": "#",
+                    "bbox": [
+                        148.0,
+                        224.0,
+                        157.0,
+                        239.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "28",
+            "line_bbox": [
+                182.0,
+                221.0,
+                201.0,
+                233.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "28",
+                    "bbox": [
+                        185.0,
+                        221.0,
+                        199.0,
+                        233.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROMOTIONAL PERIOD:",
+            "line_bbox": [
+                319.0,
+                216.0,
+                471.0,
+                235.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROMOTIONAL",
+                    "bbox": [
+                        319.0,
+                        218.0,
+                        406.0,
+                        235.0
+                    ]
+                },
+                {
+                    "text": "PERIOD:",
+                    "bbox": [
+                        413.0,
+                        216.0,
+                        471.0,
+                        233.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "June/July",
+            "line_bbox": [
+                510.0,
+                210.0,
+                575.0,
+                224.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "June/July",
+                    "bbox": [
+                        511.0,
+                        210.0,
+                        573.0,
+                        224.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ITEM/BRAND:",
+            "line_bbox": [
+                98.0,
+                250.0,
+                191.0,
+                266.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ITEM/BRAND:",
+                    "bbox": [
+                        99.0,
+                        250.0,
+                        191.0,
+                        267.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Sunglasses / Newport",
+            "line_bbox": [
+                225.0,
+                243.0,
+                359.0,
+                261.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Sunglasses",
+                    "bbox": [
+                        225.0,
+                        245.0,
+                        292.0,
+                        261.0
+                    ]
+                },
+                {
+                    "text": "/",
+                    "bbox": [
+                        297.0,
+                        244.0,
+                        305.0,
+                        257.0
+                    ]
+                },
+                {
+                    "text": "Newport",
+                    "bbox": [
+                        309.0,
+                        243.0,
+                        358.0,
+                        257.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCOPE:",
+            "line_bbox": [
+                101.0,
+                277.0,
+                151.0,
+                293.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCOPE:",
+                    "bbox": [
+                        102.0,
+                        278.0,
+                        151.0,
+                        294.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AREA",
+            "line_bbox": [
+                224.0,
+                274.0,
+                259.0,
+                289.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AREA",
+                    "bbox": [
+                        224.0,
+                        274.0,
+                        256.0,
+                        289.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "_REGION",
+            "line_bbox": [
+                305.0,
+                272.0,
+                364.0,
+                288.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "_REGION",
+                    "bbox": [
+                        306.0,
+                        272.0,
+                        360.0,
+                        289.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION",
+            "line_bbox": [
+                414.0,
+                269.0,
+                484.0,
+                284.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        415.0,
+                        270.0,
+                        481.0,
+                        285.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "_X __ OTHER+",
+            "line_bbox": [
+                505.0,
+                266.0,
+                597.0,
+                285.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "_X",
+                    "bbox": [
+                        506.0,
+                        270.0,
+                        527.0,
+                        285.0
+                    ]
+                },
+                {
+                    "text": "__",
+                    "bbox": [
+                        530.0,
+                        269.0,
+                        543.0,
+                        284.0
+                    ]
+                },
+                {
+                    "text": "OTHER+",
+                    "bbox": [
+                        546.0,
+                        267.0,
+                        596.0,
+                        283.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "*EXPLAIN:",
+            "line_bbox": [
+                102.0,
+                302.0,
+                175.0,
+                320.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "*EXPLAIN:",
+                    "bbox": [
+                        102.0,
+                        303.0,
+                        175.0,
+                        321.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Special Emphasis Calls",
+            "line_bbox": [
+                199.0,
+                298.0,
+                346.0,
+                316.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Special",
+                    "bbox": [
+                        201.0,
+                        301.0,
+                        248.0,
+                        316.0
+                    ]
+                },
+                {
+                    "text": "Emphasis",
+                    "bbox": [
+                        252.0,
+                        300.0,
+                        307.0,
+                        315.0
+                    ]
+                },
+                {
+                    "text": "Calls",
+                    "bbox": [
+                        311.0,
+                        299.0,
+                        347.0,
+                        313.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHAIN ACCEPTANCE: N/A",
+            "line_bbox": [
+                103.0,
+                366.0,
+                279.0,
+                386.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHAIN",
+                    "bbox": [
+                        104.0,
+                        369.0,
+                        144.0,
+                        387.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE:",
+                    "bbox": [
+                        152.0,
+                        367.0,
+                        243.0,
+                        385.0
+                    ]
+                },
+                {
+                    "text": "N/A",
+                    "bbox": [
+                        253.0,
+                        367.0,
+                        277.0,
+                        381.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "POOR",
+            "line_bbox": [
+                327.0,
+                365.0,
+                365.0,
+                379.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "POOR",
+                    "bbox": [
+                        329.0,
+                        365.0,
+                        362.0,
+                        379.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "_FAIR",
+            "line_bbox": [
+                395.0,
+                364.0,
+                436.0,
+                378.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "_FAIR",
+                    "bbox": [
+                        395.0,
+                        364.0,
+                        434.0,
+                        378.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GOOD",
+            "line_bbox": [
+                476.0,
+                361.0,
+                509.0,
+                375.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GOOD",
+                    "bbox": [
+                        476.0,
+                        361.0,
+                        508.0,
+                        375.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXCELLENT",
+            "line_bbox": [
+                549.0,
+                357.0,
+                623.0,
+                374.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXCELLENT",
+                    "bbox": [
+                        549.0,
+                        357.0,
+                        623.0,
+                        374.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INDEPENDENT ACCEPTANCE:",
+            "line_bbox": [
+                105.0,
+                406.0,
+                293.0,
+                426.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INDEPENDENT",
+                    "bbox": [
+                        105.0,
+                        407.0,
+                        196.0,
+                        426.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE:",
+                    "bbox": [
+                        202.0,
+                        406.0,
+                        292.0,
+                        424.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "POOR _X_FAIR",
+            "line_bbox": [
+                330.0,
+                403.0,
+                439.0,
+                420.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "POOR",
+                    "bbox": [
+                        331.0,
+                        404.0,
+                        364.0,
+                        420.0
+                    ]
+                },
+                {
+                    "text": "_X_FAIR",
+                    "bbox": [
+                        370.0,
+                        403.0,
+                        436.0,
+                        420.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GOOD",
+            "line_bbox": [
+                478.0,
+                401.0,
+                509.0,
+                416.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GOOD",
+                    "bbox": [
+                        478.0,
+                        401.0,
+                        509.0,
+                        416.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXCELLENT",
+            "line_bbox": [
+                547.0,
+                397.0,
+                625.0,
+                414.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXCELLENT",
+                    "bbox": [
+                        548.0,
+                        398.0,
+                        624.0,
+                        414.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CONSUMER ACCEPTANCE:",
+            "line_bbox": [
+                106.0,
+                446.0,
+                270.0,
+                465.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CONSUMER",
+                    "bbox": [
+                        106.0,
+                        448.0,
+                        172.0,
+                        466.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE:",
+                    "bbox": [
+                        178.0,
+                        446.0,
+                        270.0,
+                        464.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "POOR _X_FAIR",
+            "line_bbox": [
+                331.0,
+                442.0,
+                438.0,
+                460.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "POOR",
+                    "bbox": [
+                        332.0,
+                        444.0,
+                        364.0,
+                        460.0
+                    ]
+                },
+                {
+                    "text": "_X_FAIR",
+                    "bbox": [
+                        371.0,
+                        443.0,
+                        436.0,
+                        460.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GOOD",
+            "line_bbox": [
+                478.0,
+                442.0,
+                512.0,
+                456.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GOOD",
+                    "bbox": [
+                        478.0,
+                        442.0,
+                        510.0,
+                        456.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXCELLENT",
+            "line_bbox": [
+                551.0,
+                437.0,
+                626.0,
+                454.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXCELLENT",
+                    "bbox": [
+                        552.0,
+                        437.0,
+                        626.0,
+                        454.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EFFICIENCY RATING:",
+            "line_bbox": [
+                106.0,
+                486.0,
+                254.0,
+                505.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EFFICIENCY",
+                    "bbox": [
+                        107.0,
+                        488.0,
+                        189.0,
+                        505.0
+                    ]
+                },
+                {
+                    "text": "RATING:",
+                    "bbox": [
+                        196.0,
+                        487.0,
+                        255.0,
+                        503.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "POOR X FAIR",
+            "line_bbox": [
+                334.0,
+                482.0,
+                439.0,
+                500.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "POOR",
+                    "bbox": [
+                        334.0,
+                        485.0,
+                        365.0,
+                        500.0
+                    ]
+                },
+                {
+                    "text": "X",
+                    "bbox": [
+                        387.0,
+                        484.0,
+                        396.0,
+                        500.0
+                    ]
+                },
+                {
+                    "text": "FAIR",
+                    "bbox": [
+                        405.0,
+                        483.0,
+                        438.0,
+                        500.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GOOD",
+            "line_bbox": [
+                477.0,
+                481.0,
+                513.0,
+                495.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GOOD",
+                    "bbox": [
+                        479.0,
+                        481.0,
+                        511.0,
+                        495.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXCELLENT",
+            "line_bbox": [
+                549.0,
+                477.0,
+                628.0,
+                495.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXCELLENT",
+                    "bbox": [
+                        551.0,
+                        478.0,
+                        627.0,
+                        495.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS: This item was perceived by retailers and consumers as a low",
+            "line_bbox": [
+                108.0,
+                517.0,
+                591.0,
+                544.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS:",
+                    "bbox": [
+                        108.0,
+                        528.0,
+                        182.0,
+                        545.0
+                    ]
+                },
+                {
+                    "text": "This",
+                    "bbox": [
+                        200.0,
+                        527.0,
+                        228.0,
+                        543.0
+                    ]
+                },
+                {
+                    "text": "item",
+                    "bbox": [
+                        233.0,
+                        527.0,
+                        261.0,
+                        542.0
+                    ]
+                },
+                {
+                    "text": "was",
+                    "bbox": [
+                        265.0,
+                        526.0,
+                        287.0,
+                        541.0
+                    ]
+                },
+                {
+                    "text": "perceived",
+                    "bbox": [
+                        291.0,
+                        524.0,
+                        353.0,
+                        540.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        355.0,
+                        524.0,
+                        372.0,
+                        538.0
+                    ]
+                },
+                {
+                    "text": "retailers",
+                    "bbox": [
+                        376.0,
+                        522.0,
+                        438.0,
+                        538.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        441.0,
+                        522.0,
+                        464.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "consumers",
+                    "bbox": [
+                        468.0,
+                        520.0,
+                        530.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        534.0,
+                        519.0,
+                        550.0,
+                        533.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        553.0,
+                        519.0,
+                        562.0,
+                        533.0
+                    ]
+                },
+                {
+                    "text": "low",
+                    "bbox": [
+                        566.0,
+                        518.0,
+                        589.0,
+                        532.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "quality item. Several Sales Reps reported that on occasion our consumers",
+            "line_bbox": [
+                108.0,
+                542.0,
+                591.0,
+                569.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "quality",
+                    "bbox": [
+                        108.0,
+                        554.0,
+                        156.0,
+                        569.0
+                    ]
+                },
+                {
+                    "text": "item.",
+                    "bbox": [
+                        161.0,
+                        553.0,
+                        198.0,
+                        568.0
+                    ]
+                },
+                {
+                    "text": "Several",
+                    "bbox": [
+                        206.0,
+                        551.0,
+                        255.0,
+                        566.0
+                    ]
+                },
+                {
+                    "text": "Sales",
+                    "bbox": [
+                        259.0,
+                        550.0,
+                        294.0,
+                        565.0
+                    ]
+                },
+                {
+                    "text": "Reps",
+                    "bbox": [
+                        298.0,
+                        549.0,
+                        327.0,
+                        564.0
+                    ]
+                },
+                {
+                    "text": "reported",
+                    "bbox": [
+                        330.0,
+                        547.0,
+                        385.0,
+                        563.0
+                    ]
+                },
+                {
+                    "text": "that",
+                    "bbox": [
+                        390.0,
+                        546.0,
+                        418.0,
+                        561.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        421.0,
+                        546.0,
+                        437.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "occasion",
+                    "bbox": [
+                        441.0,
+                        544.0,
+                        496.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "our",
+                    "bbox": [
+                        500.0,
+                        544.0,
+                        523.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "consumers",
+                    "bbox": [
+                        527.0,
+                        542.0,
+                        590.0,
+                        557.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "would pass up the deal or leave the glasses in the store.",
+            "line_bbox": [
+                109.0,
+                571.0,
+                484.0,
+                595.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "would",
+                    "bbox": [
+                        110.0,
+                        580.0,
+                        143.0,
+                        595.0
+                    ]
+                },
+                {
+                    "text": "pass",
+                    "bbox": [
+                        148.0,
+                        579.0,
+                        177.0,
+                        594.0
+                    ]
+                },
+                {
+                    "text": "up",
+                    "bbox": [
+                        181.0,
+                        578.0,
+                        197.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        201.0,
+                        577.0,
+                        223.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "deal",
+                    "bbox": [
+                        227.0,
+                        576.0,
+                        256.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        259.0,
+                        576.0,
+                        275.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "leave",
+                    "bbox": [
+                        280.0,
+                        575.0,
+                        315.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        319.0,
+                        574.0,
+                        341.0,
+                        590.0
+                    ]
+                },
+                {
+                    "text": "glasses",
+                    "bbox": [
+                        344.0,
+                        573.0,
+                        393.0,
+                        589.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        397.0,
+                        573.0,
+                        412.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        416.0,
+                        572.0,
+                        439.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "store.",
+                    "bbox": [
+                        443.0,
+                        571.0,
+                        484.0,
+                        586.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "#ITEMS/DEALS RECEIVED:",
+            "line_bbox": [
+                110.0,
+                644.0,
+                291.0,
+                663.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "#ITEMS/DEALS",
+                    "bbox": [
+                        111.0,
+                        646.0,
+                        208.0,
+                        664.0
+                    ]
+                },
+                {
+                    "text": "RECEIVED:",
+                    "bbox": [
+                        216.0,
+                        645.0,
+                        290.0,
+                        661.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "28728",
+            "line_bbox": [
+                334.0,
+                638.0,
+                370.0,
+                651.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "28728",
+                    "bbox": [
+                        335.0,
+                        639.0,
+                        368.0,
+                        651.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WERE QUANTITIES APPROPRIATE?",
+            "line_bbox": [
+                110.0,
+                669.0,
+                339.0,
+                690.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WERE",
+                    "bbox": [
+                        111.0,
+                        673.0,
+                        145.0,
+                        690.0
+                    ]
+                },
+                {
+                    "text": "QUANTITIES",
+                    "bbox": [
+                        151.0,
+                        672.0,
+                        234.0,
+                        689.0
+                    ]
+                },
+                {
+                    "text": "APPROPRIATE?",
+                    "bbox": [
+                        241.0,
+                        670.0,
+                        339.0,
+                        687.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "X YES",
+            "line_bbox": [
+                383.0,
+                667.0,
+                436.0,
+                683.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "bbox": [
+                        384.0,
+                        668.0,
+                        394.0,
+                        683.0
+                    ]
+                },
+                {
+                    "text": "YES",
+                    "bbox": [
+                        409.0,
+                        667.0,
+                        435.0,
+                        684.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NO",
+            "line_bbox": [
+                472.0,
+                666.0,
+                523.0,
+                684.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NO",
+                    "bbox": [
+                        502.0,
+                        667.0,
+                        518.0,
+                        682.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "*EXPLAIN:",
+            "line_bbox": [
+                112.0,
+                701.0,
+                185.0,
+                716.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "*EXPLAIN:",
+                    "bbox": [
+                        113.0,
+                        701.0,
+                        184.0,
+                        717.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SHOULD PROMOTION BE REPEATED?",
+            "line_bbox": [
+                113.0,
+                748.0,
+                349.0,
+                770.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SHOULD",
+                    "bbox": [
+                        114.0,
+                        754.0,
+                        163.0,
+                        770.0
+                    ]
+                },
+                {
+                    "text": "PROMOTION",
+                    "bbox": [
+                        169.0,
+                        752.0,
+                        244.0,
+                        769.0
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "bbox": [
+                        251.0,
+                        751.0,
+                        269.0,
+                        767.0
+                    ]
+                },
+                {
+                    "text": "REPEATED?",
+                    "bbox": [
+                        275.0,
+                        749.0,
+                        350.0,
+                        767.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "X YES",
+            "line_bbox": [
+                386.0,
+                746.0,
+                447.0,
+                764.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "bbox": [
+                        388.0,
+                        748.0,
+                        397.0,
+                        764.0
+                    ]
+                },
+                {
+                    "text": "YES",
+                    "bbox": [
+                        419.0,
+                        747.0,
+                        444.0,
+                        764.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NO",
+            "line_bbox": [
+                473.0,
+                747.0,
+                528.0,
+                764.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NO",
+                    "bbox": [
+                        510.0,
+                        748.0,
+                        525.0,
+                        763.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "IF NO, EXPLAIN:",
+            "line_bbox": [
+                114.0,
+                779.0,
+                235.0,
+                796.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "IF",
+                    "bbox": [
+                        114.0,
+                        782.0,
+                        130.0,
+                        796.0
+                    ]
+                },
+                {
+                    "text": "NO,",
+                    "bbox": [
+                        137.0,
+                        781.0,
+                        164.0,
+                        796.0
+                    ]
+                },
+                {
+                    "text": "EXPLAIN:",
+                    "bbox": [
+                        170.0,
+                        780.0,
+                        235.0,
+                        795.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "IF YES, CAN IT BE IMPROVED?",
+            "line_bbox": [
+                115.0,
+                827.0,
+                339.0,
+                849.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "IF",
+                    "bbox": [
+                        116.0,
+                        834.0,
+                        132.0,
+                        849.0
+                    ]
+                },
+                {
+                    "text": "YES,",
+                    "bbox": [
+                        139.0,
+                        832.0,
+                        173.0,
+                        849.0
+                    ]
+                },
+                {
+                    "text": "CAN",
+                    "bbox": [
+                        178.0,
+                        831.0,
+                        206.0,
+                        848.0
+                    ]
+                },
+                {
+                    "text": "IT",
+                    "bbox": [
+                        213.0,
+                        831.0,
+                        231.0,
+                        847.0
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "bbox": [
+                        236.0,
+                        830.0,
+                        255.0,
+                        847.0
+                    ]
+                },
+                {
+                    "text": "IMPROVED?",
+                    "bbox": [
+                        261.0,
+                        828.0,
+                        335.0,
+                        846.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The Promotion can be improved by upgrading",
+            "line_bbox": [
+                344.0,
+                819.0,
+                626.0,
+                841.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        351.0,
+                        827.0,
+                        372.0,
+                        840.0
+                    ]
+                },
+                {
+                    "text": "Promotion",
+                    "bbox": [
+                        376.0,
+                        825.0,
+                        437.0,
+                        840.0
+                    ]
+                },
+                {
+                    "text": "can",
+                    "bbox": [
+                        442.0,
+                        824.0,
+                        463.0,
+                        838.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        468.0,
+                        824.0,
+                        484.0,
+                        837.0
+                    ]
+                },
+                {
+                    "text": "improved",
+                    "bbox": [
+                        488.0,
+                        822.0,
+                        543.0,
+                        837.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        547.0,
+                        821.0,
+                        563.0,
+                        836.0
+                    ]
+                },
+                {
+                    "text": "upgrading",
+                    "bbox": [
+                        567.0,
+                        819.0,
+                        626.0,
+                        836.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "92094746",
+            "line_bbox": [
+                629.0,
+                831.0,
+                649.0,
+                898.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "92094746",
+                    "bbox": [
+                        630.0,
+                        831.0,
+                        648.0,
+                        893.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "the quality of the sunglasses.",
+            "line_bbox": [
+                117.0,
+                855.0,
+                313.0,
+                872.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "the",
+                    "bbox": [
+                        117.0,
+                        859.0,
+                        137.0,
+                        873.0
+                    ]
+                },
+                {
+                    "text": "quality",
+                    "bbox": [
+                        142.0,
+                        857.0,
+                        190.0,
+                        872.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        195.0,
+                        857.0,
+                        210.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        215.0,
+                        856.0,
+                        237.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "sunglasses.",
+                    "bbox": [
+                        242.0,
+                        855.0,
+                        314.0,
+                        869.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

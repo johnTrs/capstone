@@ -1,0 +1,2359 @@
+{
+    "text_lines": [
+        {
+            "line_text": "COMPETITIVE PRODUCT INTRODUCTION",
+            "line_bbox": [
+                219.0,
+                134.0,
+                507.0,
+                153.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPETITIVE",
+                    "bbox": [
+                        219.0,
+                        136.0,
+                        316.0,
+                        152.0
+                    ]
+                },
+                {
+                    "text": "PRODUCT",
+                    "bbox": [
+                        319.0,
+                        136.0,
+                        390.0,
+                        152.0
+                    ]
+                },
+                {
+                    "text": "INTRODUCTION",
+                    "bbox": [
+                        393.0,
+                        134.0,
+                        502.0,
+                        152.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROGRESS REPORT",
+            "line_bbox": [
+                290.0,
+                152.0,
+                435.0,
+                169.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROGRESS",
+                    "bbox": [
+                        291.0,
+                        152.0,
+                        371.0,
+                        170.0
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        374.0,
+                        152.0,
+                        435.0,
+                        169.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TO",
+            "line_bbox": [
+                93.0,
+                201.0,
+                111.0,
+                214.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO",
+                    "bbox": [
+                        93.0,
+                        201.0,
+                        107.0,
+                        214.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Sam Zolot",
+            "line_bbox": [
+                137.0,
+                201.0,
+                194.0,
+                214.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Sam",
+                    "bbox": [
+                        139.0,
+                        202.0,
+                        158.0,
+                        214.0
+                    ]
+                },
+                {
+                    "text": "Zolot",
+                    "bbox": [
+                        164.0,
+                        202.0,
+                        194.0,
+                        214.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MANUFACTURER:",
+            "line_bbox": [
+                309.0,
+                199.0,
+                408.0,
+                212.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MANUFACTURER:",
+                    "bbox": [
+                        311.0,
+                        200.0,
+                        408.0,
+                        213.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "B&W",
+            "line_bbox": [
+                450.0,
+                199.0,
+                475.0,
+                210.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "B&W",
+                    "bbox": [
+                        450.0,
+                        199.0,
+                        471.0,
+                        210.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FROM: D. J. Landro",
+            "line_bbox": [
+                92.0,
+                218.0,
+                200.0,
+                232.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FROM:",
+                    "bbox": [
+                        93.0,
+                        219.0,
+                        132.0,
+                        232.0
+                    ]
+                },
+                {
+                    "text": "D.",
+                    "bbox": [
+                        138.0,
+                        219.0,
+                        149.0,
+                        232.0
+                    ]
+                },
+                {
+                    "text": "J.",
+                    "bbox": [
+                        152.0,
+                        219.0,
+                        160.0,
+                        232.0
+                    ]
+                },
+                {
+                    "text": "Landro",
+                    "bbox": [
+                        163.0,
+                        218.0,
+                        200.0,
+                        232.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRAND:",
+            "line_bbox": [
+                312.0,
+                217.0,
+                355.0,
+                229.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRAND:",
+                    "bbox": [
+                        313.0,
+                        218.0,
+                        355.0,
+                        229.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Kool Waterfall",
+            "line_bbox": [
+                406.0,
+                216.0,
+                471.0,
+                228.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Kool",
+                    "bbox": [
+                        406.0,
+                        217.0,
+                        426.0,
+                        228.0
+                    ]
+                },
+                {
+                    "text": "Waterfall",
+                    "bbox": [
+                        427.0,
+                        217.0,
+                        472.0,
+                        229.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE:",
+            "line_bbox": [
+                93.0,
+                236.0,
+                131.0,
+                248.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE:",
+                    "bbox": [
+                        93.0,
+                        237.0,
+                        129.0,
+                        249.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2-Dec-97",
+            "line_bbox": [
+                136.0,
+                235.0,
+                186.0,
+                248.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2-Dec-97",
+                    "bbox": [
+                        138.0,
+                        236.0,
+                        185.0,
+                        249.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TYPE OF PACKINGS:",
+            "line_bbox": [
+                312.0,
+                233.0,
+                422.0,
+                246.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TYPE",
+                    "bbox": [
+                        313.0,
+                        234.0,
+                        340.0,
+                        247.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        342.0,
+                        234.0,
+                        358.0,
+                        247.0
+                    ]
+                },
+                {
+                    "text": "PACKINGS:",
+                    "bbox": [
+                        360.0,
+                        234.0,
+                        422.0,
+                        247.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "All Packings",
+            "line_bbox": [
+                448.0,
+                233.0,
+                510.0,
+                246.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "All",
+                    "bbox": [
+                        449.0,
+                        234.0,
+                        461.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "Packings",
+                    "bbox": [
+                        464.0,
+                        234.0,
+                        510.0,
+                        247.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REPORTING PERIODS:",
+            "line_bbox": [
+                90.0,
+                270.0,
+                212.0,
+                284.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REPORTING",
+                    "bbox": [
+                        92.0,
+                        270.0,
+                        155.0,
+                        284.0
+                    ]
+                },
+                {
+                    "text": "PERIODS:",
+                    "bbox": [
+                        158.0,
+                        270.0,
+                        212.0,
+                        283.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Oct.",
+            "line_bbox": [
+                278.0,
+                270.0,
+                301.0,
+                281.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Oct.",
+                    "bbox": [
+                        278.0,
+                        270.0,
+                        301.0,
+                        281.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Nov. X",
+            "line_bbox": [
+                367.0,
+                268.0,
+                416.0,
+                282.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Nov.",
+                    "bbox": [
+                        368.0,
+                        269.0,
+                        396.0,
+                        282.0
+                    ]
+                },
+                {
+                    "text": "X",
+                    "bbox": [
+                        403.0,
+                        269.0,
+                        412.0,
+                        283.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Dec.",
+            "line_bbox": [
+                460.0,
+                268.0,
+                486.0,
+                280.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Dec.",
+                    "bbox": [
+                        460.0,
+                        268.0,
+                        486.0,
+                        280.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Jan.",
+            "line_bbox": [
+                554.0,
+                269.0,
+                577.0,
+                279.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Jan.",
+                    "bbox": [
+                        554.0,
+                        269.0,
+                        577.0,
+                        279.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TEST MARKET GEOGRAPHY:",
+            "line_bbox": [
+                91.0,
+                321.0,
+                247.0,
+                334.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TEST",
+                    "bbox": [
+                        93.0,
+                        322.0,
+                        120.0,
+                        335.0
+                    ]
+                },
+                {
+                    "text": "MARKET",
+                    "bbox": [
+                        122.0,
+                        322.0,
+                        170.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "GEOGRAPHY:",
+                    "bbox": [
+                        172.0,
+                        322.0,
+                        248.0,
+                        334.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Divisions 621 and 627",
+            "line_bbox": [
+                313.0,
+                319.0,
+                421.0,
+                333.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Divisions",
+                    "bbox": [
+                        313.0,
+                        320.0,
+                        355.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "621",
+                    "bbox": [
+                        357.0,
+                        320.0,
+                        376.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        378.0,
+                        320.0,
+                        396.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "627",
+                    "bbox": [
+                        399.0,
+                        320.0,
+                        420.0,
+                        332.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(wisconsin)",
+            "line_bbox": [
+                439.0,
+                310.0,
+                559.0,
+                334.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "(wisconsin)",
+                    "bbox": [
+                        440.0,
+                        310.0,
+                        559.0,
+                        335.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRICE POINT: FULL $",
+            "line_bbox": [
+                92.0,
+                356.0,
+                220.0,
+                369.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRICE",
+                    "bbox": [
+                        92.0,
+                        357.0,
+                        125.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "POINT:",
+                    "bbox": [
+                        127.0,
+                        357.0,
+                        168.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "FULL",
+                    "bbox": [
+                        179.0,
+                        356.0,
+                        208.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "$",
+                    "bbox": [
+                        210.0,
+                        356.0,
+                        218.0,
+                        369.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PIV $",
+            "line_bbox": [
+                253.0,
+                356.0,
+                283.0,
+                367.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PIV",
+                    "bbox": [
+                        254.0,
+                        356.0,
+                        273.0,
+                        367.0
+                    ]
+                },
+                {
+                    "text": "$",
+                    "bbox": [
+                        276.0,
+                        356.0,
+                        282.0,
+                        367.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(Indicate Distributor's Cost Per Carton)",
+            "line_bbox": [
+                316.0,
+                354.0,
+                516.0,
+                368.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(Indicate",
+                    "bbox": [
+                        316.0,
+                        355.0,
+                        361.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "Distributor's",
+                    "bbox": [
+                        363.0,
+                        355.0,
+                        427.0,
+                        368.0
+                    ]
+                },
+                {
+                    "text": "Cost",
+                    "bbox": [
+                        429.0,
+                        355.0,
+                        455.0,
+                        367.0
+                    ]
+                },
+                {
+                    "text": "Per",
+                    "bbox": [
+                        456.0,
+                        355.0,
+                        475.0,
+                        366.0
+                    ]
+                },
+                {
+                    "text": "Carton)",
+                    "bbox": [
+                        476.0,
+                        355.0,
+                        516.0,
+                        366.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SALES FORCE INVOLVEMENT:",
+            "line_bbox": [
+                91.0,
+                393.0,
+                254.0,
+                409.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SALES",
+                    "bbox": [
+                        92.0,
+                        395.0,
+                        128.0,
+                        409.0
+                    ]
+                },
+                {
+                    "text": "FORCE",
+                    "bbox": [
+                        130.0,
+                        395.0,
+                        169.0,
+                        408.0
+                    ]
+                },
+                {
+                    "text": "INVOLVEMENT:",
+                    "bbox": [
+                        170.0,
+                        393.0,
+                        254.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "They have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy",
+            "line_bbox": [
+                92.0,
+                413.0,
+                644.0,
+                429.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "They",
+                    "bbox": [
+                        93.0,
+                        417.0,
+                        116.0,
+                        430.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        118.0,
+                        417.0,
+                        143.0,
+                        430.0
+                    ]
+                },
+                {
+                    "text": "crew-worked",
+                    "bbox": [
+                        145.0,
+                        416.0,
+                        208.0,
+                        429.0
+                    ]
+                },
+                {
+                    "text": "distribution,",
+                    "bbox": [
+                        210.0,
+                        416.0,
+                        266.0,
+                        429.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        268.0,
+                        416.0,
+                        286.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "it",
+                    "bbox": [
+                        289.0,
+                        416.0,
+                        295.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        297.0,
+                        415.0,
+                        306.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "reported",
+                    "bbox": [
+                        308.0,
+                        415.0,
+                        349.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "that",
+                    "bbox": [
+                        351.0,
+                        415.0,
+                        370.0,
+                        428.0
+                    ]
+                },
+                {
+                    "text": "they",
+                    "bbox": [
+                        372.0,
+                        415.0,
+                        392.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "may",
+                    "bbox": [
+                        395.0,
+                        415.0,
+                        416.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "crew-work",
+                    "bbox": [
+                        418.0,
+                        414.0,
+                        467.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "it",
+                    "bbox": [
+                        469.0,
+                        414.0,
+                        476.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "again.",
+                    "bbox": [
+                        478.0,
+                        414.0,
+                        512.0,
+                        427.0
+                    ]
+                },
+                {
+                    "text": "Sales",
+                    "bbox": [
+                        514.0,
+                        414.0,
+                        542.0,
+                        426.0
+                    ]
+                },
+                {
+                    "text": "force",
+                    "bbox": [
+                        544.0,
+                        414.0,
+                        568.0,
+                        426.0
+                    ]
+                },
+                {
+                    "text": "has",
+                    "bbox": [
+                        571.0,
+                        414.0,
+                        589.0,
+                        426.0
+                    ]
+                },
+                {
+                    "text": "been",
+                    "bbox": [
+                        591.0,
+                        413.0,
+                        616.0,
+                        426.0
+                    ]
+                },
+                {
+                    "text": "busy",
+                    "bbox": [
+                        618.0,
+                        413.0,
+                        644.0,
+                        426.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "promoting old style packs to clean up inventory. All POS is being converted to \"B\" Kool.",
+            "line_bbox": [
+                90.0,
+                435.0,
+                512.0,
+                451.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "promoting",
+                    "bbox": [
+                        92.0,
+                        439.0,
+                        141.0,
+                        452.0
+                    ]
+                },
+                {
+                    "text": "old",
+                    "bbox": [
+                        143.0,
+                        439.0,
+                        159.0,
+                        452.0
+                    ]
+                },
+                {
+                    "text": "style",
+                    "bbox": [
+                        160.0,
+                        438.0,
+                        184.0,
+                        451.0
+                    ]
+                },
+                {
+                    "text": "packs",
+                    "bbox": [
+                        186.0,
+                        438.0,
+                        215.0,
+                        451.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        217.0,
+                        437.0,
+                        228.0,
+                        451.0
+                    ]
+                },
+                {
+                    "text": "clean",
+                    "bbox": [
+                        229.0,
+                        437.0,
+                        256.0,
+                        451.0
+                    ]
+                },
+                {
+                    "text": "up",
+                    "bbox": [
+                        258.0,
+                        437.0,
+                        271.0,
+                        450.0
+                    ]
+                },
+                {
+                    "text": "inventory.",
+                    "bbox": [
+                        272.0,
+                        436.0,
+                        324.0,
+                        450.0
+                    ]
+                },
+                {
+                    "text": "All",
+                    "bbox": [
+                        325.0,
+                        436.0,
+                        339.0,
+                        450.0
+                    ]
+                },
+                {
+                    "text": "POS",
+                    "bbox": [
+                        340.0,
+                        436.0,
+                        364.0,
+                        449.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        365.0,
+                        436.0,
+                        375.0,
+                        449.0
+                    ]
+                },
+                {
+                    "text": "being",
+                    "bbox": [
+                        376.0,
+                        436.0,
+                        404.0,
+                        449.0
+                    ]
+                },
+                {
+                    "text": "converted",
+                    "bbox": [
+                        406.0,
+                        436.0,
+                        454.0,
+                        449.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        455.0,
+                        436.0,
+                        466.0,
+                        448.0
+                    ]
+                },
+                {
+                    "text": "\"B\"",
+                    "bbox": [
+                        467.0,
+                        436.0,
+                        484.0,
+                        448.0
+                    ]
+                },
+                {
+                    "text": "Kool.",
+                    "bbox": [
+                        485.0,
+                        436.0,
+                        512.0,
+                        448.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:",
+            "line_bbox": [
+                91.0,
+                499.0,
+                493.0,
+                515.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DISTRIBUTORS",
+                    "bbox": [
+                        92.0,
+                        501.0,
+                        173.0,
+                        516.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        176.0,
+                        501.0,
+                        180.0,
+                        515.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE/INTRO",
+                    "bbox": [
+                        182.0,
+                        500.0,
+                        292.0,
+                        515.0
+                    ]
+                },
+                {
+                    "text": "TERMS/INTRO",
+                    "bbox": [
+                        296.0,
+                        500.0,
+                        369.0,
+                        514.0
+                    ]
+                },
+                {
+                    "text": "DEALS/INVOLVEMENT:",
+                    "bbox": [
+                        371.0,
+                        499.0,
+                        493.0,
+                        513.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "All accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear",
+            "line_bbox": [
+                92.0,
+                521.0,
+                608.0,
+                537.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "All",
+                    "bbox": [
+                        93.0,
+                        525.0,
+                        105.0,
+                        538.0
+                    ]
+                },
+                {
+                    "text": "accounts",
+                    "bbox": [
+                        107.0,
+                        524.0,
+                        151.0,
+                        538.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        153.0,
+                        524.0,
+                        177.0,
+                        537.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        180.0,
+                        524.0,
+                        196.0,
+                        537.0
+                    ]
+                },
+                {
+                    "text": "new",
+                    "bbox": [
+                        198.0,
+                        524.0,
+                        217.0,
+                        537.0
+                    ]
+                },
+                {
+                    "text": "packaging.",
+                    "bbox": [
+                        221.0,
+                        523.0,
+                        276.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "It",
+                    "bbox": [
+                        278.0,
+                        523.0,
+                        285.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "was",
+                    "bbox": [
+                        287.0,
+                        523.0,
+                        307.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        310.0,
+                        523.0,
+                        326.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        328.0,
+                        523.0,
+                        334.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "problem",
+                    "bbox": [
+                        336.0,
+                        522.0,
+                        374.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "obtaining",
+                    "bbox": [
+                        378.0,
+                        522.0,
+                        422.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "new",
+                    "bbox": [
+                        425.0,
+                        522.0,
+                        444.0,
+                        534.0
+                    ]
+                },
+                {
+                    "text": "distribution.",
+                    "bbox": [
+                        447.0,
+                        522.0,
+                        506.0,
+                        534.0
+                    ]
+                },
+                {
+                    "text": "All",
+                    "bbox": [
+                        508.0,
+                        522.0,
+                        521.0,
+                        534.0
+                    ]
+                },
+                {
+                    "text": "accounts",
+                    "bbox": [
+                        523.0,
+                        522.0,
+                        568.0,
+                        534.0
+                    ]
+                },
+                {
+                    "text": "appear",
+                    "bbox": [
+                        570.0,
+                        522.0,
+                        608.0,
+                        533.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "to have 100% distribution of new packings.",
+            "line_bbox": [
+                90.0,
+                544.0,
+                298.0,
+                559.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "to",
+                    "bbox": [
+                        91.0,
+                        547.0,
+                        102.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        104.0,
+                        546.0,
+                        129.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "100%",
+                    "bbox": [
+                        131.0,
+                        545.0,
+                        159.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "distribution",
+                    "bbox": [
+                        161.0,
+                        545.0,
+                        215.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        217.0,
+                        545.0,
+                        227.0,
+                        557.0
+                    ]
+                },
+                {
+                    "text": "new",
+                    "bbox": [
+                        229.0,
+                        545.0,
+                        249.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "packings.",
+                    "bbox": [
+                        252.0,
+                        545.0,
+                        298.0,
+                        558.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHAINS - ACCEPTANCE/MERCHANDISING:",
+            "line_bbox": [
+                92.0,
+                608.0,
+                317.0,
+                623.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHAINS",
+                    "bbox": [
+                        93.0,
+                        611.0,
+                        134.0,
+                        623.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        136.0,
+                        611.0,
+                        141.0,
+                        623.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE/MERCHANDISING:",
+                    "bbox": [
+                        143.0,
+                        609.0,
+                        317.0,
+                        623.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "This has not been a problem. New packaging is just following up on the old \"packaging\".",
+            "line_bbox": [
+                93.0,
+                629.0,
+                516.0,
+                645.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "This",
+                    "bbox": [
+                        94.0,
+                        633.0,
+                        112.0,
+                        645.0
+                    ]
+                },
+                {
+                    "text": "has",
+                    "bbox": [
+                        115.0,
+                        633.0,
+                        134.0,
+                        645.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        136.0,
+                        632.0,
+                        152.0,
+                        645.0
+                    ]
+                },
+                {
+                    "text": "been",
+                    "bbox": [
+                        154.0,
+                        632.0,
+                        179.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        182.0,
+                        632.0,
+                        188.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "problem.",
+                    "bbox": [
+                        191.0,
+                        631.0,
+                        236.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "New",
+                    "bbox": [
+                        238.0,
+                        631.0,
+                        260.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "packaging",
+                    "bbox": [
+                        263.0,
+                        631.0,
+                        313.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        315.0,
+                        631.0,
+                        323.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "just",
+                    "bbox": [
+                        325.0,
+                        630.0,
+                        343.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "following",
+                    "bbox": [
+                        345.0,
+                        630.0,
+                        388.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "up",
+                    "bbox": [
+                        390.0,
+                        630.0,
+                        402.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        404.0,
+                        630.0,
+                        418.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        420.0,
+                        630.0,
+                        435.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "old",
+                    "bbox": [
+                        437.0,
+                        630.0,
+                        453.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "\"packaging\".",
+                    "bbox": [
+                        455.0,
+                        630.0,
+                        516.0,
+                        643.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INDEPENDENTS - ACCEPTANCE/MERCHANDISING:",
+            "line_bbox": [
+                90.0,
+                715.0,
+                359.0,
+                731.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INDEPENDENTS",
+                    "bbox": [
+                        91.0,
+                        717.0,
+                        177.0,
+                        732.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        179.0,
+                        717.0,
+                        184.0,
+                        730.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE/MERCHANDISING:",
+                    "bbox": [
+                        186.0,
+                        716.0,
+                        359.0,
+                        730.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Very well received. The old packs are being consolidated and promoted in select retail locations at 40\u00a2",
+            "line_bbox": [
+                93.0,
+                736.0,
+                587.0,
+                753.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Very",
+                    "bbox": [
+                        94.0,
+                        740.0,
+                        115.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "well",
+                    "bbox": [
+                        117.0,
+                        740.0,
+                        137.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "received.",
+                    "bbox": [
+                        139.0,
+                        740.0,
+                        188.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "The",
+                    "bbox": [
+                        190.0,
+                        739.0,
+                        209.0,
+                        752.0
+                    ]
+                },
+                {
+                    "text": "old",
+                    "bbox": [
+                        211.0,
+                        739.0,
+                        226.0,
+                        752.0
+                    ]
+                },
+                {
+                    "text": "packs",
+                    "bbox": [
+                        228.0,
+                        739.0,
+                        257.0,
+                        752.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        260.0,
+                        739.0,
+                        275.0,
+                        752.0
+                    ]
+                },
+                {
+                    "text": "being",
+                    "bbox": [
+                        277.0,
+                        739.0,
+                        305.0,
+                        752.0
+                    ]
+                },
+                {
+                    "text": "consolidated",
+                    "bbox": [
+                        307.0,
+                        738.0,
+                        369.0,
+                        751.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        371.0,
+                        738.0,
+                        389.0,
+                        751.0
+                    ]
+                },
+                {
+                    "text": "promoted",
+                    "bbox": [
+                        392.0,
+                        738.0,
+                        437.0,
+                        751.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        439.0,
+                        737.0,
+                        449.0,
+                        750.0
+                    ]
+                },
+                {
+                    "text": "select",
+                    "bbox": [
+                        451.0,
+                        737.0,
+                        480.0,
+                        750.0
+                    ]
+                },
+                {
+                    "text": "retail",
+                    "bbox": [
+                        482.0,
+                        737.0,
+                        507.0,
+                        749.0
+                    ]
+                },
+                {
+                    "text": "locations",
+                    "bbox": [
+                        509.0,
+                        737.0,
+                        553.0,
+                        749.0
+                    ]
+                },
+                {
+                    "text": "at",
+                    "bbox": [
+                        555.0,
+                        737.0,
+                        565.0,
+                        748.0
+                    ]
+                },
+                {
+                    "text": "40\u00a2",
+                    "bbox": [
+                        567.0,
+                        737.0,
+                        587.0,
+                        748.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "off/$4.00 off cartons.",
+            "line_bbox": [
+                91.0,
+                761.0,
+                194.0,
+                773.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "off/$4.00",
+                    "bbox": [
+                        92.0,
+                        761.0,
+                        136.0,
+                        774.0
+                    ]
+                },
+                {
+                    "text": "off",
+                    "bbox": [
+                        137.0,
+                        761.0,
+                        151.0,
+                        773.0
+                    ]
+                },
+                {
+                    "text": "cartons.",
+                    "bbox": [
+                        153.0,
+                        761.0,
+                        194.0,
+                        773.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "82250337",
+            "line_bbox": [
+                679.0,
+                812.0,
+                700.0,
+                919.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "82250337",
+                    "bbox": [
+                        679.0,
+                        812.0,
+                        701.0,
+                        917.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ADVERTISING - EFFECTIVENESS OF P.O.S .:",
+            "line_bbox": [
+                93.0,
+                824.0,
+                322.0,
+                839.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ADVERTISING",
+                    "bbox": [
+                        93.0,
+                        825.0,
+                        166.0,
+                        839.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        170.0,
+                        825.0,
+                        173.0,
+                        838.0
+                    ]
+                },
+                {
+                    "text": "EFFECTIVENESS",
+                    "bbox": [
+                        176.0,
+                        824.0,
+                        265.0,
+                        838.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        267.0,
+                        824.0,
+                        282.0,
+                        838.0
+                    ]
+                },
+                {
+                    "text": "P.O.S",
+                    "bbox": [
+                        285.0,
+                        824.0,
+                        311.0,
+                        838.0
+                    ]
+                },
+                {
+                    "text": ".:",
+                    "bbox": [
+                        314.0,
+                        824.0,
+                        322.0,
+                        838.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The theme \"B\" Kool has replaced all previous POS. They have effectively replaced all old POS. New",
+            "line_bbox": [
+                92.0,
+                843.0,
+                578.0,
+                860.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        94.0,
+                        847.0,
+                        112.0,
+                        860.0
+                    ]
+                },
+                {
+                    "text": "theme",
+                    "bbox": [
+                        114.0,
+                        847.0,
+                        145.0,
+                        860.0
+                    ]
+                },
+                {
+                    "text": "\"B\"",
+                    "bbox": [
+                        147.0,
+                        846.0,
+                        163.0,
+                        860.0
+                    ]
+                },
+                {
+                    "text": "Kool",
+                    "bbox": [
+                        165.0,
+                        846.0,
+                        187.0,
+                        860.0
+                    ]
+                },
+                {
+                    "text": "has",
+                    "bbox": [
+                        190.0,
+                        846.0,
+                        208.0,
+                        860.0
+                    ]
+                },
+                {
+                    "text": "replaced",
+                    "bbox": [
+                        210.0,
+                        846.0,
+                        253.0,
+                        859.0
+                    ]
+                },
+                {
+                    "text": "all",
+                    "bbox": [
+                        255.0,
+                        846.0,
+                        266.0,
+                        859.0
+                    ]
+                },
+                {
+                    "text": "previous",
+                    "bbox": [
+                        269.0,
+                        846.0,
+                        309.0,
+                        859.0
+                    ]
+                },
+                {
+                    "text": "POS.",
+                    "bbox": [
+                        311.0,
+                        845.0,
+                        341.0,
+                        859.0
+                    ]
+                },
+                {
+                    "text": "They",
+                    "bbox": [
+                        343.0,
+                        845.0,
+                        368.0,
+                        858.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        370.0,
+                        845.0,
+                        394.0,
+                        858.0
+                    ]
+                },
+                {
+                    "text": "effectively",
+                    "bbox": [
+                        396.0,
+                        845.0,
+                        445.0,
+                        858.0
+                    ]
+                },
+                {
+                    "text": "replaced",
+                    "bbox": [
+                        447.0,
+                        844.0,
+                        490.0,
+                        858.0
+                    ]
+                },
+                {
+                    "text": "all",
+                    "bbox": [
+                        492.0,
+                        844.0,
+                        503.0,
+                        857.0
+                    ]
+                },
+                {
+                    "text": "old",
+                    "bbox": [
+                        505.0,
+                        844.0,
+                        521.0,
+                        857.0
+                    ]
+                },
+                {
+                    "text": "POS.",
+                    "bbox": [
+                        522.0,
+                        844.0,
+                        552.0,
+                        857.0
+                    ]
+                },
+                {
+                    "text": "New",
+                    "bbox": [
+                        554.0,
+                        844.0,
+                        576.0,
+                        857.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "door signage, hour signs, poster mats, and clocks have the new design. \"B\" Kool also appears on billboards",
+            "line_bbox": [
+                93.0,
+                865.0,
+                612.0,
+                882.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "door",
+                    "bbox": [
+                        94.0,
+                        870.0,
+                        115.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "signage,",
+                    "bbox": [
+                        117.0,
+                        870.0,
+                        158.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "hour",
+                    "bbox": [
+                        161.0,
+                        869.0,
+                        184.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "signs,",
+                    "bbox": [
+                        186.0,
+                        869.0,
+                        215.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "poster",
+                    "bbox": [
+                        218.0,
+                        868.0,
+                        248.0,
+                        881.0
+                    ]
+                },
+                {
+                    "text": "mats,",
+                    "bbox": [
+                        250.0,
+                        868.0,
+                        277.0,
+                        881.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        279.0,
+                        868.0,
+                        298.0,
+                        881.0
+                    ]
+                },
+                {
+                    "text": "clocks",
+                    "bbox": [
+                        300.0,
+                        867.0,
+                        332.0,
+                        881.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        334.0,
+                        867.0,
+                        358.0,
+                        881.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        360.0,
+                        867.0,
+                        375.0,
+                        880.0
+                    ]
+                },
+                {
+                    "text": "new",
+                    "bbox": [
+                        378.0,
+                        867.0,
+                        397.0,
+                        880.0
+                    ]
+                },
+                {
+                    "text": "design.",
+                    "bbox": [
+                        400.0,
+                        866.0,
+                        439.0,
+                        880.0
+                    ]
+                },
+                {
+                    "text": "\"B\"",
+                    "bbox": [
+                        441.0,
+                        866.0,
+                        457.0,
+                        879.0
+                    ]
+                },
+                {
+                    "text": "Kool",
+                    "bbox": [
+                        459.0,
+                        866.0,
+                        481.0,
+                        879.0
+                    ]
+                },
+                {
+                    "text": "also",
+                    "bbox": [
+                        483.0,
+                        866.0,
+                        504.0,
+                        879.0
+                    ]
+                },
+                {
+                    "text": "appears",
+                    "bbox": [
+                        506.0,
+                        866.0,
+                        546.0,
+                        879.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        548.0,
+                        866.0,
+                        561.0,
+                        878.0
+                    ]
+                },
+                {
+                    "text": "billboards",
+                    "bbox": [
+                        563.0,
+                        866.0,
+                        612.0,
+                        878.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "in Illinois.",
+            "line_bbox": [
+                92.0,
+                890.0,
+                139.0,
+                903.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "in",
+                    "bbox": [
+                        93.0,
+                        891.0,
+                        102.0,
+                        903.0
+                    ]
+                },
+                {
+                    "text": "Illinois.",
+                    "bbox": [
+                        104.0,
+                        891.0,
+                        139.0,
+                        904.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PAGE 1 OF 2",
+            "line_bbox": [
+                329.0,
+                950.0,
+                398.0,
+                963.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PAGE",
+                    "bbox": [
+                        329.0,
+                        950.0,
+                        359.0,
+                        963.0
+                    ]
+                },
+                {
+                    "text": "1",
+                    "bbox": [
+                        362.0,
+                        950.0,
+                        368.0,
+                        963.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        370.0,
+                        950.0,
+                        386.0,
+                        963.0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "bbox": [
+                        389.0,
+                        950.0,
+                        396.0,
+                        963.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,766 @@
+{
+    "text_lines": [
+        {
+            "text": "ADDENDUM II",
+            "bbox": [
+                367.0,
+                18.0,
+                456.0,
+                30.0
+            ]
+        },
+        {
+            "text": "24",
+            "bbox": [
+                711.0,
+                17.0,
+                729.0,
+                30.0
+            ]
+        },
+        {
+            "text": "COMPOUND PHYSICAL PARAMETERS",
+            "bbox": [
+                221.0,
+                49.0,
+                547.0,
+                69.0
+            ]
+        },
+        {
+            "text": "LAC COMPOUND CODE",
+            "bbox": [
+                63.0,
+                80.0,
+                152.0,
+                92.0
+            ]
+        },
+        {
+            "text": "A32",
+            "bbox": [
+                173.0,
+                90.0,
+                204.0,
+                103.0
+            ]
+        },
+        {
+            "text": "11/13/81",
+            "bbox": [
+                542.0,
+                90.0,
+                620.0,
+                103.0
+            ]
+        },
+        {
+            "text": "O ESTIMATED",
+            "bbox": [
+                500.0,
+                107.0,
+                560.0,
+                119.0
+            ]
+        },
+        {
+            "text": "MOLECULAR WEIGHT",
+            "bbox": [
+                64.0,
+                109.0,
+                145.0,
+                119.0
+            ]
+        },
+        {
+            "text": "SOLUBILITY",
+            "bbox": [
+                260.0,
+                109.0,
+                307.0,
+                119.0
+            ]
+        },
+        {
+            "text": "[ MEASURED",
+            "bbox": [
+                380.0,
+                109.0,
+                438.0,
+                119.0
+            ]
+        },
+        {
+            "text": "200.29",
+            "bbox": [
+                157.0,
+                119.0,
+                213.0,
+                133.0
+            ]
+        },
+        {
+            "text": "O water",
+            "bbox": [
+                260.0,
+                121.0,
+                304.0,
+                132.0
+            ]
+        },
+        {
+            "text": "\u00b7 D OTHER",
+            "bbox": [
+                325.0,
+                121.0,
+                378.0,
+                133.0
+            ]
+        },
+        {
+            "text": "AMOUNT",
+            "bbox": [
+                523.0,
+                122.0,
+                559.0,
+                132.0
+            ]
+        },
+        {
+            "text": "g 100eni",
+            "bbox": [
+                676.0,
+                123.0,
+                705.0,
+                132.0
+            ]
+        },
+        {
+            "text": "CLASS",
+            "bbox": [
+                65.0,
+                138.0,
+                92.0,
+                148.0
+            ]
+        },
+        {
+            "text": "O ACID",
+            "bbox": [
+                143.0,
+                145.0,
+                176.0,
+                156.0
+            ]
+        },
+        {
+            "text": "O OTHER",
+            "bbox": [
+                501.0,
+                145.0,
+                544.0,
+                156.0
+            ]
+        },
+        {
+            "text": "D BASE",
+            "bbox": [
+                276.0,
+                146.0,
+                310.0,
+                156.0
+            ]
+        },
+        {
+            "text": "DI SALT",
+            "bbox": [
+                391.0,
+                147.0,
+                426.0,
+                156.0
+            ]
+        },
+        {
+            "text": "DESCRIPTION OF REACTIVITY",
+            "bbox": [
+                392.0,
+                171.0,
+                507.0,
+                182.0
+            ]
+        },
+        {
+            "text": "REACTIVITY",
+            "bbox": [
+                66.0,
+                175.0,
+                112.0,
+                185.0
+            ]
+        },
+        {
+            "text": "WITHOUT HEATING",
+            "bbox": [
+                276.0,
+                198.0,
+                349.0,
+                208.0
+            ]
+        },
+        {
+            "text": "WITH HEATING (80\u00b0C)",
+            "bbox": [
+                532.0,
+                198.0,
+                615.0,
+                208.0
+            ]
+        },
+        {
+            "text": "[] UNCHANGED",
+            "bbox": [
+                235.0,
+                216.0,
+                298.0,
+                228.0
+            ]
+        },
+        {
+            "text": "O DECOMPOSITION",
+            "bbox": [
+                340.0,
+                216.0,
+                419.0,
+                228.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                491.0,
+                216.0,
+                555.0,
+                228.0
+            ]
+        },
+        {
+            "text": "DECOMPOSITION",
+            "bbox": [
+                599.0,
+                216.0,
+                678.0,
+                228.0
+            ]
+        },
+        {
+            "text": "1) WATER or BRINE:",
+            "bbox": [
+                87.0,
+                218.0,
+                165.0,
+                228.0
+            ]
+        },
+        {
+            "text": "DI DECOMPOSITION",
+            "bbox": [
+                599.0,
+                240.0,
+                678.0,
+                252.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                235.0,
+                243.0,
+                298.0,
+                253.0
+            ]
+        },
+        {
+            "text": "[] DECOMPOSITION",
+            "bbox": [
+                340.0,
+                242.0,
+                419.0,
+                252.0
+            ]
+        },
+        {
+            "text": "O UNCHANGED",
+            "bbox": [
+                491.0,
+                242.0,
+                555.0,
+                252.0
+            ]
+        },
+        {
+            "text": "2) 5% HCL:",
+            "bbox": [
+                86.0,
+                245.0,
+                130.0,
+                253.0
+            ]
+        },
+        {
+            "text": "D DECOMPOSITION",
+            "bbox": [
+                340.0,
+                270.0,
+                418.0,
+                282.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                490.0,
+                270.0,
+                555.0,
+                282.0
+            ]
+        },
+        {
+            "text": "DECOMPOSITION",
+            "bbox": [
+                598.0,
+                270.0,
+                678.0,
+                282.0
+            ]
+        },
+        {
+            "text": "3) 5% NaOH:",
+            "bbox": [
+                86.0,
+                273.0,
+                137.0,
+                282.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                235.0,
+                272.0,
+                298.0,
+                282.0
+            ]
+        },
+        {
+            "text": "O UNCHANGED",
+            "bbox": [
+                235.0,
+                299.0,
+                299.0,
+                311.0
+            ]
+        },
+        {
+            "text": "O DECOMPOSITION",
+            "bbox": [
+                340.0,
+                299.0,
+                420.0,
+                311.0
+            ]
+        },
+        {
+            "text": "( UNCHANGED",
+            "bbox": [
+                490.0,
+                300.0,
+                554.0,
+                311.0
+            ]
+        },
+        {
+            "text": "[] DECOMPOSITION!",
+            "bbox": [
+                599.0,
+                300.0,
+                679.0,
+                311.0
+            ]
+        },
+        {
+            "text": "4) ALCOHOLS:",
+            "bbox": [
+                86.0,
+                301.0,
+                144.0,
+                311.0
+            ]
+        },
+        {
+            "text": "DIDECOMPOSITION",
+            "bbox": [
+                340.0,
+                327.0,
+                419.0,
+                339.0
+            ]
+        },
+        {
+            "text": "[] UNCHANGED",
+            "bbox": [
+                490.0,
+                327.0,
+                555.0,
+                339.0
+            ]
+        },
+        {
+            "text": "D DECOMPOSITION",
+            "bbox": [
+                598.0,
+                327.0,
+                677.0,
+                338.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                235.0,
+                329.0,
+                299.0,
+                339.0
+            ]
+        },
+        {
+            "text": "5) Oxygen:",
+            "bbox": [
+                86.0,
+                330.0,
+                135.0,
+                339.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                235.0,
+                354.0,
+                300.0,
+                365.0
+            ]
+        },
+        {
+            "text": "[] DECOMPOSITION",
+            "bbox": [
+                340.0,
+                354.0,
+                419.0,
+                365.0
+            ]
+        },
+        {
+            "text": "O DECOMPOSITION",
+            "bbox": [
+                598.0,
+                354.0,
+                676.0,
+                365.0
+            ]
+        },
+        {
+            "text": "D UNCHANGED",
+            "bbox": [
+                492.0,
+                355.0,
+                555.0,
+                365.0
+            ]
+        },
+        {
+            "text": "6) LIGHT:",
+            "bbox": [
+                86.0,
+                356.0,
+                125.0,
+                365.0
+            ]
+        },
+        {
+            "text": "SAFETY COMMENTS (SUGGESTED HANDLING PROCEDURE)",
+            "bbox": [
+                66.0,
+                376.0,
+                296.0,
+                387.0
+            ]
+        },
+        {
+            "text": "CHEMICAL PURITY",
+            "bbox": [
+                65.0,
+                470.0,
+                139.0,
+                481.0
+            ]
+        },
+        {
+            "text": "ANALYTICAL METHOD(S)",
+            "bbox": [
+                393.0,
+                470.0,
+                488.0,
+                480.0
+            ]
+        },
+        {
+            "text": "SPECIAL STORAGE",
+            "bbox": [
+                488.0,
+                506.0,
+                582.0,
+                519.0
+            ]
+        },
+        {
+            "text": "Refrigerate",
+            "bbox": [
+                590.0,
+                506.0,
+                697.0,
+                520.0
+            ]
+        },
+        {
+            "text": "O NORMAL STORAGE   .  .",
+            "bbox": [
+                294.0,
+                508.0,
+                401.0,
+                519.0
+            ]
+        },
+        {
+            "text": "STORAGE RECOMMENDATIONS",
+            "bbox": [
+                68.0,
+                509.0,
+                188.0,
+                519.0
+            ]
+        },
+        {
+            "text": "in amber bottle at no",
+            "bbox": [
+                488.0,
+                519.0,
+                688.0,
+                533.0
+            ]
+        },
+        {
+            "text": "more than 8\u00b0C",
+            "bbox": [
+                487.0,
+                534.0,
+                613.0,
+                547.0
+            ]
+        },
+        {
+            "text": "COMPOUND SENSITIVE TO:",
+            "bbox": [
+                67.0,
+                536.0,
+                172.0,
+                548.0
+            ]
+        },
+        {
+            "text": "[] NA",
+            "bbox": [
+                67.0,
+                550.0,
+                94.0,
+                562.0
+            ]
+        },
+        {
+            "text": " O HEAT",
+            "bbox": [
+                115.0,
+                550.0,
+                150.0,
+                562.0
+            ]
+        },
+        {
+            "text": "O LIGHT",
+            "bbox": [
+                170.0,
+                550.0,
+                210.0,
+                562.0
+            ]
+        },
+        {
+            "text": "D MOISTUAE",
+            "bbox": [
+                229.0,
+                550.0,
+                287.0,
+                562.0
+            ]
+        },
+        {
+            "text": "O OTHER -",
+            "bbox": [
+                306.0,
+                550.0,
+                356.0,
+                562.0
+            ]
+        },
+        {
+            "text": "COMMENTS",
+            "bbox": [
+                67.0,
+                583.0,
+                115.0,
+                595.0
+            ]
+        },
+        {
+            "text": "pH - The pH of a 50% concentration of A32 in a 52.6% dioxane/water",
+            "bbox": [
+                93.0,
+                611.0,
+                709.0,
+                626.0
+            ]
+        },
+        {
+            "text": "solution was calculated to be 2.92 at 22\u00b0C according to the extra-",
+            "bbox": [
+                93.0,
+                626.0,
+                707.0,
+                641.0
+            ]
+        },
+        {
+            "text": "polation procedures by Dr. P. D. Schickedantz, Lorillard Research",
+            "bbox": [
+                93.0,
+                640.0,
+                701.0,
+                655.0
+            ]
+        },
+        {
+            "text": "Center Accession No. 1662, Reference OR 83-125.",
+            "bbox": [
+                93.0,
+                654.0,
+                528.0,
+                670.0
+            ]
+        },
+        {
+            "text": "Solubility (See SOP for Biological Solutions)",
+            "bbox": [
+                94.0,
+                682.0,
+                510.0,
+                697.0
+            ]
+        },
+        {
+            "text": "Oral - 5g A32 forms a suspension with stirring in 10 ml 1% Tween 80",
+            "bbox": [
+                93.0,
+                711.0,
+                718.0,
+                725.0
+            ]
+        },
+        {
+            "text": "at room temperature. Reference OR 72-151.",
+            "bbox": [
+                94.0,
+                725.0,
+                484.0,
+                739.0
+            ]
+        },
+        {
+            "text": "Acute Cardiovascular - Mix 2 mg A32 with 0.2 ml 80% propylene glycol",
+            "bbox": [
+                94.0,
+                753.0,
+                724.0,
+                769.0
+            ]
+        },
+        {
+            "text": "and grind lightly. Add 0.8 ml saline solution. A32 is a suspension",
+            "bbox": [
+                94.0,
+                767.0,
+                724.0,
+                783.0
+            ]
+        },
+        {
+            "text": "in this mixture at room temperature. Reference OR 72-152.",
+            "bbox": [
+                95.0,
+                783.0,
+                633.0,
+                797.0
+            ]
+        },
+        {
+            "text": "SIGNATURE",
+            "bbox": [
+                70.0,
+                853.0,
+                117.0,
+                865.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                510.0,
+                852.0,
+                534.0,
+                864.0
+            ]
+        },
+        {
+            "text": "LORILLARD RESEAR FEENTER",
+            "bbox": [
+                70.0,
+                880.0,
+                191.0,
+                891.0
+            ]
+        },
+        {
+            "text": "FORM 9 (10/80",
+            "bbox": [
+                665.0,
+                881.0,
+                720.0,
+                891.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        773.0,
+        1000.0
+    ]
+}

@@ -1,0 +1,2338 @@
+{
+    "text_lines": [
+        {
+            "line_text": ".4",
+            "line_bbox": [
+                23.0,
+                45.0,
+                29.0,
+                58.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": ".4",
+                    "bbox": [
+                        23.0,
+                        45.0,
+                        29.0,
+                        56.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LAURENCE, CHARLES, FREE & LAWSON, INC.",
+            "line_bbox": [
+                162.0,
+                48.0,
+                584.0,
+                72.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LAURENCE,",
+                    "bbox": [
+                        163.0,
+                        49.0,
+                        269.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "CHARLES,",
+                    "bbox": [
+                        273.0,
+                        49.0,
+                        369.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "FREE",
+                    "bbox": [
+                        373.0,
+                        49.0,
+                        424.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        429.0,
+                        49.0,
+                        444.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "LAWSON,",
+                    "bbox": [
+                        451.0,
+                        49.0,
+                        537.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "INC.",
+                    "bbox": [
+                        541.0,
+                        49.0,
+                        585.0,
+                        72.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BULLETIN ADVERTISING-INSPECTION REPORT",
+            "line_bbox": [
+                213.0,
+                73.0,
+                533.0,
+                92.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BULLETIN",
+                    "bbox": [
+                        213.0,
+                        74.0,
+                        280.0,
+                        92.0
+                    ]
+                },
+                {
+                    "text": "ADVERTISING-INSPECTION",
+                    "bbox": [
+                        283.0,
+                        74.0,
+                        469.0,
+                        92.0
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        473.0,
+                        74.0,
+                        533.0,
+                        92.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MARKET_Lakeland Metro Market",
+            "line_bbox": [
+                56.0,
+                131.0,
+                267.0,
+                148.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MARKET_Lakeland",
+                    "bbox": [
+                        56.0,
+                        131.0,
+                        176.0,
+                        148.0
+                    ]
+                },
+                {
+                    "text": "Metro",
+                    "bbox": [
+                        181.0,
+                        131.0,
+                        219.0,
+                        147.0
+                    ]
+                },
+                {
+                    "text": "Market",
+                    "bbox": [
+                        222.0,
+                        131.0,
+                        267.0,
+                        147.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRAND",
+            "line_bbox": [
+                366.0,
+                135.0,
+                404.0,
+                146.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRAND",
+                    "bbox": [
+                        366.0,
+                        135.0,
+                        402.0,
+                        147.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Misty",
+            "line_bbox": [
+                423.0,
+                130.0,
+                465.0,
+                143.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Misty",
+                    "bbox": [
+                        425.0,
+                        130.0,
+                        463.0,
+                        144.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "POPULATION",
+            "line_bbox": [
+                57.0,
+                164.0,
+                125.0,
+                177.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "POPULATION",
+                    "bbox": [
+                        57.0,
+                        165.0,
+                        123.0,
+                        178.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "400,400",
+            "line_bbox": [
+                154.0,
+                160.0,
+                204.0,
+                174.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "400,400",
+                    "bbox": [
+                        154.0,
+                        161.0,
+                        204.0,
+                        175.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCHEDULE 2/20 & 3/20",
+            "line_bbox": [
+                364.0,
+                161.0,
+                515.0,
+                177.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCHEDULE",
+                    "bbox": [
+                        365.0,
+                        163.0,
+                        423.0,
+                        177.0
+                    ]
+                },
+                {
+                    "text": "2/20",
+                    "bbox": [
+                        434.0,
+                        162.0,
+                        463.0,
+                        176.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        469.0,
+                        162.0,
+                        477.0,
+                        176.0
+                    ]
+                },
+                {
+                    "text": "3/20",
+                    "bbox": [
+                        483.0,
+                        162.0,
+                        512.0,
+                        176.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RIDE DATE3/23/91",
+            "line_bbox": [
+                535.0,
+                161.0,
+                638.0,
+                177.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RIDE",
+                    "bbox": [
+                        537.0,
+                        163.0,
+                        561.0,
+                        177.0
+                    ]
+                },
+                {
+                    "text": "DATE3/23/91",
+                    "bbox": [
+                        563.0,
+                        161.0,
+                        638.0,
+                        176.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OPERATOR",
+            "line_bbox": [
+                56.0,
+                194.0,
+                118.0,
+                209.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OPERATOR",
+                    "bbox": [
+                        57.0,
+                        195.0,
+                        114.0,
+                        209.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The Lamar Corp.",
+            "line_bbox": [
+                140.0,
+                186.0,
+                246.0,
+                201.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        141.0,
+                        186.0,
+                        162.0,
+                        201.0
+                    ]
+                },
+                {
+                    "text": "Lamar",
+                    "bbox": [
+                        166.0,
+                        186.0,
+                        204.0,
+                        201.0
+                    ]
+                },
+                {
+                    "text": "Corp.",
+                    "bbox": [
+                        209.0,
+                        187.0,
+                        246.0,
+                        201.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FULL INSPECTION",
+            "line_bbox": [
+                364.0,
+                194.0,
+                462.0,
+                207.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FULL",
+                    "bbox": [
+                        365.0,
+                        195.0,
+                        391.0,
+                        208.0
+                    ]
+                },
+                {
+                    "text": "INSPECTION",
+                    "bbox": [
+                        393.0,
+                        195.0,
+                        458.0,
+                        208.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SPOT CHECK",
+            "line_bbox": [
+                534.0,
+                193.0,
+                607.0,
+                207.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SPOT",
+                    "bbox": [
+                        537.0,
+                        194.0,
+                        564.0,
+                        207.0
+                    ]
+                },
+                {
+                    "text": "CHECK",
+                    "bbox": [
+                        566.0,
+                        194.0,
+                        604.0,
+                        207.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NUMBER VIEWED",
+            "line_bbox": [
+                365.0,
+                225.0,
+                458.0,
+                238.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NUMBER",
+                    "bbox": [
+                        365.0,
+                        225.0,
+                        411.0,
+                        239.0
+                    ]
+                },
+                {
+                    "text": "VIEWED",
+                    "bbox": [
+                        413.0,
+                        225.0,
+                        456.0,
+                        238.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TYPE OF DISPLAY",
+            "line_bbox": [
+                321.0,
+                251.0,
+                425.0,
+                266.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TYPE",
+                    "bbox": [
+                        322.0,
+                        252.0,
+                        353.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        355.0,
+                        252.0,
+                        372.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "DISPLAY",
+                    "bbox": [
+                        374.0,
+                        252.0,
+                        426.0,
+                        266.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PERMANENT",
+            "line_bbox": [
+                178.0,
+                287.0,
+                256.0,
+                301.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PERMANENT",
+                    "bbox": [
+                        179.0,
+                        288.0,
+                        253.0,
+                        301.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BULLETIN",
+            "line_bbox": [
+                56.0,
+                319.0,
+                106.0,
+                331.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BULLETIN",
+                    "bbox": [
+                        57.0,
+                        320.0,
+                        104.0,
+                        331.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WALL",
+            "line_bbox": [
+                176.0,
+                317.0,
+                217.0,
+                331.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WALL",
+                    "bbox": [
+                        178.0,
+                        318.0,
+                        205.0,
+                        331.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ROTARY [X]",
+            "line_bbox": [
+                383.0,
+                316.0,
+                444.0,
+                331.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ROTARY",
+                    "bbox": [
+                        383.0,
+                        317.0,
+                        422.0,
+                        332.0
+                    ]
+                },
+                {
+                    "text": "[X]",
+                    "bbox": [
+                        424.0,
+                        317.0,
+                        444.0,
+                        332.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LOCATION",
+            "line_bbox": [
+                56.0,
+                350.0,
+                107.0,
+                363.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LOCATION",
+                    "bbox": [
+                        57.0,
+                        351.0,
+                        104.0,
+                        363.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "See attached list",
+            "line_bbox": [
+                139.0,
+                347.0,
+                261.0,
+                362.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "See",
+                    "bbox": [
+                        139.0,
+                        349.0,
+                        160.0,
+                        362.0
+                    ]
+                },
+                {
+                    "text": "attached",
+                    "bbox": [
+                        166.0,
+                        348.0,
+                        224.0,
+                        362.0
+                    ]
+                },
+                {
+                    "text": "list",
+                    "bbox": [
+                        230.0,
+                        348.0,
+                        259.0,
+                        363.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NO. OF ROTARIES",
+            "line_bbox": [
+                383.0,
+                350.0,
+                468.0,
+                362.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        383.0,
+                        351.0,
+                        399.0,
+                        363.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        402.0,
+                        351.0,
+                        415.0,
+                        362.0
+                    ]
+                },
+                {
+                    "text": "ROTARIES",
+                    "bbox": [
+                        417.0,
+                        350.0,
+                        465.0,
+                        363.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "8 RB",
+            "line_bbox": [
+                509.0,
+                349.0,
+                542.0,
+                363.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "8",
+                    "bbox": [
+                        509.0,
+                        349.0,
+                        517.0,
+                        362.0
+                    ]
+                },
+                {
+                    "text": "RB",
+                    "bbox": [
+                        524.0,
+                        349.0,
+                        540.0,
+                        363.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DAILY",
+            "line_bbox": [
+                56.0,
+                383.0,
+                86.0,
+                394.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DAILY",
+                    "bbox": [
+                        56.0,
+                        383.0,
+                        84.0,
+                        394.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EFFECTIVE CIRCULATION",
+            "line_bbox": [
+                56.0,
+                393.0,
+                178.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EFFECTIVE",
+                    "bbox": [
+                        56.0,
+                        395.0,
+                        108.0,
+                        408.0
+                    ]
+                },
+                {
+                    "text": "CIRCULATION",
+                    "bbox": [
+                        111.0,
+                        394.0,
+                        175.0,
+                        408.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "240,900",
+            "line_bbox": [
+                215.0,
+                389.0,
+                268.0,
+                404.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "240,900",
+                    "bbox": [
+                        216.0,
+                        390.0,
+                        266.0,
+                        404.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AVERAGE DAILY",
+            "line_bbox": [
+                381.0,
+                383.0,
+                466.0,
+                396.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AVERAGE",
+                    "bbox": [
+                        383.0,
+                        384.0,
+                        428.0,
+                        395.0
+                    ]
+                },
+                {
+                    "text": "DAILY",
+                    "bbox": [
+                        429.0,
+                        384.0,
+                        458.0,
+                        396.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EFFECTIVE CIRCULATION",
+            "line_bbox": [
+                382.0,
+                393.0,
+                504.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EFFECTIVE",
+                    "bbox": [
+                        383.0,
+                        394.0,
+                        435.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "CIRCULATION",
+                    "bbox": [
+                        437.0,
+                        394.0,
+                        501.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "218,499",
+            "line_bbox": [
+                538.0,
+                390.0,
+                591.0,
+                406.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "218,499",
+                    "bbox": [
+                        539.0,
+                        391.0,
+                        589.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESIGN ON DISPLAY: (Condition And Rendition of Copy)",
+            "line_bbox": [
+                57.0,
+                420.0,
+                358.0,
+                437.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESIGN",
+                    "bbox": [
+                        58.0,
+                        421.0,
+                        101.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "bbox": [
+                        104.0,
+                        421.0,
+                        122.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "DISPLAY:",
+                    "bbox": [
+                        124.0,
+                        421.0,
+                        178.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "(Condition",
+                    "bbox": [
+                        181.0,
+                        421.0,
+                        235.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "And",
+                    "bbox": [
+                        237.0,
+                        421.0,
+                        258.0,
+                        437.0
+                    ]
+                },
+                {
+                    "text": "Rendition",
+                    "bbox": [
+                        261.0,
+                        421.0,
+                        310.0,
+                        437.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        312.0,
+                        421.0,
+                        322.0,
+                        437.0
+                    ]
+                },
+                {
+                    "text": "Copy)",
+                    "bbox": [
+                        324.0,
+                        421.0,
+                        358.0,
+                        437.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS: (Description of Location or Rotary Plan, Brand Category Competition)",
+            "line_bbox": [
+                56.0,
+                492.0,
+                489.0,
+                508.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS:",
+                    "bbox": [
+                        57.0,
+                        492.0,
+                        129.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "(Description",
+                    "bbox": [
+                        131.0,
+                        493.0,
+                        194.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        196.0,
+                        493.0,
+                        206.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "Location",
+                    "bbox": [
+                        209.0,
+                        493.0,
+                        253.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        256.0,
+                        493.0,
+                        267.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "Rotary",
+                    "bbox": [
+                        269.0,
+                        493.0,
+                        303.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "Plan,",
+                    "bbox": [
+                        306.0,
+                        493.0,
+                        334.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "Brand",
+                    "bbox": [
+                        336.0,
+                        493.0,
+                        367.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "Category",
+                    "bbox": [
+                        370.0,
+                        493.0,
+                        418.0,
+                        508.0
+                    ]
+                },
+                {
+                    "text": "Competition)",
+                    "bbox": [
+                        420.0,
+                        493.0,
+                        490.0,
+                        508.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "This is a comparatively easy market to cover. It is less than an hour from Tampa",
+            "line_bbox": [
+                55.0,
+                513.0,
+                624.0,
+                533.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "This",
+                    "bbox": [
+                        55.0,
+                        514.0,
+                        83.0,
+                        529.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        89.0,
+                        514.0,
+                        104.0,
+                        530.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        109.0,
+                        514.0,
+                        118.0,
+                        530.0
+                    ]
+                },
+                {
+                    "text": "comparatively",
+                    "bbox": [
+                        123.0,
+                        514.0,
+                        216.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "easy",
+                    "bbox": [
+                        221.0,
+                        515.0,
+                        250.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "market",
+                    "bbox": [
+                        256.0,
+                        515.0,
+                        300.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        307.0,
+                        516.0,
+                        321.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "cover.",
+                    "bbox": [
+                        327.0,
+                        516.0,
+                        372.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "It",
+                    "bbox": [
+                        383.0,
+                        516.0,
+                        399.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        404.0,
+                        516.0,
+                        420.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "less",
+                    "bbox": [
+                        425.0,
+                        517.0,
+                        455.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "than",
+                    "bbox": [
+                        461.0,
+                        517.0,
+                        490.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "an",
+                    "bbox": [
+                        495.0,
+                        517.0,
+                        511.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "hour",
+                    "bbox": [
+                        515.0,
+                        517.0,
+                        547.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        552.0,
+                        518.0,
+                        581.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "Tampa",
+                    "bbox": [
+                        587.0,
+                        518.0,
+                        623.0,
+                        533.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "airport. Our bulletins are on every major arterial and in all quadrants of the area.",
+            "line_bbox": [
+                55.0,
+                529.0,
+                650.0,
+                546.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "airport.",
+                    "bbox": [
+                        55.0,
+                        529.0,
+                        112.0,
+                        543.0
+                    ]
+                },
+                {
+                    "text": "Our",
+                    "bbox": [
+                        122.0,
+                        529.0,
+                        146.0,
+                        543.0
+                    ]
+                },
+                {
+                    "text": "bulletins",
+                    "bbox": [
+                        150.0,
+                        530.0,
+                        216.0,
+                        544.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        221.0,
+                        530.0,
+                        244.0,
+                        544.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        249.0,
+                        530.0,
+                        264.0,
+                        544.0
+                    ]
+                },
+                {
+                    "text": "every",
+                    "bbox": [
+                        270.0,
+                        530.0,
+                        307.0,
+                        545.0
+                    ]
+                },
+                {
+                    "text": "major",
+                    "bbox": [
+                        312.0,
+                        531.0,
+                        350.0,
+                        545.0
+                    ]
+                },
+                {
+                    "text": "arterial",
+                    "bbox": [
+                        354.0,
+                        531.0,
+                        413.0,
+                        545.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        418.0,
+                        531.0,
+                        441.0,
+                        546.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        447.0,
+                        531.0,
+                        462.0,
+                        546.0
+                    ]
+                },
+                {
+                    "text": "all",
+                    "bbox": [
+                        467.0,
+                        532.0,
+                        490.0,
+                        546.0
+                    ]
+                },
+                {
+                    "text": "quadrants",
+                    "bbox": [
+                        495.0,
+                        532.0,
+                        560.0,
+                        546.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        566.0,
+                        532.0,
+                        582.0,
+                        546.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        587.0,
+                        532.0,
+                        609.0,
+                        546.0
+                    ]
+                },
+                {
+                    "text": "area.",
+                    "bbox": [
+                        615.0,
+                        533.0,
+                        650.0,
+                        547.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "No changes were made. Some minor on-premise blocking and trees were noted, but not",
+            "line_bbox": [
+                53.0,
+                543.0,
+                639.0,
+                560.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "No",
+                    "bbox": [
+                        54.0,
+                        543.0,
+                        69.0,
+                        557.0
+                    ]
+                },
+                {
+                    "text": "changes",
+                    "bbox": [
+                        73.0,
+                        543.0,
+                        125.0,
+                        557.0
+                    ]
+                },
+                {
+                    "text": "were",
+                    "bbox": [
+                        129.0,
+                        544.0,
+                        159.0,
+                        557.0
+                    ]
+                },
+                {
+                    "text": "made.",
+                    "bbox": [
+                        164.0,
+                        544.0,
+                        203.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "Some",
+                    "bbox": [
+                        214.0,
+                        544.0,
+                        244.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "minor",
+                    "bbox": [
+                        248.0,
+                        544.0,
+                        286.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "on-premise",
+                    "bbox": [
+                        291.0,
+                        544.0,
+                        362.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "blocking",
+                    "bbox": [
+                        368.0,
+                        545.0,
+                        426.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        432.0,
+                        545.0,
+                        455.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "trees",
+                    "bbox": [
+                        461.0,
+                        546.0,
+                        496.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "were",
+                    "bbox": [
+                        502.0,
+                        546.0,
+                        532.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "noted,",
+                    "bbox": [
+                        537.0,
+                        546.0,
+                        582.0,
+                        561.0
+                    ]
+                },
+                {
+                    "text": "but",
+                    "bbox": [
+                        586.0,
+                        546.0,
+                        610.0,
+                        561.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        614.0,
+                        547.0,
+                        637.0,
+                        561.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "deemed serious enough for correction.",
+            "line_bbox": [
+                53.0,
+                556.0,
+                316.0,
+                572.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "deemed",
+                    "bbox": [
+                        54.0,
+                        557.0,
+                        97.0,
+                        571.0
+                    ]
+                },
+                {
+                    "text": "serious",
+                    "bbox": [
+                        101.0,
+                        557.0,
+                        153.0,
+                        572.0
+                    ]
+                },
+                {
+                    "text": "enough",
+                    "bbox": [
+                        158.0,
+                        558.0,
+                        202.0,
+                        572.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        208.0,
+                        558.0,
+                        230.0,
+                        572.0
+                    ]
+                },
+                {
+                    "text": "correction.",
+                    "bbox": [
+                        235.0,
+                        558.0,
+                        316.0,
+                        573.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Camel.",
+            "line_bbox": [
+                53.0,
+                598.0,
+                98.0,
+                613.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Camel.",
+                    "bbox": [
+                        54.0,
+                        599.0,
+                        97.0,
+                        614.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The only other tobacco in the market was a standing 6 Panel RJR buy currently showing",
+            "line_bbox": [
+                54.0,
+                584.0,
+                654.0,
+                604.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        54.0,
+                        584.0,
+                        76.0,
+                        600.0
+                    ]
+                },
+                {
+                    "text": "only",
+                    "bbox": [
+                        79.0,
+                        585.0,
+                        111.0,
+                        600.0
+                    ]
+                },
+                {
+                    "text": "other",
+                    "bbox": [
+                        115.0,
+                        585.0,
+                        153.0,
+                        601.0
+                    ]
+                },
+                {
+                    "text": "tobacco",
+                    "bbox": [
+                        158.0,
+                        585.0,
+                        210.0,
+                        601.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        215.0,
+                        585.0,
+                        230.0,
+                        601.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        236.0,
+                        585.0,
+                        259.0,
+                        601.0
+                    ]
+                },
+                {
+                    "text": "market",
+                    "bbox": [
+                        262.0,
+                        585.0,
+                        308.0,
+                        602.0
+                    ]
+                },
+                {
+                    "text": "was",
+                    "bbox": [
+                        310.0,
+                        586.0,
+                        336.0,
+                        602.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        340.0,
+                        586.0,
+                        349.0,
+                        602.0
+                    ]
+                },
+                {
+                    "text": "standing",
+                    "bbox": [
+                        353.0,
+                        586.0,
+                        414.0,
+                        602.0
+                    ]
+                },
+                {
+                    "text": "6",
+                    "bbox": [
+                        416.0,
+                        586.0,
+                        426.0,
+                        602.0
+                    ]
+                },
+                {
+                    "text": "Panel",
+                    "bbox": [
+                        430.0,
+                        586.0,
+                        469.0,
+                        603.0
+                    ]
+                },
+                {
+                    "text": "RJR",
+                    "bbox": [
+                        473.0,
+                        587.0,
+                        498.0,
+                        603.0
+                    ]
+                },
+                {
+                    "text": "buy",
+                    "bbox": [
+                        500.0,
+                        587.0,
+                        526.0,
+                        603.0
+                    ]
+                },
+                {
+                    "text": "currently",
+                    "bbox": [
+                        529.0,
+                        587.0,
+                        595.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "showing",
+                    "bbox": [
+                        599.0,
+                        588.0,
+                        652.0,
+                        604.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS ON PLANT: (Condition, Structures, Painting Ability, Lighting, Cooperation, etc.)",
+            "line_bbox": [
+                57.0,
+                687.0,
+                535.0,
+                704.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS",
+                    "bbox": [
+                        58.0,
+                        688.0,
+                        125.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "bbox": [
+                        128.0,
+                        688.0,
+                        145.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "PLANT:",
+                    "bbox": [
+                        148.0,
+                        688.0,
+                        191.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "(Condition,",
+                    "bbox": [
+                        194.0,
+                        688.0,
+                        250.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Structures,",
+                    "bbox": [
+                        253.0,
+                        689.0,
+                        310.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Painting",
+                    "bbox": [
+                        313.0,
+                        689.0,
+                        354.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Ability,",
+                    "bbox": [
+                        357.0,
+                        689.0,
+                        390.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Lighting,",
+                    "bbox": [
+                        393.0,
+                        689.0,
+                        436.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Cooperation,",
+                    "bbox": [
+                        439.0,
+                        688.0,
+                        507.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "etc.)",
+                    "bbox": [
+                        509.0,
+                        688.0,
+                        535.0,
+                        705.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The plant is well maintained and covers all parts of the market. Lamar looks like a",
+            "line_bbox": [
+                53.0,
+                709.0,
+                645.0,
+                728.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        53.0,
+                        709.0,
+                        75.0,
+                        725.0
+                    ]
+                },
+                {
+                    "text": "plant",
+                    "bbox": [
+                        79.0,
+                        709.0,
+                        118.0,
+                        725.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        123.0,
+                        710.0,
+                        138.0,
+                        725.0
+                    ]
+                },
+                {
+                    "text": "well",
+                    "bbox": [
+                        142.0,
+                        710.0,
+                        174.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "maintained",
+                    "bbox": [
+                        177.0,
+                        710.0,
+                        251.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        256.0,
+                        711.0,
+                        279.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "covers",
+                    "bbox": [
+                        283.0,
+                        711.0,
+                        328.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "all",
+                    "bbox": [
+                        333.0,
+                        711.0,
+                        357.0,
+                        727.0
+                    ]
+                },
+                {
+                    "text": "parts",
+                    "bbox": [
+                        361.0,
+                        711.0,
+                        399.0,
+                        727.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        403.0,
+                        712.0,
+                        420.0,
+                        727.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        425.0,
+                        712.0,
+                        448.0,
+                        727.0
+                    ]
+                },
+                {
+                    "text": "market.",
+                    "bbox": [
+                        451.0,
+                        712.0,
+                        505.0,
+                        728.0
+                    ]
+                },
+                {
+                    "text": "Lamar",
+                    "bbox": [
+                        514.0,
+                        712.0,
+                        553.0,
+                        728.0
+                    ]
+                },
+                {
+                    "text": "looks",
+                    "bbox": [
+                        558.0,
+                        712.0,
+                        595.0,
+                        728.0
+                    ]
+                },
+                {
+                    "text": "like",
+                    "bbox": [
+                        600.0,
+                        713.0,
+                        630.0,
+                        729.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        635.0,
+                        713.0,
+                        644.0,
+                        729.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "good citizen here, keeping a good-looking operation. doing public service, and",
+            "line_bbox": [
+                52.0,
+                724.0,
+                604.0,
+                742.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "good",
+                    "bbox": [
+                        53.0,
+                        725.0,
+                        81.0,
+                        739.0
+                    ]
+                },
+                {
+                    "text": "citizen",
+                    "bbox": [
+                        87.0,
+                        725.0,
+                        138.0,
+                        740.0
+                    ]
+                },
+                {
+                    "text": "here,",
+                    "bbox": [
+                        142.0,
+                        725.0,
+                        182.0,
+                        740.0
+                    ]
+                },
+                {
+                    "text": "keeping",
+                    "bbox": [
+                        186.0,
+                        725.0,
+                        237.0,
+                        740.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        242.0,
+                        725.0,
+                        251.0,
+                        741.0
+                    ]
+                },
+                {
+                    "text": "good-looking",
+                    "bbox": [
+                        255.0,
+                        725.0,
+                        342.0,
+                        741.0
+                    ]
+                },
+                {
+                    "text": "operation.",
+                    "bbox": [
+                        347.0,
+                        726.0,
+                        421.0,
+                        742.0
+                    ]
+                },
+                {
+                    "text": "doing",
+                    "bbox": [
+                        423.0,
+                        727.0,
+                        462.0,
+                        742.0
+                    ]
+                },
+                {
+                    "text": "public",
+                    "bbox": [
+                        465.0,
+                        727.0,
+                        511.0,
+                        742.0
+                    ]
+                },
+                {
+                    "text": "service,",
+                    "bbox": [
+                        515.0,
+                        727.0,
+                        575.0,
+                        742.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        579.0,
+                        728.0,
+                        603.0,
+                        742.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "carrying a lot of local advertisers.",
+            "line_bbox": [
+                52.0,
+                738.0,
+                307.0,
+                755.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "carrying",
+                    "bbox": [
+                        52.0,
+                        738.0,
+                        110.0,
+                        755.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        115.0,
+                        738.0,
+                        123.0,
+                        754.0
+                    ]
+                },
+                {
+                    "text": "lot",
+                    "bbox": [
+                        130.0,
+                        738.0,
+                        152.0,
+                        754.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        157.0,
+                        738.0,
+                        173.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "local",
+                    "bbox": [
+                        179.0,
+                        738.0,
+                        216.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "advertisers.",
+                    "bbox": [
+                        221.0,
+                        739.0,
+                        307.0,
+                        754.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(FORM NO. MS-002)",
+            "line_bbox": [
+                31.0,
+                893.0,
+                99.0,
+                903.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(FORM",
+                    "bbox": [
+                        32.0,
+                        893.0,
+                        54.0,
+                        903.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        55.0,
+                        893.0,
+                        68.0,
+                        903.0
+                    ]
+                },
+                {
+                    "text": "MS-002)",
+                    "bbox": [
+                        69.0,
+                        894.0,
+                        99.0,
+                        903.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INSPECTION BY",
+            "line_bbox": [
+                540.0,
+                887.0,
+                625.0,
+                901.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INSPECTION",
+                    "bbox": [
+                        541.0,
+                        888.0,
+                        605.0,
+                        901.0
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "bbox": [
+                        608.0,
+                        888.0,
+                        624.0,
+                        901.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "970518461",
+            "line_bbox": [
+                0.0,
+                952.0,
+                77.0,
+                966.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "970518461",
+                    "bbox": [
+                        0.0,
+                        953.0,
+                        77.0,
+                        966.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCED FROM B&W WEB SITE",
+            "line_bbox": [
+                0.0,
+                968.0,
+                232.0,
+                982.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCED",
+                    "bbox": [
+                        0.0,
+                        969.0,
+                        68.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "bbox": [
+                        78.0,
+                        969.0,
+                        113.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "B&W",
+                    "bbox": [
+                        122.0,
+                        969.0,
+                        148.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "WEB",
+                    "bbox": [
+                        157.0,
+                        969.0,
+                        185.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "SITE",
+                    "bbox": [
+                        194.0,
+                        968.0,
+                        228.0,
+                        983.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

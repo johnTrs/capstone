@@ -1,0 +1,334 @@
+{
+    "text_lines": [
+        {
+            "text": "COUPON CODE REGISTRATION FORM",
+            "bbox": [
+                301.0,
+                143.0,
+                519.0,
+                157.0
+            ]
+        },
+        {
+            "text": "FROM: THOM SMITH",
+            "bbox": [
+                106.0,
+                171.0,
+                230.0,
+                185.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                105.0,
+                202.0,
+                131.0,
+                215.0
+            ]
+        },
+        {
+            "text": "VINCE LOSITO",
+            "bbox": [
+                140.0,
+                202.0,
+                226.0,
+                216.0
+            ]
+        },
+        {
+            "text": "CC: ",
+            "bbox": [
+                105.0,
+                232.0,
+                133.0,
+                246.0
+            ]
+        },
+        {
+            "text": "D. WEST, L. GIORDANO, V. LINDSLEY, A. SADOVNICK,  S. RAPISARLDI, B. DAVIN, A. Pasheluk",
+            "bbox": [
+                141.0,
+                232.0,
+                658.0,
+                249.0
+            ]
+        },
+        {
+            "text": "KENT HEAVY UP TEST DIRECT MAIL CPNS NOW Names",
+            "bbox": [
+                298.0,
+                261.0,
+                658.0,
+                287.0
+            ]
+        },
+        {
+            "text": "BRANDS(S) AP - ICABLE",
+            "bbox": [
+                104.0,
+                295.0,
+                245.0,
+                310.0
+            ]
+        },
+        {
+            "text": "KENT",
+            "bbox": [
+                299.0,
+                295.0,
+                335.0,
+                310.0
+            ]
+        },
+        {
+            "text": "MEDIA",
+            "bbox": [
+                103.0,
+                325.0,
+                146.0,
+                340.0
+            ]
+        },
+        {
+            "text": "DIRECT MAIL",
+            "bbox": [
+                299.0,
+                325.0,
+                378.0,
+                341.0
+            ]
+        },
+        {
+            "text": "ISSUE FREQUENCY/YEAR",
+            "bbox": [
+                103.0,
+                355.0,
+                253.0,
+                371.0
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                356.0,
+                357.0,
+                368.0,
+                371.0
+            ]
+        },
+        {
+            "text": "SPACE/COLOR",
+            "bbox": [
+                103.0,
+                385.0,
+                192.0,
+                401.0
+            ]
+        },
+        {
+            "text": "COUPON ISSUE DATE",
+            "bbox": [
+                103.0,
+                415.0,
+                230.0,
+                431.0
+            ]
+        },
+        {
+            "text": "10/13/95",
+            "bbox": [
+                298.0,
+                415.0,
+                349.0,
+                432.0
+            ]
+        },
+        {
+            "text": "COUPON EXP!RATION DATE",
+            "bbox": [
+                102.0,
+                445.0,
+                264.0,
+                462.0
+            ]
+        },
+        {
+            "text": "12/17/95",
+            "bbox": [
+                297.0,
+                446.0,
+                349.0,
+                462.0
+            ]
+        },
+        {
+            "text": " CIRCULATION",
+            "bbox": [
+                101.0,
+                490.0,
+                185.0,
+                506.0
+            ]
+        },
+        {
+            "text": "r : 4",
+            "bbox": [
+                101.0,
+                507.0,
+                122.0,
+                521.0
+            ]
+        },
+        {
+            "text": "GEOGRAPHICAL AREA(S)",
+            "bbox": [
+                101.0,
+                536.0,
+                248.0,
+                552.0
+            ]
+        },
+        {
+            "text": "Regions 11, 17, 21",
+            "bbox": [
+                297.0,
+                536.0,
+                400.0,
+                552.0
+            ]
+        },
+        {
+            "text": "COUPON VALUE",
+            "bbox": [
+                101.0,
+                566.0,
+                198.0,
+                582.0
+            ]
+        },
+        {
+            "text": "$2 off 3 Pcks or Crtn",
+            "bbox": [
+                296.0,
+                567.0,
+                409.0,
+                583.0
+            ]
+        },
+        {
+            "text": "PACK AND OR/CARTON",
+            "bbox": [
+                101.0,
+                596.0,
+                238.0,
+                613.0
+            ]
+        },
+        {
+            "text": "PACK OR CARTON",
+            "bbox": [
+                296.0,
+                597.0,
+                404.0,
+                613.0
+            ]
+        },
+        {
+            "text": "ADVERTISING CREATIVE THEME",
+            "bbox": [
+                101.0,
+                627.0,
+                288.0,
+                643.0
+            ]
+        },
+        {
+            "text": "SIGNATURE OF INITIATOR",
+            "bbox": [
+                101.0,
+                658.0,
+                253.0,
+                674.0
+            ]
+        },
+        {
+            "text": "DATE INITIATED",
+            "bbox": [
+                100.0,
+                688.0,
+                196.0,
+                704.0
+            ]
+        },
+        {
+            "text": "6/8/95",
+            "bbox": [
+                296.0,
+                689.0,
+                333.0,
+                703.0
+            ]
+        },
+        {
+            "text": "ANALYTICAL REQUIREMENTS:",
+            "bbox": [
+                101.0,
+                719.0,
+                275.0,
+                735.0
+            ]
+        },
+        {
+            "text": "FOR CONTROL USE ONLY:",
+            "bbox": [
+                296.0,
+                750.0,
+                449.0,
+                765.0
+            ]
+        },
+        {
+            "text": "CODE ASSIGNED:",
+            "bbox": [
+                296.0,
+                780.0,
+                399.0,
+                795.0
+            ]
+        },
+        {
+            "text": "JOB NUMBER:",
+            "bbox": [
+                296.0,
+                794.0,
+                380.0,
+                810.0
+            ]
+        },
+        {
+            "text": "EST. REDEMPTION:",
+            "bbox": [
+                296.0,
+                810.0,
+                409.0,
+                825.0
+            ]
+        },
+        {
+            "text": "1956 L61",
+            "bbox": [
+                676.0,
+                822.0,
+                694.0,
+                878.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

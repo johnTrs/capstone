@@ -1,0 +1,496 @@
+{
+    "text_lines": [
+        {
+            "text": "April 27, 1981",
+            "bbox": [
+                575.0,
+                9.0,
+                681.0,
+                27.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                533.0,
+                10.0,
+                568.0,
+                24.0
+            ]
+        },
+        {
+            "text": "MARKETING RESEARCH PROJECT APPROVAL",
+            "bbox": [
+                305.0,
+                24.0,
+                560.0,
+                38.0
+            ]
+        },
+        {
+            "text": "(To be filled out by Marketing Research Department)",
+            "bbox": [
+                231.0,
+                36.0,
+                592.0,
+                55.0
+            ]
+        },
+        {
+            "text": "PROJECT",
+            "bbox": [
+                370.0,
+                71.0,
+                426.0,
+                83.0
+            ]
+        },
+        {
+            "text": "No Side Stream |\nSmoke Focus Groups",
+            "bbox": [
+                425.0,
+                73.0,
+                560.0,
+                97.0
+            ]
+        },
+        {
+            "text": "PRODUCT",
+            "bbox": [
+                134.0,
+                79.0,
+                189.0,
+                94.0
+            ]
+        },
+        {
+            "text": "JOB4 5546/1481",
+            "bbox": [
+                597.0,
+                81.0,
+                701.0,
+                95.0
+            ]
+        },
+        {
+            "text": "New Products",
+            "bbox": [
+                198.0,
+                83.0,
+                289.0,
+                97.0
+            ]
+        },
+        {
+            "text": "Research Design (N, Cells, Elegibility, Design, Key Banner Breaks, Methodology, Cities)",
+            "bbox": [
+                133.0,
+                106.0,
+                755.0,
+                129.0
+            ]
+        },
+        {
+            "text": "Three Groups (1 male/2 female) will be conducted in Ridgewood, N.J. on May 7th",
+            "bbox": [
+                120.0,
+                159.0,
+                681.0,
+                174.0
+            ]
+        },
+        {
+            "text": "to explore the NSS concept/product.",
+            "bbox": [
+                120.0,
+                174.0,
+                373.0,
+                190.0
+            ]
+        },
+        {
+            "text": "The groups will be comprised of random Reduced Tar smokers.",
+            "bbox": [
+                120.0,
+                203.0,
+                550.0,
+                218.0
+            ]
+        },
+        {
+            "text": "No group will",
+            "bbox": [
+                554.0,
+                202.0,
+                651.0,
+                217.0
+            ]
+        },
+        {
+            "text": "be over represented by brand, type or size of cigarettes.",
+            "bbox": [
+                120.0,
+                217.0,
+                528.0,
+                233.0
+            ]
+        },
+        {
+            "text": "All smokers will be 18 years and over and smoke 10+ cigarettes per day.",
+            "bbox": [
+                120.0,
+                247.0,
+                624.0,
+                261.0
+            ]
+        },
+        {
+            "text": "Key Criteria For Analysis",
+            "bbox": [
+                130.0,
+                371.0,
+                312.0,
+                385.0
+            ]
+        },
+        {
+            "text": "To determine if the NSS concept/product is viable based upon; smokers reactions.",
+            "bbox": [
+                120.0,
+                403.0,
+                686.0,
+                419.0
+            ]
+        },
+        {
+            "text": "Research Limitations",
+            "bbox": [
+                128.0,
+                472.0,
+                275.0,
+                486.0
+            ]
+        },
+        {
+            "text": "Information from this exploratory research is directional only",
+            "bbox": [
+                120.0,
+                506.0,
+                566.0,
+                520.0
+            ]
+        },
+        {
+            "text": "Cost Estimate",
+            "bbox": [
+                127.0,
+                588.0,
+                227.0,
+                604.0
+            ]
+        },
+        {
+            "text": "$6.816",
+            "bbox": [
+                249.0,
+                592.0,
+                296.0,
+                605.0
+            ]
+        },
+        {
+            "text": "Research Firm",
+            "bbox": [
+                470.0,
+                593.0,
+                567.0,
+                605.0
+            ]
+        },
+        {
+            "text": "Ruth Manko Assoc.",
+            "bbox": [
+                583.0,
+                593.0,
+                704.0,
+                607.0
+            ]
+        },
+        {
+            "text": "Facility:",
+            "bbox": [
+                473.0,
+                607.0,
+                544.0,
+                621.0
+            ]
+        },
+        {
+            "text": "Suburban Associates",
+            "bbox": [
+                554.0,
+                607.0,
+                694.0,
+                623.0
+            ]
+        },
+        {
+            "text": "+ - 10% Contingency |",
+            "bbox": [
+                128.0,
+                617.0,
+                274.0,
+                634.0
+            ]
+        },
+        {
+            "text": "| yes",
+            "bbox": [
+                279.0,
+                621.0,
+                312.0,
+                634.0
+            ]
+        },
+        {
+            "text": "Agency :",
+            "bbox": [
+                474.0,
+                623.0,
+                529.0,
+                635.0
+            ]
+        },
+        {
+            "text": "D'Arcy/deGarmo",
+            "bbox": [
+                554.0,
+                622.0,
+                656.0,
+                636.0
+            ]
+        },
+        {
+            "text": "no",
+            "bbox": [
+                363.0,
+                624.0,
+                380.0,
+                634.0
+            ]
+        },
+        {
+            "text": "Final Report Inc.",
+            "bbox": [
+                126.0,
+                633.0,
+                248.0,
+                646.0
+            ]
+        },
+        {
+            "text": "Incidence",
+            "bbox": [
+                470.0,
+                635.0,
+                538.0,
+                649.0
+            ]
+        },
+        {
+            "text": "yes_' x",
+            "bbox": [
+                283.0,
+                636.0,
+                330.0,
+                649.0
+            ]
+        },
+        {
+            "text": "ino",
+            "bbox": [
+                361.0,
+                637.0,
+                380.0,
+                649.0
+            ]
+        },
+        {
+            "text": "Prepared by:",
+            "bbox": [
+                126.0,
+                660.0,
+                215.0,
+                675.0
+            ]
+        },
+        {
+            "text": "hiring",
+            "bbox": [
+                281.0,
+                661.0,
+                338.0,
+                676.0
+            ]
+        },
+        {
+            "text": "Length Int.",
+            "bbox": [
+                469.0,
+                663.0,
+                548.0,
+                678.0
+            ]
+        },
+        {
+            "text": "Approved by:",
+            "bbox": [
+                125.0,
+                690.0,
+                215.0,
+                704.0
+            ]
+        },
+        {
+            "text": "# Open Ends",
+            "bbox": [
+                469.0,
+                693.0,
+                552.0,
+                707.0
+            ]
+        },
+        {
+            "text": "# Banners",
+            "bbox": [
+                469.0,
+                721.0,
+                538.0,
+                735.0
+            ]
+        },
+        {
+            "text": "Marketing Rese",
+            "bbox": [
+                124.0,
+                749.0,
+                234.0,
+                763.0
+            ]
+        },
+        {
+            "text": "Topline Oral presentation w/o 5/18",
+            "bbox": [
+                468.0,
+                749.0,
+                715.0,
+                765.0
+            ]
+        },
+        {
+            "text": "Irgh Director",
+            "bbox": [
+                232.0,
+                750.0,
+                322.0,
+                764.0
+            ]
+        },
+        {
+            "text": "Product Manager",
+            "bbox": [
+                125.0,
+                792.0,
+                237.0,
+                808.0
+            ]
+        },
+        {
+            "text": "Written presentation w/o 5/25",
+            "bbox": [
+                521.0,
+                794.0,
+                737.0,
+                808.0
+            ]
+        },
+        {
+            "text": "Final",
+            "bbox": [
+                468.0,
+                795.0,
+                507.0,
+                808.0
+            ]
+        },
+        {
+            "text": "$4,500.00",
+            "bbox": [
+                620.0,
+                808.0,
+                687.0,
+                821.0
+            ]
+        },
+        {
+            "text": "Moderators fee:",
+            "bbox": [
+                489.0,
+                809.0,
+                600.0,
+                822.0
+            ]
+        },
+        {
+            "text": "Facility:",
+            "bbox": [
+                489.0,
+                823.0,
+                557.0,
+                837.0
+            ]
+        },
+        {
+            "text": "1,500.00",
+            "bbox": [
+                626.0,
+                823.0,
+                685.0,
+                835.0
+            ]
+        },
+        {
+            "text": "Agency :",
+            "bbox": [
+                489.0,
+                838.0,
+                543.0,
+                852.0
+            ]
+        },
+        {
+            "text": "816.00",
+            "bbox": [
+                640.0,
+                838.0,
+                688.0,
+                850.0
+            ]
+        },
+        {
+            "text": "Group Product Manager",
+            "bbox": [
+                124.0,
+                852.0,
+                279.0,
+                866.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        802.0,
+        1000.0
+    ]
+}

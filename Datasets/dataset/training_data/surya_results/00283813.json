@@ -1,0 +1,568 @@
+{
+    "text_lines": [
+        {
+            "text": "Date:",
+            "bbox": [
+                458.0,
+                25.0,
+                510.0,
+                39.0
+            ]
+        },
+        {
+            "text": "7/16/68",
+            "bbox": [
+                601.0,
+                25.0,
+                669.0,
+                41.0
+            ]
+        },
+        {
+            "text": "Sample No.",
+            "bbox": [
+                263.0,
+                47.0,
+                360.0,
+                64.0
+            ]
+        },
+        {
+            "text": "5031",
+            "bbox": [
+                378.0,
+                49.0,
+                420.0,
+                63.0
+            ]
+        },
+        {
+            "text": "Original request made by",
+            "bbox": [
+                57.0,
+                69.0,
+                288.0,
+                88.0
+            ]
+        },
+        {
+            "text": "Mr. C. L. Tucker, Jr",
+            "bbox": [
+                329.0,
+                71.0,
+                522.0,
+                90.0
+            ]
+        },
+        {
+            "text": "! 7/10/68",
+            "bbox": [
+                656.0,
+                75.0,
+                734.0,
+                95.0
+            ]
+        },
+        {
+            "text": "on",
+            "bbox": [
+                571.0,
+                79.0,
+                595.0,
+                90.0
+            ]
+        },
+        {
+            "text": "Sample specifications written by",
+            "bbox": [
+                55.0,
+                94.0,
+                364.0,
+                115.0
+            ]
+        },
+        {
+            "text": "John H. M. Bohlken",
+            "bbox": [
+                419.0,
+                100.0,
+                597.0,
+                116.0
+            ]
+        },
+        {
+            "text": "BLEND",
+            "bbox": [
+                56.0,
+                124.0,
+                107.0,
+                138.0
+            ]
+        },
+        {
+            "text": "CASING",
+            "bbox": [
+                177.0,
+                124.0,
+                239.0,
+                140.0
+            ]
+        },
+        {
+            "text": "RECASING",
+            "bbox": [
+                307.0,
+                125.0,
+                388.0,
+                141.0
+            ]
+        },
+        {
+            "text": "FINAL FLAVOR",
+            "bbox": [
+                449.0,
+                127.0,
+                567.0,
+                143.0
+            ]
+        },
+        {
+            "text": "MENTHOL FLAVOR",
+            "bbox": [
+                635.0,
+                130.0,
+                772.0,
+                147.0
+            ]
+        },
+        {
+            "text": "OLD GOLD STRAIGHT Tobacco Blend.",
+            "bbox": [
+                62.0,
+                158.0,
+                355.0,
+                175.0
+            ]
+        },
+        {
+            "text": "Control for Sample No. 5030",
+            "bbox": [
+                64.0,
+                191.0,
+                317.0,
+                210.0
+            ]
+        },
+        {
+            "text": "Cigarettes:",
+            "bbox": [
+                57.0,
+                295.0,
+                163.0,
+                312.0
+            ]
+        },
+        {
+            "text": "OLD GOLD STRAIGHT",
+            "bbox": [
+                237.0,
+                320.0,
+                399.0,
+                338.0
+            ]
+        },
+        {
+            "text": "Brand",
+            "bbox": [
+                73.0,
+                321.0,
+                128.0,
+                335.0
+            ]
+        },
+        {
+            "text": "Length -",
+            "bbox": [
+                71.0,
+                338.0,
+                148.0,
+                352.0
+            ]
+        },
+        {
+            "text": "85 mm.",
+            "bbox": [
+                238.0,
+                338.0,
+                298.0,
+                352.0
+            ]
+        },
+        {
+            "text": "Circumference-",
+            "bbox": [
+                74.0,
+                353.0,
+                204.0,
+                372.0
+            ]
+        },
+        {
+            "text": "25.3 mm.",
+            "bbox": [
+                239.0,
+                354.0,
+                316.0,
+                370.0
+            ]
+        },
+        {
+            "text": "Ecusta 556",
+            "bbox": [
+                238.0,
+                370.0,
+                333.0,
+                386.0
+            ]
+        },
+        {
+            "text": "Paper ---",
+            "bbox": [
+                73.0,
+                372.0,
+                159.0,
+                386.0
+            ]
+        },
+        {
+            "text": "OLD GOLD STRAIGHT",
+            "bbox": [
+                237.0,
+                386.0,
+                403.0,
+                404.0
+            ]
+        },
+        {
+            "text": "Firmness",
+            "bbox": [
+                73.0,
+                389.0,
+                160.0,
+                403.0
+            ]
+        },
+        {
+            "text": "OLD GOLD STRAIGHT",
+            "bbox": [
+                237.0,
+                404.0,
+                399.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Draw --",
+            "bbox": [
+                73.0,
+                406.0,
+                139.0,
+                420.0
+            ]
+        },
+        {
+            "text": "OLD GOLD STRAIGHT",
+            "bbox": [
+                237.0,
+                420.0,
+                399.0,
+                436.0
+            ]
+        },
+        {
+            "text": "Weight --",
+            "bbox": [
+                71.0,
+                421.0,
+                158.0,
+                439.0
+            ]
+        },
+        {
+            "text": "Wrappings:",
+            "bbox": [
+                418.0,
+                426.0,
+                518.0,
+                443.0
+            ]
+        },
+        {
+            "text": "Tipping Paper",
+            "bbox": [
+                73.0,
+                439.0,
+                205.0,
+                455.0
+            ]
+        },
+        {
+            "text": "Labels ",
+            "bbox": [
+                437.0,
+                452.0,
+                506.0,
+                466.0
+            ]
+        },
+        {
+            "text": "-- OLD GOLD STRAIGHT",
+            "bbox": [
+                529.0,
+                454.0,
+                713.0,
+                470.0
+            ]
+        },
+        {
+            "text": "Print --------",
+            "bbox": [
+                73.0,
+                455.0,
+                197.0,
+                473.0
+            ]
+        },
+        {
+            "text": "OLD GOLD STRAIGHT",
+            "bbox": [
+                237.0,
+                460.0,
+                397.0,
+                475.0
+            ]
+        },
+        {
+            "text": "Closures --- Standard Blue .",
+            "bbox": [
+                438.0,
+                469.0,
+                688.0,
+                487.0
+            ]
+        },
+        {
+            "text": "Filter Length --",
+            "bbox": [
+                73.0,
+                473.0,
+                209.0,
+                489.0
+            ]
+        },
+        {
+            "text": "Tear Tape -- Gold",
+            "bbox": [
+                431.0,
+                486.0,
+                593.0,
+                503.0
+            ]
+        },
+        {
+            "text": "Cartons --- OLD GOLD STRAIGHT",
+            "bbox": [
+                437.0,
+                503.0,
+                712.0,
+                521.0
+            ]
+        },
+        {
+            "text": "Requirements:",
+            "bbox": [
+                54.0,
+                515.0,
+                181.0,
+                532.0
+            ]
+        },
+        {
+            "text": "Markings --",
+            "bbox": [
+                437.0,
+                520.0,
+                535.0,
+                534.0
+            ]
+        },
+        {
+            "text": "Sample number on each",
+            "bbox": [
+                550.0,
+                520.0,
+                749.0,
+                538.0
+            ]
+        },
+        {
+            "text": "pack and carton",
+            "bbox": [
+                550.0,
+                538.0,
+                693.0,
+                554.0
+            ]
+        },
+        {
+            "text": "Laboratory -",
+            "bbox": [
+                71.0,
+                541.0,
+                184.0,
+                558.0
+            ]
+        },
+        {
+            "text": "One Tray",
+            "bbox": [
+                235.0,
+                544.0,
+                313.0,
+                560.0
+            ]
+        },
+        {
+            "text": "Others ",
+            "bbox": [
+                71.0,
+                558.0,
+                140.0,
+                574.0
+            ]
+        },
+        {
+            "text": "Laboratory Analysis:",
+            "bbox": [
+                52.0,
+                591.0,
+                240.0,
+                610.0
+            ]
+        },
+        {
+            "text": "Tars and Nicotine, Taste Panel, Burning Time, Gas Phase Analysis",
+            "bbox": [
+                71.0,
+                614.0,
+                674.0,
+                642.0
+            ]
+        },
+        {
+            "text": "Benzo (A) Pyrene Analyses -",
+            "bbox": [
+                78.0,
+                633.0,
+                336.0,
+                652.0
+            ]
+        },
+        {
+            "text": "7-16-68- C. L A58 Feb",
+            "bbox": [
+                349.0,
+                636.0,
+                534.0,
+                656.0
+            ]
+        },
+        {
+            "text": "Responsibility:",
+            "bbox": [
+                53.0,
+                650.0,
+                199.0,
+                668.0
+            ]
+        },
+        {
+            "text": "Tobacco Blend ------- Manufacturing - A. Kraus",
+            "bbox": [
+                71.0,
+                676.0,
+                488.0,
+                693.0
+            ]
+        },
+        {
+            "text": "Filter Production---",
+            "bbox": [
+                71.0,
+                691.0,
+                260.0,
+                710.0
+            ]
+        },
+        {
+            "text": "Making & Packing --- Product Development , John H. M. Bohlken",
+            "bbox": [
+                69.0,
+                708.0,
+                638.0,
+                726.0
+            ]
+        },
+        {
+            "text": "Shipping ----",
+            "bbox": [
+                71.0,
+                726.0,
+                192.0,
+                740.0
+            ]
+        },
+        {
+            "text": "Reports:",
+            "bbox": [
+                52.0,
+                760.0,
+                132.0,
+                776.0
+            ]
+        },
+        {
+            "text": "Written by -- John H. M. Bohlken",
+            "bbox": [
+                69.0,
+                785.0,
+                367.0,
+                802.0
+            ]
+        },
+        {
+            "text": "Original to - Mr. C. L. Tucker, Jr.",
+            "bbox": [
+                68.0,
+                801.0,
+                390.0,
+                819.0
+            ]
+        },
+        {
+            "text": "Copies to --- Dr. A. W. Spears",
+            "bbox": [
+                69.0,
+                818.0,
+                350.0,
+                835.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        784.0,
+        1000.0
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "text_lines": [
+        {
+            "text": "46th Tobacco Chemists'",
+            "bbox": [
+                201.0,
+                135.0,
+                394.0,
+                155.0
+            ]
+        },
+        {
+            "text": "Research Conference",
+            "bbox": [
+                202.0,
+                155.0,
+                372.0,
+                175.0
+            ]
+        },
+        {
+            "text": "46\u2122 TCRC REGISTRATION FORM",
+            "bbox": [
+                198.0,
+                253.0,
+                524.0,
+                277.0
+            ]
+        },
+        {
+            "text": "Please type or print",
+            "bbox": [
+                103.0,
+                300.0,
+                220.0,
+                317.0
+            ]
+        },
+        {
+            "text": "Name:",
+            "bbox": [
+                103.0,
+                331.0,
+                150.0,
+                347.0
+            ]
+        },
+        {
+            "text": "Middle",
+            "bbox": [
+                300.0,
+                343.0,
+                339.0,
+                359.0
+            ]
+        },
+        {
+            "text": "Last",
+            "bbox": [
+                419.0,
+                342.0,
+                444.0,
+                355.0
+            ]
+        },
+        {
+            "text": "First",
+            "bbox": [
+                182.0,
+                345.0,
+                210.0,
+                359.0
+            ]
+        },
+        {
+            "text": "Institution!",
+            "bbox": [
+                103.0,
+                375.0,
+                177.0,
+                390.0
+            ]
+        },
+        {
+            "text": "Address: _",
+            "bbox": [
+                105.0,
+                406.0,
+                171.0,
+                420.0
+            ]
+        },
+        {
+            "text": "P.O. Box#",
+            "bbox": [
+                302.0,
+                420.0,
+                356.0,
+                434.0
+            ]
+        },
+        {
+            "text": "Street",
+            "bbox": [
+                184.0,
+                422.0,
+                217.0,
+                435.0
+            ]
+        },
+        {
+            "text": "ZIP Code",
+            "bbox": [
+                382.0,
+                463.0,
+                434.0,
+                477.0
+            ]
+        },
+        {
+            "text": "Country.",
+            "bbox": [
+                500.0,
+                462.0,
+                544.0,
+                475.0
+            ]
+        },
+        {
+            "text": "City",
+            "bbox": [
+                184.0,
+                465.0,
+                212.0,
+                482.0
+            ]
+        },
+        {
+            "text": "State",
+            "bbox": [
+                302.0,
+                465.0,
+                333.0,
+                478.0
+            ]
+        },
+        {
+            "text": "Telephone: ",
+            "bbox": [
+                106.0,
+                495.0,
+                378.0,
+                509.0
+            ]
+        },
+        {
+            "text": "Name of spouse participating in the guest programs",
+            "bbox": [
+                107.0,
+                524.0,
+                409.0,
+                539.0
+            ]
+        },
+        {
+            "text": "Monday (Y/N) _________________________ Tuesday (Y/N) __",
+            "bbox": [
+                316.0,
+                555.0,
+                530.0,
+                568.0
+            ]
+        },
+        {
+            "text": "$ 170.00",
+            "bbox": [
+                503.0,
+                598.0,
+                557.0,
+                614.0
+            ]
+        },
+        {
+            "text": "Advance Registration Fee:  (prior to August 10)",
+            "bbox": [
+                108.0,
+                603.0,
+                393.0,
+                618.0
+            ]
+        },
+        {
+            "text": "$ 185.00",
+            "bbox": [
+                503.0,
+                614.0,
+                557.0,
+                630.0
+            ]
+        },
+        {
+            "text": "Late Registration Fee: (after August 10)",
+            "bbox": [
+                108.0,
+                620.0,
+                346.0,
+                633.0
+            ]
+        },
+        {
+            "text": "Extra banquet tickets @ $ 40.00",
+            "bbox": [
+                175.0,
+                634.0,
+                366.0,
+                650.0
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "bbox": [
+                505.0,
+                660.0,
+                555.0,
+                676.0
+            ]
+        },
+        {
+            "text": "Send this registration form, along with payment, to address noted below in attached",
+            "bbox": [
+                111.0,
+                725.0,
+                630.0,
+                736.0
+            ]
+        },
+        {
+            "text": "envelope. Enclose a cheque or international money order payable in Canadian funds to the",
+            "bbox": [
+                111.0,
+                741.0,
+                630.0,
+                751.0
+            ]
+        },
+        {
+            "text": "46th Tobacco Chemists' Research Conference.",
+            "bbox": [
+                111.0,
+                756.0,
+                384.0,
+                770.0
+            ]
+        },
+        {
+            "text": "Ms. Susan Mathison",
+            "bbox": [
+                309.0,
+                783.0,
+                431.0,
+                800.0
+            ]
+        },
+        {
+            "text": "Mail to:",
+            "bbox": [
+                231.0,
+                785.0,
+                282.0,
+                801.0
+            ]
+        },
+        {
+            "text": "Canadian Tobacco Manufacturers' Council",
+            "bbox": [
+                309.0,
+                799.0,
+                562.0,
+                812.0
+            ]
+        },
+        {
+            "text": "6289",
+            "bbox": [
+                645.0,
+                808.0,
+                664.0,
+                850.0
+            ]
+        },
+        {
+            "text": "701-99 Bank Street",
+            "bbox": [
+                310.0,
+                814.0,
+                424.0,
+                830.0
+            ]
+        },
+        {
+            "text": "Ottawa, Ontario, Canada K1P 6B9",
+            "bbox": [
+                310.0,
+                830.0,
+                515.0,
+                843.0
+            ]
+        },
+        {
+            "text": "(613) 238-2799",
+            "bbox": [
+                311.0,
+                844.0,
+                400.0,
+                861.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

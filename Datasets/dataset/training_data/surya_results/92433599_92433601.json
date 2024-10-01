@@ -1,0 +1,379 @@
+{
+    "text_lines": [
+        {
+            "text": "PRELIMINARY FACT SHEET",
+            "bbox": [
+                314.0,
+                97.0,
+                525.0,
+                110.0
+            ]
+        },
+        {
+            "text": "NEW FILING - ASBESTOS LITIGATION",
+            "bbox": [
+                268.0,
+                127.0,
+                572.0,
+                140.0
+            ]
+        },
+        {
+            "text": "(See General Order No. 29)",
+            "bbox": [
+                298.0,
+                156.0,
+                542.0,
+                172.0
+            ]
+        },
+        {
+            "text": "(In Re: Complex Litigation)",
+            "bbox": [
+                289.0,
+                173.0,
+                551.0,
+                186.0
+            ]
+        },
+        {
+            "text": "Name, address and telephone number of law firm representing",
+            "bbox": [
+                159.0,
+                218.0,
+                716.0,
+                230.0
+            ]
+        },
+        {
+            "text": "1.",
+            "bbox": [
+                117.0,
+                219.0,
+                138.0,
+                235.0
+            ]
+        },
+        {
+            "text": "claimant:",
+            "bbox": [
+                159.0,
+                234.0,
+                248.0,
+                248.0
+            ]
+        },
+        {
+            "text": "BRAYTON, GISVOLD & HARLEY",
+            "bbox": [
+                234.0,
+                263.0,
+                484.0,
+                277.0
+            ]
+        },
+        {
+            "text": "Name_",
+            "bbox": [
+                125.0,
+                264.0,
+                171.0,
+                278.0
+            ]
+        },
+        {
+            "text": "999 Grant Avenue, P.O. Box 2109",
+            "bbox": [
+                234.0,
+                293.0,
+                534.0,
+                307.0
+            ]
+        },
+        {
+            "text": "Address____",
+            "bbox": [
+                125.0,
+                294.0,
+                216.0,
+                308.0
+            ]
+        },
+        {
+            "text": "city_",
+            "bbox": [
+                125.0,
+                323.0,
+                184.0,
+                342.0
+            ]
+        },
+        {
+            "text": "State CA",
+            "bbox": [
+                468.0,
+                322.0,
+                580.0,
+                335.0
+            ]
+        },
+        {
+            "text": "Novato",
+            "bbox": [
+                234.0,
+                324.0,
+                313.0,
+                338.0
+            ]
+        },
+        {
+            "text": "Telephone (415) 898-1555",
+            "bbox": [
+                382.0,
+                354.0,
+                638.0,
+                366.0
+            ]
+        },
+        {
+            "text": "Zip Code_",
+            "bbox": [
+                126.0,
+                355.0,
+                234.0,
+                369.0
+            ]
+        },
+        {
+            "text": "94948",
+            "bbox": [
+                234.0,
+                355.0,
+                288.0,
+                368.0
+            ]
+        },
+        {
+            "text": "2 .",
+            "bbox": [
+                117.0,
+                400.0,
+                140.0,
+                416.0
+            ]
+        },
+        {
+            "text": "Names of first named plaintiff and first named defendant on",
+            "bbox": [
+                161.0,
+                400.0,
+                716.0,
+                412.0
+            ]
+        },
+        {
+            "text": "the caption of the complaint:",
+            "bbox": [
+                162.0,
+                415.0,
+                438.0,
+                429.0
+            ]
+        },
+        {
+            "text": "Plaintiff___CHARLES WOODWARD",
+            "bbox": [
+                126.0,
+                446.0,
+                407.0,
+                460.0
+            ]
+        },
+        {
+            "text": "Defendant____ ABEX CORPORATION, et al.",
+            "bbox": [
+                126.0,
+                476.0,
+                492.0,
+                490.0
+            ]
+        },
+        {
+            "text": "3.",
+            "bbox": [
+                119.0,
+                523.0,
+                140.0,
+                536.0
+            ]
+        },
+        {
+            "text": "Date of claimant's birth: _",
+            "bbox": [
+                162.0,
+                523.0,
+                572.0,
+                535.0
+            ]
+        },
+        {
+            "text": "Case involves (check appropriate boxes) :",
+            "bbox": [
+                163.0,
+                566.0,
+                542.0,
+                582.0
+            ]
+        },
+        {
+            "text": "4 .",
+            "bbox": [
+                119.0,
+                569.0,
+                141.0,
+                582.0
+            ]
+        },
+        {
+            "text": "(a) Injury.............................................................( X )",
+            "bbox": [
+                129.0,
+                598.0,
+                645.0,
+                612.0
+            ]
+        },
+        {
+            "text": "   ",
+            "bbox": [
+                609.0,
+                625.0,
+                644.0,
+                638.0
+            ]
+        },
+        {
+            "text": "(b): Wrongful death . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (",
+            "bbox": [
+                129.0,
+                628.0,
+                610.0,
+                643.0
+            ]
+        },
+        {
+            "text": "(c) Consortium. .",
+            "bbox": [
+                129.0,
+                658.0,
+                644.0,
+                673.0
+            ]
+        },
+        {
+            "text": "Specify the nature or type of asbestos-related injury",
+            "bbox": [
+                164.0,
+                687.0,
+                664.0,
+                700.0
+            ]
+        },
+        {
+            "text": "5.",
+            "bbox": [
+                120.0,
+                689.0,
+                143.0,
+                703.0
+            ]
+        },
+        {
+            "text": "(E.g., Asbestosis; Lung Cancer-",
+            "bbox": [
+                404.0,
+                701.0,
+                700.0,
+                712.0
+            ]
+        },
+        {
+            "text": "alleged by the claimant.",
+            "bbox": [
+                165.0,
+                702.0,
+                408.0,
+                716.0
+            ]
+        },
+        {
+            "text": "adenocarcinoma; Lung Cancer- Mesothelioma; Pleural",
+            "bbox": [
+                165.0,
+                717.0,
+                638.0,
+                731.0
+            ]
+        },
+        {
+            "text": "Thickening; Fibrosis; etc. )",
+            "bbox": [
+                165.0,
+                732.0,
+                420.0,
+                748.0
+            ]
+        },
+        {
+            "text": "Mesothelioma and other asbestos-related lung disease",
+            "bbox": [
+                164.0,
+                763.0,
+                659.0,
+                776.0
+            ]
+        },
+        {
+            "text": "66588599",
+            "bbox": [
+                703.0,
+                822.0,
+                726.0,
+                890.0
+            ]
+        },
+        {
+            "text": "K:\\CLIENTS\\5002\\FACTSHT.COM",
+            "bbox": [
+                123.0,
+                873.0,
+                271.0,
+                886.0
+            ]
+        },
+        {
+            "text": "1.",
+            "bbox": [
+                421.0,
+                883.0,
+                436.0,
+                897.0
+            ]
+        },
+        {
+            "text": "01 /07 /93",
+            "bbox": [
+                123.0,
+                886.0,
+                161.0,
+                898.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        780.0,
+        1000.0
+    ]
+}

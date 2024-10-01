@@ -1,0 +1,361 @@
+{
+    "text_lines": [
+        {
+            "text": "P. 01",
+            "bbox": [
+                559.0,
+                83.0,
+                591.0,
+                99.0
+            ]
+        },
+        {
+            "text": "ATT. GEN. ADMIN.OFFICE Fax:614-466-5087",
+            "bbox": [
+                101.0,
+                84.0,
+                356.0,
+                100.0
+            ]
+        },
+        {
+            "text": "Dec 10 '98 17:46",
+            "bbox": [
+                417.0,
+                84.0,
+                550.0,
+                100.0
+            ]
+        },
+        {
+            "text": "Attorney General",
+            "bbox": [
+                147.0,
+                152.0,
+                277.0,
+                166.0
+            ]
+        },
+        {
+            "text": "Betty D. Montgomery",
+            "bbox": [
+                147.0,
+                170.0,
+                307.0,
+                186.0
+            ]
+        },
+        {
+            "text": "CONFIDENTIAL FACSIMILE",
+            "bbox": [
+                272.0,
+                251.0,
+                458.0,
+                265.0
+            ]
+        },
+        {
+            "text": "TRANSMISSION COVER SHEET",
+            "bbox": [
+                262.0,
+                266.0,
+                469.0,
+                282.0
+            ]
+        },
+        {
+            "text": "FAX NO. (614) 466-5087",
+            "bbox": [
+                292.0,
+                297.0,
+                437.0,
+                313.0
+            ]
+        },
+        {
+            "text": "TO: George Baroody",
+            "bbox": [
+                101.0,
+                345.0,
+                237.0,
+                360.0
+            ]
+        },
+        {
+            "text": "FAX NUMBER:",
+            "bbox": [
+                101.0,
+                376.0,
+                314.0,
+                390.0
+            ]
+        },
+        {
+            "text": "PHONE NUMBER: (336) 335-7363",
+            "bbox": [
+                382.0,
+                376.0,
+                592.0,
+                392.0
+            ]
+        },
+        {
+            "text": "DATE: _______ 12/10/98",
+            "bbox": [
+                101.0,
+                407.0,
+                236.0,
+                424.0
+            ]
+        },
+        {
+            "text": "NUMBER OF PAGES INCLUDING COVER SHEET: ___ 3",
+            "bbox": [
+                101.0,
+                440.0,
+                520.0,
+                456.0
+            ]
+        },
+        {
+            "text": "SENDER/PHONE NUMBER: _____ June Flynn for Eric Brown/(614) 466-8980",
+            "bbox": [
+                101.0,
+                472.0,
+                546.0,
+                488.0
+            ]
+        },
+        {
+            "text": "SPECIAL INSTRUCTIONS: _",
+            "bbox": [
+                101.0,
+                503.0,
+                326.0,
+                520.0
+            ]
+        },
+        {
+            "text": "IF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY,",
+            "bbox": [
+                172.0,
+                599.0,
+                557.0,
+                615.0
+            ]
+        },
+        {
+            "text": "PLEASE CONTACT SENDER",
+            "bbox": [
+                273.0,
+                615.0,
+                456.0,
+                629.0
+            ]
+        },
+        {
+            "text": "AS SOON AS POSSIBLE",
+            "bbox": [
+                289.0,
+                630.0,
+                441.0,
+                646.0
+            ]
+        },
+        {
+            "text": "NOT\u00c9:",
+            "bbox": [
+                101.0,
+                691.0,
+                142.0,
+                705.0
+            ]
+        },
+        {
+            "text": "THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO",
+            "bbox": [
+                162.0,
+                691.0,
+                622.0,
+                705.0
+            ]
+        },
+        {
+            "text": "WHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED,",
+            "bbox": [
+                162.0,
+                705.0,
+                623.0,
+                719.0
+            ]
+        },
+        {
+            "text": "CONFIDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the",
+            "bbox": [
+                161.0,
+                719.0,
+                624.0,
+                732.0
+            ]
+        },
+        {
+            "text": "reader of this message is not the intended recipient or the employee or agent responsible for delivering",
+            "bbox": [
+                161.0,
+                733.0,
+                625.0,
+                745.0
+            ]
+        },
+        {
+            "text": "the message to the intended reciplent, you are hereby notified that any dissemination, distribution,",
+            "bbox": [
+                161.0,
+                745.0,
+                624.0,
+                759.0
+            ]
+        },
+        {
+            "text": "copying, or conveying of this communication in any manner is strictly prohibited. If you have",
+            "bbox": [
+                161.0,
+                760.0,
+                624.0,
+                772.0
+            ]
+        },
+        {
+            "text": "received this communication in error, please notify us immediately by telephone and resum the",
+            "bbox": [
+                161.0,
+                773.0,
+                624.0,
+                785.0
+            ]
+        },
+        {
+            "text": "original message to us at the address below via the U.S. Postal Service. Thank you for your",
+            "bbox": [
+                162.0,
+                785.0,
+                625.0,
+                799.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                632.0,
+                787.0,
+                654.0,
+                799.0
+            ]
+        },
+        {
+            "text": "cooperation.",
+            "bbox": [
+                160.0,
+                800.0,
+                226.0,
+                812.0
+            ]
+        },
+        {
+            "text": "i",
+            "bbox": [
+                467.0,
+                800.0,
+                482.0,
+                812.0
+            ]
+        },
+        {
+            "text": "60",
+            "bbox": [
+                631.0,
+                800.0,
+                654.0,
+                826.0
+            ]
+        },
+        {
+            "text": "r",
+            "bbox": [
+                490.0,
+                801.0,
+                503.0,
+                811.0
+            ]
+        },
+        {
+            "text": ". '",
+            "bbox": [
+                379.0,
+                804.0,
+                394.0,
+                813.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                630.0,
+                824.0,
+                652.0,
+                838.0
+            ]
+        },
+        {
+            "text": "State Office Tower / 30 East Broad Street / Columbus, Ohio  43215-3428",
+            "bbox": [
+                180.0,
+                887.0,
+                539.0,
+                901.0
+            ]
+        },
+        {
+            "text": "www.ag.state.oh.us",
+            "bbox": [
+                309.0,
+                900.0,
+                410.0,
+                914.0
+            ]
+        },
+        {
+            "text": "An Equal Opportunity Employer",
+            "bbox": [
+                288.0,
+                913.0,
+                432.0,
+                926.0
+            ]
+        },
+        {
+            "text": "Beriness",
+            "bbox": [
+                290.0,
+                943.0,
+                341.0,
+                952.0
+            ]
+        },
+        {
+            "text": "en Resycled P.",
+            "bbox": [
+                339.0,
+                943.0,
+                406.0,
+                950.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

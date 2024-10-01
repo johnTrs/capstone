@@ -1,0 +1,895 @@
+{
+    "text_lines": [
+        {
+            "line_text": "THE",
+            "line_bbox": [
+                34.0,
+                16.0,
+                74.0,
+                35.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "THE",
+                    "bbox": [
+                        35.0,
+                        16.0,
+                        71.0,
+                        35.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "\"AMERICAN",
+            "line_bbox": [
+                28.0,
+                38.0,
+                140.0,
+                54.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "\"AMERICAN",
+                    "bbox": [
+                        29.0,
+                        38.0,
+                        132.0,
+                        54.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "APPROVED MARKETING PROJECT",
+            "line_bbox": [
+                353.0,
+                36.0,
+                685.0,
+                55.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "APPROVED",
+                    "bbox": [
+                        354.0,
+                        37.0,
+                        454.0,
+                        56.0
+                    ]
+                },
+                {
+                    "text": "MARKETING",
+                    "bbox": [
+                        467.0,
+                        37.0,
+                        579.0,
+                        55.0
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        592.0,
+                        37.0,
+                        681.0,
+                        55.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TOBACCO",
+            "line_bbox": [
+                34.0,
+                56.0,
+                130.0,
+                73.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TOBACCO",
+                    "bbox": [
+                        35.0,
+                        56.0,
+                        121.0,
+                        73.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPENSE RECOMMENDATION",
+            "line_bbox": [
+                374.0,
+                55.0,
+                664.0,
+                74.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPENSE",
+                    "bbox": [
+                        375.0,
+                        55.0,
+                        462.0,
+                        74.0
+                    ]
+                },
+                {
+                    "text": "RECOMMENDATION",
+                    "bbox": [
+                        473.0,
+                        55.0,
+                        658.0,
+                        74.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMPANY",
+            "line_bbox": [
+                35.0,
+                74.0,
+                130.0,
+                92.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPANY",
+                    "bbox": [
+                        36.0,
+                        75.0,
+                        128.0,
+                        92.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project No",
+            "line_bbox": [
+                39.0,
+                134.0,
+                115.0,
+                148.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        39.0,
+                        134.0,
+                        89.0,
+                        149.0
+                    ]
+                },
+                {
+                    "text": "No",
+                    "bbox": [
+                        92.0,
+                        134.0,
+                        112.0,
+                        149.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "S0002 Supp 2",
+            "line_bbox": [
+                136.0,
+                133.0,
+                241.0,
+                148.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "S0002",
+                    "bbox": [
+                        137.0,
+                        133.0,
+                        182.0,
+                        148.0
+                    ]
+                },
+                {
+                    "text": "Supp",
+                    "bbox": [
+                        185.0,
+                        133.0,
+                        223.0,
+                        149.0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "bbox": [
+                        229.0,
+                        134.0,
+                        237.0,
+                        149.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Description",
+            "line_bbox": [
+                264.0,
+                134.0,
+                343.0,
+                148.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Description",
+                    "bbox": [
+                        264.0,
+                        134.0,
+                        343.0,
+                        149.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Displays",
+            "line_bbox": [
+                494.0,
+                133.0,
+                558.0,
+                148.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Displays",
+                    "bbox": [
+                        494.0,
+                        134.0,
+                        556.0,
+                        148.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRANDS",
+            "line_bbox": [
+                156.0,
+                186.0,
+                218.0,
+                200.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRANDS",
+                    "bbox": [
+                        157.0,
+                        187.0,
+                        216.0,
+                        201.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Current Budget",
+            "line_bbox": [
+                357.0,
+                185.0,
+                467.0,
+                201.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Current",
+                    "bbox": [
+                        357.0,
+                        187.0,
+                        411.0,
+                        201.0
+                    ]
+                },
+                {
+                    "text": "Budget",
+                    "bbox": [
+                        413.0,
+                        186.0,
+                        467.0,
+                        202.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "$7,569,000.00",
+            "line_bbox": [
+                546.0,
+                185.0,
+                633.0,
+                201.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "$7,569,000.00",
+                    "bbox": [
+                        546.0,
+                        185.0,
+                        633.0,
+                        202.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Private Stock",
+            "line_bbox": [
+                147.0,
+                206.0,
+                234.0,
+                220.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Private",
+                    "bbox": [
+                        148.0,
+                        206.0,
+                        194.0,
+                        220.0
+                    ]
+                },
+                {
+                    "text": "Stock",
+                    "bbox": [
+                        196.0,
+                        206.0,
+                        232.0,
+                        221.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Carlton",
+            "line_bbox": [
+                167.0,
+                225.0,
+                218.0,
+                239.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Carlton",
+                    "bbox": [
+                        168.0,
+                        226.0,
+                        215.0,
+                        240.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Adjustment",
+            "line_bbox": [
+                371.0,
+                225.0,
+                453.0,
+                239.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Adjustment",
+                    "bbox": [
+                        371.0,
+                        225.0,
+                        453.0,
+                        240.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "$0.00",
+            "line_bbox": [
+                598.0,
+                224.0,
+                634.0,
+                238.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "$0.00",
+                    "bbox": [
+                        598.0,
+                        224.0,
+                        632.0,
+                        238.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Revised Budget",
+            "line_bbox": [
+                351.0,
+                263.0,
+                467.0,
+                279.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Revised",
+                    "bbox": [
+                        354.0,
+                        264.0,
+                        410.0,
+                        279.0
+                    ]
+                },
+                {
+                    "text": "Budget",
+                    "bbox": [
+                        415.0,
+                        264.0,
+                        468.0,
+                        279.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "$7,569,000.00",
+            "line_bbox": [
+                546.0,
+                262.0,
+                633.0,
+                278.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "$7,569,000.00",
+                    "bbox": [
+                        546.0,
+                        263.0,
+                        632.0,
+                        279.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Offer Description",
+            "line_bbox": [
+                88.0,
+                314.0,
+                206.0,
+                328.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Offer",
+                    "bbox": [
+                        88.0,
+                        315.0,
+                        122.0,
+                        328.0
+                    ]
+                },
+                {
+                    "text": "Description",
+                    "bbox": [
+                        124.0,
+                        315.0,
+                        204.0,
+                        328.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Charge Code",
+            "line_bbox": [
+                395.0,
+                313.0,
+                491.0,
+                328.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Charge",
+                    "bbox": [
+                        396.0,
+                        314.0,
+                        446.0,
+                        329.0
+                    ]
+                },
+                {
+                    "text": "Code",
+                    "bbox": [
+                        449.0,
+                        314.0,
+                        489.0,
+                        329.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Amount",
+            "line_bbox": [
+                582.0,
+                314.0,
+                640.0,
+                327.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Amount",
+                    "bbox": [
+                        583.0,
+                        314.0,
+                        640.0,
+                        328.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Displays",
+            "line_bbox": [
+                159.0,
+                344.0,
+                210.0,
+                358.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Displays",
+                    "bbox": [
+                        159.0,
+                        344.0,
+                        209.0,
+                        358.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAR-MMT-DSP",
+            "line_bbox": [
+                348.0,
+                342.0,
+                448.0,
+                357.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAR-MMT-DSP",
+                    "bbox": [
+                        349.0,
+                        343.0,
+                        447.0,
+                        357.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "31,000.00",
+            "line_bbox": [
+                574.0,
+                342.0,
+                634.0,
+                356.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "31,000.00",
+                    "bbox": [
+                        576.0,
+                        343.0,
+                        633.0,
+                        357.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRV-MMT-DSP",
+            "line_bbox": [
+                349.0,
+                368.0,
+                448.0,
+                381.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRV-MMT-DSP",
+                    "bbox": [
+                        350.0,
+                        368.0,
+                        445.0,
+                        382.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(31,000.00)",
+            "line_bbox": [
+                573.0,
+                367.0,
+                637.0,
+                381.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(31,000.00)",
+                    "bbox": [
+                        574.0,
+                        368.0,
+                        637.0,
+                        382.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "0.00",
+            "line_bbox": [
+                608.0,
+                739.0,
+                633.0,
+                751.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "0.00",
+                    "bbox": [
+                        608.0,
+                        739.0,
+                        632.0,
+                        751.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Distribution:",
+            "line_bbox": [
+                40.0,
+                784.0,
+                131.0,
+                798.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Distribution:",
+                    "bbox": [
+                        41.0,
+                        784.0,
+                        132.0,
+                        798.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Prepared By:",
+            "line_bbox": [
+                253.0,
+                783.0,
+                332.0,
+                802.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Prepared",
+                    "bbox": [
+                        253.0,
+                        783.0,
+                        307.0,
+                        801.0
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "bbox": [
+                        310.0,
+                        783.0,
+                        332.0,
+                        803.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Approved Byit",
+            "line_bbox": [
+                474.0,
+                781.0,
+                569.0,
+                800.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Approved",
+                    "bbox": [
+                        478.0,
+                        782.0,
+                        536.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "Byit",
+                    "bbox": [
+                        539.0,
+                        781.0,
+                        569.0,
+                        800.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Accounting",
+            "line_bbox": [
+                54.0,
+                799.0,
+                124.0,
+                812.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Accounting",
+                    "bbox": [
+                        55.0,
+                        800.0,
+                        121.0,
+                        812.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "File",
+            "line_bbox": [
+                54.0,
+                811.0,
+                82.0,
+                824.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "File",
+                    "bbox": [
+                        54.0,
+                        811.0,
+                        80.0,
+                        824.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Prepared By:",
+            "line_bbox": [
+                253.0,
+                827.0,
+                329.0,
+                843.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Prepared",
+                    "bbox": [
+                        253.0,
+                        828.0,
+                        307.0,
+                        844.0
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "bbox": [
+                        310.0,
+                        828.0,
+                        330.0,
+                        844.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Approved By:",
+            "line_bbox": [
+                472.0,
+                827.0,
+                559.0,
+                842.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Approved",
+                    "bbox": [
+                        479.0,
+                        828.0,
+                        536.0,
+                        843.0
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "bbox": [
+                        540.0,
+                        827.0,
+                        559.0,
+                        843.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Data",
+            "line_bbox": [
+                425.0,
+                843.0,
+                448.0,
+                853.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Data",
+                    "bbox": [
+                        425.0,
+                        843.0,
+                        448.0,
+                        853.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

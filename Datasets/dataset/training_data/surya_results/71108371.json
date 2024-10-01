@@ -1,0 +1,685 @@
+{
+    "text_lines": [
+        {
+            "text": "MIS PROJECT REQUEST",
+            "bbox": [
+                265.0,
+                14.0,
+                460.0,
+                28.0
+            ]
+        },
+        {
+            "text": "PART I - CLIENT REQUEST",
+            "bbox": [
+                255.0,
+                33.0,
+                470.0,
+                47.0
+            ]
+        },
+        {
+            "text": "Project Number: (assigned by MIS)",
+            "bbox": [
+                381.0,
+                69.0,
+                574.0,
+                85.0
+            ]
+        },
+        {
+            "text": "Requested by:  Karl Hutchison",
+            "bbox": [
+                107.0,
+                73.0,
+                294.0,
+                90.0
+            ]
+        },
+        {
+            "text": "Date Submitted: 4/17/98",
+            "bbox": [
+                381.0,
+                104.0,
+                528.0,
+                116.0
+            ]
+        },
+        {
+            "text": "BD & SS",
+            "bbox": [
+                193.0,
+                107.0,
+                250.0,
+                121.0
+            ]
+        },
+        {
+            "text": "Department:",
+            "bbox": [
+                107.0,
+                109.0,
+                194.0,
+                122.0
+            ]
+        },
+        {
+            "text": "Date Required: 4/20/98",
+            "bbox": [
+                381.0,
+                122.0,
+                525.0,
+                135.0
+            ]
+        },
+        {
+            "text": "Phone Number: 7970",
+            "bbox": [
+                107.0,
+                125.0,
+                236.0,
+                141.0
+            ]
+        },
+        {
+            "text": "System:",
+            "bbox": [
+                107.0,
+                145.0,
+                157.0,
+                159.0
+            ]
+        },
+        {
+            "text": "PRIORITY",
+            "bbox": [
+                452.0,
+                155.0,
+                589.0,
+                170.0
+            ]
+        },
+        {
+            "text": "REASON CODE I",
+            "bbox": [
+                269.0,
+                158.0,
+                449.0,
+                174.0
+            ]
+        },
+        {
+            "text": "REQUEST TYPE",
+            "bbox": [
+                106.0,
+                162.0,
+                271.0,
+                175.0
+            ]
+        },
+        {
+            "text": "Immediate",
+            "bbox": [
+                480.0,
+                175.0,
+                535.0,
+                187.0
+            ]
+        },
+        {
+            "text": "_X_ 1. Productivity Improvement",
+            "bbox": [
+                271.0,
+                177.0,
+                443.0,
+                189.0
+            ]
+        },
+        {
+            "text": "1. Enhancement",
+            "bbox": [
+                130.0,
+                180.0,
+                217.0,
+                191.0
+            ]
+        },
+        {
+            "text": "High",
+            "bbox": [
+                480.0,
+                189.0,
+                510.0,
+                200.0
+            ]
+        },
+        {
+            "text": "2. Return On Investment",
+            "bbox": [
+                292.0,
+                190.0,
+                422.0,
+                203.0
+            ]
+        },
+        {
+            "text": "2. Maintenance",
+            "bbox": [
+                130.0,
+                193.0,
+                215.0,
+                205.0
+            ]
+        },
+        {
+            "text": "Medium",
+            "bbox": [
+                480.0,
+                202.0,
+                524.0,
+                215.0
+            ]
+        },
+        {
+            "text": "3. Customer Impact",
+            "bbox": [
+                292.0,
+                204.0,
+                398.0,
+                217.0
+            ]
+        },
+        {
+            "text": "3. Special Processing",
+            "bbox": [
+                132.0,
+                206.0,
+                245.0,
+                219.0
+            ]
+        },
+        {
+            "text": "4. Government Requirement",
+            "bbox": [
+                292.0,
+                217.0,
+                440.0,
+                230.0
+            ]
+        },
+        {
+            "text": "Low",
+            "bbox": [
+                481.0,
+                218.0,
+                504.0,
+                228.0
+            ]
+        },
+        {
+            "text": "4. Ad Hoc",
+            "bbox": [
+                130.0,
+                220.0,
+                187.0,
+                233.0
+            ]
+        },
+        {
+            "text": "5. Business Change",
+            "bbox": [
+                292.0,
+                230.0,
+                405.0,
+                244.0
+            ]
+        },
+        {
+            "text": "Defer",
+            "bbox": [
+                481.0,
+                230.0,
+                511.0,
+                241.0
+            ]
+        },
+        {
+            "text": "5. Emergency",
+            "bbox": [
+                130.0,
+                234.0,
+                205.0,
+                246.0
+            ]
+        },
+        {
+            "text": "6. System Error",
+            "bbox": [
+                292.0,
+                245.0,
+                379.0,
+                258.0
+            ]
+        },
+        {
+            "text": "7. Procedural Error",
+            "bbox": [
+                293.0,
+                258.0,
+                399.0,
+                271.0
+            ]
+        },
+        {
+            "text": "PROBLEM DEFINITION BEE",
+            "bbox": [
+                107.0,
+                293.0,
+                332.0,
+                306.0
+            ]
+        },
+        {
+            "text": "Description of Request:",
+            "bbox": [
+                107.0,
+                310.0,
+                227.0,
+                322.0
+            ]
+        },
+        {
+            "text": "Please run job FRMRXUM2 for GPC, Misty, and Kool against file n:\\common\\khutchi\\r892unm.lst.",
+            "bbox": [
+                106.0,
+                322.0,
+                605.0,
+                332.0
+            ]
+        },
+        {
+            "text": "Please place output in the same directory.",
+            "bbox": [
+                107.0,
+                337.0,
+                316.0,
+                349.0
+            ]
+        },
+        {
+            "text": "Reason for Request:",
+            "bbox": [
+                107.0,
+                406.0,
+                212.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Calculation of 1997 STR volumes for these brands for allocation of Period 2A budgets.",
+            "bbox": [
+                107.0,
+                433.0,
+                537.0,
+                443.0
+            ]
+        },
+        {
+            "text": "Request Authorized By:",
+            "bbox": [
+                107.0,
+                505.0,
+                255.0,
+                520.0
+            ]
+        },
+        {
+            "text": "Karl Hutchison",
+            "bbox": [
+                307.0,
+                520.0,
+                393.0,
+                535.0
+            ]
+        },
+        {
+            "text": "REASON CODE:",
+            "bbox": [
+                385.0,
+                584.0,
+                476.0,
+                598.0
+            ]
+        },
+        {
+            "text": "REQUEST TYPE:",
+            "bbox": [
+                97.0,
+                587.0,
+                193.0,
+                601.0
+            ]
+        },
+        {
+            "text": "1. Productivity Improvement - time savings",
+            "bbox": [
+                385.0,
+                597.0,
+                610.0,
+                611.0
+            ]
+        },
+        {
+            "text": "Enhancement - productivity improvement, new",
+            "bbox": [
+                115.0,
+                601.0,
+                349.0,
+                614.0
+            ]
+        },
+        {
+            "text": "1.",
+            "bbox": [
+                97.0,
+                605.0,
+                113.0,
+                615.0
+            ]
+        },
+        {
+            "text": "Return on Investment - dollar savings",
+            "bbox": [
+                405.0,
+                612.0,
+                594.0,
+                625.0
+            ]
+        },
+        {
+            "text": "2. ",
+            "bbox": [
+                386.0,
+                614.0,
+                405.0,
+                625.0
+            ]
+        },
+        {
+            "text": "functionality, nice to have feature",
+            "bbox": [
+                117.0,
+                615.0,
+                280.0,
+                629.0
+            ]
+        },
+        {
+            "text": "Customer Impact - requested change affects",
+            "bbox": [
+                405.0,
+                626.0,
+                621.0,
+                637.0
+            ]
+        },
+        {
+            "text": "3.",
+            "bbox": [
+                386.0,
+                629.0,
+                408.0,
+                639.0
+            ]
+        },
+        {
+            "text": "Maintenance - fix program error, new business need",
+            "bbox": [
+                116.0,
+                630.0,
+                372.0,
+                641.0
+            ]
+        },
+        {
+            "text": "2. ",
+            "bbox": [
+                97.0,
+                631.0,
+                115.0,
+                643.0
+            ]
+        },
+        {
+            "text": "B&W's external customers",
+            "bbox": [
+                407.0,
+                639.0,
+                534.0,
+                653.0
+            ]
+        },
+        {
+            "text": "Special Processing - high volume file maintenance or",
+            "bbox": [
+                117.0,
+                643.0,
+                377.0,
+                655.0
+            ]
+        },
+        {
+            "text": "3.",
+            "bbox": [
+                97.0,
+                645.0,
+                112.0,
+                657.0
+            ]
+        },
+        {
+            "text": "Government Requirement - required by law",
+            "bbox": [
+                406.0,
+                654.0,
+                623.0,
+                665.0
+            ]
+        },
+        {
+            "text": "4. ",
+            "bbox": [
+                386.0,
+                656.0,
+                407.0,
+                668.0
+            ]
+        },
+        {
+            "text": "data correction which is not part of normal processing",
+            "bbox": [
+                117.0,
+                658.0,
+                377.0,
+                668.0
+            ]
+        },
+        {
+            "text": "Business Change - change in a business",
+            "bbox": [
+                406.0,
+                667.0,
+                600.0,
+                681.0
+            ]
+        },
+        {
+            "text": "5. ",
+            "bbox": [
+                386.0,
+                670.0,
+                408.0,
+                681.0
+            ]
+        },
+        {
+            "text": "Ad Hoc - reporting requirement which is not part of",
+            "bbox": [
+                116.0,
+                671.0,
+                370.0,
+                684.0
+            ]
+        },
+        {
+            "text": "4. ",
+            "bbox": [
+                97.0,
+                673.0,
+                113.0,
+                685.0
+            ]
+        },
+        {
+            "text": "process, or implement strategic direction",
+            "bbox": [
+                406.0,
+                682.0,
+                601.0,
+                695.0
+            ]
+        },
+        {
+            "text": "normal processing",
+            "bbox": [
+                118.0,
+                685.0,
+                210.0,
+                699.0
+            ]
+        },
+        {
+            "text": "6. ",
+            "bbox": [
+                386.0,
+                697.0,
+                405.0,
+                710.0
+            ]
+        },
+        {
+            "text": "System Error - system is not functioning as",
+            "bbox": [
+                406.0,
+                697.0,
+                619.0,
+                708.0
+            ]
+        },
+        {
+            "text": "\u0d1f.",
+            "bbox": [
+                97.0,
+                700.0,
+                113.0,
+                714.0
+            ]
+        },
+        {
+            "text": "Emergency - application or technology failure",
+            "bbox": [
+                117.0,
+                700.0,
+                343.0,
+                711.0
+            ]
+        },
+        {
+            "text": "designed",
+            "bbox": [
+                407.0,
+                710.0,
+                452.0,
+                724.0
+            ]
+        },
+        {
+            "text": "7. ",
+            "bbox": [
+                386.0,
+                725.0,
+                408.0,
+                738.0
+            ]
+        },
+        {
+            "text": "Procedural Error - caused by user, scheduling,",
+            "bbox": [
+                405.0,
+                725.0,
+                636.0,
+                735.0
+            ]
+        },
+        {
+            "text": "operations, etc.",
+            "bbox": [
+                408.0,
+                739.0,
+                481.0,
+                751.0
+            ]
+        },
+        {
+            "text": "REQUEST AUTHORIZED BY - MUST BE AUTHORIZED BY THE DEPARTMENT DIRECTOR OR THE",
+            "bbox": [
+                98.0,
+                781.0,
+                629.0,
+                793.0
+            ]
+        },
+        {
+            "text": "DESIGNATED SYSTEM OWNER BEFORE SUBMISSION TO THE MIS CLIENT SYSTEMS MANAGER.",
+            "bbox": [
+                98.0,
+                796.0,
+                621.0,
+                806.0
+            ]
+        },
+        {
+            "text": "N:\\SHARED\\STRANALY\\PLAN_98\\OPC\\PER2A\\P2AITREQ.DOC",
+            "bbox": [
+                100.0,
+                847.0,
+                297.0,
+                855.0
+            ]
+        },
+        {
+            "text": "212009596",
+            "bbox": [
+                0.0,
+                952.0,
+                80.0,
+                965.0
+            ]
+        },
+        {
+            "text": "PRODUCED FROM B&W WEB SITE",
+            "bbox": [
+                0.0,
+                968.0,
+                232.0,
+                982.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

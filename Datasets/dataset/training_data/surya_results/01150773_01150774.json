@@ -1,0 +1,397 @@
+{
+    "text_lines": [
+        {
+            "text": "COVINGTON & BURLING",
+            "bbox": [
+                214.0,
+                153.0,
+                541.0,
+                175.0
+            ]
+        },
+        {
+            "text": "1201 PENNSYLVANIA AVENUE, N.W.",
+            "bbox": [
+                294.0,
+                186.0,
+                463.0,
+                200.0
+            ]
+        },
+        {
+            "text": "P.O. BOX 7566",
+            "bbox": [
+                344.0,
+                200.0,
+                410.0,
+                213.0
+            ]
+        },
+        {
+            "text": "WASHINGTON, D.C. 20044-7566",
+            "bbox": [
+                307.0,
+                215.0,
+                447.0,
+                226.0
+            ]
+        },
+        {
+            "text": "(202) 662-6000",
+            "bbox": [
+                348.0,
+                228.0,
+                407.0,
+                240.0
+            ]
+        },
+        {
+            "text": " brussels correspondent office",
+            "bbox": [
+                488.0,
+                240.0,
+                667.0,
+                254.0
+            ]
+        },
+        {
+            "text": "LECONFIELD HOUSE",
+            "bbox": [
+                99.0,
+                243.0,
+                202.0,
+                255.0
+            ]
+        },
+        {
+            "text": "4 avenue des arts",
+            "bbox": [
+                543.0,
+                254.0,
+                649.0,
+                268.0
+            ]
+        },
+        {
+            "text": "TELEFAX:(202)662-6291",
+            "bbox": [
+                327.0,
+                255.0,
+                427.0,
+                268.0
+            ]
+        },
+        {
+            "text": " CURZON STREET",
+            "bbox": [
+                101.0,
+                256.0,
+                189.0,
+                269.0
+            ]
+        },
+        {
+            "text": "TELEX: 89-593 (COVLING WSH)",
+            "bbox": [
+                310.0,
+                269.0,
+                444.0,
+                281.0
+            ]
+        },
+        {
+            "text": "BRUSSELS  1040 BELGIUM",
+            "bbox": [
+                539.0,
+                269.0,
+                655.0,
+                282.0
+            ]
+        },
+        {
+            "text": "LONDON WIY8AS ENGLAND",
+            "bbox": [
+                89.0,
+                270.0,
+                228.0,
+                282.0
+            ]
+        },
+        {
+            "text": "TELEPHONE: 44-71-495-5655",
+            "bbox": [
+                86.0,
+                283.0,
+                211.0,
+                295.0
+            ]
+        },
+        {
+            "text": "CABLE: COVLING",
+            "bbox": [
+                335.0,
+                283.0,
+                419.0,
+                294.0
+            ]
+        },
+        {
+            "text": "TELEPHONE: 32-2-512-7890",
+            "bbox": [
+                540.0,
+                282.0,
+                662.0,
+                295.0
+            ]
+        },
+        {
+            "text": "THIS FACSIMILE TRANSMISSION IS INTENDED ONLY POR THE ADDRESSEE SHOWN BELOW. IT MAY CONTAIN INPORMATION",
+            "bbox": [
+                114.0,
+                321.0,
+                640.0,
+                334.0
+            ]
+        },
+        {
+            "text": "THAT IS PRIVILEGED, CONFIDENTIAL OR OTHUNGISE PROTECTED FROM DISCLOSURE ANY KEVIEW, DISSEMINATION OR",
+            "bbox": [
+                114.0,
+                334.0,
+                628.0,
+                345.0
+            ]
+        },
+        {
+            "text": "USE OF THIS TRANSMISSION OR IT'S CONTENTS BY PERSONS OTHER THAN THE AUDRESSEE IS STRICTLY PROHIBITED. IF YOU",
+            "bbox": [
+                114.0,
+                346.0,
+                645.0,
+                359.0
+            ]
+        },
+        {
+            "text": "MAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIPY US DRAEDIATELY BY TELEPHONE AND MAIL \u2018HE ORIGINAL",
+            "bbox": [
+                114.0,
+                359.0,
+                644.0,
+                371.0
+            ]
+        },
+        {
+            "text": "TO US AT THE ABOVE ADDRES",
+            "bbox": [
+                114.0,
+                373.0,
+                245.0,
+                382.0
+            ]
+        },
+        {
+            "text": "Date:",
+            "bbox": [
+                172.0,
+                428.0,
+                229.0,
+                445.0
+            ]
+        },
+        {
+            "text": "January 15, 1997",
+            "bbox": [
+                255.0,
+                427.0,
+                428.0,
+                444.0
+            ]
+        },
+        {
+            "text": "Mark Berlind",
+            "bbox": [
+                254.0,
+                466.0,
+                388.0,
+                485.0
+            ]
+        },
+        {
+            "text": "To: .",
+            "bbox": [
+                194.0,
+                469.0,
+                240.0,
+                485.0
+            ]
+        },
+        {
+            "text": "David H. Remes",
+            "bbox": [
+                255.0,
+                509.0,
+                407.0,
+                526.0
+            ]
+        },
+        {
+            "text": "From:",
+            "bbox": [
+                170.0,
+                510.0,
+                229.0,
+                526.0
+            ]
+        },
+        {
+            "text": "803E",
+            "bbox": [
+                256.0,
+                550.0,
+                304.0,
+                569.0
+            ]
+        },
+        {
+            "text": "Room :",
+            "bbox": [
+                174.0,
+                552.0,
+                228.0,
+                569.0
+            ]
+        },
+        {
+            "text": "Pages (including cover)",
+            "bbox": [
+                319.0,
+                610.0,
+                562.0,
+                630.0
+            ]
+        },
+        {
+            "text": "Message",
+            "bbox": [
+                87.0,
+                655.0,
+                163.0,
+                668.0
+            ]
+        },
+        {
+            "text": "there is a transmission problem, please call:",
+            "bbox": [
+                120.0,
+                755.0,
+                598.0,
+                775.0
+            ]
+        },
+        {
+            "text": "If",
+            "bbox": [
+                89.0,
+                758.0,
+                114.0,
+                772.0
+            ]
+        },
+        {
+            "text": "(202) 662-6280",
+            "bbox": [
+                133.0,
+                796.0,
+                285.0,
+                815.0
+            ]
+        },
+        {
+            "text": "Telecommunications",
+            "bbox": [
+                300.0,
+                796.0,
+                494.0,
+                815.0
+            ]
+        },
+        {
+            "text": "01 Z8 Lt 90",
+            "bbox": [
+                683.0,
+                816.0,
+                704.0,
+                880.0
+            ]
+        },
+        {
+            "text": "662-5942",
+            "bbox": [
+                193.0,
+                818.0,
+                284.0,
+                835.0
+            ]
+        },
+        {
+            "text": "Leslie L. Daniels - Secretary",
+            "bbox": [
+                300.0,
+                818.0,
+                609.0,
+                835.0
+            ]
+        },
+        {
+            "text": "(202)",
+            "bbox": [
+                134.0,
+                819.0,
+                188.0,
+                835.0
+            ]
+        },
+        {
+            "text": "SUBNIDO M 8 BUBLING",
+            "bbox": [
+                522.0,
+                947.0,
+                684.0,
+                960.0
+            ]
+        },
+        {
+            "text": "10 ' d",
+            "bbox": [
+                62.0,
+                950.0,
+                91.0,
+                963.0
+            ]
+        },
+        {
+            "text": "92 1 % 1",
+            "bbox": [
+                226.0,
+                950.0,
+                265.0,
+                962.0
+            ]
+        },
+        {
+            "text": "766 I . 21 . 18",
+            "bbox": [
+                272.0,
+                950.0,
+                342.0,
+                962.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

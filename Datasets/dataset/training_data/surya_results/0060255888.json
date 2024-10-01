@@ -1,0 +1,388 @@
+{
+    "text_lines": [
+        {
+            "text": "american broadcasting company",
+            "bbox": [
+                232.0,
+                51.0,
+                446.0,
+                65.0
+            ]
+        },
+        {
+            "text": "TELEVISION NETWORK",
+            "bbox": [
+                269.0,
+                77.0,
+                413.0,
+                93.0
+            ]
+        },
+        {
+            "text": "1330 Avenue of the Americas, New York, New York 10019",
+            "bbox": [
+                220.0,
+                103.0,
+                462.0,
+                113.0
+            ]
+        },
+        {
+            "text": "LT 1 - 7777",
+            "bbox": [
+                313.0,
+                123.0,
+                372.0,
+                135.0
+            ]
+        },
+        {
+            "text": "Ocotber 9, 1968",
+            "bbox": [
+                455.0,
+                183.0,
+                589.0,
+                196.0
+            ]
+        },
+        {
+            "text": "Date:",
+            "bbox": [
+                399.0,
+                190.0,
+                431.0,
+                203.0
+            ]
+        },
+        {
+            "text": "Mr. Marv Goldsmith",
+            "bbox": [
+                463.0,
+                217.0,
+                624.0,
+                233.0
+            ]
+        },
+        {
+            "text": "BBDO Inc.",
+            "bbox": [
+                135.0,
+                220.0,
+                215.0,
+                233.0
+            ]
+        },
+        {
+            "text": "Contact:",
+            "bbox": [
+                400.0,
+                229.0,
+                446.0,
+                242.0
+            ]
+        },
+        {
+            "text": "Agoncy:",
+            "bbox": [
+                70.0,
+                234.0,
+                116.0,
+                247.0
+            ]
+        },
+        {
+            "text": "10017",
+            "bbox": [
+                390.0,
+                273.0,
+                435.0,
+                289.0
+            ]
+        },
+        {
+            "text": "383 Madisom Avenue New York",
+            "bbox": [
+                137.0,
+                274.0,
+                374.0,
+                289.0
+            ]
+        },
+        {
+            "text": "Address:",
+            "bbox": [
+                70.0,
+                287.0,
+                120.0,
+                301.0
+            ]
+        },
+        {
+            "text": "American Tobacco Co.",
+            "bbox": [
+                135.0,
+                329.0,
+                311.0,
+                343.0
+            ]
+        },
+        {
+            "text": "Client:",
+            "bbox": [
+                71.0,
+                340.0,
+                114.0,
+                355.0
+            ]
+        },
+        {
+            "text": "Tareyton Cigarettes",
+            "bbox": [
+                137.0,
+                377.0,
+                305.0,
+                393.0
+            ]
+        },
+        {
+            "text": "Product: _",
+            "bbox": [
+                72.0,
+                396.0,
+                130.0,
+                410.0
+            ]
+        },
+        {
+            "text": "Script(s) (and/or storyboard(s)) cleared:",
+            "bbox": [
+                71.0,
+                451.0,
+                281.0,
+                464.0
+            ]
+        },
+        {
+            "text": ":20",
+            "bbox": [
+                295.0,
+                503.0,
+                323.0,
+                517.0
+            ]
+        },
+        {
+            "text": "Phone Booth",
+            "bbox": [
+                137.0,
+                504.0,
+                238.0,
+                520.0
+            ]
+        },
+        {
+            "text": "Phone Booth",
+            "bbox": [
+                137.0,
+                518.0,
+                237.0,
+                532.0
+            ]
+        },
+        {
+            "text": ":30",
+            "bbox": [
+                295.0,
+                517.0,
+                323.0,
+                531.0
+            ]
+        },
+        {
+            "text": ": 60",
+            "bbox": [
+                295.0,
+                531.0,
+                323.0,
+                545.0
+            ]
+        },
+        {
+            "text": "Phone Booth",
+            "bbox": [
+                137.0,
+                533.0,
+                237.0,
+                546.0
+            ]
+        },
+        {
+            "text": "ECU",
+            "bbox": [
+                137.0,
+                546.0,
+                168.0,
+                560.0
+            ]
+        },
+        {
+            "text": ":20",
+            "bbox": [
+                295.0,
+                546.0,
+                323.0,
+                559.0
+            ]
+        },
+        {
+            "text": "ECU",
+            "bbox": [
+                137.0,
+                560.0,
+                169.0,
+                575.0
+            ]
+        },
+        {
+            "text": ": 30",
+            "bbox": [
+                295.0,
+                560.0,
+                324.0,
+                575.0
+            ]
+        },
+        {
+            "text": "ECU \u00b7",
+            "bbox": [
+                137.0,
+                574.0,
+                179.0,
+                590.0
+            ]
+        },
+        {
+            "text": ":60",
+            "bbox": [
+                295.0,
+                574.0,
+                323.0,
+                588.0
+            ]
+        },
+        {
+            "text": "THESE COMMERCIALS CANNOT BE SCHEDULED UNTIL THIS DEPARTMENT HAS",
+            "bbox": [
+                130.0,
+                616.0,
+                678.0,
+                629.0
+            ]
+        },
+        {
+            "text": "BEEN NOTIFIED OF THEIR CODE NUMBERS.",
+            "bbox": [
+                130.0,
+                630.0,
+                444.0,
+                645.0
+            ]
+        },
+        {
+            "text": "PLEASE NOTIFY THIS DEPARTMENT OF ANY CHANGES IN THE CODE NUMBER(S).",
+            "bbox": [
+                73.0,
+                666.0,
+                533.0,
+                680.0
+            ]
+        },
+        {
+            "text": "Final approval is, of course, dependent upon our screening the finished film(s), and",
+            "bbox": [
+                73.0,
+                692.0,
+                509.0,
+                704.0
+            ]
+        },
+        {
+            "text": "upon time and placement of the commercial(s).",
+            "bbox": [
+                74.0,
+                707.0,
+                315.0,
+                719.0
+            ]
+        },
+        {
+            "text": "Sincerely.",
+            "bbox": [
+                406.0,
+                743.0,
+                452.0,
+                757.0
+            ]
+        },
+        {
+            "text": "American Broadcasting Company",
+            "bbox": [
+                405.0,
+                763.0,
+                590.0,
+                777.0
+            ]
+        },
+        {
+            "text": "Prico",
+            "bbox": [
+                447.0,
+                813.0,
+                488.0,
+                825.0
+            ]
+        },
+        {
+            "text": "JP/gb",
+            "bbox": [
+                122.0,
+                820.0,
+                170.0,
+                835.0
+            ]
+        },
+        {
+            "text": "Depertment of",
+            "bbox": [
+                408.0,
+                833.0,
+                469.0,
+                846.0
+            ]
+        },
+        {
+            "text": "BROADCAST STANDARDS AND PRACTICES",
+            "bbox": [
+                408.0,
+                847.0,
+                603.0,
+                860.0
+            ]
+        },
+        {
+            "text": "xer- 257/F-2 REV $/68",
+            "bbox": [
+                81.0,
+                856.0,
+                198.0,
+                868.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

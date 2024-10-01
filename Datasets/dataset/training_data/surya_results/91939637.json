@@ -1,0 +1,424 @@
+{
+    "text_lines": [
+        {
+            "text": "TO: __",
+            "bbox": [
+                57.0,
+                111.0,
+                96.0,
+                125.0
+            ]
+        },
+        {
+            "text": "DATE _",
+            "bbox": [
+                530.0,
+                112.0,
+                578.0,
+                125.0
+            ]
+        },
+        {
+            "text": "FROM: _",
+            "bbox": [
+                57.0,
+                150.0,
+                120.0,
+                165.0
+            ]
+        },
+        {
+            "text": "TRUE",
+            "bbox": [
+                336.0,
+                188.0,
+                394.0,
+                209.0
+            ]
+        },
+        {
+            "text": "$3.00 CARTON COUPON PROMOTION",
+            "bbox": [
+                183.0,
+                207.0,
+                546.0,
+                231.0
+            ]
+        },
+        {
+            "text": "PROMOTIONAL PERIOD:",
+            "bbox": [
+                104.0,
+                254.0,
+                252.0,
+                268.0
+            ]
+        },
+        {
+            "text": "May-June 1992",
+            "bbox": [
+                260.0,
+                254.0,
+                354.0,
+                270.0
+            ]
+        },
+        {
+            "text": "$3 Off Store Redeemable Carton Coupon",
+            "bbox": [
+                260.0,
+                266.0,
+                491.0,
+                282.0
+            ]
+        },
+        {
+            "text": "CONSUMER OFFER:",
+            "bbox": [
+                128.0,
+                267.0,
+                253.0,
+                283.0
+            ]
+        },
+        {
+            "text": "DISPLAY BRANDS:",
+            "bbox": [
+                138.0,
+                280.0,
+                253.0,
+                296.0
+            ]
+        },
+        {
+            "text": "TRUE (All Packings)",
+            "bbox": [
+                260.0,
+                280.0,
+                376.0,
+                294.0
+            ]
+        },
+        {
+            "text": "Lorillard Sales Representative will supply all display materials and",
+            "bbox": [
+                259.0,
+                293.0,
+                624.0,
+                309.0
+            ]
+        },
+        {
+            "text": "DISPLAY AGREEMENT:",
+            "bbox": [
+                113.0,
+                294.0,
+                253.0,
+                308.0
+            ]
+        },
+        {
+            "text": "assemble display. Display containing deals will be placed on",
+            "bbox": [
+                261.0,
+                307.0,
+                595.0,
+                323.0
+            ]
+        },
+        {
+            "text": "a self-service basis for a two-week period.",
+            "bbox": [
+                261.0,
+                320.0,
+                494.0,
+                336.0
+            ]
+        },
+        {
+            "text": "AUTHORIZATION FOR PLACEMENT",
+            "bbox": [
+                148.0,
+                352.0,
+                358.0,
+                368.0
+            ]
+        },
+        {
+            "text": "TYPE DISPLAY",
+            "bbox": [
+                249.0,
+                380.0,
+                342.0,
+                395.0
+            ]
+        },
+        {
+            "text": "NO. CARTONS",
+            "bbox": [
+                389.0,
+                380.0,
+                480.0,
+                395.0
+            ]
+        },
+        {
+            "text": "COUNTER",
+            "bbox": [
+                277.0,
+                410.0,
+                341.0,
+                424.0
+            ]
+        },
+        {
+            "text": "FLOOR",
+            "bbox": [
+                294.0,
+                436.0,
+                341.0,
+                450.0
+            ]
+        },
+        {
+            "text": "POSTER",
+            "bbox": [
+                287.0,
+                463.0,
+                341.0,
+                476.0
+            ]
+        },
+        {
+            "text": "( \u0633 if approved)",
+            "bbox": [
+                480.0,
+                464.0,
+                573.0,
+                476.0
+            ]
+        },
+        {
+            "text": "TO .",
+            "bbox": [
+                351.0,
+                496.0,
+                380.0,
+                512.0
+            ]
+        },
+        {
+            "text": "\u00b7 DATE: FROM _",
+            "bbox": [
+                146.0,
+                497.0,
+                252.0,
+                510.0
+            ]
+        },
+        {
+            "text": "STORES PARTICIPATING: _",
+            "bbox": [
+                58.0,
+                544.0,
+                228.0,
+                558.0
+            ]
+        },
+        {
+            "text": "THE FOLLOWING QUANTITY OF TRUE CARTONS MUST BE AVAILABLE FOR THE LORILLARD SALES",
+            "bbox": [
+                67.0,
+                629.0,
+                661.0,
+                643.0
+            ]
+        },
+        {
+            "text": "REPRESENTATIVE TO ASSEMBLE THE DISPLAY ON THE DATE INDICATED ABOVE.",
+            "bbox": [
+                59.0,
+                643.0,
+                550.0,
+                656.0
+            ]
+        },
+        {
+            "text": "TRUE",
+            "bbox": [
+                346.0,
+                669.0,
+                383.0,
+                682.0
+            ]
+        },
+        {
+            "text": "NUMBER",
+            "bbox": [
+                520.0,
+                698.0,
+                578.0,
+                712.0
+            ]
+        },
+        {
+            "text": "NUMBER",
+            "bbox": [
+                267.0,
+                699.0,
+                325.0,
+                712.0
+            ]
+        },
+        {
+            "text": "PACKING",
+            "bbox": [
+                394.0,
+                711.0,
+                451.0,
+                725.0
+            ]
+        },
+        {
+            "text": "OF CARTONS",
+            "bbox": [
+                507.0,
+                711.0,
+                591.0,
+                725.0
+            ]
+        },
+        {
+            "text": "PACKING",
+            "bbox": [
+                148.0,
+                712.0,
+                207.0,
+                725.0
+            ]
+        },
+        {
+            "text": "OF CARTONS",
+            "bbox": [
+                255.0,
+                712.0,
+                338.0,
+                725.0
+            ]
+        },
+        {
+            "text": "MENTHOL K.S.",
+            "bbox": [
+                377.0,
+                738.0,
+                468.0,
+                752.0
+            ]
+        },
+        {
+            "text": "FILTER K.S.",
+            "bbox": [
+                141.0,
+                739.0,
+                214.0,
+                753.0
+            ]
+        },
+        {
+            "text": "FILTER 100's",
+            "bbox": [
+                138.0,
+                766.0,
+                218.0,
+                782.0
+            ]
+        },
+        {
+            "text": "MENTHOL 100's",
+            "bbox": [
+                375.0,
+                766.0,
+                471.0,
+                780.0
+            ]
+        },
+        {
+            "text": "LE96E611",
+            "bbox": [
+                653.0,
+                784.0,
+                673.0,
+                852.0
+            ]
+        },
+        {
+            "text": " BOX 80'S\n(WHERE AVAILABLE)",
+            "bbox": [
+                141.0,
+                793.0,
+                217.0,
+                817.0
+            ]
+        },
+        {
+            "text": " BOX 100's\n(WHERE AVAILABLE",
+            "bbox": [
+                387.0,
+                793.0,
+                454.0,
+                815.0
+            ]
+        },
+        {
+            "text": "MERCHANDISE:",
+            "bbox": [
+                58.0,
+                833.0,
+                155.0,
+                846.0
+            ]
+        },
+        {
+            "text": "WILL BE ARBITRARILY SHIPPED TO STORE.",
+            "bbox": [
+                101.0,
+                853.0,
+                366.0,
+                866.0
+            ]
+        },
+        {
+            "text": "ORDER THROUGH YOUR SUPPLIER.",
+            "bbox": [
+                103.0,
+                871.0,
+                324.0,
+                887.0
+            ]
+        },
+        {
+            "text": "Date: _",
+            "bbox": [
+                564.0,
+                896.0,
+                610.0,
+                910.0
+            ]
+        },
+        {
+            "text": "Authorized by: __",
+            "bbox": [
+                59.0,
+                897.0,
+                159.0,
+                911.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

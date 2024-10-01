@@ -1,0 +1,766 @@
+{
+    "text_lines": [
+        {
+            "text": "10675",
+            "bbox": [
+                611.0,
+                59.0,
+                679.0,
+                81.0
+            ]
+        },
+        {
+            "text": "FOUT INDUSTRIES, INC",
+            "bbox": [
+                234.0,
+                107.0,
+                590.0,
+                133.0
+            ]
+        },
+        {
+            "text": "6425 W. FLORISSANT AVE., ST. LOUIS, MO. 63136 \u00b7 (314) 385-2280",
+            "bbox": [
+                202.0,
+                139.0,
+                675.0,
+                150.0
+            ]
+        },
+        {
+            "text": "PROPOSAL",
+            "bbox": [
+                301.0,
+                188.0,
+                437.0,
+                202.0
+            ]
+        },
+        {
+            "text": "Metal \"Pack\" Plaques",
+            "bbox": [
+                484.0,
+                207.0,
+                653.0,
+                221.0
+            ]
+        },
+        {
+            "text": "Lorillard Corporation",
+            "bbox": [
+                102.0,
+                211.0,
+                288.0,
+                225.0
+            ]
+        },
+        {
+            "text": "TO",
+            "bbox": [
+                34.0,
+                215.0,
+                53.0,
+                228.0
+            ]
+        },
+        {
+            "text": "FOR _",
+            "bbox": [
+                417.0,
+                216.0,
+                448.0,
+                226.0
+            ]
+        },
+        {
+            "text": "October 16, 1987",
+            "bbox": [
+                484.0,
+                223.0,
+                630.0,
+                239.0
+            ]
+        },
+        {
+            "text": "666 Fifth Avenue",
+            "bbox": [
+                104.0,
+                227.0,
+                245.0,
+                239.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                409.0,
+                229.0,
+                442.0,
+                241.0
+            ]
+        },
+        {
+            "text": "ADDRESS",
+            "bbox": [
+                34.0,
+                230.0,
+                84.0,
+                242.0
+            ]
+        },
+        {
+            "text": "New York",
+            "bbox": [
+                103.0,
+                241.0,
+                175.0,
+                254.0
+            ]
+        },
+        {
+            "text": "CITY",
+            "bbox": [
+                34.0,
+                244.0,
+                61.0,
+                255.0
+            ]
+        },
+        {
+            "text": "Mr. A. D. Steinberg",
+            "bbox": [
+                484.0,
+                254.0,
+                651.0,
+                266.0
+            ]
+        },
+        {
+            "text": "10103",
+            "bbox": [
+                189.0,
+                255.0,
+                235.0,
+                268.0
+            ]
+        },
+        {
+            "text": "New York",
+            "bbox": [
+                102.0,
+                256.0,
+                178.0,
+                270.0
+            ]
+        },
+        {
+            "text": "STATE",
+            "bbox": [
+                34.0,
+                258.0,
+                71.0,
+                270.0
+            ]
+        },
+        {
+            "text": "YOUR REPRESENTATIVE",
+            "bbox": [
+                510.0,
+                267.0,
+                641.0,
+                279.0
+            ]
+        },
+        {
+            "text": "Attn: Mr. Robert Kennedy",
+            "bbox": [
+                120.0,
+                270.0,
+                327.0,
+                282.0
+            ]
+        },
+        {
+            "text": "It is our pleasure to propose the following:",
+            "bbox": [
+                46.0,
+                306.0,
+                413.0,
+                326.0
+            ]
+        },
+        {
+            "text": "17% x 235\"",
+            "bbox": [
+                519.0,
+                340.0,
+                611.0,
+                354.0
+            ]
+        },
+        {
+            "text": "ITEM:___",
+            "bbox": [
+                44.0,
+                343.0,
+                100.0,
+                356.0
+            ]
+        },
+        {
+            "text": "Harley Davidson Metal Plaque",
+            "bbox": [
+                100.0,
+                343.0,
+                349.0,
+                357.0
+            ]
+        },
+        {
+            "text": "SIZE: _",
+            "bbox": [
+                433.0,
+                342.0,
+                518.0,
+                355.0
+            ]
+        },
+        {
+            "text": "GAUGE __ _ . 025\"",
+            "bbox": [
+                509.0,
+                356.0,
+                662.0,
+                368.0
+            ]
+        },
+        {
+            "text": "MATERIAL: STEEL DI",
+            "bbox": [
+                44.0,
+                357.0,
+                193.0,
+                371.0
+            ]
+        },
+        {
+            "text": "ALUMINUM [x]",
+            "bbox": [
+                230.0,
+                357.0,
+                323.0,
+                371.0
+            ]
+        },
+        {
+            "text": "OTHER [",
+            "bbox": [
+                360.0,
+                357.0,
+                417.0,
+                371.0
+            ]
+        },
+        {
+            "text": "COLORS Transparent gold, opaque black, white and orange",
+            "bbox": [
+                44.0,
+                382.0,
+                516.0,
+                394.0
+            ]
+        },
+        {
+            "text": "Aluminum",
+            "bbox": [
+                162.0,
+                396.0,
+                238.0,
+                410.0
+            ]
+        },
+        {
+            "text": "BASE COLOR_",
+            "bbox": [
+                45.0,
+                400.0,
+                161.0,
+                415.0
+            ]
+        },
+        {
+            "text": "DOUBLE FACE [",
+            "bbox": [
+                440.0,
+                400.0,
+                548.0,
+                414.0
+            ]
+        },
+        {
+            "text": "_SINGLE FACE &",
+            "bbox": [
+                282.0,
+                401.0,
+                404.0,
+                416.0
+            ]
+        },
+        {
+            "text": "HOLES: YES XX",
+            "bbox": [
+                44.0,
+                429.0,
+                151.0,
+                442.0
+            ]
+        },
+        {
+            "text": "NUMBER OF",
+            "bbox": [
+                245.0,
+                429.0,
+                323.0,
+                442.0
+            ]
+        },
+        {
+            "text": "NOL",
+            "bbox": [
+                171.0,
+                430.0,
+                213.0,
+                443.0
+            ]
+        },
+        {
+            "text": " d",
+            "bbox": [
+                335.0,
+                430.0,
+                345.0,
+                440.0
+            ]
+        },
+        {
+            "text": "ANGLE []",
+            "bbox": [
+                306.0,
+                441.0,
+                378.0,
+                457.0
+            ]
+        },
+        {
+            "text": "CUT TO SHAPE []!",
+            "bbox": [
+                390.0,
+                441.0,
+                514.0,
+                457.0
+            ]
+        },
+        {
+            "text": "CORNERS: ROUND",
+            "bbox": [
+                44.0,
+                443.0,
+                165.0,
+                456.0
+            ]
+        },
+        {
+            "text": "SQUARE K",
+            "bbox": [
+                207.0,
+                442.0,
+                286.0,
+                456.0
+            ]
+        },
+        {
+            "text": "BEADED BORDER",
+            "bbox": [
+                404.0,
+                469.0,
+                541.0,
+                482.0
+            ]
+        },
+        {
+            "text": "EDGES: HEMMED [",
+            "bbox": [
+                44.0,
+                470.0,
+                172.0,
+                485.0
+            ]
+        },
+        {
+            "text": "CURLED []",
+            "bbox": [
+                199.0,
+                470.0,
+                279.0,
+                484.0
+            ]
+        },
+        {
+            "text": "EMBOSSED LA",
+            "bbox": [
+                299.0,
+                470.0,
+                393.0,
+                484.0
+            ]
+        },
+        {
+            "text": "RIGHT ANGLE BEND O",
+            "bbox": [
+                181.0,
+                484.0,
+                337.0,
+                499.0
+            ]
+        },
+        {
+            "text": "BACK FRAME",
+            "bbox": [
+                354.0,
+                484.0,
+                461.0,
+                498.0
+            ]
+        },
+        {
+            "text": "STAMP FRAME TX",
+            "bbox": [
+                44.0,
+                485.0,
+                161.0,
+                501.0
+            ]
+        },
+        {
+            "text": "10",
+            "bbox": [
+                223.0,
+                513.0,
+                245.0,
+                527.0
+            ]
+        },
+        {
+            "text": "PER CRATE",
+            "bbox": [
+                271.0,
+                514.0,
+                350.0,
+                530.0
+            ]
+        },
+        {
+            "text": "PER BUNDLE",
+            "bbox": [
+                414.0,
+                514.0,
+                501.0,
+                528.0
+            ]
+        },
+        {
+            "text": "PACKING: PER CARTON",
+            "bbox": [
+                44.0,
+                515.0,
+                202.0,
+                529.0
+            ]
+        },
+        {
+            "text": "Price is based on reproduction of customer supplied \"Pack\" box.",
+            "bbox": [
+                103.0,
+                527.0,
+                645.0,
+                541.0
+            ]
+        },
+        {
+            "text": "OTHER ._",
+            "bbox": [
+                44.0,
+                530.0,
+                103.0,
+                543.0
+            ]
+        },
+        {
+            "text": "Tooling:",
+            "bbox": [
+                104.0,
+                543.0,
+                187.0,
+                555.0
+            ]
+        },
+        {
+            "text": "Form die, brass emboss die to achieve detail on eagle.",
+            "bbox": [
+                187.0,
+                542.0,
+                654.0,
+                554.0
+            ]
+        },
+        {
+            "text": "One time tooling @ $3,015.00",
+            "bbox": [
+                368.0,
+                584.0,
+                611.0,
+                597.0
+            ]
+        },
+        {
+            "text": "QUANTITIES: _",
+            "bbox": [
+                45.0,
+                586.0,
+                271.0,
+                598.0
+            ]
+        },
+        {
+            "text": "$1,045.00",
+            "bbox": [
+                531.0,
+                603.0,
+                609.0,
+                616.0
+            ]
+        },
+        {
+            "text": "Steel tips",
+            "bbox": [
+                369.0,
+                604.0,
+                457.0,
+                618.0
+            ]
+        },
+        {
+            "text": "$9.18 each",
+            "bbox": [
+                155.0,
+                613.0,
+                247.0,
+                627.0
+            ]
+        },
+        {
+            "text": "PRICE:",
+            "bbox": [
+                44.0,
+                615.0,
+                93.0,
+                629.0
+            ]
+        },
+        {
+            "text": "OBILL AS SHIP FOR. 6 MOS.",
+            "bbox": [
+                373.0,
+                679.0,
+                574.0,
+                693.0
+            ]
+        },
+        {
+            "text": "BILLING:",
+            "bbox": [
+                44.0,
+                680.0,
+                100.0,
+                694.0
+            ]
+        },
+        {
+            "text": "X BILL AS MANUFACTURE.",
+            "bbox": [
+                180.0,
+                680.0,
+                352.0,
+                694.0
+            ]
+        },
+        {
+            "text": "WAREHOUSING:",
+            "bbox": [
+                45.0,
+                700.0,
+                147.0,
+                715.0
+            ]
+        },
+        {
+            "text": "X SHIP IMMEDIATELY.",
+            "bbox": [
+                163.0,
+                700.0,
+                308.0,
+                715.0
+            ]
+        },
+        {
+            "text": "[] 6 MOS. WHSE:",
+            "bbox": [
+                333.0,
+                700.0,
+                441.0,
+                715.0
+            ]
+        },
+        {
+            "text": "DROP SHIPPING:",
+            "bbox": [
+                45.0,
+                730.0,
+                152.0,
+                742.0
+            ]
+        },
+        {
+            "text": "_ PER SHIPMENT.",
+            "bbox": [
+                225.0,
+                730.0,
+                337.0,
+                742.0
+            ]
+        },
+        {
+            "text": "CONDITIONS!",
+            "bbox": [
+                44.0,
+                757.0,
+                115.0,
+                769.0
+            ]
+        },
+        {
+            "text": "PRICES QUOTED HEREIN ARE BASED ON CURRENT COSTS AND ARE FOR IMMEDIATE ACCEPTANCE",
+            "bbox": [
+                44.0,
+                767.0,
+                547.0,
+                779.0
+            ]
+        },
+        {
+            "text": "*These prices will be updated periodically, from date of order, to reflect changes in material and labor coss.",
+            "bbox": [
+                42.0,
+                780.0,
+                495.0,
+                792.0
+            ]
+        },
+        {
+            "text": "Prices and teems quoted hereimare not subject to verbal changes unless confirmed in writing by the home office of this company in ST. LOUSS. MO: All",
+            "bbox": [
+                44.0,
+                792.0,
+                697.0,
+                802.0
+            ]
+        },
+        {
+            "text": "contracts for delivers, are contingent upon fires, strikes or other causes beyond our control.",
+            "bbox": [
+                44.0,
+                803.0,
+                428.0,
+                815.0
+            ]
+        },
+        {
+            "text": "Purchaser agrees to accept overrun or underrun to the extent of 1057 of the quantity ordered.",
+            "bbox": [
+                44.0,
+                816.0,
+                438.0,
+                825.0
+            ]
+        },
+        {
+            "text": "Any taxes or governmental charges which the seller may be required to pay or collect upon the production, sale; storage, or delivery, under any",
+            "bbox": [
+                44.0,
+                826.0,
+                649.0,
+                839.0
+            ]
+        },
+        {
+            "text": "future law shall be for the account of the buyer who shall promptly pay the amount hereof to the seller upon demand.",
+            "bbox": [
+                44.0,
+                839.0,
+                543.0,
+                849.0
+            ]
+        },
+        {
+            "text": "F.O.B. ST. LOUIS. MISSOURI. Shipments via truck shipped freight collect.",
+            "bbox": [
+                44.0,
+                850.0,
+                371.0,
+                862.0
+            ]
+        },
+        {
+            "text": "A. 15% service charge will be added to freight costs for all prepaid shipments involving 5 or more picees.",
+            "bbox": [
+                45.0,
+                863.0,
+                483.0,
+                873.0
+            ]
+        },
+        {
+            "text": "TERMS - NET 10 DAYS",
+            "bbox": [
+                55.0,
+                893.0,
+                203.0,
+                907.0
+            ]
+        },
+        {
+            "text": "A service charge of 11/2% per month will be",
+            "bbox": [
+                55.0,
+                910.0,
+                284.0,
+                923.0
+            ]
+        },
+        {
+            "text": "applied to all unpaid balances over 30 days.",
+            "bbox": [
+                55.0,
+                923.0,
+                283.0,
+                935.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        777.0,
+        1000.0
+    ]
+}

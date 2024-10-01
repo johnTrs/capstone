@@ -1,0 +1,442 @@
+{
+    "text_lines": [
+        {
+            "text": "12/10/36",
+            "bbox": [
+                81.0,
+                56.0,
+                154.0,
+                70.0
+            ]
+        },
+        {
+            "text": "09:51",
+            "bbox": [
+                153.0,
+                57.0,
+                196.0,
+                70.0
+            ]
+        },
+        {
+            "text": "\u260e317 8450971",
+            "bbox": [
+                216.0,
+                59.0,
+                311.0,
+                72.0
+            ]
+        },
+        {
+            "text": "LORI LLARD",
+            "bbox": [
+                380.0,
+                62.0,
+                446.0,
+                75.0
+            ]
+        },
+        {
+            "text": "@001/002",
+            "bbox": [
+                644.0,
+                69.0,
+                713.0,
+                82.0
+            ]
+        },
+        {
+            "text": "r",
+            "bbox": [
+                35.0,
+                83.0,
+                52.0,
+                102.0
+            ]
+        },
+        {
+            "text": "COMPETITIVE PRODUCT INTRODUCTION",
+            "bbox": [
+                219.0,
+                136.0,
+                546.0,
+                154.0
+            ]
+        },
+        {
+            "text": "PROGRESS REPORT",
+            "bbox": [
+                299.0,
+                155.0,
+                463.0,
+                172.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                91.0,
+                202.0,
+                118.0,
+                218.0
+            ]
+        },
+        {
+            "text": "MRS, K. A. SPARROW ",
+            "bbox": [
+                141.0,
+                203.0,
+                275.0,
+                217.0
+            ]
+        },
+        {
+            "text": "MANUFACTURER: R. J. Reynolds",
+            "bbox": [
+                327.0,
+                203.0,
+                525.0,
+                219.0
+            ]
+        },
+        {
+            "text": "FROM: R.G. Ryan",
+            "bbox": [
+                91.0,
+                221.0,
+                199.0,
+                237.0
+            ]
+        },
+        {
+            "text": "BRAND:  Camel Menthol",
+            "bbox": [
+                327.0,
+                222.0,
+                469.0,
+                236.0
+            ]
+        },
+        {
+            "text": "12/10/96 ",
+            "bbox": [
+                139.0,
+                238.0,
+                286.0,
+                261.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                91.0,
+                240.0,
+                133.0,
+                256.0
+            ]
+        },
+        {
+            "text": "TYPE OF PACKINGS:  Full Flavor Box and Light Box",
+            "bbox": [
+                327.0,
+                240.0,
+                632.0,
+                256.0
+            ]
+        },
+        {
+            "text": "REPORTING PERIODS:",
+            "bbox": [
+                91.0,
+                276.0,
+                247.0,
+                295.0
+            ]
+        },
+        {
+            "text": "SEPT",
+            "bbox": [
+                382.0,
+                278.0,
+                420.0,
+                294.0
+            ]
+        },
+        {
+            "text": "AUG",
+            "bbox": [
+                289.0,
+                279.0,
+                322.0,
+                293.0
+            ]
+        },
+        {
+            "text": "OCT",
+            "bbox": [
+                481.0,
+                279.0,
+                515.0,
+                293.0
+            ]
+        },
+        {
+            "text": "NOV",
+            "bbox": [
+                578.0,
+                280.0,
+                611.0,
+                293.0
+            ]
+        },
+        {
+            "text": "(Forward by the 10th of the following month.)",
+            "bbox": [
+                239.0,
+                298.0,
+                500.0,
+                314.0
+            ]
+        },
+        {
+            "text": "TEST MARKET GEOGRAPHY: All of Region 7.",
+            "bbox": [
+                91.0,
+                334.0,
+                374.0,
+                351.0
+            ]
+        },
+        {
+            "text": "(Indicate Distributor's Cost Per Carton)",
+            "bbox": [
+                363.0,
+                372.0,
+                605.0,
+                390.0
+            ]
+        },
+        {
+            "text": "PRICE POINT: FULL $11.89",
+            "bbox": [
+                91.0,
+                374.0,
+                285.0,
+                388.0
+            ]
+        },
+        {
+            "text": "PN $ =",
+            "bbox": [
+                291.0,
+                374.0,
+                349.0,
+                390.0
+            ]
+        },
+        {
+            "text": "SALES FORCE INVOLVEMENT:   Merchandising the top tray of permanent counter displays and labeling",
+            "bbox": [
+                91.0,
+                409.0,
+                669.0,
+                429.0
+            ]
+        },
+        {
+            "text": "carton fixtures in the Camel section.  Also placing metal signs and temporary counter displays.",
+            "bbox": [
+                90.0,
+                426.0,
+                662.0,
+                449.0
+            ]
+        },
+        {
+            "text": "DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS:",
+            "bbox": [
+                91.0,
+                485.0,
+                460.0,
+                504.0
+            ]
+        },
+        {
+            "text": "Product is being introduced to all Direct Accounts in the Region.  Acceptance is spotty at this time.",
+            "bbox": [
+                91.0,
+                506.0,
+                607.0,
+                522.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                334.0,
+                530.0,
+                627.0,
+                542.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                306.0,
+                549.0,
+                557.0,
+                563.0
+            ]
+        },
+        {
+            "text": "DISTRIBUTOR INVOLVEMENT:",
+            "bbox": [
+                91.0,
+                582.0,
+                287.0,
+                596.0
+            ]
+        },
+        {
+            "text": "Assembly of promotional products and shipment to retail.  Indianapolis Direct Accounts are reported to be",
+            "bbox": [
+                91.0,
+                600.0,
+                654.0,
+                617.0
+            ]
+        },
+        {
+            "text": "receiving B1G1F product.",
+            "bbox": [
+                91.0,
+                617.0,
+                555.0,
+                644.0
+            ]
+        },
+        {
+            "text": "promote of contraction and the program and conserved and and contractions a section a section and a security of contribute a manufacture a manufacture a manufacture a manufa",
+            "bbox": [
+                305.0,
+                644.0,
+                651.0,
+                658.0
+            ]
+        },
+        {
+            "text": "CHAINS - ACCEPTANCE/MERCHANDISING ALLOWANCE",
+            "bbox": [
+                90.0,
+                672.0,
+                625.0,
+                698.0
+            ]
+        },
+        {
+            "text": "Chain acceptance has been very good.",
+            "bbox": [
+                90.0,
+                692.0,
+                627.0,
+                722.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                123.0,
+                716.0,
+                580.0,
+                738.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                179.0,
+                738.0,
+                470.0,
+                756.0
+            ]
+        },
+        {
+            "text": "INDEPENDENTS - ACCEPTANCE/MERCHANDISING ALLOWANCE",
+            "bbox": [
+                91.0,
+                773.0,
+                475.0,
+                789.0
+            ]
+        },
+        {
+            "text": "e form a firm a children a children a comments of the consisted to",
+            "bbox": [
+                476.0,
+                777.0,
+                593.0,
+                790.0
+            ]
+        },
+        {
+            "text": "Acceptance is better at high volume locations than at lower volume retail calls.",
+            "bbox": [
+                91.0,
+                791.0,
+                609.0,
+                809.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                263.0,
+                814.0,
+                613.0,
+                831.0
+            ]
+        },
+        {
+            "text": "a monta and more of the support of more a chimal alleone and seems a second to the many of the many of the may be",
+            "bbox": [
+                341.0,
+                837.0,
+                574.0,
+                849.0
+            ]
+        },
+        {
+            "text": "82253058",
+            "bbox": [
+                568.0,
+                899.0,
+                674.0,
+                928.0
+            ]
+        },
+        {
+            "text": "PAGE 1 OF 2",
+            "bbox": [
+                346.0,
+                923.0,
+                420.0,
+                939.0
+            ]
+        },
+        {
+            "text": "CAMEL.WK1/FMT",
+            "bbox": [
+                63.0,
+                925.0,
+                160.0,
+                939.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

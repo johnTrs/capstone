@@ -1,0 +1,460 @@
+{
+    "text_lines": [
+        {
+            "text": "@002/003",
+            "bbox": [
+                608.0,
+                86.0,
+                668.0,
+                100.0
+            ]
+        },
+        {
+            "text": "11/05/97",
+            "bbox": [
+                67.0,
+                88.0,
+                127.0,
+                101.0
+            ]
+        },
+        {
+            "text": "11:03",
+            "bbox": [
+                135.0,
+                88.0,
+                175.0,
+                101.0
+            ]
+        },
+        {
+            "text": "\u260e813 884 0863",
+            "bbox": [
+                196.0,
+                87.0,
+                290.0,
+                101.0
+            ]
+        },
+        {
+            "text": "LORILLARD TAMPA  \u2192\u2192\u2192 GREENSBOR",
+            "bbox": [
+                356.0,
+                87.0,
+                553.0,
+                102.0
+            ]
+        },
+        {
+            "text": "Retail Excel Progress Report",
+            "bbox": [
+                215.0,
+                185.0,
+                435.0,
+                202.0
+            ]
+        },
+        {
+            "text": "Submission for:",
+            "bbox": [
+                86.0,
+                200.0,
+                169.0,
+                215.0
+            ]
+        },
+        {
+            "text": "Distribution by/to:",
+            "bbox": [
+                444.0,
+                205.0,
+                535.0,
+                219.0
+            ]
+        },
+        {
+            "text": "July 31",
+            "bbox": [
+                86.0,
+                215.0,
+                126.0,
+                229.0
+            ]
+        },
+        {
+            "text": "( )",
+            "bbox": [
+                163.0,
+                217.0,
+                184.0,
+                231.0
+            ]
+        },
+        {
+            "text": "DM to RSM 1st of Month",
+            "bbox": [
+                443.0,
+                220.0,
+                573.0,
+                235.0
+            ]
+        },
+        {
+            "text": "August 29",
+            "bbox": [
+                86.0,
+                232.0,
+                143.0,
+                246.0
+            ]
+        },
+        {
+            "text": "R. W. Caldarella",
+            "bbox": [
+                313.0,
+                233.0,
+                417.0,
+                251.0
+            ]
+        },
+        {
+            "text": "To:",
+            "bbox": [
+                246.0,
+                234.0,
+                272.0,
+                248.0
+            ]
+        },
+        {
+            "text": "( )",
+            "bbox": [
+                163.0,
+                235.0,
+                185.0,
+                248.0
+            ]
+        },
+        {
+            "text": "RSM to R.W.C. 10th",
+            "bbox": [
+                444.0,
+                237.0,
+                551.0,
+                251.0
+            ]
+        },
+        {
+            "text": "September 30   (  )",
+            "bbox": [
+                86.0,
+                248.0,
+                186.0,
+                266.0
+            ]
+        },
+        {
+            "text": "cc: D.O.S.",
+            "bbox": [
+                443.0,
+                254.0,
+                502.0,
+                268.0
+            ]
+        },
+        {
+            "text": "October 31",
+            "bbox": [
+                86.0,
+                266.0,
+                148.0,
+                280.0
+            ]
+        },
+        {
+            "text": "From:",
+            "bbox": [
+                246.0,
+                268.0,
+                288.0,
+                282.0
+            ]
+        },
+        {
+            "text": "(X)",
+            "bbox": [
+                163.0,
+                269.0,
+                187.0,
+                282.0
+            ]
+        },
+        {
+            "text": "Kent B. Mills",
+            "bbox": [
+                312.0,
+                269.0,
+                393.0,
+                285.0
+            ]
+        },
+        {
+            "text": "November 28",
+            "bbox": [
+                86.0,
+                283.0,
+                187.0,
+                300.0
+            ]
+        },
+        {
+            "text": "December 30 ( )",
+            "bbox": [
+                86.0,
+                300.0,
+                187.0,
+                317.0
+            ]
+        },
+        {
+            "text": "Area: 5 Region: 1Z",
+            "bbox": [
+                245.0,
+                303.0,
+                381.0,
+                319.0
+            ]
+        },
+        {
+            "text": "Acceptance/Response:  What is the retailers response to Lorillard's Excel",
+            "bbox": [
+                84.0,
+                331.0,
+                544.0,
+                352.0
+            ]
+        },
+        {
+            "text": "Merchandising plan?",
+            "bbox": [
+                84.0,
+                350.0,
+                216.0,
+                366.0
+            ]
+        },
+        {
+            "text": "Chains: This program has been successful to date with chains where our \"Flex",
+            "bbox": [
+                83.0,
+                366.0,
+                576.0,
+                388.0
+            ]
+        },
+        {
+            "text": " Payment\" was not in place. The chains where we were using the \"Flex Payment\".",
+            "bbox": [
+                83.0,
+                383.0,
+                583.0,
+                407.0
+            ]
+        },
+        {
+            "text": "system we have not been as successful.  The P.O.S. requirements of the P-1 Plan",
+            "bbox": [
+                82.0,
+                400.0,
+                591.0,
+                425.0
+            ]
+        },
+        {
+            "text": "with Oil Companies is difficult to obtain.",
+            "bbox": [
+                83.0,
+                419.0,
+                328.0,
+                439.0
+            ]
+        },
+        {
+            "text": "Independents:",
+            "bbox": [
+                83.0,
+                472.0,
+                184.0,
+                488.0
+            ]
+        },
+        {
+            "text": "Additional P.V. merchandising is being secured quickly,",
+            "bbox": [
+                82.0,
+                488.0,
+                425.0,
+                510.0
+            ]
+        },
+        {
+            "text": "Additional monies have assisted Region 17 in fighting PM Exclusives and PM/RJR",
+            "bbox": [
+                82.0,
+                523.0,
+                587.0,
+                545.0
+            ]
+        },
+        {
+            "text": "co-existence situations.",
+            "bbox": [
+                83.0,
+                542.0,
+                232.0,
+                558.0
+            ]
+        },
+        {
+            "text": "Hardware Evaluation/Effectiveness: Comment on the assembly of displays and",
+            "bbox": [
+                81.0,
+                591.0,
+                581.0,
+                613.0
+            ]
+        },
+        {
+            "text": "application of shields:",
+            "bbox": [
+                81.0,
+                609.0,
+                220.0,
+                628.0
+            ]
+        },
+        {
+            "text": "The displays are easily assembled and durable. Some questions have been raised",
+            "bbox": [
+                80.0,
+                626.0,
+                591.0,
+                650.0
+            ]
+        },
+        {
+            "text": "concerning the inability to be flush with the counter and/or up against the register.",
+            "bbox": [
+                80.0,
+                644.0,
+                581.0,
+                667.0
+            ]
+        },
+        {
+            "text": "As well as the ability to place this on the Back Bar if the settlement goes through.",
+            "bbox": [
+                80.0,
+                662.0,
+                577.0,
+                685.0
+            ]
+        },
+        {
+            "text": "Permanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5",
+            "bbox": [
+                80.0,
+                712.0,
+                583.0,
+                736.0
+            ]
+        },
+        {
+            "text": "Plans Only:",
+            "bbox": [
+                81.0,
+                732.0,
+                163.0,
+                748.0
+            ]
+        },
+        {
+            "text": "Not available at this time",
+            "bbox": [
+                199.0,
+                751.0,
+                356.0,
+                771.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                681.0,
+                850.0,
+                702.0,
+                862.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                679.0,
+                863.0,
+                701.0,
+                875.0
+            ]
+        },
+        {
+            "text": "5",
+            "bbox": [
+                679.0,
+                875.0,
+                702.0,
+                889.0
+            ]
+        },
+        {
+            "text": "1",
+            "bbox": [
+                681.0,
+                889.0,
+                700.0,
+                902.0
+            ]
+        },
+        {
+            "text": "5",
+            "bbox": [
+                679.0,
+                900.0,
+                701.0,
+                915.0
+            ]
+        },
+        {
+            "text": "0",
+            "bbox": [
+                679.0,
+                916.0,
+                699.0,
+                929.0
+            ]
+        },
+        {
+            "text": "4",
+            "bbox": [
+                679.0,
+                928.0,
+                698.0,
+                940.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

@@ -1,0 +1,793 @@
+{
+    "text_lines": [
+        {
+            "text": "CENTER FOR INDOOR AIR RESEARCH",
+            "bbox": [
+                450.0,
+                83.0,
+                687.0,
+                100.0
+            ]
+        },
+        {
+            "text": "1099 Winterson Road Suite 280 Linthicum, Md. 21090",
+            "bbox": [
+                410.0,
+                96.0,
+                688.0,
+                113.0
+            ]
+        },
+        {
+            "text": "APPLICATION FOR",
+            "bbox": [
+                89.0,
+                113.0,
+                293.0,
+                135.0
+            ]
+        },
+        {
+            "text": "(410) 684-3777 FAX (410) 684-3729",
+            "bbox": [
+                511.0,
+                112.0,
+                688.0,
+                124.0
+            ]
+        },
+        {
+            "text": "RESEARCH CONTRACT",
+            "bbox": [
+                90.0,
+                135.0,
+                339.0,
+                159.0
+            ]
+        },
+        {
+            "text": "1. PRINCIPAL INVESTIGATOR. Name, title, telephone # and mailing address.",
+            "bbox": [
+                90.0,
+                162.0,
+                455.0,
+                176.0
+            ]
+        },
+        {
+            "text": "(A) Steven R. Kleeberger, Ph.D.",
+            "bbox": [
+                91.0,
+                181.0,
+                301.0,
+                194.0
+            ]
+        },
+        {
+            "text": "Associate Professor",
+            "bbox": [
+                368.0,
+                182.0,
+                507.0,
+                195.0
+            ]
+        },
+        {
+            "text": "(410) 955-3515/955-0299",
+            "bbox": [
+                583.0,
+                182.0,
+                750.0,
+                195.0
+            ]
+        },
+        {
+            "text": "(B).",
+            "bbox": [
+                347.0,
+                187.0,
+                363.0,
+                196.0
+            ]
+        },
+        {
+            "text": "(c)",
+            "bbox": [
+                559.0,
+                188.0,
+                575.0,
+                198.0
+            ]
+        },
+        {
+            "text": "NAME",
+            "bbox": [
+                91.0,
+                198.0,
+                119.0,
+                208.0
+            ]
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                347.0,
+                197.0,
+                373.0,
+                209.0
+            ]
+        },
+        {
+            "text": "TELEPHONE #/ FAX #",
+            "bbox": [
+                562.0,
+                198.0,
+                651.0,
+                210.0
+            ]
+        },
+        {
+            "text": "Johns Hopkins University, School of Hyg. & Pub. Hlth.",
+            "bbox": [
+                368.0,
+                213.0,
+                749.0,
+                229.0
+            ]
+        },
+        {
+            "text": "(D) Environmental Health Sciences",
+            "bbox": [
+                90.0,
+                214.0,
+                317.0,
+                226.0
+            ]
+        },
+        {
+            "text": "(E)",
+            "bbox": [
+                346.0,
+                219.0,
+                363.0,
+                229.0
+            ]
+        },
+        {
+            "text": "DEPARTMENT",
+            "bbox": [
+                90.0,
+                228.0,
+                148.0,
+                240.0
+            ]
+        },
+        {
+            "text": "INSTITUTION",
+            "bbox": [
+                346.0,
+                229.0,
+                400.0,
+                240.0
+            ]
+        },
+        {
+            "text": "615 North Wolfe Street, Baltimore, Maryland",
+            "bbox": [
+                106.0,
+                243.0,
+                416.0,
+                257.0
+            ]
+        },
+        {
+            "text": "21205",
+            "bbox": [
+                539.0,
+                245.0,
+                579.0,
+                258.0
+            ]
+        },
+        {
+            "text": "(G)",
+            "bbox": [
+                516.0,
+                252.0,
+                532.0,
+                262.0
+            ]
+        },
+        {
+            "text": "MAILING ADDRESS",
+            "bbox": [
+                91.0,
+                260.0,
+                171.0,
+                272.0
+            ]
+        },
+        {
+            "text": "STATE/ZIP",
+            "bbox": [
+                516.0,
+                261.0,
+                561.0,
+                273.0
+            ]
+        },
+        {
+            "text": "2.PROJECT TTTLE Mechanisms of Chronic Ozone Exposure:  Role of Inflammation",
+            "bbox": [
+                88.0,
+                279.0,
+                601.0,
+                296.0
+            ]
+        },
+        {
+            "text": "3. KEY WORDS. PLEASE PROVIDE THREE (3) KEY WORDS WHICH WILL'BE USED AS REFERENCE HEADINGS.OZOne\uff0c Inflammation, Mast  Cell",
+            "bbox": [
+                89.0,
+                300.0,
+                744.0,
+                320.0
+            ]
+        },
+        {
+            "text": " 4. INSTITUTION. Name and address of institution responsible and accountable for disposition of funds a warded on the basis",
+            "bbox": [
+                88.0,
+                322.0,
+                676.0,
+                340.0
+            ]
+        },
+        {
+            "text": "OF THIS APPLICATION.",
+            "bbox": [
+                88.0,
+                336.0,
+                181.0,
+                348.0
+            ]
+        },
+        {
+            "text": "(A) Johns Hopkins University",
+            "bbox": [
+                88.0,
+                353.0,
+                283.0,
+                365.0
+            ]
+        },
+        {
+            "text": "615 North Wolfe Street",
+            "bbox": [
+                325.0,
+                353.0,
+                486.0,
+                367.0
+            ]
+        },
+        {
+            "text": "(B) -",
+            "bbox": [
+                299.0,
+                358.0,
+                326.0,
+                368.0
+            ]
+        },
+        {
+            "text": "INSTITUTION",
+            "bbox": [
+                89.0,
+                367.0,
+                143.0,
+                379.0
+            ]
+        },
+        {
+            "text": "STREET ADDRESS",
+            "bbox": [
+                303.0,
+                369.0,
+                378.0,
+                379.0
+            ]
+        },
+        {
+            "text": "(c)_Baltimore",
+            "bbox": [
+                88.0,
+                385.0,
+                174.0,
+                397.0
+            ]
+        },
+        {
+            "text": "21205",
+            "bbox": [
+                610.0,
+                386.0,
+                649.0,
+                399.0
+            ]
+        },
+        {
+            "text": "(D) Maryland",
+            "bbox": [
+                514.0,
+                388.0,
+                592.0,
+                398.0
+            ]
+        },
+        {
+            "text": "City",
+            "bbox": [
+                88.0,
+                400.0,
+                112.0,
+                411.0
+            ]
+        },
+        {
+            "text": "STATE/ZIP",
+            "bbox": [
+                514.0,
+                400.0,
+                561.0,
+                412.0
+            ]
+        },
+        {
+            "text": "5. LOCATION. LIST  LOCATION WHERE RESEARCH WILL BE CONDUCTED IF OTHER THAN INSTITUTION IDENTIFIED IN #4 ABOVE.",
+            "bbox": [
+                88.0,
+                418.0,
+                602.0,
+                435.0
+            ]
+        },
+        {
+            "text": "(A)",
+            "bbox": [
+                87.0,
+                442.0,
+                105.0,
+                454.0
+            ]
+        },
+        {
+            "text": "(B)",
+            "bbox": [
+                87.0,
+                463.0,
+                105.0,
+                475.0
+            ]
+        },
+        {
+            "text": "6.INCLUSIVE DATES and TOTAL COSTS of this specific project related to each 12 month period if more than one year is",
+            "bbox": [
+                87.0,
+                483.0,
+                659.0,
+                500.0
+            ]
+        },
+        {
+            "text": " REQUIRED TO COMPLETE PROJECT. SUMMARIZE FROM BUDGET PAGE, ITEM 12(). IT MUST BE UNDERSTOOD THAT AWARDS FOR 2ND AND 3RD",
+            "bbox": [
+                86.0,
+                496.0,
+                659.0,
+                509.0
+            ]
+        },
+        {
+            "text": "PERIODS ARE DEPENDENT ON CENTER APPROVAL OF CONTINUATION APPLICATION.",
+            "bbox": [
+                86.0,
+                506.0,
+                421.0,
+                519.0
+            ]
+        },
+        {
+            "text": "INCLUSIVE DATE",
+            "bbox": [
+                259.0,
+                524.0,
+                334.0,
+                535.0
+            ]
+        },
+        {
+            "text": "L Cost",
+            "bbox": [
+                496.0,
+                526.0,
+                533.0,
+                538.0
+            ]
+        },
+        {
+            "text": "s _210,91",
+            "bbox": [
+                434.0,
+                534.0,
+                498.0,
+                545.0
+            ]
+        },
+        {
+            "text": "- THRU 12/31/94",
+            "bbox": [
+                336.0,
+                536.0,
+                428.0,
+                547.0
+            ]
+        },
+        {
+            "text": "(A) 1ST 12 MONTH PERIOD -01/01/94",
+            "bbox": [
+                85.0,
+                537.0,
+                272.0,
+                546.0
+            ]
+        },
+        {
+            "text": "01/01/95",
+            "bbox": [
+                259.0,
+                554.0,
+                322.0,
+                567.0
+            ]
+        },
+        {
+            "text": "- THRU 12/31/95 5 212,481",
+            "bbox": [
+                332.0,
+                554.0,
+                505.0,
+                569.0
+            ]
+        },
+        {
+            "text": "(b) 2nd 12 month period if required -",
+            "bbox": [
+                86.0,
+                558.0,
+                259.0,
+                571.0
+            ]
+        },
+        {
+            "text": "THRU 12/31/96 5 220,416",
+            "bbox": [
+                341.0,
+                576.0,
+                505.0,
+                590.0
+            ]
+        },
+        {
+            "text": "(c) 3rd 12 month period if required __01/01/96",
+            "bbox": [
+                85.0,
+                580.0,
+                321.0,
+                590.0
+            ]
+        },
+        {
+            "text": " 7. INSTITUTIONAL OFFICER. NAME, TITLE AND TELEPHONE  NUMBER OF INDIVIDUAL AUTHORIZED TO SIGN FOR THE INSTITUTION DISTIFIED",
+            "bbox": [
+                85.0,
+                599.0,
+                683.0,
+                618.0
+            ]
+        },
+        {
+            "text": "IN #4 ABOVE. IT IS UNDERSTOOD THAT THE OFFICER, IN APPLYING FOR | CONTRACT, HAS READ AND FOUND ACCEPTABLE THE CENTER'S",
+            "bbox": [
+                85.0,
+                610.0,
+                639.0,
+                627.0
+            ]
+        },
+        {
+            "text": "MANAGEMENT OF RESEARCH CONTRACTS AND CONTRACT ADMINISTRY TION PO",
+            "bbox": [
+                85.0,
+                621.0,
+                412.0,
+                635.0
+            ]
+        },
+        {
+            "text": "LICY.",
+            "bbox": [
+                412.0,
+                625.0,
+                437.0,
+                635.0
+            ]
+        },
+        {
+            "text": "(A) Alan M. Goldberg, Ph. D.",
+            "bbox": [
+                86.0,
+                638.0,
+                268.0,
+                651.0
+            ]
+        },
+        {
+            "text": "Dean/for Research",
+            "bbox": [
+                365.0,
+                638.0,
+                490.0,
+                651.0
+            ]
+        },
+        {
+            "text": "Assoc",
+            "bbox": [
+                317.0,
+                639.0,
+                356.0,
+                651.0
+            ]
+        },
+        {
+            "text": "(c) (410) 955-9253",
+            "bbox": [
+                85.0,
+                653.0,
+                208.0,
+                677.0
+            ]
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                299.0,
+                655.0,
+                327.0,
+                666.0
+            ]
+        },
+        {
+            "text": "(D)",
+            "bbox": [
+                299.0,
+                666.0,
+                316.0,
+                678.0
+            ]
+        },
+        {
+            "text": "(E)",
+            "bbox": [
+                514.0,
+                670.0,
+                526.0,
+                677.0
+            ]
+        },
+        {
+            "text": "TELEPHONE",
+            "bbox": [
+                85.0,
+                675.0,
+                138.0,
+                687.0
+            ]
+        },
+        {
+            "text": "SIGNATURE",
+            "bbox": [
+                299.0,
+                677.0,
+                350.0,
+                689.0
+            ]
+        },
+        {
+            "text": "OF INSTITUTIONAL OFFICER",
+            "bbox": [
+                352.0,
+                677.0,
+                460.0,
+                689.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                514.0,
+                680.0,
+                536.0,
+                687.0
+            ]
+        },
+        {
+            "text": "8.PRELIMINARY STUDIES *.",
+            "bbox": [
+                85.0,
+                696.0,
+                223.0,
+                709.0
+            ]
+        },
+        {
+            "text": "(A) FEASIBILITY OF PROPOSED RESEARCH",
+            "bbox": [
+                85.0,
+                707.0,
+                256.0,
+                719.0
+            ]
+        },
+        {
+            "text": "(B) QUALIFICATIONS OF INVESTIGATOR",
+            "bbox": [
+                85.0,
+                717.0,
+                247.0,
+                729.0
+            ]
+        },
+        {
+            "text": "9. EXPERIMENTAL PLAN *.",
+            "bbox": [
+                85.0,
+                737.0,
+                219.0,
+                749.0
+            ]
+        },
+        {
+            "text": "(A) DESIGN",
+            "bbox": [
+                84.0,
+                747.0,
+                136.0,
+                759.0
+            ]
+        },
+        {
+            "text": "(B) METHODS",
+            "bbox": [
+                84.0,
+                757.0,
+                145.0,
+                769.0
+            ]
+        },
+        {
+            "text": "(C) ANALYSIS OF DATA",
+            "bbox": [
+                85.0,
+                770.0,
+                183.0,
+                779.0
+            ]
+        },
+        {
+            "text": "(D) INTERPRETATION OF RESULTS",
+            "bbox": [
+                84.0,
+                780.0,
+                223.0,
+                790.0
+            ]
+        },
+        {
+            "text": "(E) TIMETABLE FOR THE INVESTIGATION",
+            "bbox": [
+                85.0,
+                790.0,
+                251.0,
+                801.0
+            ]
+        },
+        {
+            "text": "(F) LITERATURE CITED",
+            "bbox": [
+                85.0,
+                800.0,
+                190.0,
+                811.0
+            ]
+        },
+        {
+            "text": "PTF6SH",
+            "bbox": [
+                685.0,
+                813.0,
+                709.0,
+                876.0
+            ]
+        },
+        {
+            "text": "10. AVAILABLE FACILITIES AND RESOURCES.",
+            "bbox": [
+                85.0,
+                818.0,
+                317.0,
+                831.0
+            ]
+        },
+        {
+            "text": " 11. OTHER SUPPORT",
+            "bbox": [
+                83.0,
+                840.0,
+                189.0,
+                852.0
+            ]
+        },
+        {
+            "text": "* APPEND AS MUCH MATERIAL AS REQUIRED. TYPE, SINGLE SPACE, USE 8-1/2\" x 11\" WHITE PAPER AND LABEL EACH SHEET WITH  NAME OF THE",
+            "bbox": [
+                83.0,
+                861.0,
+                677.0,
+                879.0
+            ]
+        },
+        {
+            "text": "PRINCIPAL INVESTIGATOR IN THE UPPER RIGHT HAND CORNER AND PAGE NUMBER AT THE BOTTOM. CONSECUTIVELY NUMBER EACH  ADDENDUM",
+            "bbox": [
+                83.0,
+                872.0,
+                670.0,
+                889.0
+            ]
+        },
+        {
+            "text": "beginning with page 5. Do not insert pages between pages 1 and 6, e.g., 2n, 2b, 3a, etc. Include nine copies and an original. If",
+            "bbox": [
+                83.0,
+                883.0,
+                661.0,
+                899.0
+            ]
+        },
+        {
+            "text": "SENDING PHOTOGRAPHS, INCLUDE 2 ORIGINAL SETS. NOTE: EACH OF THE NINE COPIES MUST BE PLACED IN A BINDER PER MAILING",
+            "bbox": [
+                83.0,
+                894.0,
+                630.0,
+                909.0
+            ]
+        },
+        {
+            "text": "INSTRUCTIONS.",
+            "bbox": [
+                83.0,
+                907.0,
+                150.0,
+                916.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        774.0,
+        1000.0
+    ]
+}

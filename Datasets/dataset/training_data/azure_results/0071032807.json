@@ -1,0 +1,826 @@
+{
+    "text_lines": [
+        {
+            "line_text": "Project Initiation Form",
+            "line_bbox": [
+                299.0,
+                80.0,
+                472.0,
+                97.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        299.0,
+                        81.0,
+                        353.0,
+                        98.0
+                    ]
+                },
+                {
+                    "text": "Initiation",
+                    "bbox": [
+                        359.0,
+                        81.0,
+                        433.0,
+                        97.0
+                    ]
+                },
+                {
+                    "text": "Form",
+                    "bbox": [
+                        438.0,
+                        81.0,
+                        470.0,
+                        97.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project Code",
+            "line_bbox": [
+                51.0,
+                143.0,
+                143.0,
+                159.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        52.0,
+                        144.0,
+                        107.0,
+                        160.0
+                    ]
+                },
+                {
+                    "text": "Code",
+                    "bbox": [
+                        112.0,
+                        143.0,
+                        143.0,
+                        159.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CST-N-68",
+            "line_bbox": [
+                167.0,
+                141.0,
+                231.0,
+                155.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CST-N-68",
+                    "bbox": [
+                        168.0,
+                        142.0,
+                        229.0,
+                        156.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date November 15, 1968",
+            "line_bbox": [
+                502.0,
+                141.0,
+                672.0,
+                158.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date",
+                    "bbox": [
+                        503.0,
+                        142.0,
+                        533.0,
+                        158.0
+                    ]
+                },
+                {
+                    "text": "November",
+                    "bbox": [
+                        545.0,
+                        143.0,
+                        606.0,
+                        158.0
+                    ]
+                },
+                {
+                    "text": "15,",
+                    "bbox": [
+                        612.0,
+                        143.0,
+                        637.0,
+                        158.0
+                    ]
+                },
+                {
+                    "text": "1968",
+                    "bbox": [
+                        641.0,
+                        142.0,
+                        672.0,
+                        158.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project Name",
+            "line_bbox": [
+                53.0,
+                210.0,
+                144.0,
+                225.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        54.0,
+                        210.0,
+                        107.0,
+                        225.0
+                    ]
+                },
+                {
+                    "text": "Name",
+                    "bbox": [
+                        111.0,
+                        210.0,
+                        144.0,
+                        225.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Charcoal Smoking Tobacco",
+            "line_bbox": [
+                168.0,
+                208.0,
+                346.0,
+                223.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Charcoal",
+                    "bbox": [
+                        169.0,
+                        209.0,
+                        229.0,
+                        223.0
+                    ]
+                },
+                {
+                    "text": "Smoking",
+                    "bbox": [
+                        235.0,
+                        209.0,
+                        288.0,
+                        223.0
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "bbox": [
+                        293.0,
+                        209.0,
+                        345.0,
+                        223.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project Leader Mann",
+            "line_bbox": [
+                54.0,
+                268.0,
+                203.0,
+                284.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        54.0,
+                        269.0,
+                        108.0,
+                        285.0
+                    ]
+                },
+                {
+                    "text": "Leader",
+                    "bbox": [
+                        112.0,
+                        269.0,
+                        158.0,
+                        284.0
+                    ]
+                },
+                {
+                    "text": "Mann",
+                    "bbox": [
+                        169.0,
+                        269.0,
+                        200.0,
+                        283.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Work Requested by Marketing",
+            "line_bbox": [
+                55.0,
+                297.0,
+                267.0,
+                314.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Work",
+                    "bbox": [
+                        56.0,
+                        298.0,
+                        85.0,
+                        314.0
+                    ]
+                },
+                {
+                    "text": "Requested",
+                    "bbox": [
+                        90.0,
+                        298.0,
+                        159.0,
+                        314.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        162.0,
+                        298.0,
+                        181.0,
+                        314.0
+                    ]
+                },
+                {
+                    "text": "Marketing",
+                    "bbox": [
+                        197.0,
+                        298.0,
+                        268.0,
+                        313.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project Objective A pipe tobacco containing activated charcoal - must show vapor",
+            "line_bbox": [
+                57.0,
+                355.0,
+                652.0,
+                373.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        57.0,
+                        357.0,
+                        108.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "Objective",
+                    "bbox": [
+                        113.0,
+                        357.0,
+                        180.0,
+                        373.0
+                    ]
+                },
+                {
+                    "text": "A",
+                    "bbox": [
+                        199.0,
+                        356.0,
+                        207.0,
+                        372.0
+                    ]
+                },
+                {
+                    "text": "pipe",
+                    "bbox": [
+                        214.0,
+                        356.0,
+                        245.0,
+                        372.0
+                    ]
+                },
+                {
+                    "text": "tobacco",
+                    "bbox": [
+                        251.0,
+                        356.0,
+                        302.0,
+                        371.0
+                    ]
+                },
+                {
+                    "text": "containing",
+                    "bbox": [
+                        309.0,
+                        356.0,
+                        383.0,
+                        370.0
+                    ]
+                },
+                {
+                    "text": "activated",
+                    "bbox": [
+                        389.0,
+                        356.0,
+                        455.0,
+                        370.0
+                    ]
+                },
+                {
+                    "text": "charcoal",
+                    "bbox": [
+                        461.0,
+                        355.0,
+                        521.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        527.0,
+                        355.0,
+                        535.0,
+                        368.0
+                    ]
+                },
+                {
+                    "text": "must",
+                    "bbox": [
+                        540.0,
+                        355.0,
+                        572.0,
+                        368.0
+                    ]
+                },
+                {
+                    "text": "show",
+                    "bbox": [
+                        577.0,
+                        355.0,
+                        607.0,
+                        368.0
+                    ]
+                },
+                {
+                    "text": "vapor",
+                    "bbox": [
+                        613.0,
+                        355.0,
+                        652.0,
+                        368.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "phase reduction.",
+            "line_bbox": [
+                201.0,
+                387.0,
+                316.0,
+                402.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "phase",
+                    "bbox": [
+                        202.0,
+                        388.0,
+                        238.0,
+                        403.0
+                    ]
+                },
+                {
+                    "text": "reduction.",
+                    "bbox": [
+                        244.0,
+                        387.0,
+                        316.0,
+                        402.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "See: Smoking Cont+ Dave",
+            "line_bbox": [
+                114.0,
+                432.0,
+                507.0,
+                465.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "See:",
+                    "bbox": [
+                        122.0,
+                        434.0,
+                        183.0,
+                        465.0
+                    ]
+                },
+                {
+                    "text": "Smoking",
+                    "bbox": [
+                        193.0,
+                        435.0,
+                        305.0,
+                        465.0
+                    ]
+                },
+                {
+                    "text": "Cont+",
+                    "bbox": [
+                        342.0,
+                        434.0,
+                        420.0,
+                        463.0
+                    ]
+                },
+                {
+                    "text": "Dave",
+                    "bbox": [
+                        427.0,
+                        433.0,
+                        498.0,
+                        460.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "10bocas Depth -Charcoal",
+            "line_bbox": [
+                185.0,
+                464.0,
+                550.0,
+                494.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "10bocas",
+                    "bbox": [
+                        190.0,
+                        467.0,
+                        292.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "Depth",
+                    "bbox": [
+                        344.0,
+                        464.0,
+                        419.0,
+                        492.0
+                    ]
+                },
+                {
+                    "text": "-Charcoal",
+                    "bbox": [
+                        422.0,
+                        464.0,
+                        547.0,
+                        492.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Other personnel assigned",
+            "line_bbox": [
+                60.0,
+                744.0,
+                239.0,
+                762.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Other",
+                    "bbox": [
+                        60.0,
+                        747.0,
+                        97.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "personnel",
+                    "bbox": [
+                        102.0,
+                        746.0,
+                        170.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "assigned",
+                    "bbox": [
+                        176.0,
+                        745.0,
+                        236.0,
+                        761.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Analytical Section is doing most of the work on vapor phase.",
+            "line_bbox": [
+                251.0,
+                742.0,
+                687.0,
+                758.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Analytical",
+                    "bbox": [
+                        254.0,
+                        744.0,
+                        328.0,
+                        759.0
+                    ]
+                },
+                {
+                    "text": "Section",
+                    "bbox": [
+                        334.0,
+                        743.0,
+                        386.0,
+                        758.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        393.0,
+                        743.0,
+                        407.0,
+                        758.0
+                    ]
+                },
+                {
+                    "text": "doing",
+                    "bbox": [
+                        414.0,
+                        743.0,
+                        452.0,
+                        757.0
+                    ]
+                },
+                {
+                    "text": "most",
+                    "bbox": [
+                        456.0,
+                        743.0,
+                        488.0,
+                        757.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        494.0,
+                        743.0,
+                        510.0,
+                        757.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        515.0,
+                        743.0,
+                        539.0,
+                        757.0
+                    ]
+                },
+                {
+                    "text": "work",
+                    "bbox": [
+                        544.0,
+                        743.0,
+                        574.0,
+                        756.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        581.0,
+                        743.0,
+                        596.0,
+                        756.0
+                    ]
+                },
+                {
+                    "text": "vapor",
+                    "bbox": [
+                        603.0,
+                        743.0,
+                        640.0,
+                        756.0
+                    ]
+                },
+                {
+                    "text": "phase.",
+                    "bbox": [
+                        646.0,
+                        743.0,
+                        688.0,
+                        756.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PDL and John Brooks preparing charocal impregnated RC.",
+            "line_bbox": [
+                73.0,
+                771.0,
+                467.0,
+                789.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PDL",
+                    "bbox": [
+                        74.0,
+                        774.0,
+                        96.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        102.0,
+                        774.0,
+                        125.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "John",
+                    "bbox": [
+                        130.0,
+                        774.0,
+                        161.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "Brooks",
+                    "bbox": [
+                        166.0,
+                        774.0,
+                        212.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "preparing",
+                    "bbox": [
+                        218.0,
+                        773.0,
+                        285.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "charocal",
+                    "bbox": [
+                        291.0,
+                        773.0,
+                        351.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "impregnated",
+                    "bbox": [
+                        356.0,
+                        772.0,
+                        438.0,
+                        788.0
+                    ]
+                },
+                {
+                    "text": "RC.",
+                    "bbox": [
+                        443.0,
+                        772.0,
+                        468.0,
+                        787.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Estimated Man Hours for Completion",
+            "line_bbox": [
+                58.0,
+                847.0,
+                310.0,
+                865.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Estimated",
+                    "bbox": [
+                        59.0,
+                        849.0,
+                        127.0,
+                        865.0
+                    ]
+                },
+                {
+                    "text": "Man",
+                    "bbox": [
+                        131.0,
+                        849.0,
+                        156.0,
+                        865.0
+                    ]
+                },
+                {
+                    "text": "Hours",
+                    "bbox": [
+                        160.0,
+                        848.0,
+                        200.0,
+                        865.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        206.0,
+                        848.0,
+                        229.0,
+                        864.0
+                    ]
+                },
+                {
+                    "text": "Completion",
+                    "bbox": [
+                        234.0,
+                        848.0,
+                        309.0,
+                        864.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

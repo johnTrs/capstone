@@ -1,0 +1,1792 @@
+{
+    "text_lines": [
+        {
+            "line_text": "PROJECT STATUS REPORT",
+            "line_bbox": [
+                291.0,
+                73.0,
+                487.0,
+                91.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        291.0,
+                        74.0,
+                        355.0,
+                        89.0
+                    ]
+                },
+                {
+                    "text": "STATUS",
+                    "bbox": [
+                        364.0,
+                        75.0,
+                        419.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        428.0,
+                        76.0,
+                        485.0,
+                        92.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                529.0,
+                108.0,
+                574.0,
+                122.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        530.0,
+                        109.0,
+                        564.0,
+                        123.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "March 1, 1978",
+            "line_bbox": [
+                584.0,
+                106.0,
+                708.0,
+                121.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "March",
+                    "bbox": [
+                        585.0,
+                        107.0,
+                        631.0,
+                        121.0
+                    ]
+                },
+                {
+                    "text": "1,",
+                    "bbox": [
+                        642.0,
+                        107.0,
+                        661.0,
+                        121.0
+                    ]
+                },
+                {
+                    "text": "1978",
+                    "bbox": [
+                        669.0,
+                        107.0,
+                        706.0,
+                        121.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CONFIDENTIAL",
+            "line_bbox": [
+                273.0,
+                120.0,
+                487.0,
+                138.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CONFIDENTIAL",
+                    "bbox": [
+                        274.0,
+                        120.0,
+                        483.0,
+                        139.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REVISION #",
+            "line_bbox": [
+                529.0,
+                140.0,
+                621.0,
+                156.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REVISION",
+                    "bbox": [
+                        529.0,
+                        141.0,
+                        601.0,
+                        156.0
+                    ]
+                },
+                {
+                    "text": "#",
+                    "bbox": [
+                        611.0,
+                        142.0,
+                        620.0,
+                        157.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "N-306",
+            "line_bbox": [
+                514.0,
+                183.0,
+                561.0,
+                196.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "N-306",
+                    "bbox": [
+                        514.0,
+                        184.0,
+                        558.0,
+                        197.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SECTIONS REVISED",
+            "line_bbox": [
+                531.0,
+                171.0,
+                675.0,
+                188.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SECTIONS",
+                    "bbox": [
+                        531.0,
+                        172.0,
+                        600.0,
+                        186.0
+                    ]
+                },
+                {
+                    "text": "REVISED",
+                    "bbox": [
+                        610.0,
+                        173.0,
+                        674.0,
+                        188.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "A. PROJECT NAME True 100's (R&M)",
+            "line_bbox": [
+                58.0,
+                180.0,
+                359.0,
+                198.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "A.",
+                    "bbox": [
+                        59.0,
+                        183.0,
+                        77.0,
+                        198.0
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        88.0,
+                        182.0,
+                        154.0,
+                        198.0
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        161.0,
+                        182.0,
+                        200.0,
+                        197.0
+                    ]
+                },
+                {
+                    "text": "True",
+                    "bbox": [
+                        214.0,
+                        181.0,
+                        250.0,
+                        197.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        260.0,
+                        181.0,
+                        304.0,
+                        196.0
+                    ]
+                },
+                {
+                    "text": "(R&M)",
+                    "bbox": [
+                        317.0,
+                        180.0,
+                        360.0,
+                        195.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT #",
+            "line_bbox": [
+                399.0,
+                188.0,
+                486.0,
+                203.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        399.0,
+                        189.0,
+                        463.0,
+                        202.0
+                    ]
+                },
+                {
+                    "text": "#",
+                    "bbox": [
+                        473.0,
+                        190.0,
+                        481.0,
+                        203.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT LEADER Williams/Giordano",
+            "line_bbox": [
+                88.0,
+                198.0,
+                381.0,
+                218.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        89.0,
+                        199.0,
+                        153.0,
+                        214.0
+                    ]
+                },
+                {
+                    "text": "LEADER",
+                    "bbox": [
+                        162.0,
+                        200.0,
+                        217.0,
+                        215.0
+                    ]
+                },
+                {
+                    "text": "Williams/Giordano",
+                    "bbox": [
+                        222.0,
+                        201.0,
+                        376.0,
+                        218.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TOTAL BUDGET",
+            "line_bbox": [
+                399.0,
+                204.0,
+                514.0,
+                219.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "bbox": [
+                        401.0,
+                        204.0,
+                        445.0,
+                        217.0
+                    ]
+                },
+                {
+                    "text": "BUDGET",
+                    "bbox": [
+                        454.0,
+                        204.0,
+                        509.0,
+                        220.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GENERAL PROJECT DESCRIPTION True 100's, Regular and Menthol tar",
+            "line_bbox": [
+                89.0,
+                214.0,
+                663.0,
+                237.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GENERAL",
+                    "bbox": [
+                        90.0,
+                        215.0,
+                        153.0,
+                        230.0
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        162.0,
+                        216.0,
+                        226.0,
+                        231.0
+                    ]
+                },
+                {
+                    "text": "DESCRIPTION",
+                    "bbox": [
+                        234.0,
+                        217.0,
+                        334.0,
+                        233.0
+                    ]
+                },
+                {
+                    "text": "True",
+                    "bbox": [
+                        341.0,
+                        219.0,
+                        376.0,
+                        233.0
+                    ]
+                },
+                {
+                    "text": "100's,",
+                    "bbox": [
+                        387.0,
+                        220.0,
+                        442.0,
+                        234.0
+                    ]
+                },
+                {
+                    "text": "Regular",
+                    "bbox": [
+                        449.0,
+                        221.0,
+                        513.0,
+                        235.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        522.0,
+                        222.0,
+                        550.0,
+                        236.0
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "bbox": [
+                        558.0,
+                        223.0,
+                        622.0,
+                        236.0
+                    ]
+                },
+                {
+                    "text": "tar",
+                    "bbox": [
+                        632.0,
+                        224.0,
+                        659.0,
+                        237.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "reduction to the range of 8-10mg. tar. Variations to be: 1) Same taste",
+            "line_bbox": [
+                87.0,
+                232.0,
+                728.0,
+                253.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "reduction",
+                    "bbox": [
+                        88.0,
+                        233.0,
+                        167.0,
+                        247.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        178.0,
+                        234.0,
+                        194.0,
+                        247.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        205.0,
+                        234.0,
+                        230.0,
+                        248.0
+                    ]
+                },
+                {
+                    "text": "range",
+                    "bbox": [
+                        240.0,
+                        234.0,
+                        285.0,
+                        248.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        294.0,
+                        235.0,
+                        313.0,
+                        249.0
+                    ]
+                },
+                {
+                    "text": "8-10mg.",
+                    "bbox": [
+                        323.0,
+                        235.0,
+                        387.0,
+                        249.0
+                    ]
+                },
+                {
+                    "text": "tar.",
+                    "bbox": [
+                        396.0,
+                        236.0,
+                        432.0,
+                        250.0
+                    ]
+                },
+                {
+                    "text": "Variations",
+                    "bbox": [
+                        449.0,
+                        237.0,
+                        540.0,
+                        251.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        550.0,
+                        238.0,
+                        567.0,
+                        251.0
+                    ]
+                },
+                {
+                    "text": "be:",
+                    "bbox": [
+                        576.0,
+                        238.0,
+                        606.0,
+                        252.0
+                    ]
+                },
+                {
+                    "text": "1)",
+                    "bbox": [
+                        614.0,
+                        239.0,
+                        629.0,
+                        252.0
+                    ]
+                },
+                {
+                    "text": "Same",
+                    "bbox": [
+                        631.0,
+                        239.0,
+                        668.0,
+                        252.0
+                    ]
+                },
+                {
+                    "text": "taste",
+                    "bbox": [
+                        678.0,
+                        240.0,
+                        722.0,
+                        253.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "characteristics as current True 100's product and, 2) Taste characterist-",
+            "line_bbox": [
+                94.0,
+                248.0,
+                763.0,
+                268.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "characteristics",
+                    "bbox": [
+                        95.0,
+                        249.0,
+                        230.0,
+                        263.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        240.0,
+                        250.0,
+                        257.0,
+                        263.0
+                    ]
+                },
+                {
+                    "text": "current",
+                    "bbox": [
+                        268.0,
+                        250.0,
+                        330.0,
+                        264.0
+                    ]
+                },
+                {
+                    "text": "True",
+                    "bbox": [
+                        341.0,
+                        251.0,
+                        376.0,
+                        265.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        386.0,
+                        251.0,
+                        430.0,
+                        265.0
+                    ]
+                },
+                {
+                    "text": "product",
+                    "bbox": [
+                        440.0,
+                        252.0,
+                        504.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "and,",
+                    "bbox": [
+                        513.0,
+                        252.0,
+                        551.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "2)",
+                    "bbox": [
+                        559.0,
+                        253.0,
+                        577.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "Taste",
+                    "bbox": [
+                        587.0,
+                        253.0,
+                        631.0,
+                        267.0
+                    ]
+                },
+                {
+                    "text": "characterist-",
+                    "bbox": [
+                        641.0,
+                        254.0,
+                        759.0,
+                        268.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ics similar to True King Size, 5mg. tar product.",
+            "line_bbox": [
+                93.0,
+                263.0,
+                532.0,
+                282.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ics",
+                    "bbox": [
+                        98.0,
+                        263.0,
+                        126.0,
+                        277.0
+                    ]
+                },
+                {
+                    "text": "similar",
+                    "bbox": [
+                        135.0,
+                        263.0,
+                        197.0,
+                        278.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        206.0,
+                        264.0,
+                        225.0,
+                        278.0
+                    ]
+                },
+                {
+                    "text": "True",
+                    "bbox": [
+                        232.0,
+                        264.0,
+                        270.0,
+                        278.0
+                    ]
+                },
+                {
+                    "text": "King",
+                    "bbox": [
+                        280.0,
+                        265.0,
+                        314.0,
+                        279.0
+                    ]
+                },
+                {
+                    "text": "Size,",
+                    "bbox": [
+                        325.0,
+                        265.0,
+                        369.0,
+                        280.0
+                    ]
+                },
+                {
+                    "text": "5mg.",
+                    "bbox": [
+                        378.0,
+                        266.0,
+                        415.0,
+                        280.0
+                    ]
+                },
+                {
+                    "text": "tar",
+                    "bbox": [
+                        424.0,
+                        267.0,
+                        451.0,
+                        281.0
+                    ]
+                },
+                {
+                    "text": "product.",
+                    "bbox": [
+                        461.0,
+                        268.0,
+                        531.0,
+                        282.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATED TARGET",
+            "line_bbox": [
+                97.0,
+                364.0,
+                244.0,
+                381.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATED",
+                    "bbox": [
+                        98.0,
+                        365.0,
+                        178.0,
+                        380.0
+                    ]
+                },
+                {
+                    "text": "TARGET",
+                    "bbox": [
+                        190.0,
+                        368.0,
+                        243.0,
+                        381.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REVISED",
+            "line_bbox": [
+                445.0,
+                373.0,
+                509.0,
+                385.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REVISED",
+                    "bbox": [
+                        445.0,
+                        373.0,
+                        506.0,
+                        385.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE - ORIGINAL",
+            "line_bbox": [
+                98.0,
+                381.0,
+                235.0,
+                396.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        99.0,
+                        381.0,
+                        132.0,
+                        394.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        143.0,
+                        382.0,
+                        150.0,
+                        394.0
+                    ]
+                },
+                {
+                    "text": "ORIGINAL",
+                    "bbox": [
+                        160.0,
+                        382.0,
+                        233.0,
+                        396.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TARGET DATE",
+            "line_bbox": [
+                444.0,
+                387.0,
+                545.0,
+                402.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TARGET",
+                    "bbox": [
+                        445.0,
+                        388.0,
+                        498.0,
+                        402.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        507.0,
+                        389.0,
+                        543.0,
+                        403.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS",
+            "line_bbox": [
+                98.0,
+                396.0,
+                171.0,
+                409.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS",
+                    "bbox": [
+                        99.0,
+                        397.0,
+                        169.0,
+                        410.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "B.",
+            "line_bbox": [
+                49.0,
+                503.0,
+                72.0,
+                514.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "B.",
+                    "bbox": [
+                        51.0,
+                        503.0,
+                        68.0,
+                        514.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MARKETING",
+            "line_bbox": [
+                95.0,
+                501.0,
+                179.0,
+                515.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MARKETING",
+                    "bbox": [
+                        95.0,
+                        501.0,
+                        176.0,
+                        515.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SIZE OF TARGET MARKET",
+            "line_bbox": [
+                95.0,
+                516.0,
+                288.0,
+                534.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SIZE",
+                    "bbox": [
+                        96.0,
+                        517.0,
+                        130.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        139.0,
+                        518.0,
+                        158.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "TARGET",
+                    "bbox": [
+                        169.0,
+                        518.0,
+                        222.0,
+                        533.0
+                    ]
+                },
+                {
+                    "text": "MARKET",
+                    "bbox": [
+                        230.0,
+                        520.0,
+                        287.0,
+                        534.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YEAR",
+            "line_bbox": [
+                323.0,
+                521.0,
+                361.0,
+                535.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YEAR",
+                    "bbox": [
+                        323.0,
+                        522.0,
+                        358.0,
+                        535.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YEAR",
+            "line_bbox": [
+                469.0,
+                524.0,
+                508.0,
+                537.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YEAR",
+                    "bbox": [
+                        470.0,
+                        525.0,
+                        504.0,
+                        538.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YEAR",
+            "line_bbox": [
+                551.0,
+                527.0,
+                588.0,
+                540.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YEAR",
+                    "bbox": [
+                        551.0,
+                        527.0,
+                        586.0,
+                        540.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YEAR",
+            "line_bbox": [
+                626.0,
+                528.0,
+                665.0,
+                542.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YEAR",
+                    "bbox": [
+                        626.0,
+                        529.0,
+                        659.0,
+                        543.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(BY BRAND OR COMPANY)",
+            "line_bbox": [
+                98.0,
+                531.0,
+                288.0,
+                550.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(BY",
+                    "bbox": [
+                        98.0,
+                        531.0,
+                        122.0,
+                        547.0
+                    ]
+                },
+                {
+                    "text": "BRAND",
+                    "bbox": [
+                        130.0,
+                        532.0,
+                        176.0,
+                        548.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        185.0,
+                        534.0,
+                        204.0,
+                        549.0
+                    ]
+                },
+                {
+                    "text": "COMPANY)",
+                    "bbox": [
+                        212.0,
+                        535.0,
+                        286.0,
+                        551.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YEAR",
+            "line_bbox": [
+                406.0,
+                524.0,
+                444.0,
+                537.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YEAR",
+                    "bbox": [
+                        406.0,
+                        524.0,
+                        440.0,
+                        537.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ONE",
+            "line_bbox": [
+                324.0,
+                539.0,
+                351.0,
+                549.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ONE",
+                    "bbox": [
+                        324.0,
+                        539.0,
+                        348.0,
+                        549.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TWO",
+            "line_bbox": [
+                405.0,
+                539.0,
+                434.0,
+                551.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TWO",
+                    "bbox": [
+                        408.0,
+                        539.0,
+                        431.0,
+                        551.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "THREE",
+            "line_bbox": [
+                468.0,
+                541.0,
+                517.0,
+                553.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "THREE",
+                    "bbox": [
+                        469.0,
+                        541.0,
+                        512.0,
+                        553.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FOUR",
+            "line_bbox": [
+                551.0,
+                543.0,
+                590.0,
+                555.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FOUR",
+                    "bbox": [
+                        552.0,
+                        543.0,
+                        585.0,
+                        555.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FIVE",
+            "line_bbox": [
+                626.0,
+                544.0,
+                663.0,
+                558.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FIVE",
+                    "bbox": [
+                        627.0,
+                        545.0,
+                        659.0,
+                        558.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "UNITS",
+            "line_bbox": [
+                688.0,
+                560.0,
+                735.0,
+                574.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "UNITS",
+                    "bbox": [
+                        688.0,
+                        561.0,
+                        733.0,
+                        574.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "UNITS",
+            "line_bbox": [
+                689.0,
+                576.0,
+                735.0,
+                589.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "UNITS",
+                    "bbox": [
+                        690.0,
+                        577.0,
+                        733.0,
+                        590.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SALES OBJECTIVE",
+            "line_bbox": [
+                94.0,
+                593.0,
+                234.0,
+                609.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SALES",
+                    "bbox": [
+                        94.0,
+                        594.0,
+                        138.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "OBJECTIVE",
+                    "bbox": [
+                        147.0,
+                        595.0,
+                        230.0,
+                        610.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "UNITS",
+            "line_bbox": [
+                688.0,
+                591.0,
+                734.0,
+                605.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "UNITS",
+                    "bbox": [
+                        689.0,
+                        592.0,
+                        732.0,
+                        605.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATED PAYBACK PERIOD",
+            "line_bbox": [
+                95.0,
+                608.0,
+                315.0,
+                627.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATED",
+                    "bbox": [
+                        95.0,
+                        609.0,
+                        174.0,
+                        623.0
+                    ]
+                },
+                {
+                    "text": "PAYBACK",
+                    "bbox": [
+                        184.0,
+                        611.0,
+                        247.0,
+                        626.0
+                    ]
+                },
+                {
+                    "text": "PERIOD",
+                    "bbox": [
+                        257.0,
+                        613.0,
+                        311.0,
+                        628.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "UNITS",
+            "line_bbox": [
+                687.0,
+                607.0,
+                735.0,
+                620.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "UNITS",
+                    "bbox": [
+                        687.0,
+                        607.0,
+                        732.0,
+                        621.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS",
+            "line_bbox": [
+                95.0,
+                623.0,
+                167.0,
+                638.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS",
+                    "bbox": [
+                        95.0,
+                        623.0,
+                        165.0,
+                        639.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MAJOR MKT. AND MKT.",
+            "line_bbox": [
+                92.0,
+                668.0,
+                264.0,
+                686.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MAJOR",
+                    "bbox": [
+                        93.0,
+                        669.0,
+                        136.0,
+                        683.0
+                    ]
+                },
+                {
+                    "text": "MKT.",
+                    "bbox": [
+                        146.0,
+                        670.0,
+                        184.0,
+                        684.0
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "bbox": [
+                        193.0,
+                        672.0,
+                        219.0,
+                        685.0
+                    ]
+                },
+                {
+                    "text": "MKT.",
+                    "bbox": [
+                        228.0,
+                        673.0,
+                        265.0,
+                        687.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ORIGINAL",
+            "line_bbox": [
+                394.0,
+                676.0,
+                469.0,
+                690.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ORIGINAL",
+                    "bbox": [
+                        394.0,
+                        677.0,
+                        466.0,
+                        690.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "*",
+            "line_bbox": [
+                605.0,
+                682.0,
+                616.0,
+                690.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "*",
+                    "bbox": [
+                        606.0,
+                        682.0,
+                        611.0,
+                        690.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RESEARCH STEPS",
+            "line_bbox": [
+                94.0,
+                684.0,
+                220.0,
+                701.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RESEARCH",
+                    "bbox": [
+                        94.0,
+                        685.0,
+                        164.0,
+                        699.0
+                    ]
+                },
+                {
+                    "text": "STEPS",
+                    "bbox": [
+                        174.0,
+                        686.0,
+                        218.0,
+                        702.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REVISED",
+            "line_bbox": [
+                632.0,
+                682.0,
+                697.0,
+                697.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REVISED",
+                    "bbox": [
+                        632.0,
+                        683.0,
+                        694.0,
+                        697.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMPLETION DATE",
+            "line_bbox": [
+                374.0,
+                692.0,
+                513.0,
+                706.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPLETION",
+                    "bbox": [
+                        375.0,
+                        692.0,
+                        464.0,
+                        706.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        475.0,
+                        694.0,
+                        510.0,
+                        707.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1st Qtr. 79",
+            "line_bbox": [
+                375.0,
+                706.0,
+                486.0,
+                720.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1st",
+                    "bbox": [
+                        376.0,
+                        707.0,
+                        401.0,
+                        721.0
+                    ]
+                },
+                {
+                    "text": "Qtr.",
+                    "bbox": [
+                        410.0,
+                        708.0,
+                        447.0,
+                        721.0
+                    ]
+                },
+                {
+                    "text": "79",
+                    "bbox": [
+                        468.0,
+                        708.0,
+                        484.0,
+                        720.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMPLETION DATE",
+            "line_bbox": [
+                603.0,
+                698.0,
+                742.0,
+                714.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPLETION",
+                    "bbox": [
+                        604.0,
+                        699.0,
+                        694.0,
+                        713.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        704.0,
+                        701.0,
+                        740.0,
+                        714.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "In-home placement",
+            "line_bbox": [
+                94.0,
+                704.0,
+                248.0,
+                718.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "In-home",
+                    "bbox": [
+                        94.0,
+                        705.0,
+                        155.0,
+                        718.0
+                    ]
+                },
+                {
+                    "text": "placement",
+                    "bbox": [
+                        165.0,
+                        705.0,
+                        247.0,
+                        719.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPLANATION OF",
+            "line_bbox": [
+                96.0,
+                805.0,
+                236.0,
+                822.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPLANATION",
+                    "bbox": [
+                        107.0,
+                        806.0,
+                        207.0,
+                        821.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        217.0,
+                        809.0,
+                        234.0,
+                        823.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHANGE",
+            "line_bbox": [
+                105.0,
+                821.0,
+                163.0,
+                834.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHANGE",
+                    "bbox": [
+                        107.0,
+                        822.0,
+                        161.0,
+                        835.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "01408099",
+            "line_bbox": [
+                674.0,
+                841.0,
+                692.0,
+                934.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "01408099",
+                    "bbox": [
+                        674.0,
+                        841.0,
+                        693.0,
+                        933.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

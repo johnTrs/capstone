@@ -1,0 +1,352 @@
+{
+    "text_lines": [
+        {
+            "text": "Marketing Research - CPT Initiating Brief",
+            "bbox": [
+                199.0,
+                85.0,
+                509.0,
+                102.0
+            ]
+        },
+        {
+            "text": " Date",
+            "bbox": [
+                86.0,
+                153.0,
+                117.0,
+                167.0
+            ]
+        },
+        {
+            "text": "15.03.2000",
+            "bbox": [
+                137.0,
+                153.0,
+                199.0,
+                167.0
+            ]
+        },
+        {
+            "text": "Client Group",
+            "bbox": [
+                87.0,
+                185.0,
+                164.0,
+                200.0
+            ]
+        },
+        {
+            "text": "BAT Korea",
+            "bbox": [
+                182.0,
+                185.0,
+                251.0,
+                200.0
+            ]
+        },
+        {
+            "text": "Client Contact",
+            "bbox": [
+                86.0,
+                217.0,
+                172.0,
+                231.0
+            ]
+        },
+        {
+            "text": "Alberto Marcheggiano",
+            "bbox": [
+                195.0,
+                217.0,
+                325.0,
+                233.0
+            ]
+        },
+        {
+            "text": "Research Liaison",
+            "bbox": [
+                407.0,
+                217.0,
+                504.0,
+                231.0
+            ]
+        },
+        {
+            "text": "Subi Jeong",
+            "bbox": [
+                525.0,
+                217.0,
+                593.0,
+                231.0
+            ]
+        },
+        {
+            "text": "Kyu Yeon Hwang",
+            "bbox": [
+                194.0,
+                233.0,
+                297.0,
+                247.0
+            ]
+        },
+        {
+            "text": "Project Number: to be assigned by Brown & Williamson USA",
+            "bbox": [
+                81.0,
+                265.0,
+                425.0,
+                279.0
+            ]
+        },
+        {
+            "text": "Project Name / Description: Dunhill Lights, CPT",
+            "bbox": [
+                81.0,
+                299.0,
+                354.0,
+                314.0
+            ]
+        },
+        {
+            "text": "Market(s) / Zone(s)",
+            "bbox": [
+                81.0,
+                334.0,
+                193.0,
+                350.0
+            ]
+        },
+        {
+            "text": "South Korea",
+            "bbox": [
+                81.0,
+                366.0,
+                152.0,
+                382.0
+            ]
+        },
+        {
+            "text": "Referent Brand(s)",
+            "bbox": [
+                81.0,
+                399.0,
+                186.0,
+                415.0
+            ]
+        },
+        {
+            "text": "Dunhill Lights, Kent Super Lights",
+            "bbox": [
+                81.0,
+                432.0,
+                263.0,
+                446.0
+            ]
+        },
+        {
+            "text": "Mild 7",
+            "bbox": [
+                81.0,
+                448.0,
+                120.0,
+                462.0
+            ]
+        },
+        {
+            "text": "This",
+            "bbox": [
+                81.0,
+                463.0,
+                111.0,
+                479.0
+            ]
+        },
+        {
+            "text": "Consumer Segment(s)",
+            "bbox": [
+                81.0,
+                496.0,
+                207.0,
+                509.0
+            ]
+        },
+        {
+            "text": "Own Brand - Dunhill Smokers: 150 Males, 25 ~ 39 years old, ABC+ who live in Seoul/Pusan",
+            "bbox": [
+                81.0,
+                528.0,
+                570.0,
+                544.0
+            ]
+        },
+        {
+            "text": " Competitors Brands - Mild7 Lights Smokers: 150 Males, 25 ~ 39 years old, ABC+ who live in",
+            "bbox": [
+                81.0,
+                559.0,
+                576.0,
+                574.0
+            ]
+        },
+        {
+            "text": "Seoul/Pusan",
+            "bbox": [
+                82.0,
+                575.0,
+                151.0,
+                589.0
+            ]
+        },
+        {
+            "text": "Source of Business - This: 250 Males, (100 smokers, 25 ~ 29 years old, 150 smokers, 30 ~ 39 years old)",
+            "bbox": [
+                81.0,
+                604.0,
+                626.0,
+                619.0
+            ]
+        },
+        {
+            "text": "ABC+ who are not rejectors of imported cigarette and live in Seoul/Pusan",
+            "bbox": [
+                82.0,
+                620.0,
+                468.0,
+                635.0
+            ]
+        },
+        {
+            "text": "Source of Business - Local Premium KS Smokers: 250 Males, (100 smokers, 25 ~ 29 years old, 150",
+            "bbox": [
+                81.0,
+                650.0,
+                606.0,
+                666.0
+            ]
+        },
+        {
+            "text": "smokers, 30 ~ 39 years old) ABC+ who are not rejectors of imported cigarette and live in Seoul/Pusan",
+            "bbox": [
+                81.0,
+                666.0,
+                619.0,
+                682.0
+            ]
+        },
+        {
+            "text": "Background / Problem Definition",
+            "bbox": [
+                81.0,
+                699.0,
+                271.0,
+                713.0
+            ]
+        },
+        {
+            "text": "1999 showed that imported cigarettes are recovering from the 1997/1998 economic crisis  and we",
+            "bbox": [
+                102.0,
+                730.0,
+                593.0,
+                746.0
+            ]
+        },
+        {
+            "text": " \u2022",
+            "bbox": [
+                81.0,
+                733.0,
+                93.0,
+                745.0
+            ]
+        },
+        {
+            "text": "forecasted continuos growth over the company's plan period.",
+            "bbox": [
+                102.0,
+                746.0,
+                410.0,
+                760.0
+            ]
+        },
+        {
+            "text": "BAT objective is to substantially increase its market share with growth coming primarily from its first",
+            "bbox": [
+                102.0,
+                761.0,
+                616.0,
+                775.0
+            ]
+        },
+        {
+            "text": ".",
+            "bbox": [
+                82.0,
+                763.0,
+                92.0,
+                775.0
+            ]
+        },
+        {
+            "text": "priority brand : Dunhill Lights",
+            "bbox": [
+                102.0,
+                776.0,
+                257.0,
+                790.0
+            ]
+        },
+        {
+            "text": "To achieve growth we consider fundamental to have a superior product in terms of acceptability among",
+            "bbox": [
+                102.0,
+                790.0,
+                623.0,
+                805.0
+            ]
+        },
+        {
+            "text": "\u2022",
+            "bbox": [
+                82.0,
+                791.0,
+                93.0,
+                805.0
+            ]
+        },
+        {
+            "text": "potential source of business as well as for our current franchise",
+            "bbox": [
+                102.0,
+                805.0,
+                420.0,
+                820.0
+            ]
+        },
+        {
+            "text": "597133637",
+            "bbox": [
+                0.0,
+                952.0,
+                80.0,
+                965.0
+            ]
+        },
+        {
+            "text": "PRODUCED FROM B&W WEB SITE",
+            "bbox": [
+                0.0,
+                969.0,
+                232.0,
+                982.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

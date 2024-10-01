@@ -1,0 +1,2758 @@
+{
+    "text_lines": [
+        {
+            "line_text": "Du 1000 11-01)",
+            "line_bbox": [
+                14.0,
+                7.0,
+                84.0,
+                33.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "Du",
+                    "bbox": [
+                        14.0,
+                        10.0,
+                        21.0,
+                        33.0
+                    ]
+                },
+                {
+                    "text": "1000",
+                    "bbox": [
+                        23.0,
+                        10.0,
+                        44.0,
+                        33.0
+                    ]
+                },
+                {
+                    "text": "11-01)",
+                    "bbox": [
+                        46.0,
+                        7.0,
+                        82.0,
+                        32.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+            "line_bbox": [
+                240.0,
+                9.0,
+                469.0,
+                22.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BROWN",
+                    "bbox": [
+                        241.0,
+                        10.0,
+                        275.0,
+                        23.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        277.0,
+                        10.0,
+                        283.0,
+                        23.0
+                    ]
+                },
+                {
+                    "text": "WILLIAMSON",
+                    "bbox": [
+                        285.0,
+                        10.0,
+                        347.0,
+                        23.0
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "bbox": [
+                        350.0,
+                        10.0,
+                        395.0,
+                        23.0
+                    ]
+                },
+                {
+                    "text": "CORPORATION",
+                    "bbox": [
+                        397.0,
+                        10.0,
+                        466.0,
+                        23.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MATERIAL SPECIFICATION OR DESIGN",
+            "line_bbox": [
+                235.0,
+                24.0,
+                476.0,
+                40.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MATERIAL",
+                    "bbox": [
+                        235.0,
+                        25.0,
+                        301.0,
+                        40.0
+                    ]
+                },
+                {
+                    "text": "SPECIFICATION",
+                    "bbox": [
+                        304.0,
+                        25.0,
+                        399.0,
+                        38.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        403.0,
+                        25.0,
+                        421.0,
+                        39.0
+                    ]
+                },
+                {
+                    "text": "DESIGN",
+                    "bbox": [
+                        425.0,
+                        25.0,
+                        471.0,
+                        40.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHANGE AUTHORIZATION",
+            "line_bbox": [
+                271.0,
+                38.0,
+                439.0,
+                53.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHANGE",
+                    "bbox": [
+                        271.0,
+                        38.0,
+                        326.0,
+                        53.0
+                    ]
+                },
+                {
+                    "text": "AUTHORIZATION",
+                    "bbox": [
+                        329.0,
+                        39.0,
+                        435.0,
+                        53.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NEW ITEM",
+            "line_bbox": [
+                16.0,
+                77.0,
+                72.0,
+                90.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NEW",
+                    "bbox": [
+                        16.0,
+                        78.0,
+                        38.0,
+                        91.0
+                    ]
+                },
+                {
+                    "text": "ITEM",
+                    "bbox": [
+                        43.0,
+                        78.0,
+                        68.0,
+                        90.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESCRIPTION",
+            "line_bbox": [
+                16.0,
+                108.0,
+                83.0,
+                121.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESCRIPTION",
+                    "bbox": [
+                        16.0,
+                        109.0,
+                        79.0,
+                        121.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "VICEROY Rich Lights 100's 20's Label",
+            "line_bbox": [
+                118.0,
+                101.0,
+                374.0,
+                116.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "VICEROY",
+                    "bbox": [
+                        119.0,
+                        102.0,
+                        168.0,
+                        117.0
+                    ]
+                },
+                {
+                    "text": "Rich",
+                    "bbox": [
+                        173.0,
+                        102.0,
+                        204.0,
+                        117.0
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "bbox": [
+                        208.0,
+                        101.0,
+                        253.0,
+                        117.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        259.0,
+                        101.0,
+                        296.0,
+                        116.0
+                    ]
+                },
+                {
+                    "text": "20's",
+                    "bbox": [
+                        301.0,
+                        101.0,
+                        332.0,
+                        116.0
+                    ]
+                },
+                {
+                    "text": "Label",
+                    "bbox": [
+                        336.0,
+                        101.0,
+                        374.0,
+                        115.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRANDISI",
+            "line_bbox": [
+                15.0,
+                136.0,
+                68.0,
+                147.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRANDISI",
+                    "bbox": [
+                        16.0,
+                        136.0,
+                        65.0,
+                        147.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "VICEROY Rich Lights",
+            "line_bbox": [
+                117.0,
+                129.0,
+                252.0,
+                143.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "VICEROY",
+                    "bbox": [
+                        117.0,
+                        129.0,
+                        167.0,
+                        143.0
+                    ]
+                },
+                {
+                    "text": "Rich",
+                    "bbox": [
+                        173.0,
+                        129.0,
+                        202.0,
+                        142.0
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "bbox": [
+                        208.0,
+                        129.0,
+                        252.0,
+                        143.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESIGN NO.",
+            "line_bbox": [
+                15.0,
+                163.0,
+                72.0,
+                174.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESIGN",
+                    "bbox": [
+                        16.0,
+                        163.0,
+                        51.0,
+                        175.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        54.0,
+                        163.0,
+                        72.0,
+                        174.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "81-257",
+            "line_bbox": [
+                114.0,
+                156.0,
+                158.0,
+                170.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "81-257",
+                    "bbox": [
+                        115.0,
+                        157.0,
+                        158.0,
+                        170.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "UPC NO.",
+            "line_bbox": [
+                278.0,
+                161.0,
+                317.0,
+                172.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "UPC",
+                    "bbox": [
+                        279.0,
+                        161.0,
+                        296.0,
+                        173.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        299.0,
+                        161.0,
+                        317.0,
+                        173.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "272972",
+            "line_bbox": [
+                339.0,
+                153.0,
+                385.0,
+                167.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "272972",
+                    "bbox": [
+                        340.0,
+                        153.0,
+                        383.0,
+                        168.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MATERIAL NO.",
+            "line_bbox": [
+                486.0,
+                161.0,
+                556.0,
+                172.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MATERIAL",
+                    "bbox": [
+                        486.0,
+                        162.0,
+                        536.0,
+                        173.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        538.0,
+                        162.0,
+                        556.0,
+                        172.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "50-034A",
+            "line_bbox": [
+                565.0,
+                153.0,
+                617.0,
+                165.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "50-034A",
+                    "bbox": [
+                        566.0,
+                        153.0,
+                        616.0,
+                        166.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TYPE CHANGE:",
+            "line_bbox": [
+                15.0,
+                188.0,
+                98.0,
+                201.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TYPE",
+                    "bbox": [
+                        16.0,
+                        188.0,
+                        44.0,
+                        201.0
+                    ]
+                },
+                {
+                    "text": "CHANGE:",
+                    "bbox": [
+                        46.0,
+                        189.0,
+                        98.0,
+                        201.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "USE:",
+            "line_bbox": [
+                238.0,
+                188.0,
+                262.0,
+                198.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "USE:",
+                    "bbox": [
+                        238.0,
+                        188.0,
+                        262.0,
+                        198.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OFFICIAL",
+            "line_bbox": [
+                21.0,
+                216.0,
+                84.0,
+                228.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OFFICIAL",
+                    "bbox": [
+                        34.0,
+                        216.0,
+                        80.0,
+                        228.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TEMPORARY",
+            "line_bbox": [
+                102.0,
+                215.0,
+                177.0,
+                227.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TEMPORARY",
+                    "bbox": [
+                        116.0,
+                        215.0,
+                        176.0,
+                        228.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "29 DOMESTIC",
+            "line_bbox": [
+                242.0,
+                215.0,
+                310.0,
+                227.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "29",
+                    "bbox": [
+                        243.0,
+                        215.0,
+                        253.0,
+                        227.0
+                    ]
+                },
+                {
+                    "text": "DOMESTIC",
+                    "bbox": [
+                        255.0,
+                        215.0,
+                        305.0,
+                        227.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MILITARY",
+            "line_bbox": [
+                350.0,
+                210.0,
+                399.0,
+                218.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MILITARY",
+                    "bbox": [
+                        350.0,
+                        211.0,
+                        396.0,
+                        219.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GENERAL",
+            "line_bbox": [
+                429.0,
+                210.0,
+                483.0,
+                221.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GENERAL",
+                    "bbox": [
+                        435.0,
+                        211.0,
+                        481.0,
+                        221.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPORT",
+            "line_bbox": [
+                427.0,
+                216.0,
+                478.0,
+                227.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPORT",
+                    "bbox": [
+                        435.0,
+                        216.0,
+                        474.0,
+                        226.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CUSTOMER",
+            "line_bbox": [
+                522.0,
+                211.0,
+                578.0,
+                221.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CUSTOMER",
+                    "bbox": [
+                        524.0,
+                        212.0,
+                        575.0,
+                        221.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPORT",
+            "line_bbox": [
+                349.0,
+                219.0,
+                391.0,
+                226.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPORT",
+                    "bbox": [
+                        350.0,
+                        219.0,
+                        387.0,
+                        226.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "O SPEC.",
+            "line_bbox": [
+                510.0,
+                215.0,
+                553.0,
+                227.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "O",
+                    "bbox": [
+                        511.0,
+                        215.0,
+                        515.0,
+                        224.0
+                    ]
+                },
+                {
+                    "text": "SPEC.",
+                    "bbox": [
+                        526.0,
+                        217.0,
+                        553.0,
+                        228.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(GRAVURE)",
+            "line_bbox": [
+                587.0,
+                215.0,
+                646.0,
+                226.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(GRAVURE)",
+                    "bbox": [
+                        588.0,
+                        216.0,
+                        646.0,
+                        226.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Is a material or dimensional change also involved?",
+            "line_bbox": [
+                17.0,
+                256.0,
+                250.0,
+                269.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Is",
+                    "bbox": [
+                        17.0,
+                        258.0,
+                        25.0,
+                        269.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        27.0,
+                        258.0,
+                        33.0,
+                        269.0
+                    ]
+                },
+                {
+                    "text": "material",
+                    "bbox": [
+                        35.0,
+                        258.0,
+                        73.0,
+                        269.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        75.0,
+                        257.0,
+                        86.0,
+                        269.0
+                    ]
+                },
+                {
+                    "text": "dimensional",
+                    "bbox": [
+                        88.0,
+                        257.0,
+                        144.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "change",
+                    "bbox": [
+                        146.0,
+                        257.0,
+                        179.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "also",
+                    "bbox": [
+                        181.0,
+                        257.0,
+                        200.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "involved?",
+                    "bbox": [
+                        202.0,
+                        256.0,
+                        248.0,
+                        268.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DYES",
+            "line_bbox": [
+                257.0,
+                255.0,
+                305.0,
+                269.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DYES",
+                    "bbox": [
+                        264.0,
+                        256.0,
+                        299.0,
+                        269.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DE NO",
+            "line_bbox": [
+                318.0,
+                255.0,
+                352.0,
+                267.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DE",
+                    "bbox": [
+                        321.0,
+                        255.0,
+                        331.0,
+                        267.0
+                    ]
+                },
+                {
+                    "text": "NO",
+                    "bbox": [
+                        334.0,
+                        255.0,
+                        349.0,
+                        267.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "If yes, supply details:",
+            "line_bbox": [
+                16.0,
+                271.0,
+                117.0,
+                283.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "If",
+                    "bbox": [
+                        16.0,
+                        272.0,
+                        25.0,
+                        283.0
+                    ]
+                },
+                {
+                    "text": "yes,",
+                    "bbox": [
+                        27.0,
+                        271.0,
+                        45.0,
+                        283.0
+                    ]
+                },
+                {
+                    "text": "supply",
+                    "bbox": [
+                        47.0,
+                        271.0,
+                        79.0,
+                        283.0
+                    ]
+                },
+                {
+                    "text": "details:",
+                    "bbox": [
+                        81.0,
+                        271.0,
+                        117.0,
+                        283.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRANCH",
+            "line_bbox": [
+                32.0,
+                396.0,
+                86.0,
+                408.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRANCH",
+                    "bbox": [
+                        32.0,
+                        396.0,
+                        83.0,
+                        408.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LOUISVILLE",
+            "line_bbox": [
+                215.0,
+                394.0,
+                282.0,
+                408.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LOUISVILLE",
+                    "bbox": [
+                        215.0,
+                        395.0,
+                        280.0,
+                        408.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PETERSBURG",
+            "line_bbox": [
+                336.0,
+                394.0,
+                410.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PETERSBURG",
+                    "bbox": [
+                        337.0,
+                        394.0,
+                        408.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MACON",
+            "line_bbox": [
+                478.0,
+                395.0,
+                520.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MACON",
+                    "bbox": [
+                        478.0,
+                        395.0,
+                        517.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WINSTON SALEM",
+            "line_bbox": [
+                577.0,
+                394.0,
+                671.0,
+                406.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WINSTON",
+                    "bbox": [
+                        578.0,
+                        394.0,
+                        626.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "SALEM",
+                    "bbox": [
+                        630.0,
+                        394.0,
+                        665.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCHEDULE: DATE OR",
+            "line_bbox": [
+                18.0,
+                416.0,
+                134.0,
+                429.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCHEDULE:",
+                    "bbox": [
+                        19.0,
+                        417.0,
+                        80.0,
+                        430.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        82.0,
+                        417.0,
+                        113.0,
+                        429.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        116.0,
+                        417.0,
+                        132.0,
+                        429.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INVENTORY DEPLETION",
+            "line_bbox": [
+                18.0,
+                427.0,
+                151.0,
+                440.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INVENTORY",
+                    "bbox": [
+                        19.0,
+                        428.0,
+                        83.0,
+                        440.0
+                    ]
+                },
+                {
+                    "text": "DEPLETION",
+                    "bbox": [
+                        86.0,
+                        428.0,
+                        147.0,
+                        440.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "10/30/81",
+            "line_bbox": [
+                199.0,
+                421.0,
+                257.0,
+                435.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "10/30/81",
+                    "bbox": [
+                        200.0,
+                        421.0,
+                        256.0,
+                        436.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DELIVERY DATE",
+            "line_bbox": [
+                18.0,
+                451.0,
+                109.0,
+                464.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DELIVERY",
+                    "bbox": [
+                        19.0,
+                        451.0,
+                        75.0,
+                        464.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        78.0,
+                        451.0,
+                        108.0,
+                        464.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "10/16/81",
+            "line_bbox": [
+                199.0,
+                453.0,
+                257.0,
+                466.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "10/16/81",
+                    "bbox": [
+                        200.0,
+                        454.0,
+                        256.0,
+                        467.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REPLACEMENT",
+            "line_bbox": [
+                16.0,
+                481.0,
+                100.0,
+                495.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REPLACEMENT",
+                    "bbox": [
+                        17.0,
+                        482.0,
+                        98.0,
+                        496.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESCRIPTION",
+            "line_bbox": [
+                15.0,
+                514.0,
+                83.0,
+                525.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESCRIPTION",
+                    "bbox": [
+                        16.0,
+                        515.0,
+                        79.0,
+                        526.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "VICEROY Rich Lights 100's 20's Label",
+            "line_bbox": [
+                113.0,
+                507.0,
+                370.0,
+                524.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "VICEROY",
+                    "bbox": [
+                        114.0,
+                        510.0,
+                        165.0,
+                        524.0
+                    ]
+                },
+                {
+                    "text": "Rich",
+                    "bbox": [
+                        170.0,
+                        509.0,
+                        201.0,
+                        524.0
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "bbox": [
+                        205.0,
+                        508.0,
+                        250.0,
+                        523.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        256.0,
+                        508.0,
+                        293.0,
+                        523.0
+                    ]
+                },
+                {
+                    "text": "20's",
+                    "bbox": [
+                        298.0,
+                        508.0,
+                        328.0,
+                        523.0
+                    ]
+                },
+                {
+                    "text": "Label",
+                    "bbox": [
+                        333.0,
+                        508.0,
+                        370.0,
+                        523.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESIGN NO.",
+            "line_bbox": [
+                15.0,
+                542.0,
+                70.0,
+                553.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESIGN",
+                    "bbox": [
+                        16.0,
+                        543.0,
+                        50.0,
+                        553.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        54.0,
+                        543.0,
+                        71.0,
+                        553.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "80-15",
+            "line_bbox": [
+                114.0,
+                537.0,
+                151.0,
+                548.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "80-15",
+                    "bbox": [
+                        115.0,
+                        537.0,
+                        150.0,
+                        549.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "UPC NO.",
+            "line_bbox": [
+                279.0,
+                542.0,
+                318.0,
+                552.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "UPC",
+                    "bbox": [
+                        280.0,
+                        542.0,
+                        298.0,
+                        552.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        301.0,
+                        542.0,
+                        318.0,
+                        553.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "272972",
+            "line_bbox": [
+                339.0,
+                536.0,
+                385.0,
+                549.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "272972",
+                    "bbox": [
+                        340.0,
+                        537.0,
+                        383.0,
+                        550.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MATERIAL NO.",
+            "line_bbox": [
+                486.0,
+                542.0,
+                558.0,
+                552.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MATERIAL",
+                    "bbox": [
+                        487.0,
+                        542.0,
+                        537.0,
+                        552.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        539.0,
+                        542.0,
+                        558.0,
+                        551.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "50-034",
+            "line_bbox": [
+                572.0,
+                535.0,
+                617.0,
+                549.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "50-034",
+                    "bbox": [
+                        573.0,
+                        535.0,
+                        615.0,
+                        549.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BRANCH",
+            "line_bbox": [
+                34.0,
+                571.0,
+                88.0,
+                585.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BRANCH",
+                    "bbox": [
+                        34.0,
+                        571.0,
+                        85.0,
+                        585.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LOUISVILLE",
+            "line_bbox": [
+                214.0,
+                569.0,
+                283.0,
+                583.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LOUISVILLE",
+                    "bbox": [
+                        215.0,
+                        570.0,
+                        280.0,
+                        584.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PETERSBURG",
+            "line_bbox": [
+                335.0,
+                571.0,
+                411.0,
+                583.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PETERSBURG",
+                    "bbox": [
+                        336.0,
+                        571.0,
+                        408.0,
+                        584.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MACON",
+            "line_bbox": [
+                478.0,
+                569.0,
+                520.0,
+                581.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MACON",
+                    "bbox": [
+                        479.0,
+                        570.0,
+                        518.0,
+                        582.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WINSTON-SALEM",
+            "line_bbox": [
+                578.0,
+                569.0,
+                671.0,
+                581.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WINSTON-SALEM",
+                    "bbox": [
+                        579.0,
+                        569.0,
+                        666.0,
+                        581.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INVENTORY",
+            "line_bbox": [
+                16.0,
+                592.0,
+                85.0,
+                605.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INVENTORY",
+                    "bbox": [
+                        19.0,
+                        593.0,
+                        84.0,
+                        605.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "...",
+            "line_bbox": [
+                136.0,
+                596.0,
+                145.0,
+                617.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "...",
+                    "bbox": [
+                        136.0,
+                        597.0,
+                        145.0,
+                        615.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DEPLETION DATE",
+            "line_bbox": [
+                19.0,
+                604.0,
+                116.0,
+                616.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DEPLETION",
+                    "bbox": [
+                        20.0,
+                        604.0,
+                        80.0,
+                        617.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        84.0,
+                        604.0,
+                        114.0,
+                        617.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(10/30/81",
+            "line_bbox": [
+                196.0,
+                596.0,
+                281.0,
+                614.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(10/30/81",
+                    "bbox": [
+                        199.0,
+                        597.0,
+                        273.0,
+                        614.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS:",
+            "line_bbox": [
+                17.0,
+                632.0,
+                82.0,
+                645.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS:",
+                    "bbox": [
+                        17.0,
+                        633.0,
+                        82.0,
+                        646.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Material #50-034A has been assigned to the VICEROY Rich Lights 100's 20's Label",
+            "line_bbox": [
+                113.0,
+                629.0,
+                674.0,
+                646.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Material",
+                    "bbox": [
+                        114.0,
+                        632.0,
+                        172.0,
+                        645.0
+                    ]
+                },
+                {
+                    "text": "#50-034A",
+                    "bbox": [
+                        177.0,
+                        632.0,
+                        235.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "has",
+                    "bbox": [
+                        240.0,
+                        632.0,
+                        263.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "been",
+                    "bbox": [
+                        268.0,
+                        632.0,
+                        298.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "assigned",
+                    "bbox": [
+                        304.0,
+                        631.0,
+                        363.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        368.0,
+                        631.0,
+                        383.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        389.0,
+                        631.0,
+                        412.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "VICEROY",
+                    "bbox": [
+                        417.0,
+                        631.0,
+                        469.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "Rich",
+                    "bbox": [
+                        473.0,
+                        631.0,
+                        504.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "bbox": [
+                        508.0,
+                        631.0,
+                        552.0,
+                        646.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        559.0,
+                        630.0,
+                        595.0,
+                        645.0
+                    ]
+                },
+                {
+                    "text": "20's",
+                    "bbox": [
+                        600.0,
+                        630.0,
+                        630.0,
+                        645.0
+                    ]
+                },
+                {
+                    "text": "Label",
+                    "bbox": [
+                        635.0,
+                        630.0,
+                        673.0,
+                        645.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "with new bottom panel. Bottom now incorporates shield. On both side and",
+            "line_bbox": [
+                112.0,
+                647.0,
+                635.0,
+                662.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "with",
+                    "bbox": [
+                        113.0,
+                        649.0,
+                        144.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "new",
+                    "bbox": [
+                        148.0,
+                        649.0,
+                        171.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "bottom",
+                    "bbox": [
+                        176.0,
+                        649.0,
+                        221.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "panel.",
+                    "bbox": [
+                        226.0,
+                        648.0,
+                        271.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "Bottom",
+                    "bbox": [
+                        282.0,
+                        648.0,
+                        327.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "now",
+                    "bbox": [
+                        332.0,
+                        648.0,
+                        355.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "incorporates",
+                    "bbox": [
+                        362.0,
+                        648.0,
+                        447.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "shield.",
+                    "bbox": [
+                        454.0,
+                        648.0,
+                        504.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "On",
+                    "bbox": [
+                        515.0,
+                        648.0,
+                        531.0,
+                        661.0
+                    ]
+                },
+                {
+                    "text": "both",
+                    "bbox": [
+                        537.0,
+                        648.0,
+                        566.0,
+                        661.0
+                    ]
+                },
+                {
+                    "text": "side",
+                    "bbox": [
+                        573.0,
+                        648.0,
+                        602.0,
+                        661.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        608.0,
+                        647.0,
+                        630.0,
+                        660.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "bottom panels, \"VICEROY\" and \"Rich Lights\" have been inverted. Cartons and",
+            "line_bbox": [
+                113.0,
+                663.0,
+                645.0,
+                677.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "bottom",
+                    "bbox": [
+                        114.0,
+                        664.0,
+                        157.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "panels,",
+                    "bbox": [
+                        162.0,
+                        664.0,
+                        215.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "\"VICEROY\"",
+                    "bbox": [
+                        219.0,
+                        664.0,
+                        284.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        290.0,
+                        663.0,
+                        313.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "\"Rich",
+                    "bbox": [
+                        318.0,
+                        663.0,
+                        354.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "Lights\"",
+                    "bbox": [
+                        360.0,
+                        663.0,
+                        411.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        416.0,
+                        663.0,
+                        447.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "been",
+                    "bbox": [
+                        452.0,
+                        663.0,
+                        482.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "inverted.",
+                    "bbox": [
+                        488.0,
+                        663.0,
+                        553.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "Cartons",
+                    "bbox": [
+                        565.0,
+                        664.0,
+                        616.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        621.0,
+                        664.0,
+                        644.0,
+                        677.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "labels must change design simultaneously. The current design cannot be used in",
+            "line_bbox": [
+                116.0,
+                678.0,
+                675.0,
+                694.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "labels",
+                    "bbox": [
+                        116.0,
+                        680.0,
+                        158.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "must",
+                    "bbox": [
+                        161.0,
+                        680.0,
+                        193.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "change",
+                    "bbox": [
+                        197.0,
+                        679.0,
+                        243.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "design",
+                    "bbox": [
+                        246.0,
+                        679.0,
+                        292.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "simultaneously.",
+                    "bbox": [
+                        297.0,
+                        679.0,
+                        406.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "The",
+                    "bbox": [
+                        416.0,
+                        679.0,
+                        440.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "current",
+                    "bbox": [
+                        445.0,
+                        679.0,
+                        497.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "design",
+                    "bbox": [
+                        501.0,
+                        679.0,
+                        545.0,
+                        694.0
+                    ]
+                },
+                {
+                    "text": "cannot",
+                    "bbox": [
+                        551.0,
+                        679.0,
+                        595.0,
+                        693.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        600.0,
+                        679.0,
+                        616.0,
+                        693.0
+                    ]
+                },
+                {
+                    "text": "used",
+                    "bbox": [
+                        620.0,
+                        679.0,
+                        651.0,
+                        693.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        656.0,
+                        680.0,
+                        672.0,
+                        692.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "production after 10/30/81.",
+            "line_bbox": [
+                114.0,
+                694.0,
+                303.0,
+                710.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "production",
+                    "bbox": [
+                        115.0,
+                        695.0,
+                        185.0,
+                        710.0
+                    ]
+                },
+                {
+                    "text": "after",
+                    "bbox": [
+                        191.0,
+                        695.0,
+                        228.0,
+                        709.0
+                    ]
+                },
+                {
+                    "text": "10/30/81.",
+                    "bbox": [
+                        234.0,
+                        695.0,
+                        300.0,
+                        709.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "680115980",
+            "line_bbox": [
+                649.0,
+                713.0,
+                672.0,
+                829.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "680115980",
+                    "bbox": [
+                        650.0,
+                        713.0,
+                        672.0,
+                        824.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Copies to: J. F. Banks",
+            "line_bbox": [
+                22.0,
+                747.0,
+                130.0,
+                762.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Copies",
+                    "bbox": [
+                        23.0,
+                        748.0,
+                        51.0,
+                        761.0
+                    ]
+                },
+                {
+                    "text": "to:",
+                    "bbox": [
+                        53.0,
+                        749.0,
+                        71.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "J.",
+                    "bbox": [
+                        74.0,
+                        749.0,
+                        84.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "F.",
+                    "bbox": [
+                        86.0,
+                        749.0,
+                        97.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "Banks",
+                    "bbox": [
+                        99.0,
+                        750.0,
+                        130.0,
+                        762.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "C. Lamb",
+            "line_bbox": [
+                72.0,
+                760.0,
+                116.0,
+                773.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "C.",
+                    "bbox": [
+                        74.0,
+                        761.0,
+                        86.0,
+                        773.0
+                    ]
+                },
+                {
+                    "text": "Lamb",
+                    "bbox": [
+                        88.0,
+                        761.0,
+                        116.0,
+                        773.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "C. L. Domeck",
+            "line_bbox": [
+                75.0,
+                772.0,
+                142.0,
+                785.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "C.",
+                    "bbox": [
+                        76.0,
+                        772.0,
+                        86.0,
+                        784.0
+                    ]
+                },
+                {
+                    "text": "L.",
+                    "bbox": [
+                        87.0,
+                        773.0,
+                        98.0,
+                        785.0
+                    ]
+                },
+                {
+                    "text": "Domeck",
+                    "bbox": [
+                        100.0,
+                        773.0,
+                        141.0,
+                        785.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "J. W. Webb",
+            "line_bbox": [
+                74.0,
+                782.0,
+                128.0,
+                796.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "J.",
+                    "bbox": [
+                        75.0,
+                        783.0,
+                        83.0,
+                        794.0
+                    ]
+                },
+                {
+                    "text": "W.",
+                    "bbox": [
+                        85.0,
+                        783.0,
+                        98.0,
+                        795.0
+                    ]
+                },
+                {
+                    "text": "Webb",
+                    "bbox": [
+                        100.0,
+                        784.0,
+                        128.0,
+                        796.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "L. C. Lanham",
+            "line_bbox": [
+                76.0,
+                795.0,
+                141.0,
+                808.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "L.",
+                    "bbox": [
+                        76.0,
+                        795.0,
+                        85.0,
+                        807.0
+                    ]
+                },
+                {
+                    "text": "C.",
+                    "bbox": [
+                        87.0,
+                        796.0,
+                        98.0,
+                        807.0
+                    ]
+                },
+                {
+                    "text": "Lanham",
+                    "bbox": [
+                        100.0,
+                        796.0,
+                        136.0,
+                        808.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Branch QC",
+            "line_bbox": [
+                74.0,
+                807.0,
+                130.0,
+                818.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Branch",
+                    "bbox": [
+                        75.0,
+                        808.0,
+                        109.0,
+                        819.0
+                    ]
+                },
+                {
+                    "text": "QC",
+                    "bbox": [
+                        110.0,
+                        807.0,
+                        126.0,
+                        819.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Branch Supply",
+            "line_bbox": [
+                75.0,
+                818.0,
+                146.0,
+                831.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Branch",
+                    "bbox": [
+                        76.0,
+                        819.0,
+                        108.0,
+                        830.0
+                    ]
+                },
+                {
+                    "text": "Supply",
+                    "bbox": [
+                        110.0,
+                        819.0,
+                        146.0,
+                        831.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "22Beasley/JF",
+            "line_bbox": [
+                101.0,
+                834.0,
+                285.0,
+                870.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "22Beasley/JF",
+                    "bbox": [
+                        102.0,
+                        834.0,
+                        282.0,
+                        871.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ONED",
+            "line_bbox": [
+                24.0,
+                855.0,
+                53.0,
+                866.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ONED",
+                    "bbox": [
+                        26.0,
+                        855.0,
+                        53.0,
+                        866.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "S. T. BEASLEY (MRS.) /11f",
+            "line_bbox": [
+                113.0,
+                866.0,
+                285.0,
+                884.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "S.",
+                    "bbox": [
+                        114.0,
+                        869.0,
+                        131.0,
+                        883.0
+                    ]
+                },
+                {
+                    "text": "T.",
+                    "bbox": [
+                        135.0,
+                        868.0,
+                        153.0,
+                        883.0
+                    ]
+                },
+                {
+                    "text": "BEASLEY",
+                    "bbox": [
+                        157.0,
+                        867.0,
+                        205.0,
+                        883.0
+                    ]
+                },
+                {
+                    "text": "(MRS.)",
+                    "bbox": [
+                        208.0,
+                        867.0,
+                        252.0,
+                        884.0
+                    ]
+                },
+                {
+                    "text": "/11f",
+                    "bbox": [
+                        255.0,
+                        867.0,
+                        286.0,
+                        884.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE:",
+            "line_bbox": [
+                486.0,
+                855.0,
+                519.0,
+                867.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE:",
+                    "bbox": [
+                        487.0,
+                        856.0,
+                        519.0,
+                        867.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "9/17/81",
+            "line_bbox": [
+                552.0,
+                852.0,
+                602.0,
+                865.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "9/17/81",
+                    "bbox": [
+                        552.0,
+                        852.0,
+                        602.0,
+                        865.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": ". .......",
+            "line_bbox": [
+                130.0,
+                882.0,
+                181.0,
+                892.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": ".",
+                    "bbox": [
+                        130.0,
+                        883.0,
+                        136.0,
+                        892.0
+                    ]
+                },
+                {
+                    "text": ".......",
+                    "bbox": [
+                        139.0,
+                        883.0,
+                        173.0,
+                        893.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "680115980",
+            "line_bbox": [
+                0.0,
+                952.0,
+                78.0,
+                965.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "680115980",
+                    "bbox": [
+                        1.0,
+                        953.0,
+                        77.0,
+                        966.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCED FROM B&W WEB SITE",
+            "line_bbox": [
+                0.0,
+                967.0,
+                233.0,
+                983.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCED",
+                    "bbox": [
+                        0.0,
+                        968.0,
+                        69.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "bbox": [
+                        78.0,
+                        968.0,
+                        113.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "B&W",
+                    "bbox": [
+                        122.0,
+                        968.0,
+                        149.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "WEB",
+                    "bbox": [
+                        157.0,
+                        968.0,
+                        184.0,
+                        983.0
+                    ]
+                },
+                {
+                    "text": "SITE",
+                    "bbox": [
+                        193.0,
+                        968.0,
+                        229.0,
+                        983.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

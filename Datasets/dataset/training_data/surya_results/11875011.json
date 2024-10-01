@@ -1,0 +1,424 @@
+{
+    "text_lines": [
+        {
+            "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+            "bbox": [
+                168.0,
+                62.0,
+                518.0,
+                74.0
+            ]
+        },
+        {
+            "text": "BID REQUEST FORM",
+            "bbox": [
+                272.0,
+                77.0,
+                415.0,
+                91.0
+            ]
+        },
+        {
+            "text": "(QUALITATIVE RESEARCH)",
+            "bbox": [
+                248.0,
+                93.0,
+                439.0,
+                107.0
+            ]
+        },
+        {
+            "text": "1995-13D",
+            "bbox": [
+                219.0,
+                140.0,
+                281.0,
+                156.0
+            ]
+        },
+        {
+            "text": "PROJECT NUMBER:",
+            "bbox": [
+                76.0,
+                143.0,
+                204.0,
+                158.0
+            ]
+        },
+        {
+            "text": "H. L. Williams",
+            "bbox": [
+                219.0,
+                157.0,
+                305.0,
+                173.0
+            ]
+        },
+        {
+            "text": "B&W ORIGNATOR:",
+            "bbox": [
+                76.0,
+                160.0,
+                205.0,
+                174.0
+            ]
+        },
+        {
+            "text": "Goldfarb Consultants",
+            "bbox": [
+                220.0,
+                174.0,
+                342.0,
+                190.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                76.0,
+                177.0,
+                104.0,
+                191.0
+            ]
+        },
+        {
+            "text": "INSTRUCTIONS:",
+            "bbox": [
+                77.0,
+                225.0,
+                189.0,
+                240.0
+            ]
+        },
+        {
+            "text": "THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+            "bbox": [
+                118.0,
+                255.0,
+                535.0,
+                267.0
+            ]
+        },
+        {
+            "text": "1.",
+            "bbox": [
+                78.0,
+                257.0,
+                95.0,
+                271.0
+            ]
+        },
+        {
+            "text": "SECTION ONE CONTAINS THE PROJECT DESCRIPTION AND",
+            "bbox": [
+                119.0,
+                288.0,
+                507.0,
+                300.0
+            ]
+        },
+        {
+            "text": "SPECIFICATIONS FROM B&W.  ALL BIDS SHOULD BE BASED",
+            "bbox": [
+                119.0,
+                304.0,
+                509.0,
+                316.0
+            ]
+        },
+        {
+            "text": "ON THE SPECIFICATIONS IN THIS DOCUMENT.",
+            "bbox": [
+                119.0,
+                321.0,
+                423.0,
+                332.0
+            ]
+        },
+        {
+            "text": "SECTION TWO SHOULD BE COMPLETED BY THE RESEARCH",
+            "bbox": [
+                119.0,
+                351.0,
+                516.0,
+                363.0
+            ]
+        },
+        {
+            "text": "AGENCY AND RETURNED BY FAX TO THE FOLLOWING PERSON:",
+            "bbox": [
+                120.0,
+                368.0,
+                539.0,
+                379.0
+            ]
+        },
+        {
+            "text": "HAROLD WILLIAMS",
+            "bbox": [
+                243.0,
+                399.0,
+                375.0,
+                413.0
+            ]
+        },
+        {
+            "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+            "bbox": [
+                244.0,
+                415.0,
+                572.0,
+                426.0
+            ]
+        },
+        {
+            "text": "LOUISVILLE, KENTUCKY",
+            "bbox": [
+                243.0,
+                430.0,
+                410.0,
+                445.0
+            ]
+        },
+        {
+            "text": "U.S.A.",
+            "bbox": [
+                244.0,
+                447.0,
+                287.0,
+                461.0
+            ]
+        },
+        {
+            "text": "FAX NUMBERS:  (502) 568-7313 or (502) 568-8319",
+            "bbox": [
+                243.0,
+                461.0,
+                552.0,
+                474.0
+            ]
+        },
+        {
+            "text": "IN ORDER TO ALLOW US TO COMPARE BIDS, WE REQUEST THAT",
+            "bbox": [
+                121.0,
+                495.0,
+                545.0,
+                505.0
+            ]
+        },
+        {
+            "text": "2.",
+            "bbox": [
+                81.0,
+                496.0,
+                99.0,
+                512.0
+            ]
+        },
+        {
+            "text": "YOU SUBMIT A BID FOR THE RESEARCH AS SPECIFIED IN SECTION",
+            "bbox": [
+                122.0,
+                511.0,
+                559.0,
+                522.0
+            ]
+        },
+        {
+            "text": "ONE.",
+            "bbox": [
+                123.0,
+                528.0,
+                160.0,
+                542.0
+            ]
+        },
+        {
+            "text": "SUGGESTIONS FOR ALTERNATIVE DESIGNS FROM THE AGENCY",
+            "bbox": [
+                124.0,
+                559.0,
+                543.0,
+                572.0
+            ]
+        },
+        {
+            "text": "ARE WELCOME. HOWEVER, THESE SHOULD BE SUBMITTED AS",
+            "bbox": [
+                124.0,
+                576.0,
+                539.0,
+                587.0
+            ]
+        },
+        {
+            "text": "SEPARATE DOCUMENTS APPENDED TO THIS BID FORM.",
+            "bbox": [
+                124.0,
+                591.0,
+                490.0,
+                604.0
+            ]
+        },
+        {
+            "text": "IF YOU HAVE ANY QUESTIONS, PLEASE CONTACT THE FOLLOWING",
+            "bbox": [
+                124.0,
+                623.0,
+                567.0,
+                634.0
+            ]
+        },
+        {
+            "text": "3.",
+            "bbox": [
+                84.0,
+                625.0,
+                100.0,
+                640.0
+            ]
+        },
+        {
+            "text": "PERSON:",
+            "bbox": [
+                125.0,
+                640.0,
+                187.0,
+                655.0
+            ]
+        },
+        {
+            "text": "HAROLD WILLIAMS",
+            "bbox": [
+                246.0,
+                654.0,
+                380.0,
+                669.0
+            ]
+        },
+        {
+            "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+            "bbox": [
+                246.0,
+                670.0,
+                576.0,
+                681.0
+            ]
+        },
+        {
+            "text": " LOUISVILLE, KENTUCKY",
+            "bbox": [
+                246.0,
+                686.0,
+                414.0,
+                700.0
+            ]
+        },
+        {
+            "text": "U.S.A.",
+            "bbox": [
+                248.0,
+                703.0,
+                290.0,
+                716.0
+            ]
+        },
+        {
+            "text": "FAX NUMBERS:  (502) 568-7313 or (502) 568-8319",
+            "bbox": [
+                249.0,
+                719.0,
+                554.0,
+                730.0
+            ]
+        },
+        {
+            "text": "OTHER INFORMATION:",
+            "bbox": [
+                86.0,
+                769.0,
+                250.0,
+                782.0
+            ]
+        },
+        {
+            "text": "1-23-95",
+            "bbox": [
+                295.0,
+                799.0,
+                343.0,
+                812.0
+            ]
+        },
+        {
+            "text": "DATE REQUESTED:",
+            "bbox": [
+                86.0,
+                800.0,
+                214.0,
+                815.0
+            ]
+        },
+        {
+            "text": "9:00 AM EST",
+            "bbox": [
+                353.0,
+                819.0,
+                434.0,
+                833.0
+            ]
+        },
+        {
+            "text": "DEADLINE FOR BID RECEIPT:",
+            "bbox": [
+                87.0,
+                820.0,
+                280.0,
+                836.0
+            ]
+        },
+        {
+            "text": "l -26-95",
+            "bbox": [
+                295.0,
+                820.0,
+                351.0,
+                834.0
+            ]
+        },
+        {
+            "text": "I (W)(0) 12.1",
+            "bbox": [
+                88.0,
+                838.0,
+                131.0,
+                852.0
+            ]
+        },
+        {
+            "text": "465658704",
+            "bbox": [
+                487.0,
+                872.0,
+                600.0,
+                890.0
+            ]
+        },
+        {
+            "text": "PRODUCED FROM B&W WEB SITE",
+            "bbox": [
+                0.0,
+                953.0,
+                232.0,
+                966.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

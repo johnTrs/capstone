@@ -1,0 +1,604 @@
+{
+    "text_lines": [
+        {
+            "text": "LORILLARD MEDIA SERVICES",
+            "bbox": [
+                274.0,
+                82.0,
+                486.0,
+                96.0
+            ]
+        },
+        {
+            "text": "ONE PARK AVENUE, NEW YORK, NY 10016-5896",
+            "bbox": [
+                204.0,
+                97.0,
+                556.0,
+                112.0
+            ]
+        },
+        {
+            "text": "MAGAZINE INSERTION ORDER",
+            "bbox": [
+                271.0,
+                127.0,
+                492.0,
+                143.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                493.0,
+                190.0,
+                524.0,
+                203.0
+            ]
+        },
+        {
+            "text": "MARCH 17, 1995",
+            "bbox": [
+                534.0,
+                190.0,
+                617.0,
+                202.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                97.0,
+                193.0,
+                116.0,
+                205.0
+            ]
+        },
+        {
+            "text": "ESSENCE",
+            "bbox": [
+                154.0,
+                193.0,
+                204.0,
+                205.0
+            ]
+        },
+        {
+            "text": "1500 BROADWAY",
+            "bbox": [
+                155.0,
+                209.0,
+                238.0,
+                221.0
+            ]
+        },
+        {
+            "text": "ADVERTISER:",
+            "bbox": [
+                462.0,
+                223.0,
+                524.0,
+                234.0
+            ]
+        },
+        {
+            "text": "LORILLARD",
+            "bbox": [
+                534.0,
+                222.0,
+                593.0,
+                235.0
+            ]
+        },
+        {
+            "text": "NEW YORK, NY 10036",
+            "bbox": [
+                153.0,
+                225.0,
+                260.0,
+                237.0
+            ]
+        },
+        {
+            "text": "ATTN: JOYCE WINSTON",
+            "bbox": [
+                154.0,
+                239.0,
+                273.0,
+                252.0
+            ]
+        },
+        {
+            "text": "PRODUCT:",
+            "bbox": [
+                473.0,
+                254.0,
+                524.0,
+                266.0
+            ]
+        },
+        {
+            "text": "NEWPORT",
+            "bbox": [
+                534.0,
+                254.0,
+                586.0,
+                266.0
+            ]
+        },
+        {
+            "text": "THIS ADVERTISEMENT COMPLIES WITH THE FTC REQUIREMENT FOR A WARNING STATEMENT AND TAA\" AND NICOTINE LINE",
+            "bbox": [
+                96.0,
+                303.0,
+                641.0,
+                312.0
+            ]
+        },
+        {
+            "text": "WHICH MUST APPEAR IN ALL CIGARETTE ADVERTISING.  CHECK MATERIAL YOU RECEIVE AGAINST THE PROOF TO BE SURE IT IS",
+            "bbox": [
+                96.0,
+                315.0,
+                655.0,
+                326.0
+            ]
+        },
+        {
+            "text": "CORRECT. UNDER NO CIRCUMSTANCES ARE TO YCU FIUN SUBSTITUTE MATERIALS, ALTER OR OMIT ANY COPY WITHOUT PRIOR",
+            "bbox": [
+                96.0,
+                327.0,
+                662.0,
+                338.0
+            ]
+        },
+        {
+            "text": "APPROVAL FROM LORILLARD MEDIA SERVICES.",
+            "bbox": [
+                96.0,
+                341.0,
+                305.0,
+                352.0
+            ]
+        },
+        {
+            "text": "CAPTION:",
+            "bbox": [
+                227.0,
+                373.0,
+                273.0,
+                385.0
+            ]
+        },
+        {
+            "text": "SPACE:",
+            "bbox": [
+                375.0,
+                373.0,
+                410.0,
+                385.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                521.0,
+                372.0,
+                552.0,
+                384.0
+            ]
+        },
+        {
+            "text": "AD#:",
+            "bbox": [
+                96.0,
+                375.0,
+                123.0,
+                387.0
+            ]
+        },
+        {
+            "text": "NPT-533-7 FOUNTAIN COUPLE FOUNTAIN COUPLE PECE",
+            "bbox": [
+                95.0,
+                400.0,
+                416.0,
+                418.0
+            ]
+        },
+        {
+            "text": "JUNE 1995",
+            "bbox": [
+                520.0,
+                401.0,
+                584.0,
+                414.0
+            ]
+        },
+        {
+            "text": "PO #7219",
+            "bbox": [
+                95.0,
+                448.0,
+                157.0,
+                465.0
+            ]
+        },
+        {
+            "text": "IF UNABLE TO INSERT ON THE DATE ORDERED, KINDLY NOTIFY US AT ONCE AND WAIT FOR NEW INSERTION DATE.  NO CREDIT",
+            "bbox": [
+                95.0,
+                480.0,
+                649.0,
+                488.0
+            ]
+        },
+        {
+            "text": "can be allowed should this advertisement appear Incorrectly or on a date other than that authonized.",
+            "bbox": [
+                95.0,
+                492.0,
+                632.0,
+                502.0
+            ]
+        },
+        {
+            "text": "POSITION URGENTLY REQUESTED:",
+            "bbox": [
+                94.0,
+                516.0,
+                251.0,
+                529.0
+            ]
+        },
+        {
+            "text": "FAR FORWARD, OPPOSITE FULL EDITORIAL",
+            "bbox": [
+                94.0,
+                545.0,
+                306.0,
+                562.0
+            ]
+        },
+        {
+            "text": "- Maintain at least six page separation from competitive ads.",
+            "bbox": [
+                252.0,
+                579.0,
+                500.0,
+                592.0
+            ]
+        },
+        {
+            "text": "- No coupon ad on backing page.",
+            "bbox": [
+                96.0,
+                580.0,
+                240.0,
+                592.0
+            ]
+        },
+        {
+            "text": "- No editorial/advertising matter antithetical to cigarettes within 6 pages of our ad.",
+            "bbox": [
+                96.0,
+                595.0,
+                429.0,
+                608.0
+            ]
+        },
+        {
+            "text": "COPY INSTRUCTIONS:",
+            "bbox": [
+                94.0,
+                612.0,
+                195.0,
+                624.0
+            ]
+        },
+        {
+            "text": "SURGEON GENERAL'S WARNING: Cigarette",
+            "bbox": [
+                460.0,
+                620.0,
+                617.0,
+                631.0
+            ]
+        },
+        {
+            "text": "Schoke Contains Carbon Monoxide.",
+            "bbox": [
+                461.0,
+                630.0,
+                599.0,
+                641.0
+            ]
+        },
+        {
+            "text": "5 COLOR PROOF ATTACHED, FILM FROM COLLIER WITH 'D' WARNING",
+            "bbox": [
+                94.0,
+                642.0,
+                431.0,
+                655.0
+            ]
+        },
+        {
+            "text": "SPACE BILLING INSTRUCTIONS:",
+            "bbox": [
+                448.0,
+                673.0,
+                589.0,
+                685.0
+            ]
+        },
+        {
+            "text": "IMPORTANT INSTRUCTIONS:",
+            "bbox": [
+                94.0,
+                674.0,
+                222.0,
+                687.0
+            ]
+        },
+        {
+            "text": "This space is being ordered by:",
+            "bbox": [
+                446.0,
+                700.0,
+                579.0,
+                712.0
+            ]
+        },
+        {
+            "text": "Check material carefully against proof",
+            "bbox": [
+                110.0,
+                703.0,
+                270.0,
+                715.0
+            ]
+        },
+        {
+            "text": "A",
+            "bbox": [
+                93.0,
+                704.0,
+                111.0,
+                715.0
+            ]
+        },
+        {
+            "text": "to make sure it oorresponds in every",
+            "bbox": [
+                113.0,
+                714.0,
+                265.0,
+                725.0
+            ]
+        },
+        {
+            "text": "LORILLARD MEDIA SERVICES",
+            "bbox": [
+                446.0,
+                722.0,
+                577.0,
+                735.0
+            ]
+        },
+        {
+            "text": "respect.",
+            "bbox": [
+                114.0,
+                726.0,
+                150.0,
+                736.0
+            ]
+        },
+        {
+            "text": "8.",
+            "bbox": [
+                93.0,
+                743.0,
+                107.0,
+                755.0
+            ]
+        },
+        {
+            "text": " Please inspect repro material immediately.",
+            "bbox": [
+                113.0,
+                743.0,
+                291.0,
+                755.0
+            ]
+        },
+        {
+            "text": "Direct all invoices and full checking copies",
+            "bbox": [
+                448.0,
+                753.0,
+                622.0,
+                763.0
+            ]
+        },
+        {
+            "text": "They should produce good printing results.",
+            "bbox": [
+                113.0,
+                754.0,
+                292.0,
+                765.0
+            ]
+        },
+        {
+            "text": "of all regional and national editions to:",
+            "bbox": [
+                447.0,
+                763.0,
+                605.0,
+                775.0
+            ]
+        },
+        {
+            "text": "Advise us promptly if not satisfactory.",
+            "bbox": [
+                113.0,
+                764.0,
+                270.0,
+                776.0
+            ]
+        },
+        {
+            "text": "LORILLARD MEDIA SERVICES",
+            "bbox": [
+                447.0,
+                783.0,
+                575.0,
+                795.0
+            ]
+        },
+        {
+            "text": "o",
+            "bbox": [
+                93.0,
+                786.0,
+                107.0,
+                799.0
+            ]
+        },
+        {
+            "text": "Poor printing will not be paid for.",
+            "bbox": [
+                113.0,
+                786.0,
+                250.0,
+                799.0
+            ]
+        },
+        {
+            "text": "ONE PARK AVENUE",
+            "bbox": [
+                446.0,
+                794.0,
+                534.0,
+                805.0
+            ]
+        },
+        {
+            "text": "8790188",
+            "bbox": [
+                675.0,
+                802.0,
+                696.0,
+                856.0
+            ]
+        },
+        {
+            "text": "17TH FLOOR",
+            "bbox": [
+                447.0,
+                805.0,
+                505.0,
+                815.0
+            ]
+        },
+        {
+            "text": "Advise us at once if instructions are not",
+            "bbox": [
+                114.0,
+                806.0,
+                278.0,
+                819.0
+            ]
+        },
+        {
+            "text": "D.",
+            "bbox": [
+                93.0,
+                807.0,
+                107.0,
+                819.0
+            ]
+        },
+        {
+            "text": "NEW YORK, NEW YORK 10016-5896",
+            "bbox": [
+                446.0,
+                815.0,
+                604.0,
+                828.0
+            ]
+        },
+        {
+            "text": "clear.",
+            "bbox": [
+                116.0,
+                820.0,
+                141.0,
+                830.0
+            ]
+        },
+        {
+            "text": "ATTN: STEVE MOLLOY",
+            "bbox": [
+                446.0,
+                826.0,
+                547.0,
+                838.0
+            ]
+        },
+        {
+            "text": "E",
+            "bbox": [
+                93.0,
+                839.0,
+                106.0,
+                851.0
+            ]
+        },
+        {
+            "text": "Under no circumstances are you to space",
+            "bbox": [
+                114.0,
+                840.0,
+                288.0,
+                850.0
+            ]
+        },
+        {
+            "text": "out our advertisement without specific",
+            "bbox": [
+                116.0,
+                850.0,
+                273.0,
+                862.0
+            ]
+        },
+        {
+            "text": ".",
+            "bbox": [
+                94.0,
+                856.0,
+                101.0,
+                864.0
+            ]
+        },
+        {
+            "text": "instructions from us.",
+            "bbox": [
+                116.0,
+                863.0,
+                202.0,
+                873.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

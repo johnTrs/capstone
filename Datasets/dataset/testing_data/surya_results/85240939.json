@@ -1,0 +1,289 @@
+{
+    "text_lines": [
+        {
+            "text": "TOBACCO INSTITUTE",
+            "bbox": [
+                330.0,
+                63.0,
+                498.0,
+                88.0
+            ]
+        },
+        {
+            "text": "SHERATON-CAL",
+            "bbox": [
+                91.0,
+                90.0,
+                198.0,
+                105.0
+            ]
+        },
+        {
+            "text": "FIFTH ANNUAL",
+            "bbox": [
+                330.0,
+                95.0,
+                464.0,
+                118.0
+            ]
+        },
+        {
+            "text": ". PEBRUARY",
+            "bbox": [
+                526.0,
+                105.0,
+                614.0,
+                118.0
+            ]
+        },
+        {
+            "text": "HO wall",
+            "bbox": [
+                146.0,
+                109.0,
+                190.0,
+                120.0
+            ]
+        },
+        {
+            "text": "19-21",
+            "bbox": [
+                624.0,
+                109.0,
+                673.0,
+                121.0
+            ]
+        },
+        {
+            "text": "WASHINGTON,",
+            "bbox": [
+                99.0,
+                121.0,
+                200.0,
+                137.0
+            ]
+        },
+        {
+            "text": "COLLEGE OF TOBACCO KNOWLEDGE",
+            "bbox": [
+                273.0,
+                124.0,
+                527.0,
+                150.0
+            ]
+        },
+        {
+            "text": "REGISTRATION FORM",
+            "bbox": [
+                310.0,
+                155.0,
+                475.0,
+                179.0
+            ]
+        },
+        {
+            "text": "NAME : _",
+            "bbox": [
+                87.0,
+                213.0,
+                143.0,
+                231.0
+            ]
+        },
+        {
+            "text": "GEORGB",
+            "bbox": [
+                162.0,
+                218.0,
+                223.0,
+                233.0
+            ]
+        },
+        {
+            "text": "R: TELFORD",
+            "bbox": [
+                227.0,
+                220.0,
+                319.0,
+                235.0
+            ]
+        },
+        {
+            "text": "TITLE:_",
+            "bbox": [
+                85.0,
+                244.0,
+                284.0,
+                269.0
+            ]
+        },
+        {
+            "text": "COMPANY: Lorillard",
+            "bbox": [
+                84.0,
+                274.0,
+                248.0,
+                300.0
+            ]
+        },
+        {
+            "text": "ADDRESS: 666 Eifth Avenue. New York, NY_10019",
+            "bbox": [
+                84.0,
+                306.0,
+                502.0,
+                343.0
+            ]
+        },
+        {
+            "text": "PHONE: (212) 841-8787",
+            "bbox": [
+                84.0,
+                338.0,
+                291.0,
+                357.0
+            ]
+        },
+        {
+            "text": "CHECK ONE:",
+            "bbox": [
+                83.0,
+                401.0,
+                179.0,
+                421.0
+            ]
+        },
+        {
+            "text": "Please reserve a room for me at the Sheraton-Carl",
+            "bbox": [
+                232.0,
+                405.0,
+                683.0,
+                441.0
+            ]
+        },
+        {
+            "text": "X",
+            "bbox": [
+                192.0,
+                435.0,
+                210.0,
+                450.0
+            ]
+        },
+        {
+            "text": "I will make my own housing arrangements.",
+            "bbox": [
+                228.0,
+                436.0,
+                602.0,
+                471.0
+            ]
+        },
+        {
+            "text": "ARRIVAL DATE AND TIME: 2/18/80",
+            "bbox": [
+                80.0,
+                497.0,
+                392.0,
+                523.0
+            ]
+        },
+        {
+            "text": "7:00 P.M.",
+            "bbox": [
+                389.0,
+                506.0,
+                476.0,
+                524.0
+            ]
+        },
+        {
+            "text": "DEPARTURE DATE AND TIME: 2/21/80  4:00 P.M.",
+            "bbox": [
+                78.0,
+                527.0,
+                475.0,
+                559.0
+            ]
+        },
+        {
+            "text": "Please attach a brief (50 words or so) autobiographical",
+            "bbox": [
+                77.0,
+                588.0,
+                596.0,
+                629.0
+            ]
+        },
+        {
+            "text": "Note your first name or nickname, your current professional",
+            "bbox": [
+                76.0,
+                621.0,
+                619.0,
+                661.0
+            ]
+        },
+        {
+            "text": "sponsibilities, employment background and whatever personal",
+            "bbox": [
+                76.0,
+                652.0,
+                616.0,
+                692.0
+            ]
+        },
+        {
+            "text": "formation you feel would be helpful in giving your fellow student",
+            "bbox": [
+                73.0,
+                683.0,
+                678.0,
+                726.0
+            ]
+        },
+        {
+            "text": "an idea of your activities and interests.  The sketches will be",
+            "bbox": [
+                73.0,
+                715.0,
+                662.0,
+                757.0
+            ]
+        },
+        {
+            "text": "assembled and provided at the opening class session.",
+            "bbox": [
+                73.0,
+                747.0,
+                560.0,
+                784.0
+            ]
+        },
+        {
+            "text": "Any questions?  Call Connie Drath or Carol Musgrave at 800/424-9876",
+            "bbox": [
+                71.0,
+                793.0,
+                694.0,
+                838.0
+            ]
+        },
+        {
+            "text": "**PLEASE RETURN IN SELF-ADDRESSED ENVELOPE BY PRIDAY, JANUARY",
+            "bbox": [
+                71.0,
+                875.0,
+                641.0,
+                916.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        769.0,
+        1000.0
+    ]
+}

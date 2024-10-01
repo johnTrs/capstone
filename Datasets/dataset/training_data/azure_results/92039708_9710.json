@@ -1,0 +1,799 @@
+{
+    "text_lines": [
+        {
+            "line_text": "TO:",
+            "line_bbox": [
+                95.0,
+                116.0,
+                119.0,
+                130.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO:",
+                    "bbox": [
+                        96.0,
+                        116.0,
+                        118.0,
+                        130.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R. B. SPELL",
+            "line_bbox": [
+                183.0,
+                116.0,
+                260.0,
+                132.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R.",
+                    "bbox": [
+                        183.0,
+                        117.0,
+                        196.0,
+                        132.0
+                    ]
+                },
+                {
+                    "text": "B.",
+                    "bbox": [
+                        199.0,
+                        117.0,
+                        213.0,
+                        132.0
+                    ]
+                },
+                {
+                    "text": "SPELL",
+                    "bbox": [
+                        216.0,
+                        116.0,
+                        259.0,
+                        132.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUBMISSION DATE",
+            "line_bbox": [
+                450.0,
+                118.0,
+                629.0,
+                134.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUBMISSION",
+                    "bbox": [
+                        486.0,
+                        119.0,
+                        575.0,
+                        134.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        581.0,
+                        119.0,
+                        619.0,
+                        135.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FROM:",
+            "line_bbox": [
+                95.0,
+                144.0,
+                141.0,
+                159.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FROM:",
+                    "bbox": [
+                        96.0,
+                        144.0,
+                        140.0,
+                        159.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MAY 27",
+            "line_bbox": [
+                449.0,
+                147.0,
+                505.0,
+                161.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MAY",
+                    "bbox": [
+                        450.0,
+                        147.0,
+                        481.0,
+                        161.0
+                    ]
+                },
+                {
+                    "text": "27",
+                    "bbox": [
+                        485.0,
+                        147.0,
+                        502.0,
+                        162.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AUG 26",
+            "line_bbox": [
+                577.0,
+                148.0,
+                632.0,
+                163.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AUG",
+                    "bbox": [
+                        578.0,
+                        148.0,
+                        607.0,
+                        163.0
+                    ]
+                },
+                {
+                    "text": "26",
+                    "bbox": [
+                        614.0,
+                        148.0,
+                        631.0,
+                        163.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "JUN 24",
+            "line_bbox": [
+                450.0,
+                167.0,
+                502.0,
+                182.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "JUN",
+                    "bbox": [
+                        451.0,
+                        167.0,
+                        476.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "24",
+                    "bbox": [
+                        482.0,
+                        168.0,
+                        500.0,
+                        183.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OCT 07",
+            "line_bbox": [
+                578.0,
+                168.0,
+                631.0,
+                183.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OCT",
+                    "bbox": [
+                        578.0,
+                        168.0,
+                        608.0,
+                        184.0
+                    ]
+                },
+                {
+                    "text": "07",
+                    "bbox": [
+                        612.0,
+                        168.0,
+                        631.0,
+                        184.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUBJECT:",
+            "line_bbox": [
+                94.0,
+                196.0,
+                164.0,
+                212.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUBJECT:",
+                    "bbox": [
+                        95.0,
+                        197.0,
+                        163.0,
+                        212.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MAVERICK SPECIALS - PROGRESS REPORT",
+            "line_bbox": [
+                180.0,
+                196.0,
+                494.0,
+                215.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MAVERICK",
+                    "bbox": [
+                        182.0,
+                        197.0,
+                        257.0,
+                        213.0
+                    ]
+                },
+                {
+                    "text": "SPECIALS",
+                    "bbox": [
+                        262.0,
+                        197.0,
+                        332.0,
+                        213.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        335.0,
+                        198.0,
+                        342.0,
+                        213.0
+                    ]
+                },
+                {
+                    "text": "PROGRESS",
+                    "bbox": [
+                        345.0,
+                        198.0,
+                        425.0,
+                        214.0
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        428.0,
+                        198.0,
+                        488.0,
+                        216.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EFFECTIVENESS OF: Pre-Sell - Booklet/Coupon - Maverick/Harley B1G1F",
+            "line_bbox": [
+                95.0,
+                271.0,
+                623.0,
+                291.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EFFECTIVENESS",
+                    "bbox": [
+                        95.0,
+                        271.0,
+                        210.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "OF:",
+                    "bbox": [
+                        215.0,
+                        272.0,
+                        245.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Pre-Sell",
+                    "bbox": [
+                        253.0,
+                        273.0,
+                        312.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        315.0,
+                        273.0,
+                        325.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Booklet/Coupon",
+                    "bbox": [
+                        329.0,
+                        274.0,
+                        438.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        448.0,
+                        275.0,
+                        457.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "Maverick/Harley",
+                    "bbox": [
+                        461.0,
+                        275.0,
+                        571.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "B1G1F",
+                    "bbox": [
+                        574.0,
+                        275.0,
+                        619.0,
+                        291.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(Report on May 27 only)",
+            "line_bbox": [
+                99.0,
+                291.0,
+                262.0,
+                310.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(Report",
+                    "bbox": [
+                        100.0,
+                        291.0,
+                        150.0,
+                        309.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        153.0,
+                        292.0,
+                        171.0,
+                        309.0
+                    ]
+                },
+                {
+                    "text": "May",
+                    "bbox": [
+                        174.0,
+                        292.0,
+                        205.0,
+                        310.0
+                    ]
+                },
+                {
+                    "text": "27",
+                    "bbox": [
+                        208.0,
+                        293.0,
+                        225.0,
+                        310.0
+                    ]
+                },
+                {
+                    "text": "only)",
+                    "bbox": [
+                        228.0,
+                        293.0,
+                        263.0,
+                        311.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRE-SELL",
+            "line_bbox": [
+                94.0,
+                313.0,
+                167.0,
+                328.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRE-SELL",
+                    "bbox": [
+                        95.0,
+                        313.0,
+                        163.0,
+                        329.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BOOKLET/COUPON",
+            "line_bbox": [
+                92.0,
+                458.0,
+                232.0,
+                474.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BOOKLET/COUPON",
+                    "bbox": [
+                        93.0,
+                        459.0,
+                        227.0,
+                        475.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MAVERICK/HARLEY B1G1F",
+            "line_bbox": [
+                90.0,
+                604.0,
+                279.0,
+                621.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MAVERICK/HARLEY",
+                    "bbox": [
+                        92.0,
+                        604.0,
+                        228.0,
+                        621.0
+                    ]
+                },
+                {
+                    "text": "B1G1F",
+                    "bbox": [
+                        231.0,
+                        606.0,
+                        277.0,
+                        621.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMPETITIVE PROMOTIONAL ACTIVITY",
+            "line_bbox": [
+                94.0,
+                744.0,
+                407.0,
+                763.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPETITIVE",
+                    "bbox": [
+                        101.0,
+                        745.0,
+                        198.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "PROMOTIONAL",
+                    "bbox": [
+                        202.0,
+                        745.0,
+                        310.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "ACTIVITY",
+                    "bbox": [
+                        313.0,
+                        746.0,
+                        378.0,
+                        762.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "92039708",
+            "line_bbox": [
+                686.0,
+                766.0,
+                700.0,
+                835.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "92039708",
+                    "bbox": [
+                        686.0,
+                        767.0,
+                        701.0,
+                        832.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(Report on May 27 only)",
+            "line_bbox": [
+                98.0,
+                763.0,
+                262.0,
+                782.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(Report",
+                    "bbox": [
+                        98.0,
+                        764.0,
+                        147.0,
+                        781.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        151.0,
+                        764.0,
+                        169.0,
+                        781.0
+                    ]
+                },
+                {
+                    "text": "May",
+                    "bbox": [
+                        173.0,
+                        764.0,
+                        202.0,
+                        782.0
+                    ]
+                },
+                {
+                    "text": "27",
+                    "bbox": [
+                        205.0,
+                        765.0,
+                        222.0,
+                        782.0
+                    ]
+                },
+                {
+                    "text": "only)",
+                    "bbox": [
+                        225.0,
+                        765.0,
+                        261.0,
+                        783.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Average Coupon/Buydown Value On Targeted Brands (Doral/Basic/Monarch/Cambridge/GPC)",
+            "line_bbox": [
+                92.0,
+                786.0,
+                662.0,
+                807.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Average",
+                    "bbox": [
+                        92.0,
+                        787.0,
+                        141.0,
+                        804.0
+                    ]
+                },
+                {
+                    "text": "Coupon/Buydown",
+                    "bbox": [
+                        144.0,
+                        787.0,
+                        254.0,
+                        805.0
+                    ]
+                },
+                {
+                    "text": "Value",
+                    "bbox": [
+                        257.0,
+                        788.0,
+                        291.0,
+                        805.0
+                    ]
+                },
+                {
+                    "text": "On",
+                    "bbox": [
+                        294.0,
+                        788.0,
+                        313.0,
+                        805.0
+                    ]
+                },
+                {
+                    "text": "Targeted",
+                    "bbox": [
+                        317.0,
+                        788.0,
+                        371.0,
+                        805.0
+                    ]
+                },
+                {
+                    "text": "Brands",
+                    "bbox": [
+                        374.0,
+                        788.0,
+                        417.0,
+                        806.0
+                    ]
+                },
+                {
+                    "text": "(Doral/Basic/Monarch/Cambridge/GPC)",
+                    "bbox": [
+                        421.0,
+                        789.0,
+                        662.0,
+                        808.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PACKS",
+            "line_bbox": [
+                214.0,
+                821.0,
+                262.0,
+                836.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PACKS",
+                    "bbox": [
+                        215.0,
+                        821.0,
+                        260.0,
+                        836.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CARTONS",
+            "line_bbox": [
+                215.0,
+                852.0,
+                282.0,
+                869.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CARTONS",
+                    "bbox": [
+                        215.0,
+                        853.0,
+                        281.0,
+                        870.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1 of 3",
+            "line_bbox": [
+                649.0,
+                908.0,
+                690.0,
+                922.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1",
+                    "bbox": [
+                        651.0,
+                        908.0,
+                        659.0,
+                        922.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        664.0,
+                        908.0,
+                        677.0,
+                        922.0
+                    ]
+                },
+                {
+                    "text": "3",
+                    "bbox": [
+                        680.0,
+                        908.0,
+                        688.0,
+                        922.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

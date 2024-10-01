@@ -1,0 +1,2164 @@
+{
+    "text_lines": [
+        {
+            "line_text": "TO:",
+            "line_bbox": [
+                69.0,
+                110.0,
+                91.0,
+                121.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO:",
+                    "bbox": [
+                        70.0,
+                        110.0,
+                        90.0,
+                        121.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "S. P. ZOLOT",
+            "line_bbox": [
+                139.0,
+                108.0,
+                207.0,
+                122.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "S.",
+                    "bbox": [
+                        140.0,
+                        109.0,
+                        149.0,
+                        122.0
+                    ]
+                },
+                {
+                    "text": "P.",
+                    "bbox": [
+                        151.0,
+                        109.0,
+                        162.0,
+                        122.0
+                    ]
+                },
+                {
+                    "text": "ZOLOT",
+                    "bbox": [
+                        164.0,
+                        109.0,
+                        204.0,
+                        122.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "#: SUBMISSION DATE",
+            "line_bbox": [
+                400.0,
+                109.0,
+                558.0,
+                124.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "#:",
+                    "bbox": [
+                        401.0,
+                        110.0,
+                        425.0,
+                        123.0
+                    ]
+                },
+                {
+                    "text": "SUBMISSION",
+                    "bbox": [
+                        446.0,
+                        110.0,
+                        518.0,
+                        123.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        522.0,
+                        111.0,
+                        554.0,
+                        124.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FROM:",
+            "line_bbox": [
+                68.0,
+                141.0,
+                111.0,
+                153.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FROM:",
+                    "bbox": [
+                        68.0,
+                        141.0,
+                        111.0,
+                        154.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R. W. Richardson",
+            "line_bbox": [
+                140.0,
+                141.0,
+                226.0,
+                154.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R.",
+                    "bbox": [
+                        140.0,
+                        141.0,
+                        152.0,
+                        154.0
+                    ]
+                },
+                {
+                    "text": "W.",
+                    "bbox": [
+                        154.0,
+                        141.0,
+                        167.0,
+                        154.0
+                    ]
+                },
+                {
+                    "text": "Richardson",
+                    "bbox": [
+                        169.0,
+                        141.0,
+                        226.0,
+                        154.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "JUNE 29",
+            "line_bbox": [
+                374.0,
+                139.0,
+                420.0,
+                152.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "JUNE",
+                    "bbox": [
+                        374.0,
+                        139.0,
+                        404.0,
+                        153.0
+                    ]
+                },
+                {
+                    "text": "29",
+                    "bbox": [
+                        407.0,
+                        139.0,
+                        420.0,
+                        153.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SEPT 21",
+            "line_bbox": [
+                523.0,
+                139.0,
+                567.0,
+                153.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SEPT",
+                    "bbox": [
+                        523.0,
+                        140.0,
+                        553.0,
+                        154.0
+                    ]
+                },
+                {
+                    "text": "21",
+                    "bbox": [
+                        555.0,
+                        140.0,
+                        567.0,
+                        154.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AUG 10",
+            "line_bbox": [
+                376.0,
+                170.0,
+                420.0,
+                183.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AUG",
+                    "bbox": [
+                        377.0,
+                        171.0,
+                        400.0,
+                        183.0
+                    ]
+                },
+                {
+                    "text": "10",
+                    "bbox": [
+                        404.0,
+                        171.0,
+                        418.0,
+                        184.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "X",
+            "line_bbox": [
+                447.0,
+                172.0,
+                465.0,
+                185.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "bbox": [
+                        450.0,
+                        172.0,
+                        458.0,
+                        185.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NOV 9",
+            "line_bbox": [
+                528.0,
+                171.0,
+                565.0,
+                184.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NOV",
+                    "bbox": [
+                        529.0,
+                        172.0,
+                        553.0,
+                        185.0
+                    ]
+                },
+                {
+                    "text": "9",
+                    "bbox": [
+                        556.0,
+                        172.0,
+                        564.0,
+                        184.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUBJECT: MAVERICK SPECIALS - EXPANSION MARKETS PROGRESS REPORT",
+            "line_bbox": [
+                67.0,
+                201.0,
+                526.0,
+                216.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUBJECT:",
+                    "bbox": [
+                        67.0,
+                        202.0,
+                        129.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "MAVERICK",
+                    "bbox": [
+                        139.0,
+                        202.0,
+                        205.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "SPECIALS",
+                    "bbox": [
+                        209.0,
+                        202.0,
+                        266.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        269.0,
+                        202.0,
+                        273.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "EXPANSION",
+                    "bbox": [
+                        276.0,
+                        202.0,
+                        345.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "MARKETS",
+                    "bbox": [
+                        348.0,
+                        202.0,
+                        407.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "PROGRESS",
+                    "bbox": [
+                        410.0,
+                        202.0,
+                        473.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        476.0,
+                        202.0,
+                        525.0,
+                        217.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GEOGRAPHY",
+            "line_bbox": [
+                164.0,
+                237.0,
+                244.0,
+                249.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GEOGRAPHY",
+                    "bbox": [
+                        165.0,
+                        237.0,
+                        241.0,
+                        250.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REGION:",
+            "line_bbox": [
+                68.0,
+                262.0,
+                122.0,
+                275.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REGION:",
+                    "bbox": [
+                        68.0,
+                        262.0,
+                        123.0,
+                        276.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FULL",
+            "line_bbox": [
+                298.0,
+                262.0,
+                329.0,
+                274.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FULL",
+                    "bbox": [
+                        298.0,
+                        262.0,
+                        327.0,
+                        274.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PARTIAL",
+            "line_bbox": [
+                505.0,
+                263.0,
+                557.0,
+                275.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PARTIAL",
+                    "bbox": [
+                        505.0,
+                        263.0,
+                        554.0,
+                        275.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(ONLY IF PARTIAL REGION, CONTINUE WITH DIVISION(S) SCOPE)",
+            "line_bbox": [
+                67.0,
+                284.0,
+                431.0,
+                300.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(ONLY",
+                    "bbox": [
+                        68.0,
+                        286.0,
+                        103.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "IF",
+                    "bbox": [
+                        106.0,
+                        286.0,
+                        117.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "PARTIAL",
+                    "bbox": [
+                        119.0,
+                        285.0,
+                        169.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "REGION,",
+                    "bbox": [
+                        172.0,
+                        285.0,
+                        220.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "CONTINUE",
+                    "bbox": [
+                        223.0,
+                        285.0,
+                        283.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "WITH",
+                    "bbox": [
+                        286.0,
+                        285.0,
+                        316.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "DIVISION(S)",
+                    "bbox": [
+                        319.0,
+                        285.0,
+                        386.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "SCOPE)",
+                    "bbox": [
+                        389.0,
+                        285.0,
+                        431.0,
+                        300.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION:",
+            "line_bbox": [
+                67.0,
+                311.0,
+                129.0,
+                324.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION:",
+                    "bbox": [
+                        67.0,
+                        311.0,
+                        129.0,
+                        325.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FULL",
+            "line_bbox": [
+                299.0,
+                311.0,
+                331.0,
+                322.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FULL",
+                    "bbox": [
+                        299.0,
+                        311.0,
+                        327.0,
+                        322.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "x",
+            "line_bbox": [
+                362.0,
+                310.0,
+                375.0,
+                324.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "x",
+                    "bbox": [
+                        363.0,
+                        310.0,
+                        371.0,
+                        324.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PARTIAL",
+            "line_bbox": [
+                505.0,
+                310.0,
+                556.0,
+                323.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PARTIAL",
+                    "bbox": [
+                        506.0,
+                        311.0,
+                        555.0,
+                        324.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION NAME: Detroit North",
+            "line_bbox": [
+                93.0,
+                336.0,
+                254.0,
+                351.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        93.0,
+                        337.0,
+                        143.0,
+                        351.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        147.0,
+                        337.0,
+                        185.0,
+                        351.0
+                    ]
+                },
+                {
+                    "text": "Detroit",
+                    "bbox": [
+                        188.0,
+                        337.0,
+                        221.0,
+                        351.0
+                    ]
+                },
+                {
+                    "text": "North",
+                    "bbox": [
+                        224.0,
+                        338.0,
+                        255.0,
+                        351.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION NAME: Detroit West",
+            "line_bbox": [
+                297.0,
+                336.0,
+                460.0,
+                350.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        297.0,
+                        337.0,
+                        347.0,
+                        351.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        351.0,
+                        337.0,
+                        393.0,
+                        351.0
+                    ]
+                },
+                {
+                    "text": "Detroit",
+                    "bbox": [
+                        396.0,
+                        337.0,
+                        431.0,
+                        351.0
+                    ]
+                },
+                {
+                    "text": "West",
+                    "bbox": [
+                        433.0,
+                        338.0,
+                        460.0,
+                        351.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "# REPS:",
+            "line_bbox": [
+                501.0,
+                337.0,
+                541.0,
+                349.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "#",
+                    "bbox": [
+                        502.0,
+                        337.0,
+                        508.0,
+                        348.0
+                    ]
+                },
+                {
+                    "text": "REPS:",
+                    "bbox": [
+                        510.0,
+                        337.0,
+                        542.0,
+                        349.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "12",
+            "line_bbox": [
+                584.0,
+                337.0,
+                598.0,
+                349.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "12",
+                    "bbox": [
+                        584.0,
+                        337.0,
+                        596.0,
+                        349.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION NAME: Detroit South",
+            "line_bbox": [
+                92.0,
+                359.0,
+                253.0,
+                373.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        93.0,
+                        360.0,
+                        144.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        147.0,
+                        360.0,
+                        185.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "Detroit",
+                    "bbox": [
+                        187.0,
+                        360.0,
+                        222.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "South",
+                    "bbox": [
+                        225.0,
+                        360.0,
+                        253.0,
+                        374.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION NAME: Detroit East",
+            "line_bbox": [
+                295.0,
+                359.0,
+                455.0,
+                374.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        296.0,
+                        359.0,
+                        347.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        350.0,
+                        359.0,
+                        393.0,
+                        373.0
+                    ]
+                },
+                {
+                    "text": "Detroit",
+                    "bbox": [
+                        396.0,
+                        360.0,
+                        430.0,
+                        373.0
+                    ]
+                },
+                {
+                    "text": "East",
+                    "bbox": [
+                        432.0,
+                        361.0,
+                        455.0,
+                        373.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "# REPS",
+            "line_bbox": [
+                503.0,
+                359.0,
+                540.0,
+                371.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "#",
+                    "bbox": [
+                        503.0,
+                        360.0,
+                        507.0,
+                        371.0
+                    ]
+                },
+                {
+                    "text": "REPS",
+                    "bbox": [
+                        510.0,
+                        360.0,
+                        538.0,
+                        372.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "13",
+            "line_bbox": [
+                584.0,
+                360.0,
+                597.0,
+                372.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "13",
+                    "bbox": [
+                        584.0,
+                        360.0,
+                        596.0,
+                        372.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION NAME: Detroit Central",
+            "line_bbox": [
+                93.0,
+                381.0,
+                261.0,
+                396.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        94.0,
+                        381.0,
+                        143.0,
+                        396.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        146.0,
+                        382.0,
+                        185.0,
+                        396.0
+                    ]
+                },
+                {
+                    "text": "Detroit",
+                    "bbox": [
+                        187.0,
+                        382.0,
+                        222.0,
+                        396.0
+                    ]
+                },
+                {
+                    "text": "Central",
+                    "bbox": [
+                        224.0,
+                        381.0,
+                        261.0,
+                        396.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION NAME:",
+            "line_bbox": [
+                297.0,
+                381.0,
+                390.0,
+                395.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "bbox": [
+                        298.0,
+                        381.0,
+                        347.0,
+                        395.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        350.0,
+                        381.0,
+                        391.0,
+                        395.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "# REPS:",
+            "line_bbox": [
+                501.0,
+                382.0,
+                541.0,
+                394.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "#",
+                    "bbox": [
+                        502.0,
+                        382.0,
+                        508.0,
+                        394.0
+                    ]
+                },
+                {
+                    "text": "REPS:",
+                    "bbox": [
+                        510.0,
+                        382.0,
+                        541.0,
+                        394.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "7",
+            "line_bbox": [
+                587.0,
+                381.0,
+                595.0,
+                395.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "7",
+                    "bbox": [
+                        587.0,
+                        381.0,
+                        596.0,
+                        394.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DISTRIBUTION",
+            "line_bbox": [
+                160.0,
+                416.0,
+                250.0,
+                429.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DISTRIBUTION",
+                    "bbox": [
+                        161.0,
+                        417.0,
+                        245.0,
+                        429.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Direct Accounts and Chains Headquartered within the Region",
+            "line_bbox": [
+                67.0,
+                444.0,
+                386.0,
+                457.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Direct",
+                    "bbox": [
+                        67.0,
+                        444.0,
+                        102.0,
+                        458.0
+                    ]
+                },
+                {
+                    "text": "Accounts",
+                    "bbox": [
+                        104.0,
+                        444.0,
+                        150.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        152.0,
+                        444.0,
+                        171.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "Chains",
+                    "bbox": [
+                        173.0,
+                        444.0,
+                        209.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "Headquartered",
+                    "bbox": [
+                        212.0,
+                        444.0,
+                        289.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "within",
+                    "bbox": [
+                        291.0,
+                        444.0,
+                        324.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        326.0,
+                        444.0,
+                        343.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "Region",
+                    "bbox": [
+                        345.0,
+                        444.0,
+                        381.0,
+                        457.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(15+ Stores) Stocking No Maverick Specials",
+            "line_bbox": [
+                68.0,
+                456.0,
+                288.0,
+                469.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(15+",
+                    "bbox": [
+                        69.0,
+                        456.0,
+                        90.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "Stores)",
+                    "bbox": [
+                        93.0,
+                        456.0,
+                        129.0,
+                        470.0
+                    ]
+                },
+                {
+                    "text": "Stocking",
+                    "bbox": [
+                        131.0,
+                        457.0,
+                        175.0,
+                        470.0
+                    ]
+                },
+                {
+                    "text": "No",
+                    "bbox": [
+                        177.0,
+                        457.0,
+                        193.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "Maverick",
+                    "bbox": [
+                        195.0,
+                        457.0,
+                        244.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "Specials",
+                    "bbox": [
+                        246.0,
+                        457.0,
+                        288.0,
+                        469.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Name of Account",
+            "line_bbox": [
+                81.0,
+                483.0,
+                173.0,
+                496.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Name",
+                    "bbox": [
+                        83.0,
+                        483.0,
+                        114.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        115.0,
+                        484.0,
+                        127.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "Account",
+                    "bbox": [
+                        128.0,
+                        484.0,
+                        174.0,
+                        497.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Ind/Lor",
+            "line_bbox": [
+                203.0,
+                476.0,
+                248.0,
+                488.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Ind/Lor",
+                    "bbox": [
+                        204.0,
+                        477.0,
+                        246.0,
+                        489.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Number of",
+            "line_bbox": [
+                271.0,
+                477.0,
+                330.0,
+                488.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Number",
+                    "bbox": [
+                        272.0,
+                        477.0,
+                        315.0,
+                        489.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        317.0,
+                        477.0,
+                        329.0,
+                        488.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Ind/Lor",
+            "line_bbox": [
+                497.0,
+                477.0,
+                538.0,
+                488.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Ind/Lor",
+                    "bbox": [
+                        498.0,
+                        477.0,
+                        536.0,
+                        488.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Number of",
+            "line_bbox": [
+                559.0,
+                476.0,
+                620.0,
+                488.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Number",
+                    "bbox": [
+                        562.0,
+                        477.0,
+                        605.0,
+                        488.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        607.0,
+                        477.0,
+                        619.0,
+                        488.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Volume",
+            "line_bbox": [
+                206.0,
+                491.0,
+                247.0,
+                503.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Volume",
+                    "bbox": [
+                        206.0,
+                        492.0,
+                        245.0,
+                        504.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Stores",
+            "line_bbox": [
+                285.0,
+                493.0,
+                318.0,
+                505.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Stores",
+                    "bbox": [
+                        285.0,
+                        493.0,
+                        318.0,
+                        505.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Name of Account",
+            "line_bbox": [
+                369.0,
+                483.0,
+                459.0,
+                496.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Name",
+                    "bbox": [
+                        370.0,
+                        484.0,
+                        400.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        402.0,
+                        484.0,
+                        413.0,
+                        496.0
+                    ]
+                },
+                {
+                    "text": "Account",
+                    "bbox": [
+                        415.0,
+                        484.0,
+                        460.0,
+                        497.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Volume",
+            "line_bbox": [
+                493.0,
+                491.0,
+                539.0,
+                502.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Volume",
+                    "bbox": [
+                        496.0,
+                        492.0,
+                        536.0,
+                        503.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Stores",
+            "line_bbox": [
+                575.0,
+                492.0,
+                609.0,
+                503.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Stores",
+                    "bbox": [
+                        576.0,
+                        493.0,
+                        607.0,
+                        504.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Meijer Gas",
+            "line_bbox": [
+                65.0,
+                509.0,
+                123.0,
+                522.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Meijer",
+                    "bbox": [
+                        68.0,
+                        510.0,
+                        100.0,
+                        522.0
+                    ]
+                },
+                {
+                    "text": "Gas",
+                    "bbox": [
+                        102.0,
+                        510.0,
+                        123.0,
+                        522.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "245/19",
+            "line_bbox": [
+                207.0,
+                509.0,
+                243.0,
+                522.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "245/19",
+                    "bbox": [
+                        208.0,
+                        510.0,
+                        241.0,
+                        522.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "70",
+            "line_bbox": [
+                296.0,
+                510.0,
+                310.0,
+                521.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "70",
+                    "bbox": [
+                        297.0,
+                        510.0,
+                        308.0,
+                        521.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Ultra Diamond",
+            "line_bbox": [
+                70.0,
+                531.0,
+                141.0,
+                543.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Ultra",
+                    "bbox": [
+                        70.0,
+                        531.0,
+                        93.0,
+                        543.0
+                    ]
+                },
+                {
+                    "text": "Diamond",
+                    "bbox": [
+                        95.0,
+                        531.0,
+                        141.0,
+                        543.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "223/25",
+            "line_bbox": [
+                206.0,
+                531.0,
+                244.0,
+                543.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "223/25",
+                    "bbox": [
+                        207.0,
+                        531.0,
+                        242.0,
+                        543.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "121",
+            "line_bbox": [
+                292.0,
+                531.0,
+                312.0,
+                542.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "121",
+                    "bbox": [
+                        293.0,
+                        531.0,
+                        311.0,
+                        542.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Direct Accounts and Chains Headquartered Outside the Region",
+            "line_bbox": [
+                68.0,
+                698.0,
+                392.0,
+                712.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Direct",
+                    "bbox": [
+                        69.0,
+                        699.0,
+                        101.0,
+                        713.0
+                    ]
+                },
+                {
+                    "text": "Accounts",
+                    "bbox": [
+                        104.0,
+                        699.0,
+                        150.0,
+                        713.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        152.0,
+                        699.0,
+                        172.0,
+                        713.0
+                    ]
+                },
+                {
+                    "text": "Chains",
+                    "bbox": [
+                        174.0,
+                        699.0,
+                        209.0,
+                        712.0
+                    ]
+                },
+                {
+                    "text": "Headquartered",
+                    "bbox": [
+                        212.0,
+                        699.0,
+                        289.0,
+                        712.0
+                    ]
+                },
+                {
+                    "text": "Outside",
+                    "bbox": [
+                        292.0,
+                        699.0,
+                        331.0,
+                        712.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        334.0,
+                        699.0,
+                        350.0,
+                        712.0
+                    ]
+                },
+                {
+                    "text": "Region",
+                    "bbox": [
+                        353.0,
+                        699.0,
+                        389.0,
+                        712.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(15+ Stores) Stocking No Maverick Specials",
+            "line_bbox": [
+                68.0,
+                711.0,
+                292.0,
+                724.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(15+",
+                    "bbox": [
+                        69.0,
+                        711.0,
+                        91.0,
+                        725.0
+                    ]
+                },
+                {
+                    "text": "Stores)",
+                    "bbox": [
+                        93.0,
+                        711.0,
+                        130.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "Stocking",
+                    "bbox": [
+                        132.0,
+                        712.0,
+                        176.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "No",
+                    "bbox": [
+                        178.0,
+                        712.0,
+                        193.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "Maverick",
+                    "bbox": [
+                        196.0,
+                        712.0,
+                        245.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "Specials",
+                    "bbox": [
+                        247.0,
+                        712.0,
+                        292.0,
+                        724.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Name of Account",
+            "line_bbox": [
+                86.0,
+                739.0,
+                173.0,
+                751.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Name",
+                    "bbox": [
+                        86.0,
+                        739.0,
+                        114.0,
+                        751.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        117.0,
+                        739.0,
+                        128.0,
+                        751.0
+                    ]
+                },
+                {
+                    "text": "Account",
+                    "bbox": [
+                        130.0,
+                        739.0,
+                        173.0,
+                        751.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Ind/Lor",
+            "line_bbox": [
+                205.0,
+                731.0,
+                248.0,
+                743.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Ind/Lor",
+                    "bbox": [
+                        205.0,
+                        732.0,
+                        246.0,
+                        744.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Number of",
+            "line_bbox": [
+                273.0,
+                731.0,
+                331.0,
+                743.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Number",
+                    "bbox": [
+                        274.0,
+                        732.0,
+                        315.0,
+                        744.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        317.0,
+                        732.0,
+                        331.0,
+                        744.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Number of",
+            "line_bbox": [
+                564.0,
+                731.0,
+                620.0,
+                743.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Number",
+                    "bbox": [
+                        565.0,
+                        731.0,
+                        605.0,
+                        744.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        607.0,
+                        732.0,
+                        620.0,
+                        744.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Volume",
+            "line_bbox": [
+                207.0,
+                746.0,
+                248.0,
+                758.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Volume",
+                    "bbox": [
+                        207.0,
+                        746.0,
+                        246.0,
+                        759.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Stores",
+            "line_bbox": [
+                286.0,
+                748.0,
+                320.0,
+                760.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Stores",
+                    "bbox": [
+                        287.0,
+                        749.0,
+                        320.0,
+                        760.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Name of Account",
+            "line_bbox": [
+                372.0,
+                738.0,
+                460.0,
+                750.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Name",
+                    "bbox": [
+                        372.0,
+                        739.0,
+                        401.0,
+                        750.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        403.0,
+                        739.0,
+                        415.0,
+                        750.0
+                    ]
+                },
+                {
+                    "text": "Account",
+                    "bbox": [
+                        417.0,
+                        739.0,
+                        460.0,
+                        751.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Ind/Lor",
+            "line_bbox": [
+                497.0,
+                731.0,
+                538.0,
+                744.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Ind/Lor",
+                    "bbox": [
+                        498.0,
+                        732.0,
+                        538.0,
+                        744.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Volume",
+            "line_bbox": [
+                498.0,
+                746.0,
+                537.0,
+                758.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Volume",
+                    "bbox": [
+                        499.0,
+                        747.0,
+                        537.0,
+                        758.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Stores",
+            "line_bbox": [
+                576.0,
+                746.0,
+                608.0,
+                758.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Stores",
+                    "bbox": [
+                        577.0,
+                        747.0,
+                        608.0,
+                        758.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "81619486",
+            "line_bbox": [
+                658.0,
+                808.0,
+                687.0,
+                913.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "81619486",
+                    "bbox": [
+                        658.0,
+                        808.0,
+                        687.0,
+                        909.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MAY PROGRESS RPT.XI.S",
+            "line_bbox": [
+                66.0,
+                951.0,
+                145.0,
+                960.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MAY",
+                    "bbox": [
+                        67.0,
+                        952.0,
+                        82.0,
+                        961.0
+                    ]
+                },
+                {
+                    "text": "PROGRESS",
+                    "bbox": [
+                        83.0,
+                        952.0,
+                        116.0,
+                        961.0
+                    ]
+                },
+                {
+                    "text": "RPT.XI.S",
+                    "bbox": [
+                        117.0,
+                        952.0,
+                        145.0,
+                        961.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Page 1 of 3",
+            "line_bbox": [
+                620.0,
+                949.0,
+                661.0,
+                962.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Page",
+                    "bbox": [
+                        621.0,
+                        950.0,
+                        637.0,
+                        962.0
+                    ]
+                },
+                {
+                    "text": "1",
+                    "bbox": [
+                        639.0,
+                        950.0,
+                        642.0,
+                        961.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        644.0,
+                        950.0,
+                        652.0,
+                        961.0
+                    ]
+                },
+                {
+                    "text": "3",
+                    "bbox": [
+                        653.0,
+                        950.0,
+                        660.0,
+                        961.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

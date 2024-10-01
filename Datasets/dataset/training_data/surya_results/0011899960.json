@@ -1,0 +1,271 @@
+{
+    "text_lines": [
+        {
+            "text": "Attention DR. HUGHES, MESSRS. ALAR, SANDEFUR, D Department CORPORATE AFFAIRS",
+            "bbox": [
+                16.0,
+                105.0,
+                670.0,
+                122.0
+            ]
+        },
+        {
+            "text": "BLOTT, BUTLER, MIDDLETON, CHRISTENSEN, PEPPLES, SACHS, FREEDMAN",
+            "bbox": [
+                100.0,
+                132.0,
+                636.0,
+                149.0
+            ]
+        },
+        {
+            "text": "T. HUMBER, M. BATEMAN Subject",
+            "bbox": [
+                83.0,
+                159.0,
+                394.0,
+                175.0
+            ]
+        },
+        {
+            "text": "Copies",
+            "bbox": [
+                16.0,
+                160.0,
+                73.0,
+                175.0
+            ]
+        },
+        {
+            "text": "L&M Lawsuit",
+            "bbox": [
+                393.0,
+                161.0,
+                499.0,
+                174.0
+            ]
+        },
+        {
+            "text": "P R E S S",
+            "bbox": [
+                254.0,
+                215.0,
+                335.0,
+                230.0
+            ]
+        },
+        {
+            "text": "QUERY",
+            "bbox": [
+                363.0,
+                216.0,
+                441.0,
+                230.0
+            ]
+        },
+        {
+            "text": "Publication     ADWEEK - Midwest",
+            "bbox": [
+                15.0,
+                243.0,
+                294.0,
+                259.0
+            ]
+        },
+        {
+            "text": "Reporter/Editor",
+            "bbox": [
+                15.0,
+                270.0,
+                152.0,
+                286.0
+            ]
+        },
+        {
+            "text": "(312) 467-6500",
+            "bbox": [
+                532.0,
+                271.0,
+                655.0,
+                285.0
+            ]
+        },
+        {
+            "text": "Fran Brock",
+            "bbox": [
+                170.0,
+                272.0,
+                275.0,
+                284.0
+            ]
+        },
+        {
+            "text": "Received by .",
+            "bbox": [
+                16.0,
+                296.0,
+                123.0,
+                314.0
+            ]
+        },
+        {
+            "text": "Mark Ahearn",
+            "bbox": [
+                126.0,
+                298.0,
+                236.0,
+                312.0
+            ]
+        },
+        {
+            "text": "Time _",
+            "bbox": [
+                346.0,
+                297.0,
+                398.0,
+                313.0
+            ]
+        },
+        {
+            "text": "3:45 P.M.",
+            "bbox": [
+                395.0,
+                298.0,
+                483.0,
+                312.0
+            ]
+        },
+        {
+            "text": "7/9/84",
+            "bbox": [
+                582.0,
+                299.0,
+                636.0,
+                312.0
+            ]
+        },
+        {
+            "text": "Date",
+            "bbox": [
+                514.0,
+                300.0,
+                549.0,
+                311.0
+            ]
+        },
+        {
+            "text": "Already handled",
+            "bbox": [
+                211.0,
+                325.0,
+                355.0,
+                341.0
+            ]
+        },
+        {
+            "text": "Deadline for response .",
+            "bbox": [
+                15.0,
+                326.0,
+                212.0,
+                340.0
+            ]
+        },
+        {
+            "text": "Describe the storyline, list the questions and proposed answers, and summarize",
+            "bbox": [
+                15.0,
+                353.0,
+                680.0,
+                370.0
+            ]
+        },
+        {
+            "text": "handling, including clearances.",
+            "bbox": [
+                16.0,
+                367.0,
+                281.0,
+                383.0
+            ]
+        },
+        {
+            "text": "Ms. Brock requested information regarding L&M lawsuit.  I provided the",
+            "bbox": [
+                15.0,
+                436.0,
+                612.0,
+                452.0
+            ]
+        },
+        {
+            "text": "approved prepared response.",
+            "bbox": [
+                18.0,
+                452.0,
+                250.0,
+                466.0
+            ]
+        },
+        {
+            "text": "Reporter then requested clarification of 'generic cigarette' ys_ 'private",
+            "bbox": [
+                17.0,
+                477.0,
+                638.0,
+                491.0
+            ]
+        },
+        {
+            "text": "label cigarette' and asked to be notified when further announcements regarding",
+            "bbox": [
+                17.0,
+                490.0,
+                680.0,
+                505.0
+            ]
+        },
+        {
+            "text": "generics were made.",
+            "bbox": [
+                17.0,
+                506.0,
+                181.0,
+                522.0
+            ]
+        },
+        {
+            "text": "RECEIVED",
+            "bbox": [
+                550.0,
+                743.0,
+                617.0,
+                753.0
+            ]
+        },
+        {
+            "text": "1 0  1984",
+            "bbox": [
+                576.0,
+                767.0,
+                637.0,
+                779.0
+            ]
+        },
+        {
+            "text": "JOHN ALAR",
+            "bbox": [
+                548.0,
+                797.0,
+                627.0,
+                808.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

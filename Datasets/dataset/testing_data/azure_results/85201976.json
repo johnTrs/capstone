@@ -1,0 +1,1105 @@
+{
+    "text_lines": [
+        {
+            "line_text": "Marden - Kane, Inc.",
+            "line_bbox": [
+                67.0,
+                79.0,
+                296.0,
+                102.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Marden",
+                    "bbox": [
+                        68.0,
+                        81.0,
+                        151.0,
+                        101.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        158.0,
+                        81.0,
+                        167.0,
+                        102.0
+                    ]
+                },
+                {
+                    "text": "Kane,",
+                    "bbox": [
+                        171.0,
+                        81.0,
+                        244.0,
+                        102.0
+                    ]
+                },
+                {
+                    "text": "Inc.",
+                    "bbox": [
+                        248.0,
+                        80.0,
+                        295.0,
+                        103.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TRUE \"YOU FOUND IT\" SWEEPSTAKES",
+            "line_bbox": [
+                242.0,
+                133.0,
+                509.0,
+                150.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TRUE",
+                    "bbox": [
+                        244.0,
+                        134.0,
+                        277.0,
+                        148.0
+                    ]
+                },
+                {
+                    "text": "\"YOU",
+                    "bbox": [
+                        287.0,
+                        134.0,
+                        320.0,
+                        149.0
+                    ]
+                },
+                {
+                    "text": "FOUND",
+                    "bbox": [
+                        327.0,
+                        134.0,
+                        371.0,
+                        149.0
+                    ]
+                },
+                {
+                    "text": "IT\"",
+                    "bbox": [
+                        379.0,
+                        134.0,
+                        406.0,
+                        149.0
+                    ]
+                },
+                {
+                    "text": "SWEEPSTAKES",
+                    "bbox": [
+                        413.0,
+                        134.0,
+                        509.0,
+                        150.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SECOND PRIZE WINNER",
+            "line_bbox": [
+                276.0,
+                163.0,
+                443.0,
+                179.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SECOND",
+                    "bbox": [
+                        276.0,
+                        165.0,
+                        325.0,
+                        179.0
+                    ]
+                },
+                {
+                    "text": "PRIZE",
+                    "bbox": [
+                        336.0,
+                        164.0,
+                        378.0,
+                        178.0
+                    ]
+                },
+                {
+                    "text": "WINNER",
+                    "bbox": [
+                        387.0,
+                        164.0,
+                        439.0,
+                        178.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TRAVEL INFORMATION SHEET",
+            "line_bbox": [
+                277.0,
+                191.0,
+                486.0,
+                206.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TRAVEL",
+                    "bbox": [
+                        278.0,
+                        192.0,
+                        328.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "INFORMATION",
+                    "bbox": [
+                        337.0,
+                        192.0,
+                        431.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "SHEET",
+                    "bbox": [
+                        439.0,
+                        192.0,
+                        484.0,
+                        206.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "THE DESTINATION IN THE CONTINENTAL UNITED STATES I WISH",
+            "line_bbox": [
+                148.0,
+                236.0,
+                617.0,
+                251.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "THE",
+                    "bbox": [
+                        149.0,
+                        236.0,
+                        172.0,
+                        250.0
+                    ]
+                },
+                {
+                    "text": "DESTINATION",
+                    "bbox": [
+                        182.0,
+                        237.0,
+                        275.0,
+                        250.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        285.0,
+                        237.0,
+                        301.0,
+                        250.0
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "bbox": [
+                        310.0,
+                        237.0,
+                        335.0,
+                        250.0
+                    ]
+                },
+                {
+                    "text": "CONTINENTAL",
+                    "bbox": [
+                        342.0,
+                        237.0,
+                        436.0,
+                        251.0
+                    ]
+                },
+                {
+                    "text": "UNITED",
+                    "bbox": [
+                        444.0,
+                        237.0,
+                        496.0,
+                        251.0
+                    ]
+                },
+                {
+                    "text": "STATES",
+                    "bbox": [
+                        505.0,
+                        237.0,
+                        555.0,
+                        251.0
+                    ]
+                },
+                {
+                    "text": "I",
+                    "bbox": [
+                        564.0,
+                        237.0,
+                        572.0,
+                        251.0
+                    ]
+                },
+                {
+                    "text": "WISH",
+                    "bbox": [
+                        579.0,
+                        237.0,
+                        614.0,
+                        251.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TO TRAVEL TO IS:",
+            "line_bbox": [
+                148.0,
+                251.0,
+                285.0,
+                265.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO",
+                    "bbox": [
+                        148.0,
+                        251.0,
+                        165.0,
+                        266.0
+                    ]
+                },
+                {
+                    "text": "TRAVEL",
+                    "bbox": [
+                        174.0,
+                        251.0,
+                        226.0,
+                        265.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        235.0,
+                        251.0,
+                        251.0,
+                        265.0
+                    ]
+                },
+                {
+                    "text": "IS:",
+                    "bbox": [
+                        260.0,
+                        251.0,
+                        285.0,
+                        265.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NAME",
+            "line_bbox": [
+                147.0,
+                292.0,
+                186.0,
+                304.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        148.0,
+                        292.0,
+                        182.0,
+                        304.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ADDRESS",
+            "line_bbox": [
+                148.0,
+                320.0,
+                211.0,
+                333.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ADDRESS",
+                    "bbox": [
+                        149.0,
+                        320.0,
+                        209.0,
+                        334.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CITY",
+            "line_bbox": [
+                149.0,
+                349.0,
+                185.0,
+                362.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CITY",
+                    "bbox": [
+                        149.0,
+                        349.0,
+                        182.0,
+                        362.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "STATE",
+            "line_bbox": [
+                321.0,
+                350.0,
+                365.0,
+                362.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "STATE",
+                    "bbox": [
+                        321.0,
+                        350.0,
+                        362.0,
+                        362.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ZIP",
+            "line_bbox": [
+                488.0,
+                350.0,
+                517.0,
+                364.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ZIP",
+                    "bbox": [
+                        492.0,
+                        350.0,
+                        516.0,
+                        364.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "HOME PHONE",
+            "line_bbox": [
+                149.0,
+                391.0,
+                239.0,
+                405.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "HOME",
+                    "bbox": [
+                        150.0,
+                        392.0,
+                        183.0,
+                        405.0
+                    ]
+                },
+                {
+                    "text": "PHONE",
+                    "bbox": [
+                        191.0,
+                        392.0,
+                        235.0,
+                        405.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BUSINESS PHONE",
+            "line_bbox": [
+                148.0,
+                419.0,
+                272.0,
+                434.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BUSINESS",
+                    "bbox": [
+                        148.0,
+                        420.0,
+                        218.0,
+                        434.0
+                    ]
+                },
+                {
+                    "text": "PHONE",
+                    "bbox": [
+                        227.0,
+                        421.0,
+                        269.0,
+                        434.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NAME OF GUEST",
+            "line_bbox": [
+                146.0,
+                463.0,
+                264.0,
+                476.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        148.0,
+                        464.0,
+                        183.0,
+                        477.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        192.0,
+                        464.0,
+                        209.0,
+                        476.0
+                    ]
+                },
+                {
+                    "text": "GUEST",
+                    "bbox": [
+                        218.0,
+                        464.0,
+                        262.0,
+                        477.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AGE",
+            "line_bbox": [
+                147.0,
+                493.0,
+                178.0,
+                504.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AGE",
+                    "bbox": [
+                        150.0,
+                        493.0,
+                        174.0,
+                        504.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RELATIONSHIP",
+            "line_bbox": [
+                149.0,
+                521.0,
+                255.0,
+                534.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RELATIONSHIP",
+                    "bbox": [
+                        150.0,
+                        522.0,
+                        253.0,
+                        535.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TO WINNER",
+            "line_bbox": [
+                157.0,
+                534.0,
+                238.0,
+                549.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO",
+                    "bbox": [
+                        158.0,
+                        536.0,
+                        174.0,
+                        549.0
+                    ]
+                },
+                {
+                    "text": "WINNER",
+                    "bbox": [
+                        183.0,
+                        535.0,
+                        236.0,
+                        549.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL",
+            "line_bbox": [
+                148.0,
+                592.0,
+                664.0,
+                608.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PLEASE",
+                    "bbox": [
+                        148.0,
+                        593.0,
+                        201.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "LIST",
+                    "bbox": [
+                        209.0,
+                        593.0,
+                        245.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "THREE",
+                    "bbox": [
+                        253.0,
+                        593.0,
+                        295.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "ALTERNATIVE",
+                    "bbox": [
+                        304.0,
+                        592.0,
+                        398.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "DATES",
+                    "bbox": [
+                        405.0,
+                        592.0,
+                        449.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "bbox": [
+                        458.0,
+                        592.0,
+                        484.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "WOULD",
+                    "bbox": [
+                        492.0,
+                        592.0,
+                        535.0,
+                        608.0
+                    ]
+                },
+                {
+                    "text": "LIKE",
+                    "bbox": [
+                        543.0,
+                        593.0,
+                        577.0,
+                        608.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        586.0,
+                        593.0,
+                        603.0,
+                        608.0
+                    ]
+                },
+                {
+                    "text": "TRAVEL",
+                    "bbox": [
+                        611.0,
+                        593.0,
+                        662.0,
+                        609.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1.",
+            "line_bbox": [
+                176.0,
+                634.0,
+                191.0,
+                648.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1.",
+                    "bbox": [
+                        176.0,
+                        634.0,
+                        191.0,
+                        648.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2. - -",
+            "line_bbox": [
+                175.0,
+                661.0,
+                232.0,
+                677.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2.",
+                    "bbox": [
+                        176.0,
+                        662.0,
+                        191.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        193.0,
+                        662.0,
+                        202.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        219.0,
+                        662.0,
+                        228.0,
+                        676.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "3.",
+            "line_bbox": [
+                176.0,
+                693.0,
+                195.0,
+                706.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "3.",
+                    "bbox": [
+                        176.0,
+                        693.0,
+                        193.0,
+                        706.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MAJOR AIRPORT",
+            "line_bbox": [
+                149.0,
+                726.0,
+                265.0,
+                739.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MAJOR",
+                    "bbox": [
+                        150.0,
+                        726.0,
+                        193.0,
+                        739.0
+                    ]
+                },
+                {
+                    "text": "AIRPORT",
+                    "bbox": [
+                        201.0,
+                        726.0,
+                        263.0,
+                        740.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NEAREST YOUR HOME",
+            "line_bbox": [
+                156.0,
+                740.0,
+                307.0,
+                753.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NEAREST",
+                    "bbox": [
+                        157.0,
+                        741.0,
+                        219.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "YOUR",
+                    "bbox": [
+                        229.0,
+                        741.0,
+                        262.0,
+                        754.0
+                    ]
+                },
+                {
+                    "text": "HOME",
+                    "bbox": [
+                        271.0,
+                        741.0,
+                        305.0,
+                        754.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AIRLINE:",
+            "line_bbox": [
+                149.0,
+                768.0,
+                218.0,
+                781.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AIRLINE:",
+                    "bbox": [
+                        150.0,
+                        769.0,
+                        218.0,
+                        782.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "85201976",
+            "line_bbox": [
+                664.0,
+                781.0,
+                682.0,
+                866.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "85201976",
+                    "bbox": [
+                        664.0,
+                        781.0,
+                        683.0,
+                        863.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(CHECK ONE)",
+            "line_bbox": [
+                153.0,
+                782.0,
+                246.0,
+                796.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(CHECK",
+                    "bbox": [
+                        154.0,
+                        782.0,
+                        202.0,
+                        796.0
+                    ]
+                },
+                {
+                    "text": "ONE)",
+                    "bbox": [
+                        210.0,
+                        782.0,
+                        247.0,
+                        797.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SMOKING",
+            "line_bbox": [
+                374.0,
+                783.0,
+                436.0,
+                795.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SMOKING",
+                    "bbox": [
+                        374.0,
+                        783.0,
+                        432.0,
+                        796.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NON-SMOKING",
+            "line_bbox": [
+                552.0,
+                784.0,
+                649.0,
+                797.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NON-SMOKING",
+                    "bbox": [
+                        552.0,
+                        785.0,
+                        646.0,
+                        798.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SPECIAL DIETARY REQUIREMENTS",
+            "line_bbox": [
+                150.0,
+                824.0,
+                392.0,
+                839.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SPECIAL",
+                    "bbox": [
+                        150.0,
+                        825.0,
+                        211.0,
+                        839.0
+                    ]
+                },
+                {
+                    "text": "DIETARY",
+                    "bbox": [
+                        219.0,
+                        825.0,
+                        280.0,
+                        839.0
+                    ]
+                },
+                {
+                    "text": "REQUIREMENTS",
+                    "bbox": [
+                        287.0,
+                        825.0,
+                        391.0,
+                        839.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ANY ADDITIONAL",
+            "line_bbox": [
+                149.0,
+                853.0,
+                274.0,
+                866.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ANY",
+                    "bbox": [
+                        150.0,
+                        854.0,
+                        175.0,
+                        867.0
+                    ]
+                },
+                {
+                    "text": "ADDITIONAL",
+                    "bbox": [
+                        185.0,
+                        854.0,
+                        272.0,
+                        867.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INFORMATION YOU WOULD LIKE TO PROVIDE",
+            "line_bbox": [
+                167.0,
+                867.0,
+                488.0,
+                882.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INFORMATION",
+                    "bbox": [
+                        168.0,
+                        868.0,
+                        263.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "bbox": [
+                        271.0,
+                        868.0,
+                        297.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "WOULD",
+                    "bbox": [
+                        304.0,
+                        868.0,
+                        348.0,
+                        882.0
+                    ]
+                },
+                {
+                    "text": "LIKE",
+                    "bbox": [
+                        356.0,
+                        868.0,
+                        390.0,
+                        883.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        399.0,
+                        868.0,
+                        416.0,
+                        883.0
+                    ]
+                },
+                {
+                    "text": "PROVIDE",
+                    "bbox": [
+                        424.0,
+                        868.0,
+                        486.0,
+                        883.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

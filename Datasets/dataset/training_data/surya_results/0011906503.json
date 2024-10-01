@@ -1,0 +1,847 @@
+{
+    "text_lines": [
+        {
+            "text": "FA 956(5-85)",
+            "bbox": [
+                41.0,
+                38.0,
+                125.0,
+                52.0
+            ]
+        },
+        {
+            "text": "0465E",
+            "bbox": [
+                627.0,
+                50.0,
+                664.0,
+                64.0
+            ]
+        },
+        {
+            "text": "gl 0081. (d)",
+            "bbox": [
+                41.0,
+                53.0,
+                126.0,
+                65.0
+            ]
+        },
+        {
+            "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+            "bbox": [
+                231.0,
+                57.0,
+                495.0,
+                74.0
+            ]
+        },
+        {
+            "text": "CAPITAL BUDGET PROJECT",
+            "bbox": [
+                285.0,
+                72.0,
+                439.0,
+                85.0
+            ]
+        },
+        {
+            "text": "R&D",
+            "bbox": [
+                345.0,
+                100.0,
+                372.0,
+                112.0
+            ]
+        },
+        {
+            "text": "Capital Budget",
+            "bbox": [
+                61.0,
+                122.0,
+                160.0,
+                136.0
+            ]
+        },
+        {
+            "text": ": 8,0",
+            "bbox": [
+                704.0,
+                125.0,
+                716.0,
+                140.0
+            ]
+        },
+        {
+            "text": "($000)",
+            "bbox": [
+                339.0,
+                126.0,
+                382.0,
+                140.0
+            ]
+        },
+        {
+            "text": "Date Submitted",
+            "bbox": [
+                558.0,
+                129.0,
+                657.0,
+                145.0
+            ]
+        },
+        {
+            "text": "THELE",
+            "bbox": [
+                42.0,
+                147.0,
+                85.0,
+                160.0
+            ]
+        },
+        {
+            "text": ": -",
+            "bbox": [
+                705.0,
+                154.0,
+                715.0,
+                164.0
+            ]
+        },
+        {
+            "text": "CICARETTE TEST STATION (CTS400)",
+            "bbox": [
+                74.0,
+                164.0,
+                290.0,
+                181.0
+            ]
+        },
+        {
+            "text": "Purpose",
+            "bbox": [
+                46.0,
+                175.0,
+                99.0,
+                189.0
+            ]
+        },
+        {
+            "text": "1 _X_ Maintenance of Existing Business",
+            "bbox": [
+                74.0,
+                192.0,
+                336.0,
+                211.0
+            ]
+        },
+        {
+            "text": "Compliance with Outside Requirements",
+            "bbox": [
+                407.0,
+                196.0,
+                657.0,
+                215.0
+            ]
+        },
+        {
+            "text": "5",
+            "bbox": [
+                366.0,
+                197.0,
+                377.0,
+                210.0
+            ]
+        },
+        {
+            "text": "Expansion of Existing Business",
+            "bbox": [
+                114.0,
+                206.0,
+                322.0,
+                224.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                74.0,
+                208.0,
+                86.0,
+                218.0
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                366.0,
+                210.0,
+                378.0,
+                224.0
+            ]
+        },
+        {
+            "text": "Company Improvements & Administrative",
+            "bbox": [
+                407.0,
+                210.0,
+                664.0,
+                229.0
+            ]
+        },
+        {
+            "text": "New Products",
+            "bbox": [
+                114.0,
+                220.0,
+                201.0,
+                234.0
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                74.0,
+                222.0,
+                85.0,
+                232.0
+            ]
+        },
+        {
+            "text": "Requirements",
+            "bbox": [
+                421.0,
+                225.0,
+                507.0,
+                238.0
+            ]
+        },
+        {
+            "text": "Cost Reduction",
+            "bbox": [
+                114.0,
+                234.0,
+                215.0,
+                248.0
+            ]
+        },
+        {
+            "text": "4",
+            "bbox": [
+                74.0,
+                235.0,
+                85.0,
+                246.0
+            ]
+        },
+        {
+            "text": "7",
+            "bbox": [
+                366.0,
+                238.0,
+                379.0,
+                251.0
+            ]
+        },
+        {
+            "text": "Quality Improvement",
+            "bbox": [
+                407.0,
+                240.0,
+                541.0,
+                252.0
+            ]
+        },
+        {
+            "text": "Status",
+            "bbox": [
+                45.0,
+                260.0,
+                91.0,
+                272.0
+            ]
+        },
+        {
+            "text": "Bstimate Cost",
+            "bbox": [
+                455.0,
+                263.0,
+                548.0,
+                279.0
+            ]
+        },
+        {
+            "text": "This Project is _X_ Proposed",
+            "bbox": [
+                66.0,
+                275.0,
+                262.0,
+                293.0
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "bbox": [
+                468.0,
+                280.0,
+                508.0,
+                295.0
+            ]
+        },
+        {
+            "text": "CAPITAL",
+            "bbox": [
+                530.0,
+                282.0,
+                596.0,
+                295.0
+            ]
+        },
+        {
+            "text": "EXPENSE",
+            "bbox": [
+                611.0,
+                282.0,
+                667.0,
+                297.0
+            ]
+        },
+        {
+            "text": "_ Approved; Proposal No.",
+            "bbox": [
+                196.0,
+                291.0,
+                356.0,
+                306.0
+            ]
+        },
+        {
+            "text": "80",
+            "bbox": [
+                488.0,
+                296.0,
+                509.0,
+                308.0
+            ]
+        },
+        {
+            "text": "80",
+            "bbox": [
+                563.0,
+                297.0,
+                584.0,
+                309.0
+            ]
+        },
+        {
+            "text": "o",
+            "bbox": [
+                638.0,
+                299.0,
+                652.0,
+                311.0
+            ]
+        },
+        {
+            "text": "Project Dates",
+            "bbox": [
+                39.0,
+                314.0,
+                132.0,
+                328.0
+            ]
+        },
+        {
+            "text": "s",
+            "bbox": [
+                702.0,
+                330.0,
+                715.0,
+                344.0
+            ]
+        },
+        {
+            "text": "Submission .",
+            "bbox": [
+                162.0,
+                333.0,
+                242.0,
+                345.0
+            ]
+        },
+        {
+            "text": "88",
+            "bbox": [
+                249.0,
+                334.0,
+                268.0,
+                345.0
+            ]
+        },
+        {
+            "text": "Start",
+            "bbox": [
+                310.0,
+                335.0,
+                349.0,
+                347.0
+            ]
+        },
+        {
+            "text": "7",
+            "bbox": [
+                371.0,
+                335.0,
+                382.0,
+                346.0
+            ]
+        },
+        {
+            "text": "88",
+            "bbox": [
+                419.0,
+                335.0,
+                438.0,
+                348.0
+            ]
+        },
+        {
+            "text": "Completion",
+            "bbox": [
+                482.0,
+                336.0,
+                556.0,
+                349.0
+            ]
+        },
+        {
+            "text": "II",
+            "bbox": [
+                570.0,
+                339.0,
+                586.0,
+                349.0
+            ]
+        },
+        {
+            "text": "88",
+            "bbox": [
+                625.0,
+                339.0,
+                641.0,
+                350.0
+            ]
+        },
+        {
+            "text": "Yr.",
+            "bbox": [
+                249.0,
+                347.0,
+                273.0,
+                360.0
+            ]
+        },
+        {
+            "text": " Mo .",
+            "bbox": [
+                363.0,
+                348.0,
+                387.0,
+                361.0
+            ]
+        },
+        {
+            "text": "Yr.",
+            "bbox": [
+                419.0,
+                350.0,
+                444.0,
+                362.0
+            ]
+        },
+        {
+            "text": " Mo .",
+            "bbox": [
+                570.0,
+                350.0,
+                593.0,
+                363.0
+            ]
+        },
+        {
+            "text": "Yr.",
+            "bbox": [
+                625.0,
+                351.0,
+                648.0,
+                365.0
+            ]
+        },
+        {
+            "text": "PROJECT DESCRIPTION",
+            "bbox": [
+                45.0,
+                370.0,
+                180.0,
+                386.0
+            ]
+        },
+        {
+            "text": "The Cigarette Test Station (CTS400) combines many of the stand-alone instruments that",
+            "bbox": [
+                65.0,
+                397.0,
+                649.0,
+                419.0
+            ]
+        },
+        {
+            "text": "R&D currently uses to measure cigarette weight, pressure drop, ventilation, and",
+            "bbox": [
+                64.0,
+                410.0,
+                609.0,
+                433.0
+            ]
+        },
+        {
+            "text": "hardness into one compact module. The CTS400 has the additional measurement of",
+            "bbox": [
+                64.0,
+                424.0,
+                609.0,
+                447.0
+            ]
+        },
+        {
+            "text": "cigarette hardness in comparison with the CTS300.  With this added measurement R&D will",
+            "bbox": [
+                65.0,
+                438.0,
+                662.0,
+                461.0
+            ]
+        },
+        {
+            "text": "be able to replace the Firmness Integrator that measures cigarette firmness in addition",
+            "bbox": [
+                64.0,
+                451.0,
+                663.0,
+                475.0
+            ]
+        },
+        {
+            "text": "to other measurements that are mentioned above.  The Firmness Integrator is no longer",
+            "bbox": [
+                65.0,
+                465.0,
+                649.0,
+                488.0
+            ]
+        },
+        {
+            "text": "manufactured and parts are becoming difficult to obtain.  Lastly, purchase of this",
+            "bbox": [
+                63.0,
+                478.0,
+                628.0,
+                501.0
+            ]
+        },
+        {
+            "text": "instrument would provide similar capability as the Macon Plant and help facilitate",
+            "bbox": [
+                64.0,
+                492.0,
+                629.0,
+                515.0
+            ]
+        },
+        {
+            "text": "comparisions between laboratories.",
+            "bbox": [
+                64.0,
+                507.0,
+                297.0,
+                524.0
+            ]
+        },
+        {
+            "text": "ESTIMATED SPENDING SCHEDULE",
+            "bbox": [
+                267.0,
+                576.0,
+                456.0,
+                593.0
+            ]
+        },
+        {
+            "text": "1.50",
+            "bbox": [
+                699.0,
+                589.0,
+                711.0,
+                605.0
+            ]
+        },
+        {
+            "text": "Spent Prior to 1989",
+            "bbox": [
+                42.0,
+                598.0,
+                176.0,
+                611.0
+            ]
+        },
+        {
+            "text": "Balance to Spend",
+            "bbox": [
+                403.0,
+                603.0,
+                518.0,
+                615.0
+            ]
+        },
+        {
+            "text": "CAPITAL",
+            "bbox": [
+                64.0,
+                613.0,
+                117.0,
+                629.0
+            ]
+        },
+        {
+            "text": "80",
+            "bbox": [
+                145.0,
+                615.0,
+                163.0,
+                628.0
+            ]
+        },
+        {
+            "text": "CAPITAL",
+            "bbox": [
+                430.0,
+                619.0,
+                483.0,
+                632.0
+            ]
+        },
+        {
+            "text": "EXPENSE",
+            "bbox": [
+                63.0,
+                628.0,
+                116.0,
+                641.0
+            ]
+        },
+        {
+            "text": "O",
+            "bbox": [
+                151.0,
+                630.0,
+                163.0,
+                642.0
+            ]
+        },
+        {
+            "text": "EXPENSE",
+            "bbox": [
+                430.0,
+                632.0,
+                484.0,
+                645.0
+            ]
+        },
+        {
+            "text": "1989 SPENDING BY QUARTER",
+            "bbox": [
+                193.0,
+                670.0,
+                359.0,
+                683.0
+            ]
+        },
+        {
+            "text": "YEAR",
+            "bbox": [
+                492.0,
+                673.0,
+                524.0,
+                685.0
+            ]
+        },
+        {
+            "text": "CAPITAL",
+            "bbox": [
+                546.0,
+                673.0,
+                600.0,
+                686.0
+            ]
+        },
+        {
+            "text": "EXPENSE",
+            "bbox": [
+                614.0,
+                674.0,
+                666.0,
+                687.0
+            ]
+        },
+        {
+            "text": "JAN .- MAR. APR .- JUN. JUL .- SEP.",
+            "bbox": [
+                103.0,
+                707.0,
+                327.0,
+                726.0
+            ]
+        },
+        {
+            "text": "OCT. - DEC.",
+            "bbox": [
+                325.0,
+                711.0,
+                393.0,
+                725.0
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "bbox": [
+                415.0,
+                713.0,
+                455.0,
+                725.0
+            ]
+        },
+        {
+            "text": "_1990",
+            "bbox": [
+                485.0,
+                713.0,
+                527.0,
+                725.0
+            ]
+        },
+        {
+            "text": "CAPITAL",
+            "bbox": [
+                41.0,
+                736.0,
+                93.0,
+                749.0
+            ]
+        },
+        {
+            "text": "_1991",
+            "bbox": [
+                486.0,
+                740.0,
+                527.0,
+                755.0
+            ]
+        },
+        {
+            "text": "is a",
+            "bbox": [
+                699.0,
+                745.0,
+                709.0,
+                752.0
+            ]
+        },
+        {
+            "text": "EXPENSE",
+            "bbox": [
+                41.0,
+                763.0,
+                92.0,
+                775.0
+            ]
+        },
+        {
+            "text": "_1992",
+            "bbox": [
+                485.0,
+                767.0,
+                527.0,
+                780.0
+            ]
+        },
+        {
+            "text": " 1993",
+            "bbox": [
+                488.0,
+                793.0,
+                523.0,
+                805.0
+            ]
+        },
+        {
+            "text": "Beyond",
+            "bbox": [
+                485.0,
+                807.0,
+                529.0,
+                819.0
+            ]
+        },
+        {
+            "text": " 1993",
+            "bbox": [
+                487.0,
+                820.0,
+                525.0,
+                833.0
+            ]
+        },
+        {
+            "text": "Submitted by",
+            "bbox": [
+                38.0,
+                840.0,
+                126.0,
+                854.0
+            ]
+        },
+        {
+            "text": "Approved by",
+            "bbox": [
+                394.0,
+                844.0,
+                474.0,
+                857.0
+            ]
+        },
+        {
+            "text": "W. O. Crain",
+            "bbox": [
+                60.0,
+                859.0,
+                141.0,
+                872.0
+            ]
+        },
+        {
+            "text": "621099940J",
+            "bbox": [
+                523.0,
+                899.0,
+                629.0,
+                915.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

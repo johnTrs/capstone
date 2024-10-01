@@ -1,0 +1,1972 @@
+{
+    "text_lines": [
+        {
+            "line_text": "RESEARCH COMPLETED OR IN PROGRESS",
+            "line_bbox": [
+                251.0,
+                62.0,
+                489.0,
+                76.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RESEARCH",
+                    "bbox": [
+                        253.0,
+                        63.0,
+                        311.0,
+                        77.0
+                    ]
+                },
+                {
+                    "text": "COMPLETED",
+                    "bbox": [
+                        317.0,
+                        63.0,
+                        381.0,
+                        76.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        386.0,
+                        63.0,
+                        402.0,
+                        76.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        409.0,
+                        63.0,
+                        423.0,
+                        76.0
+                    ]
+                },
+                {
+                    "text": "PROGRESS",
+                    "bbox": [
+                        429.0,
+                        63.0,
+                        487.0,
+                        77.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WHICH HAS POSSIBILITIES FOR PRESENTATION OR PUBLICATION",
+            "line_bbox": [
+                167.0,
+                75.0,
+                560.0,
+                92.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WHICH",
+                    "bbox": [
+                        168.0,
+                        78.0,
+                        205.0,
+                        92.0
+                    ]
+                },
+                {
+                    "text": "HAS",
+                    "bbox": [
+                        210.0,
+                        78.0,
+                        233.0,
+                        92.0
+                    ]
+                },
+                {
+                    "text": "POSSIBILITIES",
+                    "bbox": [
+                        239.0,
+                        77.0,
+                        332.0,
+                        91.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        336.0,
+                        77.0,
+                        360.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "PRESENTATION",
+                    "bbox": [
+                        365.0,
+                        76.0,
+                        451.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        456.0,
+                        76.0,
+                        472.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "PUBLICATION",
+                    "bbox": [
+                        478.0,
+                        75.0,
+                        558.0,
+                        89.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NAME: Ronald W. Davis",
+            "line_bbox": [
+                54.0,
+                120.0,
+                217.0,
+                135.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        55.0,
+                        120.0,
+                        93.0,
+                        134.0
+                    ]
+                },
+                {
+                    "text": "Ronald",
+                    "bbox": [
+                        107.0,
+                        121.0,
+                        152.0,
+                        135.0
+                    ]
+                },
+                {
+                    "text": "W.",
+                    "bbox": [
+                        157.0,
+                        122.0,
+                        174.0,
+                        135.0
+                    ]
+                },
+                {
+                    "text": "Davis",
+                    "bbox": [
+                        177.0,
+                        122.0,
+                        215.0,
+                        135.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIVISION_Analytical-Radiochemistry.",
+            "line_bbox": [
+                386.0,
+                117.0,
+                632.0,
+                134.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIVISION_Analytical-Radiochemistry.",
+                    "bbox": [
+                        386.0,
+                        118.0,
+                        632.0,
+                        134.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NATURE OF WORK: Total aldehyde analysis in cigarette mainstream smoke.",
+            "line_bbox": [
+                55.0,
+                146.0,
+                551.0,
+                161.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NATURE",
+                    "bbox": [
+                        55.0,
+                        148.0,
+                        99.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        103.0,
+                        148.0,
+                        120.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "WORK:",
+                    "bbox": [
+                        124.0,
+                        147.0,
+                        163.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "Total",
+                    "bbox": [
+                        171.0,
+                        147.0,
+                        208.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "aldehyde",
+                    "bbox": [
+                        214.0,
+                        147.0,
+                        272.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "analysis",
+                    "bbox": [
+                        277.0,
+                        147.0,
+                        335.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        341.0,
+                        147.0,
+                        355.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "cigarette",
+                    "bbox": [
+                        362.0,
+                        147.0,
+                        426.0,
+                        161.0
+                    ]
+                },
+                {
+                    "text": "mainstream",
+                    "bbox": [
+                        431.0,
+                        147.0,
+                        503.0,
+                        161.0
+                    ]
+                },
+                {
+                    "text": "smoke.",
+                    "bbox": [
+                        509.0,
+                        148.0,
+                        551.0,
+                        161.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRESENT STATUS OF WORK (Cite progress reports where appropriate) Techniques worked out",
+            "line_bbox": [
+                56.0,
+                203.0,
+                666.0,
+                217.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRESENT",
+                    "bbox": [
+                        56.0,
+                        205.0,
+                        106.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "STATUS",
+                    "bbox": [
+                        111.0,
+                        204.0,
+                        155.0,
+                        217.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        159.0,
+                        204.0,
+                        176.0,
+                        217.0
+                    ]
+                },
+                {
+                    "text": "WORK",
+                    "bbox": [
+                        180.0,
+                        204.0,
+                        211.0,
+                        217.0
+                    ]
+                },
+                {
+                    "text": "(Cite",
+                    "bbox": [
+                        219.0,
+                        204.0,
+                        253.0,
+                        217.0
+                    ]
+                },
+                {
+                    "text": "progress",
+                    "bbox": [
+                        259.0,
+                        204.0,
+                        317.0,
+                        218.0
+                    ]
+                },
+                {
+                    "text": "reports",
+                    "bbox": [
+                        322.0,
+                        204.0,
+                        374.0,
+                        218.0
+                    ]
+                },
+                {
+                    "text": "where",
+                    "bbox": [
+                        379.0,
+                        204.0,
+                        416.0,
+                        218.0
+                    ]
+                },
+                {
+                    "text": "appropriate)",
+                    "bbox": [
+                        421.0,
+                        204.0,
+                        508.0,
+                        218.0
+                    ]
+                },
+                {
+                    "text": "Techniques",
+                    "bbox": [
+                        516.0,
+                        204.0,
+                        588.0,
+                        218.0
+                    ]
+                },
+                {
+                    "text": "worked",
+                    "bbox": [
+                        593.0,
+                        204.0,
+                        637.0,
+                        217.0
+                    ]
+                },
+                {
+                    "text": "out",
+                    "bbox": [
+                        643.0,
+                        204.0,
+                        665.0,
+                        217.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "and reported for pure aldehyde samples; must be adapted for cigarette mainstream smoke",
+            "line_bbox": [
+                58.0,
+                231.0,
+                668.0,
+                246.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "and",
+                    "bbox": [
+                        60.0,
+                        234.0,
+                        81.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "reported",
+                    "bbox": [
+                        88.0,
+                        233.0,
+                        144.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        151.0,
+                        233.0,
+                        173.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "pure",
+                    "bbox": [
+                        178.0,
+                        233.0,
+                        208.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "aldehyde",
+                    "bbox": [
+                        214.0,
+                        232.0,
+                        271.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "samples;",
+                    "bbox": [
+                        278.0,
+                        232.0,
+                        336.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "must",
+                    "bbox": [
+                        340.0,
+                        232.0,
+                        370.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        375.0,
+                        232.0,
+                        391.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "adapted",
+                    "bbox": [
+                        397.0,
+                        232.0,
+                        447.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        453.0,
+                        232.0,
+                        476.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "cigarette",
+                    "bbox": [
+                        482.0,
+                        232.0,
+                        545.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "mainstream",
+                    "bbox": [
+                        551.0,
+                        232.0,
+                        622.0,
+                        246.0
+                    ]
+                },
+                {
+                    "text": "smoke",
+                    "bbox": [
+                        629.0,
+                        232.0,
+                        665.0,
+                        245.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "by further laboratory work",
+            "line_bbox": [
+                56.0,
+                260.0,
+                245.0,
+                274.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "by",
+                    "bbox": [
+                        58.0,
+                        261.0,
+                        74.0,
+                        275.0
+                    ]
+                },
+                {
+                    "text": "further",
+                    "bbox": [
+                        79.0,
+                        260.0,
+                        131.0,
+                        274.0
+                    ]
+                },
+                {
+                    "text": "laboratory",
+                    "bbox": [
+                        136.0,
+                        260.0,
+                        209.0,
+                        273.0
+                    ]
+                },
+                {
+                    "text": "work",
+                    "bbox": [
+                        214.0,
+                        260.0,
+                        243.0,
+                        273.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RAS WORK BEEN REPORTED IN MANUSCRIPT FORM? yes",
+            "line_bbox": [
+                54.0,
+                288.0,
+                383.0,
+                302.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RAS",
+                    "bbox": [
+                        55.0,
+                        290.0,
+                        77.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": "WORK",
+                    "bbox": [
+                        82.0,
+                        289.0,
+                        113.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": "BEEN",
+                    "bbox": [
+                        118.0,
+                        289.0,
+                        148.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": "REPORTED",
+                    "bbox": [
+                        152.0,
+                        288.0,
+                        211.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        217.0,
+                        288.0,
+                        232.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": "MANUSCRIPT",
+                    "bbox": [
+                        237.0,
+                        288.0,
+                        311.0,
+                        303.0
+                    ]
+                },
+                {
+                    "text": "FORM?",
+                    "bbox": [
+                        316.0,
+                        288.0,
+                        353.0,
+                        303.0
+                    ]
+                },
+                {
+                    "text": "yes",
+                    "bbox": [
+                        355.0,
+                        289.0,
+                        378.0,
+                        303.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "._ IF SO, GIVE. DATE AND TITLE:",
+            "line_bbox": [
+                386.0,
+                287.0,
+                590.0,
+                303.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "._",
+                    "bbox": [
+                        391.0,
+                        289.0,
+                        398.0,
+                        304.0
+                    ]
+                },
+                {
+                    "text": "IF",
+                    "bbox": [
+                        401.0,
+                        288.0,
+                        416.0,
+                        304.0
+                    ]
+                },
+                {
+                    "text": "SO,",
+                    "bbox": [
+                        421.0,
+                        288.0,
+                        445.0,
+                        303.0
+                    ]
+                },
+                {
+                    "text": "GIVE.",
+                    "bbox": [
+                        448.0,
+                        288.0,
+                        481.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        483.0,
+                        288.0,
+                        514.0,
+                        301.0
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "bbox": [
+                        519.0,
+                        288.0,
+                        543.0,
+                        301.0
+                    ]
+                },
+                {
+                    "text": "TITLE:",
+                    "bbox": [
+                        548.0,
+                        288.0,
+                        590.0,
+                        302.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "METH - A reagent for analysis of aliphatic aldehydes 7/5/67",
+            "line_bbox": [
+                56.0,
+                317.0,
+                498.0,
+                333.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "METH",
+                    "bbox": [
+                        59.0,
+                        319.0,
+                        89.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        93.0,
+                        319.0,
+                        104.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "A",
+                    "bbox": [
+                        109.0,
+                        319.0,
+                        118.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "reagent",
+                    "bbox": [
+                        123.0,
+                        319.0,
+                        174.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        181.0,
+                        319.0,
+                        203.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "analysis",
+                    "bbox": [
+                        208.0,
+                        318.0,
+                        267.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        271.0,
+                        318.0,
+                        287.0,
+                        332.0
+                    ]
+                },
+                {
+                    "text": "aliphatic",
+                    "bbox": [
+                        292.0,
+                        318.0,
+                        359.0,
+                        332.0
+                    ]
+                },
+                {
+                    "text": "aldehydes",
+                    "bbox": [
+                        362.0,
+                        318.0,
+                        429.0,
+                        332.0
+                    ]
+                },
+                {
+                    "text": "7/5/67",
+                    "bbox": [
+                        455.0,
+                        317.0,
+                        497.0,
+                        331.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NAMES OF OTHER PERSONS COLLABORATING IN WORK: L. W. McDowell",
+            "line_bbox": [
+                54.0,
+                345.0,
+                483.0,
+                360.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NAMES",
+                    "bbox": [
+                        55.0,
+                        347.0,
+                        91.0,
+                        359.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        95.0,
+                        346.0,
+                        112.0,
+                        359.0
+                    ]
+                },
+                {
+                    "text": "OTHER",
+                    "bbox": [
+                        116.0,
+                        346.0,
+                        155.0,
+                        359.0
+                    ]
+                },
+                {
+                    "text": "PERSONS",
+                    "bbox": [
+                        160.0,
+                        346.0,
+                        211.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "COLLABORATING",
+                    "bbox": [
+                        215.0,
+                        346.0,
+                        310.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        315.0,
+                        346.0,
+                        331.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "WORK:",
+                    "bbox": [
+                        335.0,
+                        346.0,
+                        375.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "L.",
+                    "bbox": [
+                        382.0,
+                        346.0,
+                        400.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "W.",
+                    "bbox": [
+                        403.0,
+                        346.0,
+                        422.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "McDowell",
+                    "bbox": [
+                        424.0,
+                        346.0,
+                        483.0,
+                        360.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATE OF TIME NEEDED TO COMPLETE WORK: approximately one month",
+            "line_bbox": [
+                54.0,
+                403.0,
+                518.0,
+                417.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATE",
+                    "bbox": [
+                        55.0,
+                        404.0,
+                        111.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        117.0,
+                        404.0,
+                        133.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "TIME",
+                    "bbox": [
+                        139.0,
+                        404.0,
+                        169.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "NEEDED",
+                    "bbox": [
+                        173.0,
+                        403.0,
+                        218.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        223.0,
+                        403.0,
+                        239.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "COMPLETE",
+                    "bbox": [
+                        245.0,
+                        403.0,
+                        302.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "WORK:",
+                    "bbox": [
+                        307.0,
+                        403.0,
+                        346.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "approximately",
+                    "bbox": [
+                        355.0,
+                        403.0,
+                        448.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "one",
+                    "bbox": [
+                        454.0,
+                        403.0,
+                        476.0,
+                        416.0
+                    ]
+                },
+                {
+                    "text": "month",
+                    "bbox": [
+                        480.0,
+                        403.0,
+                        518.0,
+                        416.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT FOR PRESENTATION; several weeks after completion",
+            "line_bbox": [
+                54.0,
+                430.0,
+                716.0,
+                445.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATE",
+                    "bbox": [
+                        54.0,
+                        432.0,
+                        111.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        117.0,
+                        432.0,
+                        132.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "TIME",
+                    "bbox": [
+                        139.0,
+                        432.0,
+                        168.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "NEEDED",
+                    "bbox": [
+                        172.0,
+                        432.0,
+                        217.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        224.0,
+                        432.0,
+                        238.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "PREPARE",
+                    "bbox": [
+                        244.0,
+                        432.0,
+                        295.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "MANUSCRIPT",
+                    "bbox": [
+                        300.0,
+                        431.0,
+                        373.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        379.0,
+                        431.0,
+                        401.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "PRESENTATION;",
+                    "bbox": [
+                        406.0,
+                        431.0,
+                        500.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "several",
+                    "bbox": [
+                        502.0,
+                        431.0,
+                        553.0,
+                        444.0
+                    ]
+                },
+                {
+                    "text": "weeks",
+                    "bbox": [
+                        558.0,
+                        431.0,
+                        595.0,
+                        444.0
+                    ]
+                },
+                {
+                    "text": "after",
+                    "bbox": [
+                        601.0,
+                        430.0,
+                        638.0,
+                        444.0
+                    ]
+                },
+                {
+                    "text": "completion",
+                    "bbox": [
+                        643.0,
+                        430.0,
+                        714.0,
+                        444.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "of work",
+            "line_bbox": [
+                499.0,
+                445.0,
+                555.0,
+                457.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "of",
+                    "bbox": [
+                        503.0,
+                        446.0,
+                        517.0,
+                        457.0
+                    ]
+                },
+                {
+                    "text": "work",
+                    "bbox": [
+                        523.0,
+                        446.0,
+                        552.0,
+                        457.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATE OF TIME NEEDED TO PREPARE MANUSCRIPT FOR PUBLICATION: several weeks after completion",
+            "line_bbox": [
+                52.0,
+                459.0,
+                716.0,
+                474.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATE",
+                    "bbox": [
+                        53.0,
+                        460.0,
+                        112.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        117.0,
+                        460.0,
+                        133.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "TIME",
+                    "bbox": [
+                        138.0,
+                        460.0,
+                        169.0,
+                        475.0
+                    ]
+                },
+                {
+                    "text": "NEEDED",
+                    "bbox": [
+                        173.0,
+                        460.0,
+                        218.0,
+                        475.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        223.0,
+                        460.0,
+                        239.0,
+                        475.0
+                    ]
+                },
+                {
+                    "text": "PREPARE",
+                    "bbox": [
+                        244.0,
+                        460.0,
+                        296.0,
+                        475.0
+                    ]
+                },
+                {
+                    "text": "MANUSCRIPT",
+                    "bbox": [
+                        299.0,
+                        460.0,
+                        374.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        378.0,
+                        460.0,
+                        402.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "PUBLICATION:",
+                    "bbox": [
+                        406.0,
+                        460.0,
+                        494.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "several",
+                    "bbox": [
+                        502.0,
+                        460.0,
+                        554.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "weeks",
+                    "bbox": [
+                        558.0,
+                        460.0,
+                        596.0,
+                        473.0
+                    ]
+                },
+                {
+                    "text": "after",
+                    "bbox": [
+                        601.0,
+                        460.0,
+                        637.0,
+                        473.0
+                    ]
+                },
+                {
+                    "text": "completion",
+                    "bbox": [
+                        643.0,
+                        460.0,
+                        715.0,
+                        473.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "of work",
+            "line_bbox": [
+                499.0,
+                470.0,
+                555.0,
+                483.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "of",
+                    "bbox": [
+                        502.0,
+                        471.0,
+                        517.0,
+                        483.0
+                    ]
+                },
+                {
+                    "text": "work",
+                    "bbox": [
+                        522.0,
+                        471.0,
+                        552.0,
+                        483.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCIENTIFIC MRETING OF CHOICE: none as yet",
+            "line_bbox": [
+                52.0,
+                488.0,
+                345.0,
+                502.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCIENTIFIC",
+                    "bbox": [
+                        54.0,
+                        488.0,
+                        126.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "MRETING",
+                    "bbox": [
+                        130.0,
+                        488.0,
+                        183.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        187.0,
+                        488.0,
+                        204.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "CHOICE:",
+                    "bbox": [
+                        209.0,
+                        488.0,
+                        261.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "none",
+                    "bbox": [
+                        263.0,
+                        488.0,
+                        294.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        298.0,
+                        488.0,
+                        315.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "yet",
+                    "bbox": [
+                        320.0,
+                        489.0,
+                        343.0,
+                        503.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCIENTIFIC JOURNAL OF CHOICE: Tobacco Science",
+            "line_bbox": [
+                54.0,
+                514.0,
+                372.0,
+                530.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCIENTIFIC",
+                    "bbox": [
+                        55.0,
+                        516.0,
+                        126.0,
+                        531.0
+                    ]
+                },
+                {
+                    "text": "JOURNAL",
+                    "bbox": [
+                        131.0,
+                        516.0,
+                        182.0,
+                        530.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        187.0,
+                        516.0,
+                        204.0,
+                        530.0
+                    ]
+                },
+                {
+                    "text": "CHOICE:",
+                    "bbox": [
+                        208.0,
+                        515.0,
+                        261.0,
+                        530.0
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "bbox": [
+                        264.0,
+                        515.0,
+                        316.0,
+                        529.0
+                    ]
+                },
+                {
+                    "text": "Science",
+                    "bbox": [
+                        320.0,
+                        515.0,
+                        372.0,
+                        529.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS: none",
+            "line_bbox": [
+                55.0,
+                544.0,
+                160.0,
+                559.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS:",
+                    "bbox": [
+                        55.0,
+                        544.0,
+                        120.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "none",
+                    "bbox": [
+                        130.0,
+                        547.0,
+                        160.0,
+                        560.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS BY MANAGER OR DIRECTOR",
+            "line_bbox": [
+                55.0,
+                658.0,
+                275.0,
+                671.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS",
+                    "bbox": [
+                        55.0,
+                        658.0,
+                        111.0,
+                        671.0
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "bbox": [
+                        117.0,
+                        658.0,
+                        132.0,
+                        670.0
+                    ]
+                },
+                {
+                    "text": "MANAGER",
+                    "bbox": [
+                        137.0,
+                        658.0,
+                        188.0,
+                        670.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        194.0,
+                        658.0,
+                        209.0,
+                        670.0
+                    ]
+                },
+                {
+                    "text": "DIRECTOR",
+                    "bbox": [
+                        216.0,
+                        658.0,
+                        273.0,
+                        671.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DOES WORK MERIT PUBLICATION?",
+            "line_bbox": [
+                54.0,
+                685.0,
+                254.0,
+                699.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DOES",
+                    "bbox": [
+                        54.0,
+                        686.0,
+                        82.0,
+                        700.0
+                    ]
+                },
+                {
+                    "text": "WORK",
+                    "bbox": [
+                        87.0,
+                        686.0,
+                        118.0,
+                        699.0
+                    ]
+                },
+                {
+                    "text": "MERIT",
+                    "bbox": [
+                        123.0,
+                        686.0,
+                        161.0,
+                        699.0
+                    ]
+                },
+                {
+                    "text": "PUBLICATION?",
+                    "bbox": [
+                        166.0,
+                        686.0,
+                        254.0,
+                        699.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAN TIME BE SPARED FOR COMPLETION?",
+            "line_bbox": [
+                53.0,
+                712.0,
+                295.0,
+                729.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAN",
+                    "bbox": [
+                        54.0,
+                        714.0,
+                        75.0,
+                        729.0
+                    ]
+                },
+                {
+                    "text": "TIME",
+                    "bbox": [
+                        82.0,
+                        714.0,
+                        112.0,
+                        729.0
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "bbox": [
+                        117.0,
+                        714.0,
+                        133.0,
+                        728.0
+                    ]
+                },
+                {
+                    "text": "SPARED",
+                    "bbox": [
+                        137.0,
+                        714.0,
+                        182.0,
+                        728.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        187.0,
+                        714.0,
+                        210.0,
+                        728.0
+                    ]
+                },
+                {
+                    "text": "COMPLETION?",
+                    "bbox": [
+                        215.0,
+                        713.0,
+                        295.0,
+                        728.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS this meagent have not been linked with smoke, an inter pepticability",
+            "line_bbox": [
+                54.0,
+                739.0,
+                693.0,
+                763.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "COMMENTS",
+                    "bbox": [
+                        54.0,
+                        742.0,
+                        112.0,
+                        759.0
+                    ]
+                },
+                {
+                    "text": "this",
+                    "bbox": [
+                        137.0,
+                        742.0,
+                        172.0,
+                        758.0
+                    ]
+                },
+                {
+                    "text": "meagent",
+                    "bbox": [
+                        185.0,
+                        741.0,
+                        250.0,
+                        758.0
+                    ]
+                },
+                {
+                    "text": "have",
+                    "bbox": [
+                        260.0,
+                        740.0,
+                        292.0,
+                        759.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        295.0,
+                        740.0,
+                        326.0,
+                        759.0
+                    ]
+                },
+                {
+                    "text": "been",
+                    "bbox": [
+                        330.0,
+                        740.0,
+                        366.0,
+                        759.0
+                    ]
+                },
+                {
+                    "text": "linked",
+                    "bbox": [
+                        373.0,
+                        740.0,
+                        428.0,
+                        760.0
+                    ]
+                },
+                {
+                    "text": "with",
+                    "bbox": [
+                        430.0,
+                        740.0,
+                        472.0,
+                        760.0
+                    ]
+                },
+                {
+                    "text": "smoke,",
+                    "bbox": [
+                        475.0,
+                        740.0,
+                        539.0,
+                        761.0
+                    ]
+                },
+                {
+                    "text": "an",
+                    "bbox": [
+                        540.0,
+                        740.0,
+                        561.0,
+                        761.0
+                    ]
+                },
+                {
+                    "text": "inter",
+                    "bbox": [
+                        563.0,
+                        740.0,
+                        599.0,
+                        762.0
+                    ]
+                },
+                {
+                    "text": "pepticability",
+                    "bbox": [
+                        601.0,
+                        740.0,
+                        693.0,
+                        764.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "te amode analg\u00e9caria not yet known det may provide.",
+            "line_bbox": [
+                80.0,
+                767.0,
+                591.0,
+                788.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "te",
+                    "bbox": [
+                        81.0,
+                        771.0,
+                        99.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "amode",
+                    "bbox": [
+                        112.0,
+                        770.0,
+                        170.0,
+                        788.0
+                    ]
+                },
+                {
+                    "text": "analg\u00e9caria",
+                    "bbox": [
+                        179.0,
+                        768.0,
+                        280.0,
+                        788.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        285.0,
+                        768.0,
+                        313.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "yet",
+                    "bbox": [
+                        318.0,
+                        768.0,
+                        348.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "known",
+                    "bbox": [
+                        356.0,
+                        768.0,
+                        406.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "det",
+                    "bbox": [
+                        434.0,
+                        768.0,
+                        459.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "may",
+                    "bbox": [
+                        474.0,
+                        768.0,
+                        504.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "provide.",
+                    "bbox": [
+                        514.0,
+                        769.0,
+                        592.0,
+                        789.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "wortel tendinique.",
+            "line_bbox": [
+                83.0,
+                796.0,
+                265.0,
+                818.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "wortel",
+                    "bbox": [
+                        84.0,
+                        797.0,
+                        143.0,
+                        818.0
+                    ]
+                },
+                {
+                    "text": "tendinique.",
+                    "bbox": [
+                        156.0,
+                        797.0,
+                        261.0,
+                        819.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

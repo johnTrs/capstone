@@ -1,0 +1,1750 @@
+{
+    "text_lines": [
+        {
+            "line_text": "TO:",
+            "line_bbox": [
+                48.0,
+                109.0,
+                82.0,
+                128.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO:",
+                    "bbox": [
+                        58.0,
+                        109.0,
+                        81.0,
+                        127.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                532.0,
+                111.0,
+                570.0,
+                125.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        532.0,
+                        111.0,
+                        566.0,
+                        125.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FROM:",
+            "line_bbox": [
+                58.0,
+                150.0,
+                102.0,
+                164.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FROM:",
+                    "bbox": [
+                        59.0,
+                        151.0,
+                        103.0,
+                        164.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TRUE",
+            "line_bbox": [
+                338.0,
+                187.0,
+                393.0,
+                207.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TRUE",
+                    "bbox": [
+                        338.0,
+                        188.0,
+                        386.0,
+                        208.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "$3.00 CARTON COUPON PROMOTION",
+            "line_bbox": [
+                183.0,
+                207.0,
+                545.0,
+                231.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "$3.00",
+                    "bbox": [
+                        184.0,
+                        209.0,
+                        235.0,
+                        232.0
+                    ]
+                },
+                {
+                    "text": "CARTON",
+                    "bbox": [
+                        239.0,
+                        208.0,
+                        322.0,
+                        231.0
+                    ]
+                },
+                {
+                    "text": "COUPON",
+                    "bbox": [
+                        330.0,
+                        208.0,
+                        413.0,
+                        230.0
+                    ]
+                },
+                {
+                    "text": "PROMOTION",
+                    "bbox": [
+                        422.0,
+                        208.0,
+                        540.0,
+                        230.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROMOTIONAL PERIOD: May-June 1992",
+            "line_bbox": [
+                106.0,
+                252.0,
+                352.0,
+                267.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROMOTIONAL",
+                    "bbox": [
+                        106.0,
+                        253.0,
+                        195.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "PERIOD:",
+                    "bbox": [
+                        198.0,
+                        253.0,
+                        253.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "May-June",
+                    "bbox": [
+                        261.0,
+                        253.0,
+                        321.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "1992",
+                    "bbox": [
+                        323.0,
+                        254.0,
+                        351.0,
+                        268.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CONSUMER OFFER:",
+            "line_bbox": [
+                128.0,
+                266.0,
+                255.0,
+                281.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CONSUMER",
+                    "bbox": [
+                        129.0,
+                        267.0,
+                        199.0,
+                        281.0
+                    ]
+                },
+                {
+                    "text": "OFFER:",
+                    "bbox": [
+                        204.0,
+                        267.0,
+                        254.0,
+                        282.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "$3 Off Store Redeemable Carton Coupon",
+            "line_bbox": [
+                260.0,
+                267.0,
+                491.0,
+                282.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "$3",
+                    "bbox": [
+                        262.0,
+                        268.0,
+                        276.0,
+                        281.0
+                    ]
+                },
+                {
+                    "text": "Off",
+                    "bbox": [
+                        278.0,
+                        268.0,
+                        298.0,
+                        281.0
+                    ]
+                },
+                {
+                    "text": "Store",
+                    "bbox": [
+                        300.0,
+                        268.0,
+                        331.0,
+                        281.0
+                    ]
+                },
+                {
+                    "text": "Redeemable",
+                    "bbox": [
+                        333.0,
+                        268.0,
+                        403.0,
+                        282.0
+                    ]
+                },
+                {
+                    "text": "Carton",
+                    "bbox": [
+                        405.0,
+                        268.0,
+                        443.0,
+                        282.0
+                    ]
+                },
+                {
+                    "text": "Coupon",
+                    "bbox": [
+                        445.0,
+                        267.0,
+                        490.0,
+                        283.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DISPLAY BRANDS: TRUE (All Packings)",
+            "line_bbox": [
+                140.0,
+                280.0,
+                372.0,
+                294.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DISPLAY",
+                    "bbox": [
+                        140.0,
+                        281.0,
+                        190.0,
+                        294.0
+                    ]
+                },
+                {
+                    "text": "BRANDS:",
+                    "bbox": [
+                        193.0,
+                        281.0,
+                        252.0,
+                        294.0
+                    ]
+                },
+                {
+                    "text": "TRUE",
+                    "bbox": [
+                        262.0,
+                        281.0,
+                        294.0,
+                        294.0
+                    ]
+                },
+                {
+                    "text": "(All",
+                    "bbox": [
+                        298.0,
+                        281.0,
+                        317.0,
+                        294.0
+                    ]
+                },
+                {
+                    "text": "Packings)",
+                    "bbox": [
+                        320.0,
+                        281.0,
+                        372.0,
+                        295.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DISPLAY AGREEMENT: Lorillard Sales Representative will supply all display materials and",
+            "line_bbox": [
+                113.0,
+                292.0,
+                623.0,
+                307.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DISPLAY",
+                    "bbox": [
+                        114.0,
+                        293.0,
+                        165.0,
+                        307.0
+                    ]
+                },
+                {
+                    "text": "AGREEMENT:",
+                    "bbox": [
+                        168.0,
+                        293.0,
+                        253.0,
+                        307.0
+                    ]
+                },
+                {
+                    "text": "Lorillard",
+                    "bbox": [
+                        262.0,
+                        294.0,
+                        306.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "Sales",
+                    "bbox": [
+                        309.0,
+                        294.0,
+                        341.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "Representative",
+                    "bbox": [
+                        343.0,
+                        294.0,
+                        424.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "will",
+                    "bbox": [
+                        427.0,
+                        294.0,
+                        445.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "supply",
+                    "bbox": [
+                        448.0,
+                        294.0,
+                        485.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "all",
+                    "bbox": [
+                        488.0,
+                        294.0,
+                        502.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "display",
+                    "bbox": [
+                        505.0,
+                        293.0,
+                        544.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "materials",
+                    "bbox": [
+                        547.0,
+                        293.0,
+                        597.0,
+                        308.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        599.0,
+                        293.0,
+                        622.0,
+                        307.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "assemble display. Display containing deals will be placed on",
+            "line_bbox": [
+                261.0,
+                307.0,
+                593.0,
+                322.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "assemble",
+                    "bbox": [
+                        262.0,
+                        308.0,
+                        315.0,
+                        323.0
+                    ]
+                },
+                {
+                    "text": "display.",
+                    "bbox": [
+                        317.0,
+                        308.0,
+                        358.0,
+                        323.0
+                    ]
+                },
+                {
+                    "text": "Display",
+                    "bbox": [
+                        361.0,
+                        308.0,
+                        403.0,
+                        323.0
+                    ]
+                },
+                {
+                    "text": "containing",
+                    "bbox": [
+                        405.0,
+                        308.0,
+                        462.0,
+                        323.0
+                    ]
+                },
+                {
+                    "text": "deals",
+                    "bbox": [
+                        465.0,
+                        308.0,
+                        495.0,
+                        322.0
+                    ]
+                },
+                {
+                    "text": "will",
+                    "bbox": [
+                        497.0,
+                        308.0,
+                        516.0,
+                        322.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        519.0,
+                        308.0,
+                        535.0,
+                        322.0
+                    ]
+                },
+                {
+                    "text": "placed",
+                    "bbox": [
+                        537.0,
+                        308.0,
+                        575.0,
+                        322.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        577.0,
+                        308.0,
+                        593.0,
+                        321.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "a self-service basis for a two-week period.",
+            "line_bbox": [
+                262.0,
+                322.0,
+                493.0,
+                336.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "a",
+                    "bbox": [
+                        263.0,
+                        323.0,
+                        270.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "self-service",
+                    "bbox": [
+                        272.0,
+                        322.0,
+                        333.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "basis",
+                    "bbox": [
+                        336.0,
+                        322.0,
+                        366.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        368.0,
+                        322.0,
+                        385.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        387.0,
+                        322.0,
+                        396.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "two-week",
+                    "bbox": [
+                        398.0,
+                        322.0,
+                        450.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "period.",
+                    "bbox": [
+                        453.0,
+                        322.0,
+                        493.0,
+                        337.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AUTHORIZATION FOR PLACEMENT",
+            "line_bbox": [
+                149.0,
+                351.0,
+                358.0,
+                367.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AUTHORIZATION",
+                    "bbox": [
+                        150.0,
+                        352.0,
+                        246.0,
+                        368.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        250.0,
+                        352.0,
+                        277.0,
+                        367.0
+                    ]
+                },
+                {
+                    "text": "PLACEMENT",
+                    "bbox": [
+                        280.0,
+                        352.0,
+                        358.0,
+                        367.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TYPE DISPLAY",
+            "line_bbox": [
+                250.0,
+                379.0,
+                340.0,
+                394.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TYPE",
+                    "bbox": [
+                        251.0,
+                        380.0,
+                        282.0,
+                        394.0
+                    ]
+                },
+                {
+                    "text": "DISPLAY",
+                    "bbox": [
+                        286.0,
+                        380.0,
+                        338.0,
+                        395.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NO. CARTONS",
+            "line_bbox": [
+                392.0,
+                379.0,
+                478.0,
+                393.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        392.0,
+                        379.0,
+                        413.0,
+                        393.0
+                    ]
+                },
+                {
+                    "text": "CARTONS",
+                    "bbox": [
+                        416.0,
+                        379.0,
+                        476.0,
+                        394.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COUNTER",
+            "line_bbox": [
+                279.0,
+                409.0,
+                342.0,
+                423.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COUNTER",
+                    "bbox": [
+                        279.0,
+                        410.0,
+                        336.0,
+                        424.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FLOOR",
+            "line_bbox": [
+                297.0,
+                436.0,
+                341.0,
+                450.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FLOOR",
+                    "bbox": [
+                        297.0,
+                        437.0,
+                        337.0,
+                        450.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "POSTER",
+            "line_bbox": [
+                288.0,
+                463.0,
+                340.0,
+                476.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "POSTER",
+                    "bbox": [
+                        288.0,
+                        463.0,
+                        336.0,
+                        477.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "( if approved)",
+            "line_bbox": [
+                482.0,
+                462.0,
+                572.0,
+                478.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(",
+                    "bbox": [
+                        483.0,
+                        463.0,
+                        492.0,
+                        478.0
+                    ]
+                },
+                {
+                    "text": "if",
+                    "bbox": [
+                        505.0,
+                        463.0,
+                        514.0,
+                        478.0
+                    ]
+                },
+                {
+                    "text": "approved)",
+                    "bbox": [
+                        517.0,
+                        463.0,
+                        573.0,
+                        479.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE: FROM",
+            "line_bbox": [
+                159.0,
+                496.0,
+                239.0,
+                510.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE:",
+                    "bbox": [
+                        161.0,
+                        497.0,
+                        197.0,
+                        511.0
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "bbox": [
+                        200.0,
+                        497.0,
+                        234.0,
+                        511.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TO",
+            "line_bbox": [
+                356.0,
+                497.0,
+                374.0,
+                509.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO",
+                    "bbox": [
+                        356.0,
+                        497.0,
+                        369.0,
+                        509.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "STORES PARTICIPATING:",
+            "line_bbox": [
+                61.0,
+                543.0,
+                209.0,
+                559.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "STORES",
+                    "bbox": [
+                        61.0,
+                        544.0,
+                        109.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "PARTICIPATING:",
+                    "bbox": [
+                        112.0,
+                        544.0,
+                        210.0,
+                        559.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "THE FOLLOWING QUANTITY OF TRUE CARTONS MUST BE AVAILABLE FOR THE LORILLARD SALES",
+            "line_bbox": [
+                66.0,
+                627.0,
+                662.0,
+                643.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "THE",
+                    "bbox": [
+                        68.0,
+                        629.0,
+                        92.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "FOLLOWING",
+                    "bbox": [
+                        95.0,
+                        629.0,
+                        169.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "QUANTITY",
+                    "bbox": [
+                        173.0,
+                        629.0,
+                        236.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        239.0,
+                        629.0,
+                        257.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "TRUE",
+                    "bbox": [
+                        262.0,
+                        629.0,
+                        294.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "CARTONS",
+                    "bbox": [
+                        298.0,
+                        628.0,
+                        357.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "MUST",
+                    "bbox": [
+                        361.0,
+                        628.0,
+                        397.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "bbox": [
+                        400.0,
+                        628.0,
+                        417.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "AVAILABLE",
+                    "bbox": [
+                        421.0,
+                        628.0,
+                        486.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        490.0,
+                        628.0,
+                        515.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "bbox": [
+                        520.0,
+                        628.0,
+                        544.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "LORILLARD",
+                    "bbox": [
+                        548.0,
+                        628.0,
+                        615.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "SALES",
+                    "bbox": [
+                        619.0,
+                        628.0,
+                        659.0,
+                        642.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REPRESENTATIVE TO ASSEMBLE THE DISPLAY ON THE DATE INDICATED ABOVE.",
+            "line_bbox": [
+                58.0,
+                641.0,
+                547.0,
+                656.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REPRESENTATIVE",
+                    "bbox": [
+                        58.0,
+                        642.0,
+                        167.0,
+                        657.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        171.0,
+                        642.0,
+                        186.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "ASSEMBLE",
+                    "bbox": [
+                        192.0,
+                        642.0,
+                        258.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "bbox": [
+                        262.0,
+                        642.0,
+                        287.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "DISPLAY",
+                    "bbox": [
+                        291.0,
+                        642.0,
+                        342.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "bbox": [
+                        345.0,
+                        642.0,
+                        364.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "bbox": [
+                        369.0,
+                        642.0,
+                        394.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        397.0,
+                        642.0,
+                        429.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "INDICATED",
+                    "bbox": [
+                        433.0,
+                        642.0,
+                        498.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "ABOVE.",
+                    "bbox": [
+                        502.0,
+                        642.0,
+                        547.0,
+                        656.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TRUE",
+            "line_bbox": [
+                348.0,
+                669.0,
+                384.0,
+                682.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TRUE",
+                    "bbox": [
+                        348.0,
+                        669.0,
+                        380.0,
+                        682.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PACKING",
+            "line_bbox": [
+                148.0,
+                711.0,
+                208.0,
+                725.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PACKING",
+                    "bbox": [
+                        149.0,
+                        712.0,
+                        203.0,
+                        726.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NUMBER",
+            "line_bbox": [
+                267.0,
+                698.0,
+                324.0,
+                712.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NUMBER",
+                    "bbox": [
+                        268.0,
+                        698.0,
+                        321.0,
+                        712.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OF CARTONS",
+            "line_bbox": [
+                256.0,
+                710.0,
+                338.0,
+                725.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OF",
+                    "bbox": [
+                        257.0,
+                        712.0,
+                        272.0,
+                        726.0
+                    ]
+                },
+                {
+                    "text": "CARTONS",
+                    "bbox": [
+                        275.0,
+                        711.0,
+                        336.0,
+                        725.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PACKING",
+            "line_bbox": [
+                394.0,
+                710.0,
+                451.0,
+                725.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PACKING",
+                    "bbox": [
+                        395.0,
+                        711.0,
+                        448.0,
+                        726.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NUMBER",
+            "line_bbox": [
+                519.0,
+                698.0,
+                577.0,
+                711.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NUMBER",
+                    "bbox": [
+                        521.0,
+                        698.0,
+                        574.0,
+                        711.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OF CARTONS",
+            "line_bbox": [
+                508.0,
+                710.0,
+                592.0,
+                726.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OF",
+                    "bbox": [
+                        508.0,
+                        712.0,
+                        525.0,
+                        727.0
+                    ]
+                },
+                {
+                    "text": "CARTONS",
+                    "bbox": [
+                        529.0,
+                        710.0,
+                        589.0,
+                        726.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FILTER K.S.",
+            "line_bbox": [
+                141.0,
+                738.0,
+                215.0,
+                752.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FILTER",
+                    "bbox": [
+                        142.0,
+                        739.0,
+                        183.0,
+                        753.0
+                    ]
+                },
+                {
+                    "text": "K.S.",
+                    "bbox": [
+                        188.0,
+                        739.0,
+                        215.0,
+                        753.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MENTHOL K.S.",
+            "line_bbox": [
+                377.0,
+                738.0,
+                468.0,
+                751.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MENTHOL",
+                    "bbox": [
+                        378.0,
+                        738.0,
+                        438.0,
+                        752.0
+                    ]
+                },
+                {
+                    "text": "K.S.",
+                    "bbox": [
+                        442.0,
+                        738.0,
+                        469.0,
+                        752.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FILTER 100's",
+            "line_bbox": [
+                140.0,
+                766.0,
+                217.0,
+                780.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FILTER",
+                    "bbox": [
+                        140.0,
+                        767.0,
+                        180.0,
+                        780.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        186.0,
+                        767.0,
+                        217.0,
+                        780.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MENTHOL 100's",
+            "line_bbox": [
+                376.0,
+                766.0,
+                470.0,
+                780.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MENTHOL",
+                    "bbox": [
+                        376.0,
+                        766.0,
+                        435.0,
+                        780.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        439.0,
+                        766.0,
+                        470.0,
+                        781.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "91939637",
+            "line_bbox": [
+                641.0,
+                785.0,
+                669.0,
+                851.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "91939637",
+                    "bbox": [
+                        642.0,
+                        786.0,
+                        670.0,
+                        849.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BOX 80's",
+            "line_bbox": [
+                149.0,
+                793.0,
+                207.0,
+                806.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BOX",
+                    "bbox": [
+                        150.0,
+                        794.0,
+                        175.0,
+                        806.0
+                    ]
+                },
+                {
+                    "text": "80's",
+                    "bbox": [
+                        180.0,
+                        795.0,
+                        205.0,
+                        807.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BOX 100's",
+            "line_bbox": [
+                391.0,
+                793.0,
+                454.0,
+                806.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BOX",
+                    "bbox": [
+                        392.0,
+                        793.0,
+                        417.0,
+                        806.0
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "bbox": [
+                        423.0,
+                        794.0,
+                        453.0,
+                        806.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(WHERE AVAILABLE)",
+            "line_bbox": [
+                143.0,
+                805.0,
+                214.0,
+                815.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(WHERE",
+                    "bbox": [
+                        143.0,
+                        806.0,
+                        171.0,
+                        816.0
+                    ]
+                },
+                {
+                    "text": "AVAILABLE)",
+                    "bbox": [
+                        172.0,
+                        806.0,
+                        214.0,
+                        815.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(WHERE AVAILABLE)",
+            "line_bbox": [
+                388.0,
+                803.0,
+                459.0,
+                815.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(WHERE",
+                    "bbox": [
+                        389.0,
+                        804.0,
+                        415.0,
+                        815.0
+                    ]
+                },
+                {
+                    "text": "AVAILABLE)",
+                    "bbox": [
+                        417.0,
+                        804.0,
+                        459.0,
+                        814.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MERCHANDISE:",
+            "line_bbox": [
+                60.0,
+                832.0,
+                153.0,
+                847.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MERCHANDISE:",
+                    "bbox": [
+                        60.0,
+                        832.0,
+                        153.0,
+                        847.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WILL BE ARBITRARILY SHIPPED TO STORE.",
+            "line_bbox": [
+                105.0,
+                851.0,
+                365.0,
+                867.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WILL",
+                    "bbox": [
+                        105.0,
+                        853.0,
+                        133.0,
+                        867.0
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "bbox": [
+                        135.0,
+                        853.0,
+                        153.0,
+                        867.0
+                    ]
+                },
+                {
+                    "text": "ARBITRARILY",
+                    "bbox": [
+                        158.0,
+                        852.0,
+                        237.0,
+                        866.0
+                    ]
+                },
+                {
+                    "text": "SHIPPED",
+                    "bbox": [
+                        241.0,
+                        852.0,
+                        294.0,
+                        866.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        299.0,
+                        852.0,
+                        314.0,
+                        866.0
+                    ]
+                },
+                {
+                    "text": "STORE.",
+                    "bbox": [
+                        320.0,
+                        852.0,
+                        365.0,
+                        867.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": ". ORDER, THROUGH YOUR SUPPLIER.",
+            "line_bbox": [
+                99.0,
+                871.0,
+                321.0,
+                887.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": ".",
+                    "bbox": [
+                        99.0,
+                        874.0,
+                        101.0,
+                        887.0
+                    ]
+                },
+                {
+                    "text": "ORDER,",
+                    "bbox": [
+                        103.0,
+                        872.0,
+                        150.0,
+                        887.0
+                    ]
+                },
+                {
+                    "text": "THROUGH",
+                    "bbox": [
+                        152.0,
+                        871.0,
+                        213.0,
+                        887.0
+                    ]
+                },
+                {
+                    "text": "YOUR",
+                    "bbox": [
+                        218.0,
+                        871.0,
+                        253.0,
+                        886.0
+                    ]
+                },
+                {
+                    "text": "SUPPLIER.",
+                    "bbox": [
+                        257.0,
+                        871.0,
+                        321.0,
+                        886.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Authorized by:",
+            "line_bbox": [
+                59.0,
+                898.0,
+                140.0,
+                912.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Authorized",
+                    "bbox": [
+                        60.0,
+                        898.0,
+                        118.0,
+                        912.0
+                    ]
+                },
+                {
+                    "text": "by:",
+                    "bbox": [
+                        121.0,
+                        898.0,
+                        140.0,
+                        913.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date:",
+            "line_bbox": [
+                569.0,
+                897.0,
+                599.0,
+                908.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date:",
+                    "bbox": [
+                        569.0,
+                        897.0,
+                        598.0,
+                        908.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

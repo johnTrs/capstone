@@ -1,0 +1,2506 @@
+{
+    "text_lines": [
+        {
+            "line_text": "PROJECT SHEET",
+            "line_bbox": [
+                39.0,
+                76.0,
+                173.0,
+                93.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        39.0,
+                        77.0,
+                        113.0,
+                        94.0
+                    ]
+                },
+                {
+                    "text": "SHEET",
+                    "bbox": [
+                        119.0,
+                        77.0,
+                        171.0,
+                        94.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "HAZLETON",
+            "line_bbox": [
+                304.0,
+                70.0,
+                523.0,
+                101.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "HAZLETON",
+                    "bbox": [
+                        305.0,
+                        71.0,
+                        507.0,
+                        102.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "9200 LEESBURG TURNPIKE",
+            "line_bbox": [
+                589.0,
+                74.0,
+                752.0,
+                85.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "9200",
+                    "bbox": [
+                        589.0,
+                        74.0,
+                        618.0,
+                        85.0
+                    ]
+                },
+                {
+                    "text": "LEESBURG",
+                    "bbox": [
+                        623.0,
+                        74.0,
+                        685.0,
+                        85.0
+                    ]
+                },
+                {
+                    "text": "TURNPIKE",
+                    "bbox": [
+                        692.0,
+                        75.0,
+                        749.0,
+                        86.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "VIENNA, VIRGINIA 22180",
+            "line_bbox": [
+                594.0,
+                84.0,
+                746.0,
+                97.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "VIENNA,",
+                    "bbox": [
+                        596.0,
+                        85.0,
+                        644.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "VIRGINIA",
+                    "bbox": [
+                        646.0,
+                        86.0,
+                        695.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "22180",
+                    "bbox": [
+                        700.0,
+                        86.0,
+                        738.0,
+                        97.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LABORATORIES AMERICA, INC.",
+            "line_bbox": [
+                305.0,
+                103.0,
+                556.0,
+                118.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LABORATORIES",
+                    "bbox": [
+                        306.0,
+                        103.0,
+                        431.0,
+                        117.0
+                    ]
+                },
+                {
+                    "text": "AMERICA,",
+                    "bbox": [
+                        440.0,
+                        104.0,
+                        521.0,
+                        118.0
+                    ]
+                },
+                {
+                    "text": "INC.",
+                    "bbox": [
+                        523.0,
+                        105.0,
+                        557.0,
+                        118.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "U.S A",
+            "line_bbox": [
+                651.0,
+                98.0,
+                685.0,
+                108.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "U.S",
+                    "bbox": [
+                        652.0,
+                        98.0,
+                        670.0,
+                        108.0
+                    ]
+                },
+                {
+                    "text": "A",
+                    "bbox": [
+                        675.0,
+                        98.0,
+                        681.0,
+                        108.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE ISSUED",
+            "line_bbox": [
+                45.0,
+                131.0,
+                113.0,
+                143.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        46.0,
+                        132.0,
+                        68.0,
+                        143.0
+                    ]
+                },
+                {
+                    "text": "ISSUED",
+                    "bbox": [
+                        73.0,
+                        131.0,
+                        107.0,
+                        143.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "December 13, 1983",
+            "line_bbox": [
+                123.0,
+                122.0,
+                253.0,
+                140.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "December",
+                    "bbox": [
+                        123.0,
+                        125.0,
+                        183.0,
+                        140.0
+                    ]
+                },
+                {
+                    "text": "13,",
+                    "bbox": [
+                        190.0,
+                        124.0,
+                        215.0,
+                        140.0
+                    ]
+                },
+                {
+                    "text": "1983",
+                    "bbox": [
+                        219.0,
+                        123.0,
+                        252.0,
+                        140.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT SHEET NO.",
+            "line_bbox": [
+                281.0,
+                132.0,
+                379.0,
+                145.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        282.0,
+                        133.0,
+                        323.0,
+                        146.0
+                    ]
+                },
+                {
+                    "text": "SHEET",
+                    "bbox": [
+                        326.0,
+                        133.0,
+                        357.0,
+                        146.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        358.0,
+                        133.0,
+                        379.0,
+                        145.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "4",
+            "line_bbox": [
+                390.0,
+                125.0,
+                398.0,
+                139.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "4",
+                    "bbox": [
+                        391.0,
+                        125.0,
+                        397.0,
+                        139.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT NO.",
+            "line_bbox": [
+                483.0,
+                133.0,
+                574.0,
+                147.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        483.0,
+                        134.0,
+                        544.0,
+                        147.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        547.0,
+                        134.0,
+                        575.0,
+                        146.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "642-149",
+            "line_bbox": [
+                591.0,
+                125.0,
+                643.0,
+                138.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "642-149",
+                    "bbox": [
+                        591.0,
+                        126.0,
+                        643.0,
+                        139.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "STUDY TITLE & PROPOSAL NUMBER",
+            "line_bbox": [
+                44.0,
+                148.0,
+                210.0,
+                162.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "STUDY",
+                    "bbox": [
+                        45.0,
+                        149.0,
+                        76.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "TITLE",
+                    "bbox": [
+                        78.0,
+                        149.0,
+                        108.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        112.0,
+                        150.0,
+                        120.0,
+                        162.0
+                    ]
+                },
+                {
+                    "text": "PROPOSAL",
+                    "bbox": [
+                        122.0,
+                        150.0,
+                        170.0,
+                        163.0
+                    ]
+                },
+                {
+                    "text": "NUMBER",
+                    "bbox": [
+                        172.0,
+                        150.0,
+                        209.0,
+                        163.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "3212",
+            "line_bbox": [
+                375.0,
+                151.0,
+                408.0,
+                166.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "3212",
+                    "bbox": [
+                        376.0,
+                        151.0,
+                        407.0,
+                        166.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROJECT COORDINATOR",
+            "line_bbox": [
+                426.0,
+                152.0,
+                537.0,
+                165.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        427.0,
+                        152.0,
+                        466.0,
+                        166.0
+                    ]
+                },
+                {
+                    "text": "COORDINATOR",
+                    "bbox": [
+                        469.0,
+                        152.0,
+                        533.0,
+                        166.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "0",
+            "line_bbox": [
+                547.0,
+                152.0,
+                563.0,
+                188.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "0",
+                    "bbox": [
+                        548.0,
+                        158.0,
+                        559.0,
+                        166.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "14-Day Single Dose Subacute Toxicity Study",
+            "line_bbox": [
+                50.0,
+                166.0,
+                361.0,
+                182.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "14-Day",
+                    "bbox": [
+                        51.0,
+                        166.0,
+                        95.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "Single",
+                    "bbox": [
+                        100.0,
+                        166.0,
+                        147.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "Dose",
+                    "bbox": [
+                        152.0,
+                        166.0,
+                        183.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "Subacute",
+                    "bbox": [
+                        188.0,
+                        166.0,
+                        251.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "Toxicity",
+                    "bbox": [
+                        256.0,
+                        167.0,
+                        318.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "Study",
+                    "bbox": [
+                        322.0,
+                        167.0,
+                        361.0,
+                        182.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SIGNATURE:",
+            "line_bbox": [
+                474.0,
+                174.0,
+                531.0,
+                186.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SIGNATURE:",
+                    "bbox": [
+                        475.0,
+                        175.0,
+                        531.0,
+                        186.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TEST MATERIAL(s)",
+            "line_bbox": [
+                44.0,
+                189.0,
+                136.0,
+                202.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TEST",
+                    "bbox": [
+                        45.0,
+                        189.0,
+                        68.0,
+                        203.0
+                    ]
+                },
+                {
+                    "text": "MATERIAL(s)",
+                    "bbox": [
+                        70.0,
+                        189.0,
+                        136.0,
+                        203.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LOT NO. (s)",
+            "line_bbox": [
+                423.0,
+                192.0,
+                480.0,
+                206.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LOT",
+                    "bbox": [
+                        423.0,
+                        193.0,
+                        442.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        445.0,
+                        193.0,
+                        461.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "(s)",
+                    "bbox": [
+                        463.0,
+                        193.0,
+                        480.0,
+                        207.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RECEIPT DATE(s)",
+            "line_bbox": [
+                530.0,
+                193.0,
+                615.0,
+                206.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RECEIPT",
+                    "bbox": [
+                        531.0,
+                        194.0,
+                        571.0,
+                        206.0
+                    ]
+                },
+                {
+                    "text": "DATE(s)",
+                    "bbox": [
+                        574.0,
+                        194.0,
+                        616.0,
+                        207.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LH-NUMBER(S)",
+            "line_bbox": [
+                669.0,
+                194.0,
+                736.0,
+                208.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LH-NUMBER(S)",
+                    "bbox": [
+                        670.0,
+                        195.0,
+                        736.0,
+                        209.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "B121",
+            "line_bbox": [
+                175.0,
+                222.0,
+                206.0,
+                236.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "B121",
+                    "bbox": [
+                        175.0,
+                        222.0,
+                        206.0,
+                        236.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "11/18/83",
+            "line_bbox": [
+                531.0,
+                222.0,
+                592.0,
+                237.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "11/18/83",
+                    "bbox": [
+                        532.0,
+                        222.0,
+                        592.0,
+                        237.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "21,017",
+            "line_bbox": [
+                663.0,
+                223.0,
+                712.0,
+                238.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "21,017",
+                    "bbox": [
+                        665.0,
+                        223.0,
+                        710.0,
+                        239.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PERFORMING DEPARTMENTS (4 COPIES EACH: DIRECTOR)",
+            "line_bbox": [
+                48.0,
+                272.0,
+                308.0,
+                287.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PERFORMING",
+                    "bbox": [
+                        48.0,
+                        273.0,
+                        103.0,
+                        285.0
+                    ]
+                },
+                {
+                    "text": "DEPARTMENTS",
+                    "bbox": [
+                        106.0,
+                        273.0,
+                        169.0,
+                        285.0
+                    ]
+                },
+                {
+                    "text": "(4",
+                    "bbox": [
+                        174.0,
+                        273.0,
+                        187.0,
+                        286.0
+                    ]
+                },
+                {
+                    "text": "COPIES",
+                    "bbox": [
+                        190.0,
+                        273.0,
+                        226.0,
+                        286.0
+                    ]
+                },
+                {
+                    "text": "EACH:",
+                    "bbox": [
+                        229.0,
+                        274.0,
+                        255.0,
+                        287.0
+                    ]
+                },
+                {
+                    "text": "DIRECTOR)",
+                    "bbox": [
+                        257.0,
+                        274.0,
+                        308.0,
+                        288.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Acute/Dermal Toxicology",
+            "line_bbox": [
+                57.0,
+                284.0,
+                230.0,
+                298.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Acute/Dermal",
+                    "bbox": [
+                        57.0,
+                        285.0,
+                        147.0,
+                        298.0
+                    ]
+                },
+                {
+                    "text": "Toxicology",
+                    "bbox": [
+                        153.0,
+                        285.0,
+                        229.0,
+                        298.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ORIGINAL SIGNED PROJECT SHEETS TO PSO",
+            "line_bbox": [
+                424.0,
+                276.0,
+                634.0,
+                292.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ORIGINAL",
+                    "bbox": [
+                        425.0,
+                        276.0,
+                        472.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "SIGNED",
+                    "bbox": [
+                        474.0,
+                        276.0,
+                        511.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "bbox": [
+                        513.0,
+                        277.0,
+                        556.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "SHEETS",
+                    "bbox": [
+                        558.0,
+                        277.0,
+                        595.0,
+                        291.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        598.0,
+                        278.0,
+                        612.0,
+                        292.0
+                    ]
+                },
+                {
+                    "text": "PSO",
+                    "bbox": [
+                        614.0,
+                        278.0,
+                        634.0,
+                        293.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FIXED DISTRIBUTION: (1 COPY TO EACH)",
+            "line_bbox": [
+                478.0,
+                297.0,
+                681.0,
+                311.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FIXED",
+                    "bbox": [
+                        479.0,
+                        298.0,
+                        509.0,
+                        310.0
+                    ]
+                },
+                {
+                    "text": "DISTRIBUTION:",
+                    "bbox": [
+                        512.0,
+                        298.0,
+                        588.0,
+                        311.0
+                    ]
+                },
+                {
+                    "text": "(1",
+                    "bbox": [
+                        590.0,
+                        298.0,
+                        604.0,
+                        311.0
+                    ]
+                },
+                {
+                    "text": "COPY",
+                    "bbox": [
+                        606.0,
+                        298.0,
+                        632.0,
+                        311.0
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "bbox": [
+                        635.0,
+                        298.0,
+                        649.0,
+                        311.0
+                    ]
+                },
+                {
+                    "text": "EACH)",
+                    "bbox": [
+                        650.0,
+                        298.0,
+                        681.0,
+                        311.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIR. OF LIFE SCIENCES",
+            "line_bbox": [
+                434.0,
+                313.0,
+                543.0,
+                326.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIR.",
+                    "bbox": [
+                        434.0,
+                        313.0,
+                        456.0,
+                        325.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        458.0,
+                        313.0,
+                        472.0,
+                        326.0
+                    ]
+                },
+                {
+                    "text": "LIFE",
+                    "bbox": [
+                        474.0,
+                        314.0,
+                        495.0,
+                        326.0
+                    ]
+                },
+                {
+                    "text": "SCIENCES",
+                    "bbox": [
+                        498.0,
+                        314.0,
+                        543.0,
+                        327.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "HEALTH SERVICES",
+            "line_bbox": [
+                434.0,
+                326.0,
+                518.0,
+                338.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "HEALTH",
+                    "bbox": [
+                        435.0,
+                        327.0,
+                        469.0,
+                        338.0
+                    ]
+                },
+                {
+                    "text": "SERVICES",
+                    "bbox": [
+                        473.0,
+                        327.0,
+                        519.0,
+                        338.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LAB ANIMAL MEDICINE",
+            "line_bbox": [
+                625.0,
+                316.0,
+                731.0,
+                327.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LAB",
+                    "bbox": [
+                        625.0,
+                        316.0,
+                        641.0,
+                        327.0
+                    ]
+                },
+                {
+                    "text": "ANIMAL",
+                    "bbox": [
+                        644.0,
+                        316.0,
+                        680.0,
+                        327.0
+                    ]
+                },
+                {
+                    "text": "MEDICINE",
+                    "bbox": [
+                        683.0,
+                        316.0,
+                        731.0,
+                        328.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROTECTIVE PRECAUTIONS REQUIRED:",
+            "line_bbox": [
+                43.0,
+                332.0,
+                225.0,
+                346.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROTECTIVE",
+                    "bbox": [
+                        44.0,
+                        333.0,
+                        103.0,
+                        346.0
+                    ]
+                },
+                {
+                    "text": "PRECAUTIONS",
+                    "bbox": [
+                        105.0,
+                        333.0,
+                        170.0,
+                        346.0
+                    ]
+                },
+                {
+                    "text": "REQUIRED:",
+                    "bbox": [
+                        172.0,
+                        333.0,
+                        226.0,
+                        346.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "QUALITY ASSURANCE",
+            "line_bbox": [
+                624.0,
+                328.0,
+                719.0,
+                340.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "QUALITY",
+                    "bbox": [
+                        624.0,
+                        329.0,
+                        663.0,
+                        340.0
+                    ]
+                },
+                {
+                    "text": "ASSURANCE",
+                    "bbox": [
+                        667.0,
+                        329.0,
+                        719.0,
+                        341.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "HAZARDOUS COMPOUND",
+            "line_bbox": [
+                167.0,
+                345.0,
+                270.0,
+                358.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "HAZARDOUS",
+                    "bbox": [
+                        168.0,
+                        346.0,
+                        219.0,
+                        357.0
+                    ]
+                },
+                {
+                    "text": "COMPOUND",
+                    "bbox": [
+                        222.0,
+                        346.0,
+                        269.0,
+                        358.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMPOUND PREP [TOX)",
+            "line_bbox": [
+                435.0,
+                340.0,
+                544.0,
+                353.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPOUND",
+                    "bbox": [
+                        436.0,
+                        341.0,
+                        486.0,
+                        353.0
+                    ]
+                },
+                {
+                    "text": "PREP",
+                    "bbox": [
+                        490.0,
+                        342.0,
+                        514.0,
+                        354.0
+                    ]
+                },
+                {
+                    "text": "[TOX)",
+                    "bbox": [
+                        517.0,
+                        342.0,
+                        544.0,
+                        354.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CONTRACTS",
+            "line_bbox": [
+                624.0,
+                342.0,
+                674.0,
+                355.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CONTRACTS",
+                    "bbox": [
+                        624.0,
+                        343.0,
+                        674.0,
+                        355.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPLOSIVE",
+            "line_bbox": [
+                44.0,
+                364.0,
+                97.0,
+                377.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPLOSIVE",
+                    "bbox": [
+                        45.0,
+                        364.0,
+                        96.0,
+                        377.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CARCINOGEN (OSHA)",
+            "line_bbox": [
+                216.0,
+                365.0,
+                312.0,
+                378.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CARCINOGEN",
+                    "bbox": [
+                        216.0,
+                        366.0,
+                        271.0,
+                        378.0
+                    ]
+                },
+                {
+                    "text": "(OSHA)",
+                    "bbox": [
+                        276.0,
+                        366.0,
+                        311.0,
+                        379.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCIENTIFIC RES (TOX)",
+            "line_bbox": [
+                438.0,
+                355.0,
+                539.0,
+                368.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCIENTIFIC",
+                    "bbox": [
+                        438.0,
+                        356.0,
+                        487.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "RES",
+                    "bbox": [
+                        490.0,
+                        357.0,
+                        510.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "(TOX)",
+                    "bbox": [
+                        512.0,
+                        357.0,
+                        539.0,
+                        369.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Sponsor",
+            "line_bbox": [
+                618.0,
+                355.0,
+                672.0,
+                368.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Sponsor",
+                    "bbox": [
+                        619.0,
+                        355.0,
+                        671.0,
+                        369.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FLAMMABLE",
+            "line_bbox": [
+                45.0,
+                384.0,
+                95.0,
+                396.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FLAMMABLE",
+                    "bbox": [
+                        45.0,
+                        385.0,
+                        95.0,
+                        397.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CARCINOGEN (OTHER)",
+            "line_bbox": [
+                214.0,
+                385.0,
+                316.0,
+                399.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CARCINOGEN",
+                    "bbox": [
+                        214.0,
+                        386.0,
+                        272.0,
+                        399.0
+                    ]
+                },
+                {
+                    "text": "(OTHER)",
+                    "bbox": [
+                        276.0,
+                        386.0,
+                        316.0,
+                        400.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FOLLOW DEPARTMENT AND COMPANY",
+            "line_bbox": [
+                424.0,
+                376.0,
+                592.0,
+                388.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FOLLOW",
+                    "bbox": [
+                        426.0,
+                        377.0,
+                        461.0,
+                        389.0
+                    ]
+                },
+                {
+                    "text": "DEPARTMENT",
+                    "bbox": [
+                        464.0,
+                        377.0,
+                        523.0,
+                        388.0
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "bbox": [
+                        526.0,
+                        377.0,
+                        545.0,
+                        388.0
+                    ]
+                },
+                {
+                    "text": "COMPANY",
+                    "bbox": [
+                        548.0,
+                        377.0,
+                        589.0,
+                        389.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SAFETY MANUALS",
+            "line_bbox": [
+                426.0,
+                386.0,
+                506.0,
+                399.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SAFETY",
+                    "bbox": [
+                        427.0,
+                        387.0,
+                        461.0,
+                        399.0
+                    ]
+                },
+                {
+                    "text": "MANUALS",
+                    "bbox": [
+                        464.0,
+                        387.0,
+                        505.0,
+                        399.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "X",
+            "line_bbox": [
+                612.0,
+                387.0,
+                626.0,
+                399.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "bbox": [
+                        615.0,
+                        387.0,
+                        623.0,
+                        399.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RADIOACTIVE",
+            "line_bbox": [
+                45.0,
+                402.0,
+                107.0,
+                414.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RADIOACTIVE",
+                    "bbox": [
+                        45.0,
+                        403.0,
+                        107.0,
+                        415.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "STORAGE CONDITIONS",
+            "line_bbox": [
+                426.0,
+                409.0,
+                528.0,
+                422.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "STORAGE",
+                    "bbox": [
+                        426.0,
+                        410.0,
+                        466.0,
+                        422.0
+                    ]
+                },
+                {
+                    "text": "CONDITIONS",
+                    "bbox": [
+                        469.0,
+                        410.0,
+                        527.0,
+                        423.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PHYSICAL DESCRIPTION:",
+            "line_bbox": [
+                45.0,
+                422.0,
+                161.0,
+                436.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PHYSICAL",
+                    "bbox": [
+                        46.0,
+                        423.0,
+                        91.0,
+                        434.0
+                    ]
+                },
+                {
+                    "text": "DESCRIPTION:",
+                    "bbox": [
+                        94.0,
+                        423.0,
+                        162.0,
+                        437.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "STORE IN DARK",
+            "line_bbox": [
+                428.0,
+                424.0,
+                518.0,
+                440.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "STORE",
+                    "bbox": [
+                        442.0,
+                        425.0,
+                        471.0,
+                        439.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        473.0,
+                        426.0,
+                        486.0,
+                        439.0
+                    ]
+                },
+                {
+                    "text": "DARK",
+                    "bbox": [
+                        488.0,
+                        427.0,
+                        515.0,
+                        440.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESSICATOR",
+            "line_bbox": [
+                626.0,
+                427.0,
+                695.0,
+                440.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESSICATOR",
+                    "bbox": [
+                        635.0,
+                        428.0,
+                        693.0,
+                        441.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SOLID",
+            "line_bbox": [
+                78.0,
+                440.0,
+                108.0,
+                451.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SOLID",
+                    "bbox": [
+                        78.0,
+                        440.0,
+                        106.0,
+                        451.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "X .",
+            "line_bbox": [
+                121.0,
+                435.0,
+                152.0,
+                448.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "bbox": [
+                        123.0,
+                        436.0,
+                        130.0,
+                        448.0
+                    ]
+                },
+                {
+                    "text": ".",
+                    "bbox": [
+                        141.0,
+                        435.0,
+                        149.0,
+                        447.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "[X] REFRIGERATOR 8\u2103",
+            "line_bbox": [
+                429.0,
+                439.0,
+                550.0,
+                454.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "[X]",
+                    "bbox": [
+                        430.0,
+                        441.0,
+                        440.0,
+                        454.0
+                    ]
+                },
+                {
+                    "text": "REFRIGERATOR",
+                    "bbox": [
+                        442.0,
+                        441.0,
+                        510.0,
+                        454.0
+                    ]
+                },
+                {
+                    "text": "8\u2103",
+                    "bbox": [
+                        523.0,
+                        440.0,
+                        546.0,
+                        454.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FREEZER",
+            "line_bbox": [
+                637.0,
+                443.0,
+                674.0,
+                455.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FREEZER",
+                    "bbox": [
+                        638.0,
+                        444.0,
+                        674.0,
+                        455.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LIQUID",
+            "line_bbox": [
+                72.0,
+                454.0,
+                107.0,
+                466.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LIQUID",
+                    "bbox": [
+                        73.0,
+                        455.0,
+                        106.0,
+                        467.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Brown",
+            "line_bbox": [
+                217.0,
+                449.0,
+                261.0,
+                463.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Brown",
+                    "bbox": [
+                        218.0,
+                        449.0,
+                        256.0,
+                        463.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COLOR",
+            "line_bbox": [
+                292.0,
+                453.0,
+                326.0,
+                465.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COLOR",
+                    "bbox": [
+                        293.0,
+                        454.0,
+                        322.0,
+                        465.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ROOM TEMPERATURE",
+            "line_bbox": [
+                428.0,
+                455.0,
+                539.0,
+                467.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ROOM",
+                    "bbox": [
+                        441.0,
+                        456.0,
+                        466.0,
+                        468.0
+                    ]
+                },
+                {
+                    "text": "TEMPERATURE",
+                    "bbox": [
+                        472.0,
+                        456.0,
+                        537.0,
+                        468.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OTHER",
+            "line_bbox": [
+                635.0,
+                457.0,
+                666.0,
+                469.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OTHER",
+                    "bbox": [
+                        635.0,
+                        457.0,
+                        665.0,
+                        469.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRESSURIZED",
+            "line_bbox": [
+                42.0,
+                468.0,
+                107.0,
+                480.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRESSURIZED",
+                    "bbox": [
+                        43.0,
+                        469.0,
+                        106.0,
+                        481.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SPECIAL INSTRUCTIONS WHILE DOSING",
+            "line_bbox": [
+                430.0,
+                470.0,
+                618.0,
+                485.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SPECIAL",
+                    "bbox": [
+                        441.0,
+                        471.0,
+                        478.0,
+                        484.0
+                    ]
+                },
+                {
+                    "text": "INSTRUCTIONS",
+                    "bbox": [
+                        481.0,
+                        471.0,
+                        547.0,
+                        484.0
+                    ]
+                },
+                {
+                    "text": "WHILE",
+                    "bbox": [
+                        549.0,
+                        472.0,
+                        579.0,
+                        485.0
+                    ]
+                },
+                {
+                    "text": "DOSING",
+                    "bbox": [
+                        581.0,
+                        473.0,
+                        618.0,
+                        485.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPERIMENTAL PROCEDURES",
+            "line_bbox": [
+                45.0,
+                486.0,
+                174.0,
+                499.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPERIMENTAL",
+                    "bbox": [
+                        45.0,
+                        486.0,
+                        113.0,
+                        499.0
+                    ]
+                },
+                {
+                    "text": "PROCEDURES",
+                    "bbox": [
+                        116.0,
+                        486.0,
+                        174.0,
+                        500.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "to be performed in Acute/Dermal Toxicology, building 18.",
+            "line_bbox": [
+                190.0,
+                490.0,
+                609.0,
+                505.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "to",
+                    "bbox": [
+                        190.0,
+                        491.0,
+                        205.0,
+                        504.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        210.0,
+                        491.0,
+                        226.0,
+                        505.0
+                    ]
+                },
+                {
+                    "text": "performed",
+                    "bbox": [
+                        232.0,
+                        491.0,
+                        302.0,
+                        505.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        309.0,
+                        490.0,
+                        323.0,
+                        505.0
+                    ]
+                },
+                {
+                    "text": "Acute/Dermal",
+                    "bbox": [
+                        329.0,
+                        490.0,
+                        420.0,
+                        506.0
+                    ]
+                },
+                {
+                    "text": "Toxicology,",
+                    "bbox": [
+                        426.0,
+                        490.0,
+                        511.0,
+                        506.0
+                    ]
+                },
+                {
+                    "text": "building",
+                    "bbox": [
+                        515.0,
+                        490.0,
+                        577.0,
+                        506.0
+                    ]
+                },
+                {
+                    "text": "18.",
+                    "bbox": [
+                        582.0,
+                        491.0,
+                        606.0,
+                        506.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "This project sheet is issued to correct Project Sheet which was issued on",
+            "line_bbox": [
+                100.0,
+                543.0,
+                645.0,
+                560.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "This",
+                    "bbox": [
+                        101.0,
+                        544.0,
+                        130.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "project",
+                    "bbox": [
+                        137.0,
+                        544.0,
+                        191.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "sheet",
+                    "bbox": [
+                        196.0,
+                        544.0,
+                        235.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        241.0,
+                        544.0,
+                        257.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "issued",
+                    "bbox": [
+                        263.0,
+                        544.0,
+                        309.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        315.0,
+                        544.0,
+                        331.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "correct",
+                    "bbox": [
+                        336.0,
+                        544.0,
+                        391.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "Project",
+                    "bbox": [
+                        396.0,
+                        544.0,
+                        451.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "Sheet",
+                    "bbox": [
+                        455.0,
+                        545.0,
+                        495.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "which",
+                    "bbox": [
+                        500.0,
+                        545.0,
+                        538.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "was",
+                    "bbox": [
+                        544.0,
+                        546.0,
+                        569.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "issued",
+                    "bbox": [
+                        576.0,
+                        546.0,
+                        621.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        626.0,
+                        547.0,
+                        642.0,
+                        560.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "December 6, 1983 to Project Sheet No. 3 instead of 2.",
+            "line_bbox": [
+                99.0,
+                558.0,
+                494.0,
+                573.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "December",
+                    "bbox": [
+                        100.0,
+                        558.0,
+                        160.0,
+                        572.0
+                    ]
+                },
+                {
+                    "text": "6,",
+                    "bbox": [
+                        166.0,
+                        558.0,
+                        184.0,
+                        572.0
+                    ]
+                },
+                {
+                    "text": "1983",
+                    "bbox": [
+                        189.0,
+                        558.0,
+                        220.0,
+                        573.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        226.0,
+                        558.0,
+                        242.0,
+                        573.0
+                    ]
+                },
+                {
+                    "text": "Project",
+                    "bbox": [
+                        247.0,
+                        558.0,
+                        301.0,
+                        573.0
+                    ]
+                },
+                {
+                    "text": "Sheet",
+                    "bbox": [
+                        306.0,
+                        558.0,
+                        345.0,
+                        574.0
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "bbox": [
+                        350.0,
+                        558.0,
+                        376.0,
+                        574.0
+                    ]
+                },
+                {
+                    "text": "3",
+                    "bbox": [
+                        381.0,
+                        558.0,
+                        390.0,
+                        574.0
+                    ]
+                },
+                {
+                    "text": "instead",
+                    "bbox": [
+                        397.0,
+                        559.0,
+                        450.0,
+                        574.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        455.0,
+                        559.0,
+                        472.0,
+                        574.0
+                    ]
+                },
+                {
+                    "text": "2.",
+                    "bbox": [
+                        478.0,
+                        559.0,
+                        494.0,
+                        574.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Material Safety Data Sheet is attached to Project Sheet 1.",
+            "line_bbox": [
+                91.0,
+                719.0,
+                522.0,
+                736.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Material",
+                    "bbox": [
+                        92.0,
+                        719.0,
+                        153.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "Safety",
+                    "bbox": [
+                        157.0,
+                        720.0,
+                        205.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "Data",
+                    "bbox": [
+                        209.0,
+                        720.0,
+                        242.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "Sheet",
+                    "bbox": [
+                        247.0,
+                        720.0,
+                        286.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        292.0,
+                        720.0,
+                        308.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "attached",
+                    "bbox": [
+                        314.0,
+                        720.0,
+                        376.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        381.0,
+                        721.0,
+                        397.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "Project",
+                    "bbox": [
+                        402.0,
+                        721.0,
+                        458.0,
+                        737.0
+                    ]
+                },
+                {
+                    "text": "Sheet",
+                    "bbox": [
+                        461.0,
+                        721.0,
+                        501.0,
+                        737.0
+                    ]
+                },
+                {
+                    "text": "1.",
+                    "bbox": [
+                        507.0,
+                        721.0,
+                        522.0,
+                        736.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "00860012",
+            "line_bbox": [
+                693.0,
+                765.0,
+                711.0,
+                853.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "00860012",
+                    "bbox": [
+                        693.0,
+                        765.0,
+                        711.0,
+                        850.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "HL FORM NO. 5",
+            "line_bbox": [
+                51.0,
+                894.0,
+                124.0,
+                902.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "HL",
+                    "bbox": [
+                        52.0,
+                        894.0,
+                        61.0,
+                        902.0
+                    ]
+                },
+                {
+                    "text": "FORM",
+                    "bbox": [
+                        64.0,
+                        894.0,
+                        83.0,
+                        902.0
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "bbox": [
+                        88.0,
+                        895.0,
+                        106.0,
+                        902.0
+                    ]
+                },
+                {
+                    "text": "5",
+                    "bbox": [
+                        118.0,
+                        895.0,
+                        122.0,
+                        902.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

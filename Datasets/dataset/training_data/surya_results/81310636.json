@@ -1,0 +1,163 @@
+{
+    "text_lines": [
+        {
+            "text": "COMPOUND STRUCTURE",
+            "bbox": [
+                312.0,
+                80.0,
+                501.0,
+                100.0
+            ]
+        },
+        {
+            "text": "Litton Bionetics",
+            "bbox": [
+                512.0,
+                128.0,
+                662.0,
+                145.0
+            ]
+        },
+        {
+            "text": "COMPOUND CODE B83",
+            "bbox": [
+                108.0,
+                143.0,
+                288.0,
+                160.0
+            ]
+        },
+        {
+            "text": "Genetic Assay No. _6692",
+            "bbox": [
+                514.0,
+                146.0,
+                665.0,
+                160.0
+            ]
+        },
+        {
+            "text": "Chem Abstr # N/A",
+            "bbox": [
+                108.0,
+                174.0,
+                223.0,
+                190.0
+            ]
+        },
+        {
+            "text": "Compound Name _Proprietary Mixture",
+            "bbox": [
+                106.0,
+                202.0,
+                405.0,
+                217.0
+            ]
+        },
+        {
+            "text": "Assay RESULT ",
+            "bbox": [
+                107.0,
+                264.0,
+                727.0,
+                278.0
+            ]
+        },
+        {
+            "text": "S9 activation; Rerun: negative without S9 activation, border",
+            "bbox": [
+                182.0,
+                292.0,
+                733.0,
+                309.0
+            ]
+        },
+        {
+            "text": "co.vouwo skd&nResitive with S9 activation -Technical problems with the",
+            "bbox": [
+                105.0,
+                324.0,
+                744.0,
+                338.0
+            ]
+        },
+        {
+            "text": "test",
+            "bbox": [
+                248.0,
+                340.0,
+                288.0,
+                353.0
+            ]
+        },
+        {
+            "text": "Unknown Mixture",
+            "bbox": [
+                115.0,
+                410.0,
+                256.0,
+                427.0
+            ]
+        },
+        {
+            "text": "PH (CALCULATED 50%)",
+            "bbox": [
+                103.0,
+                491.0,
+                299.0,
+                503.0
+            ]
+        },
+        {
+            "text": "PHYSICAL APPEARANCE Yellow liquid",
+            "bbox": [
+                103.0,
+                547.0,
+                371.0,
+                563.0
+            ]
+        },
+        {
+            "text": "bp/mp _________ \u2103 @ _______ mm Hg",
+            "bbox": [
+                122.0,
+                577.0,
+                364.0,
+                594.0
+            ]
+        },
+        {
+            "text": "REGULATORY STATUS____ N/A",
+            "bbox": [
+                99.0,
+                626.0,
+                279.0,
+                639.0
+            ]
+        },
+        {
+            "text": "Misc",
+            "bbox": [
+                101.0,
+                683.0,
+                131.0,
+                697.0
+            ]
+        },
+        {
+            "text": "S 90 ELE",
+            "bbox": [
+                658.0,
+                804.0,
+                687.0,
+                865.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        772.0,
+        1000.0
+    ]
+}

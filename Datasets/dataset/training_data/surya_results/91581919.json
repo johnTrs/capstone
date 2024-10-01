@@ -1,0 +1,388 @@
+{
+    "text_lines": [
+        {
+            "text": "MAR 0 8 RECO",
+            "bbox": [
+                129.0,
+                62.0,
+                243.0,
+                66.0
+            ]
+        },
+        {
+            "text": "AFFIDAVIT OF PERFORMANCE",
+            "bbox": [
+                284.0,
+                110.0,
+                515.0,
+                129.0
+            ]
+        },
+        {
+            "text": "in b",
+            "bbox": [
+                435.0,
+                150.0,
+                454.0,
+                166.0
+            ]
+        },
+        {
+            "text": "From Newspaper  New Albany Tribune",
+            "bbox": [
+                107.0,
+                151.0,
+                392.0,
+                165.0
+            ]
+        },
+        {
+            "text": "Account Harley Davidson",
+            "bbox": [
+                517.0,
+                151.0,
+                708.0,
+                163.0
+            ]
+        },
+        {
+            "text": "Cigarettes",
+            "bbox": [
+                592.0,
+                164.0,
+                671.0,
+                180.0
+            ]
+        },
+        {
+            "text": "Indiana",
+            "bbox": [
+                200.0,
+                195.0,
+                259.0,
+                209.0
+            ]
+        },
+        {
+            "text": ".State of _",
+            "bbox": [
+                104.0,
+                196.0,
+                200.0,
+                213.0
+            ]
+        },
+        {
+            "text": "Lorillard Media Service",
+            "bbox": [
+                589.0,
+                196.0,
+                766.0,
+                212.0
+            ]
+        },
+        {
+            "text": "Agency ",
+            "bbox": [
+                517.0,
+                197.0,
+                584.0,
+                213.0
+            ]
+        },
+        {
+            "text": "SS: -",
+            "bbox": [
+                405.0,
+                211.0,
+                448.0,
+                229.0
+            ]
+        },
+        {
+            "text": "County of Floyd",
+            "bbox": [
+                107.0,
+                228.0,
+                244.0,
+                243.0
+            ]
+        },
+        {
+            "text": "Holly Inzer",
+            "bbox": [
+                561.0,
+                269.0,
+                649.0,
+                284.0
+            ]
+        },
+        {
+            "text": "Before me a Notary Public, personally appeared_",
+            "bbox": [
+                107.0,
+                273.0,
+                559.0,
+                290.0
+            ]
+        },
+        {
+            "text": "Bookkeeper",
+            "bbox": [
+                561.0,
+                303.0,
+                640.0,
+                317.0
+            ]
+        },
+        {
+            "text": "who being duly sworn, says that (he) (she) is",
+            "bbox": [
+                107.0,
+                305.0,
+                546.0,
+                321.0
+            ]
+        },
+        {
+            "text": "of the abovementioned newspaper and that display ads for the",
+            "bbox": [
+                107.0,
+                335.0,
+                672.0,
+                352.0
+            ]
+        },
+        {
+            "text": "above account were made through the aforesaid newspaper during",
+            "bbox": [
+                107.0,
+                367.0,
+                692.0,
+                384.0
+            ]
+        },
+        {
+            "text": ", 19 88 as follows:",
+            "bbox": [
+                370.0,
+                398.0,
+                569.0,
+                414.0
+            ]
+        },
+        {
+            "text": "the month of ",
+            "bbox": [
+                107.0,
+                399.0,
+                232.0,
+                415.0
+            ]
+        },
+        {
+            "text": "January",
+            "bbox": [
+                240.0,
+                399.0,
+                355.0,
+                413.0
+            ]
+        },
+        {
+            "text": "Date",
+            "bbox": [
+                105.0,
+                437.0,
+                149.0,
+                455.0
+            ]
+        },
+        {
+            "text": "Column Inches",
+            "bbox": [
+                236.0,
+                438.0,
+                366.0,
+                455.0
+            ]
+        },
+        {
+            "text": "Exclusive advertising for",
+            "bbox": [
+                433.0,
+                438.0,
+                672.0,
+                455.0
+            ]
+        },
+        {
+            "text": "1/31/88",
+            "bbox": [
+                106.0,
+                468.0,
+                161.0,
+                482.0
+            ]
+        },
+        {
+            "text": "Insert",
+            "bbox": [
+                245.0,
+                468.0,
+                294.0,
+                482.0
+            ]
+        },
+        {
+            "text": "Harley Davidson Cigarettes",
+            "bbox": [
+                432.0,
+                467.0,
+                634.0,
+                483.0
+            ]
+        },
+        {
+            "text": "We hereby certify charges shown above on dates per attached",
+            "bbox": [
+                105.0,
+                563.0,
+                664.0,
+                583.0
+            ]
+        },
+        {
+            "text": "bill are true and correct as billed to the account in upper",
+            "bbox": [
+                105.0,
+                596.0,
+                666.0,
+                613.0
+            ]
+        },
+        {
+            "text": "right hand corner of the affidavit and are exclusive",
+            "bbox": [
+                105.0,
+                626.0,
+                600.0,
+                644.0
+            ]
+        },
+        {
+            "text": "New Albany Tribune",
+            "bbox": [
+                105.0,
+                658.0,
+                244.0,
+                672.0
+            ]
+        },
+        {
+            "text": "advertisements",
+            "bbox": [
+                346.0,
+                658.0,
+                481.0,
+                675.0
+            ]
+        },
+        {
+            "text": "Signed",
+            "bbox": [
+                394.0,
+                689.0,
+                455.0,
+                705.0
+            ]
+        },
+        {
+            "text": "Sworn to and subscribed before me this  4th day of March",
+            "bbox": [
+                105.0,
+                750.0,
+                639.0,
+                767.0
+            ]
+        },
+        {
+            "text": ", 1988",
+            "bbox": [
+                661.0,
+                750.0,
+                716.0,
+                767.0
+            ]
+        },
+        {
+            "text": "IN TESTIMONY WHEREOF I have set my hand and seal the day and year",
+            "bbox": [
+                105.0,
+                780.0,
+                717.0,
+                798.0
+            ]
+        },
+        {
+            "text": "aforesaid. \u00b7",
+            "bbox": [
+                105.0,
+                813.0,
+                212.0,
+                830.0
+            ]
+        },
+        {
+            "text": "2-9-90",
+            "bbox": [
+                347.0,
+                843.0,
+                400.0,
+                860.0
+            ]
+        },
+        {
+            "text": "6 \u1781\u17c1\u1791",
+            "bbox": [
+                736.0,
+                843.0,
+                756.0,
+                884.0
+            ]
+        },
+        {
+            "text": "MY COMMISSION EXPIRES:",
+            "bbox": [
+                104.0,
+                844.0,
+                348.0,
+                862.0
+            ]
+        },
+        {
+            "text": "(5) Ar P",
+            "bbox": [
+                557.0,
+                849.0,
+                615.0,
+                859.0
+            ]
+        },
+        {
+            "text": "(Notary Public)",
+            "bbox": [
+                496.0,
+                862.0,
+                633.0,
+                874.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        783.0,
+        1000.0
+    ]
+}

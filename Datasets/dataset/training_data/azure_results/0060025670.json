@@ -1,0 +1,619 @@
+{
+    "text_lines": [
+        {
+            "line_text": "TEST ADHESIVE EVALUATION",
+            "line_bbox": [
+                286.0,
+                91.0,
+                476.0,
+                107.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TEST",
+                    "bbox": [
+                        288.0,
+                        92.0,
+                        319.0,
+                        107.0
+                    ]
+                },
+                {
+                    "text": "ADHESIVE",
+                    "bbox": [
+                        325.0,
+                        93.0,
+                        388.0,
+                        107.0
+                    ]
+                },
+                {
+                    "text": "EVALUATION",
+                    "bbox": [
+                        395.0,
+                        94.0,
+                        474.0,
+                        108.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Supplier:",
+            "line_bbox": [
+                148.0,
+                169.0,
+                217.0,
+                184.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Supplier:",
+                    "bbox": [
+                        148.0,
+                        169.0,
+                        217.0,
+                        184.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Adhesive Code:",
+            "line_bbox": [
+                146.0,
+                208.0,
+                257.0,
+                222.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Adhesive",
+                    "bbox": [
+                        147.0,
+                        208.0,
+                        210.0,
+                        222.0
+                    ]
+                },
+                {
+                    "text": "Code:",
+                    "bbox": [
+                        216.0,
+                        209.0,
+                        257.0,
+                        223.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Application:",
+            "line_bbox": [
+                147.0,
+                248.0,
+                242.0,
+                261.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Application:",
+                    "bbox": [
+                        148.0,
+                        249.0,
+                        242.0,
+                        262.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(tipping, carton end flaps, etc.)",
+            "line_bbox": [
+                150.0,
+                260.0,
+                403.0,
+                276.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(tipping,",
+                    "bbox": [
+                        150.0,
+                        261.0,
+                        219.0,
+                        276.0
+                    ]
+                },
+                {
+                    "text": "carton",
+                    "bbox": [
+                        224.0,
+                        261.0,
+                        272.0,
+                        276.0
+                    ]
+                },
+                {
+                    "text": "end",
+                    "bbox": [
+                        279.0,
+                        261.0,
+                        303.0,
+                        276.0
+                    ]
+                },
+                {
+                    "text": "flaps,",
+                    "bbox": [
+                        310.0,
+                        261.0,
+                        359.0,
+                        276.0
+                    ]
+                },
+                {
+                    "text": "etc.)",
+                    "bbox": [
+                        363.0,
+                        261.0,
+                        404.0,
+                        277.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": ". Test Period:",
+            "line_bbox": [
+                134.0,
+                299.0,
+                239.0,
+                315.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": ".",
+                    "bbox": [
+                        135.0,
+                        301.0,
+                        144.0,
+                        316.0
+                    ]
+                },
+                {
+                    "text": "Test",
+                    "bbox": [
+                        147.0,
+                        299.0,
+                        180.0,
+                        315.0
+                    ]
+                },
+                {
+                    "text": "Period:",
+                    "bbox": [
+                        185.0,
+                        299.0,
+                        240.0,
+                        314.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "APPROVED",
+            "line_bbox": [
+                193.0,
+                351.0,
+                258.0,
+                365.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "APPROVED",
+                    "bbox": [
+                        194.0,
+                        352.0,
+                        257.0,
+                        365.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NOT APPROVED",
+            "line_bbox": [
+                400.0,
+                352.0,
+                499.0,
+                367.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NOT",
+                    "bbox": [
+                        403.0,
+                        352.0,
+                        427.0,
+                        367.0
+                    ]
+                },
+                {
+                    "text": "APPROVED",
+                    "bbox": [
+                        434.0,
+                        353.0,
+                        497.0,
+                        367.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "If not approved state reasons.",
+            "line_bbox": [
+                148.0,
+                403.0,
+                379.0,
+                419.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "If",
+                    "bbox": [
+                        148.0,
+                        404.0,
+                        163.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        170.0,
+                        404.0,
+                        194.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "approved",
+                    "bbox": [
+                        202.0,
+                        404.0,
+                        263.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "state",
+                    "bbox": [
+                        271.0,
+                        405.0,
+                        310.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "reasons.",
+                    "bbox": [
+                        318.0,
+                        405.0,
+                        379.0,
+                        419.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Tester",
+            "line_bbox": [
+                148.0,
+                598.0,
+                198.0,
+                610.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Tester",
+                    "bbox": [
+                        149.0,
+                        598.0,
+                        195.0,
+                        611.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Quality Control",
+            "line_bbox": [
+                147.0,
+                617.0,
+                265.0,
+                631.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Quality",
+                    "bbox": [
+                        148.0,
+                        617.0,
+                        203.0,
+                        631.0
+                    ]
+                },
+                {
+                    "text": "Control",
+                    "bbox": [
+                        209.0,
+                        617.0,
+                        265.0,
+                        631.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Local Purchasing",
+            "line_bbox": [
+                148.0,
+                636.0,
+                274.0,
+                649.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Local",
+                    "bbox": [
+                        149.0,
+                        637.0,
+                        187.0,
+                        650.0
+                    ]
+                },
+                {
+                    "text": "Purchasing",
+                    "bbox": [
+                        195.0,
+                        637.0,
+                        272.0,
+                        650.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Manager",
+            "line_bbox": [
+                147.0,
+                657.0,
+                206.0,
+                670.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Manager",
+                    "bbox": [
+                        148.0,
+                        657.0,
+                        203.0,
+                        670.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Complete and return to D. R. Brickey, Department of Research",
+            "line_bbox": [
+                149.0,
+                690.0,
+                615.0,
+                705.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Complete",
+                    "bbox": [
+                        150.0,
+                        691.0,
+                        210.0,
+                        703.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        218.0,
+                        691.0,
+                        241.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "return",
+                    "bbox": [
+                        249.0,
+                        691.0,
+                        294.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        304.0,
+                        692.0,
+                        318.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "D.",
+                    "bbox": [
+                        325.0,
+                        692.0,
+                        343.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "R.",
+                    "bbox": [
+                        349.0,
+                        692.0,
+                        366.0,
+                        704.0
+                    ]
+                },
+                {
+                    "text": "Brickey,",
+                    "bbox": [
+                        372.0,
+                        692.0,
+                        436.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Department",
+                    "bbox": [
+                        442.0,
+                        692.0,
+                        520.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        527.0,
+                        692.0,
+                        543.0,
+                        705.0
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "bbox": [
+                        550.0,
+                        692.0,
+                        612.0,
+                        705.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "and Development, as soon as possible.",
+            "line_bbox": [
+                147.0,
+                703.0,
+                430.0,
+                718.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "and",
+                    "bbox": [
+                        148.0,
+                        704.0,
+                        171.0,
+                        717.0
+                    ]
+                },
+                {
+                    "text": "Development,",
+                    "bbox": [
+                        178.0,
+                        704.0,
+                        270.0,
+                        717.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        272.0,
+                        705.0,
+                        287.0,
+                        717.0
+                    ]
+                },
+                {
+                    "text": "soon",
+                    "bbox": [
+                        295.0,
+                        705.0,
+                        326.0,
+                        717.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        333.0,
+                        705.0,
+                        350.0,
+                        717.0
+                    ]
+                },
+                {
+                    "text": "possible.",
+                    "bbox": [
+                        357.0,
+                        705.0,
+                        428.0,
+                        717.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ATX02 0083035",
+            "line_bbox": [
+                518.0,
+                882.0,
+                633.0,
+                898.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ATX02",
+                    "bbox": [
+                        518.0,
+                        883.0,
+                        562.0,
+                        898.0
+                    ]
+                },
+                {
+                    "text": "0083035",
+                    "bbox": [
+                        568.0,
+                        883.0,
+                        628.0,
+                        898.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

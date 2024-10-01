@@ -1,0 +1,325 @@
+{
+    "text_lines": [
+        {
+            "text": "LAURENCE, CHARLES, FREE & LAWSON, INC.",
+            "bbox": [
+                142.0,
+                44.0,
+                590.0,
+                68.0
+            ]
+        },
+        {
+            "text": "260 Madison Avenue, New York, NY 10016 (212) 213-4646",
+            "bbox": [
+                175.0,
+                72.0,
+                558.0,
+                91.0
+            ]
+        },
+        {
+            "text": "30-SHEET POSTING COMPLETION REPORT FORM",
+            "bbox": [
+                206.0,
+                136.0,
+                499.0,
+                150.0
+            ]
+        },
+        {
+            "text": "PLEASE RETURN TWO (2) COPIES OF THE LOCATION LIST ALONS WITH TWO (2) COPIES",
+            "bbox": [
+                63.0,
+                166.0,
+                624.0,
+                179.0
+            ]
+        },
+        {
+            "text": "OF THIS COMPLETION REPORT FORM TO THE ATTENTION OF MR. JOSEPH VAZQUEZ AT THE",
+            "bbox": [
+                64.0,
+                181.0,
+                632.0,
+                195.0
+            ]
+        },
+        {
+            "text": "ABOVE ADDRESS -",
+            "bbox": [
+                64.0,
+                196.0,
+                187.0,
+                210.0
+            ]
+        },
+        {
+            "text": "----",
+            "bbox": [
+                339.0,
+                202.0,
+                360.0,
+                211.0
+            ]
+        },
+        {
+            "text": "CONTRACT: A-530-1059",
+            "bbox": [
+                64.0,
+                240.0,
+                236.0,
+                255.0
+            ]
+        },
+        {
+            "text": "CLIENT: THE AMERICAN TOBACCO COMPANY",
+            "bbox": [
+                64.0,
+                271.0,
+                344.0,
+                284.0
+            ]
+        },
+        {
+            "text": "BRAND NAME: PALL MALL RED LIGHTS",
+            "bbox": [
+                64.0,
+                299.0,
+                311.0,
+                312.0
+            ]
+        },
+        {
+            "text": "MARKET :___________________",
+            "bbox": [
+                63.0,
+                325.0,
+                229.0,
+                350.0
+            ]
+        },
+        {
+            "text": "PLANT OPERATOR: __ Patrick Media Group, Inc. __",
+            "bbox": [
+                63.0,
+                356.0,
+                412.0,
+                379.0
+            ]
+        },
+        {
+            "text": "SIZE SHOWING: +75 GRP",
+            "bbox": [
+                63.0,
+                386.0,
+                281.0,
+                402.0
+            ]
+        },
+        {
+            "text": "NUMBER OF PANELS:",
+            "bbox": [
+                64.0,
+                433.0,
+                194.0,
+                447.0
+            ]
+        },
+        {
+            "text": "REGULAF",
+            "bbox": [
+                287.0,
+                446.0,
+                340.0,
+                459.0
+            ]
+        },
+        {
+            "text": "534.1",
+            "bbox": [
+                123.0,
+                483.0,
+                196.0,
+                500.0
+            ]
+        },
+        {
+            "text": "D.E.C.",
+            "bbox": [
+                64.0,
+                490.0,
+                112.0,
+                506.0
+            ]
+        },
+        {
+            "text": "S.P.V.",
+            "bbox": [
+                64.0,
+                535.0,
+                114.0,
+                551.0
+            ]
+        },
+        {
+            "text": "PLANT AVERAGE",
+            "bbox": [
+                531.0,
+                546.0,
+                631.0,
+                560.0
+            ]
+        },
+        {
+            "text": "6",
+            "bbox": [
+                386.0,
+                590.0,
+                403.0,
+                603.0
+            ]
+        },
+        {
+            "text": "DATE POSTERS RECEIVED FROM LITHOGRAPHER:",
+            "bbox": [
+                64.0,
+                592.0,
+                368.0,
+                609.0
+            ]
+        },
+        {
+            "text": "POSTER DESIGN: THE TASTE RREAKS THROUGH",
+            "bbox": [
+                63.0,
+                621.0,
+                485.0,
+                636.0
+            ]
+        },
+        {
+            "text": "SCHEDULED POSTING DATE:",
+            "bbox": [
+                65.0,
+                651.0,
+                328.0,
+                665.0
+            ]
+        },
+        {
+            "text": "189",
+            "bbox": [
+                309.0,
+                676.0,
+                345.0,
+                693.0
+            ]
+        },
+        {
+            "text": "DATE POSTING COMPLETED:    7/2/",
+            "bbox": [
+                64.0,
+                680.0,
+                311.0,
+                694.0
+            ]
+        },
+        {
+            "text": "THIS MILL CERTIFY THAT I HAVE EXAMINED THE RECORDS OF OUR",
+            "bbox": [
+                222.0,
+                723.0,
+                647.0,
+                737.0
+            ]
+        },
+        {
+            "text": "BILLPOSTERS, AND VERIFY THAT ALL LOCATIONS LISTED ON THE",
+            "bbox": [
+                221.0,
+                737.0,
+                638.0,
+                752.0
+            ]
+        },
+        {
+            "text": "ATTACHED LOCATION LIST WERE PROPERLY POSTED WITH THE CORRECT",
+            "bbox": [
+                221.0,
+                750.0,
+                667.0,
+                767.0
+            ]
+        },
+        {
+            "text": "DESIGN WITHIN FIVE MORKING DAYS OF THE POSTING DATE ACCEPTED",
+            "bbox": [
+                221.0,
+                767.0,
+                669.0,
+                780.0
+            ]
+        },
+        {
+            "text": "ON THE CONTRACT.",
+            "bbox": [
+                221.0,
+                782.0,
+                343.0,
+                795.0
+            ]
+        },
+        {
+            "text": "SIGHATURE",
+            "bbox": [
+                356.0,
+                854.0,
+                424.0,
+                868.0
+            ]
+        },
+        {
+            "text": "Manager/Posting Supt.",
+            "bbox": [
+                478.0,
+                867.0,
+                636.0,
+                881.0
+            ]
+        },
+        {
+            "text": "Blant",
+            "bbox": [
+                437.0,
+                869.0,
+                478.0,
+                881.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                356.0,
+                897.0,
+                388.0,
+                910.0
+            ]
+        },
+        {
+            "text": "ATT.",
+            "bbox": [
+                66.0,
+                911.0,
+                98.0,
+                925.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

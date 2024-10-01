@@ -1,0 +1,721 @@
+{
+    "text_lines": [
+        {
+            "text": "-12-",
+            "bbox": [
+                304.0,
+                63.0,
+                335.0,
+                75.0
+            ]
+        },
+        {
+            "text": "1981 Session",
+            "bbox": [
+                564.0,
+                74.0,
+                636.0,
+                86.0
+            ]
+        },
+        {
+            "text": "FISCAL ESTIMATE",
+            "bbox": [
+                43.0,
+                87.0,
+                143.0,
+                98.0
+            ]
+        },
+        {
+            "text": "LRB or Bill No. IAan, Ruie No.",
+            "bbox": [
+                506.0,
+                91.0,
+                636.0,
+                101.0
+            ]
+        },
+        {
+            "text": "AD MBA 23 (Rov. 11/80)",
+            "bbox": [
+                44.0,
+                100.0,
+                153.0,
+                114.0
+            ]
+        },
+        {
+            "text": "LRB 1946",
+            "bbox": [
+                528.0,
+                104.0,
+                587.0,
+                116.0
+            ]
+        },
+        {
+            "text": "O UPDATED",
+            "bbox": [
+                356.0,
+                111.0,
+                418.0,
+                125.0
+            ]
+        },
+        {
+            "text": "\ufffd ORIGINAL",
+            "bbox": [
+                259.0,
+                114.0,
+                324.0,
+                127.0
+            ]
+        },
+        {
+            "text": "Amendment No. If Applicable",
+            "bbox": [
+                506.0,
+                117.0,
+                631.0,
+                130.0
+            ]
+        },
+        {
+            "text": "O SUPPLEMENTAL",
+            "bbox": [
+                356.0,
+                124.0,
+                448.0,
+                138.0
+            ]
+        },
+        {
+            "text": "\u25a1 CORRECTED",
+            "bbox": [
+                259.0,
+                128.0,
+                335.0,
+                140.0
+            ]
+        },
+        {
+            "text": "Subject",
+            "bbox": [
+                45.0,
+                161.0,
+                76.0,
+                171.0
+            ]
+        },
+        {
+            "text": "Regulation of Smoking in Public Places",
+            "bbox": [
+                80.0,
+                168.0,
+                347.0,
+                177.0
+            ]
+        },
+        {
+            "text": "Fiscal Effect",
+            "bbox": [
+                44.0,
+                188.0,
+                108.0,
+                201.0
+            ]
+        },
+        {
+            "text": "State:",
+            "bbox": [
+                69.0,
+                203.0,
+                99.0,
+                215.0
+            ]
+        },
+        {
+            "text": "\u25a1 No State Fiscal Elfect",
+            "bbox": [
+                99.0,
+                202.0,
+                214.0,
+                211.0
+            ]
+        },
+        {
+            "text": "Check columns below only if bill makes a direct appropriation",
+            "bbox": [
+                119.0,
+                215.0,
+                375.0,
+                223.0
+            ]
+        },
+        {
+            "text": "o Increase Costs - May Be Possible to Absorb",
+            "bbox": [
+                442.0,
+                220.0,
+                638.0,
+                228.0
+            ]
+        },
+        {
+            "text": "or affects a sum sufficient appropriation.",
+            "bbox": [
+                133.0,
+                230.0,
+                302.0,
+                238.0
+            ]
+        },
+        {
+            "text": "O No",
+            "bbox": [
+                608.0,
+                230.0,
+                638.0,
+                240.0
+            ]
+        },
+        {
+            "text": "\u0dc4 Yes",
+            "bbox": [
+                567.0,
+                231.0,
+                601.0,
+                241.0
+            ]
+        },
+        {
+            "text": "Within Agency's Budger",
+            "bbox": [
+                455.0,
+                234.0,
+                556.0,
+                242.0
+            ]
+        },
+        {
+            "text": "O Increase Existing Revenues",
+            "bbox": [
+                270.0,
+                243.0,
+                395.0,
+                252.0
+            ]
+        },
+        {
+            "text": "0 Increase Existing Appropriation",
+            "bbox": [
+                109.0,
+                247.0,
+                255.0,
+                256.0
+            ]
+        },
+        {
+            "text": "D Decrease Costs",
+            "bbox": [
+                443.0,
+                250.0,
+                518.0,
+                261.0
+            ]
+        },
+        {
+            "text": "0 Decrease Existing Revenues",
+            "bbox": [
+                269.0,
+                256.0,
+                398.0,
+                265.0
+            ]
+        },
+        {
+            "text": "D Decrease Existing Appropriation",
+            "bbox": [
+                109.0,
+                261.0,
+                257.0,
+                269.0
+            ]
+        },
+        {
+            "text": "O Create New Appropriation",
+            "bbox": [
+                109.0,
+                274.0,
+                233.0,
+                284.0
+            ]
+        },
+        {
+            "text": "0 No local government costs",
+            "bbox": [
+                109.0,
+                293.0,
+                232.0,
+                305.0
+            ]
+        },
+        {
+            "text": "Local:",
+            "bbox": [
+                71.0,
+                297.0,
+                100.0,
+                306.0
+            ]
+        },
+        {
+            "text": "5. Types of Local Governmental Units Affected:",
+            "bbox": [
+                432.0,
+                304.0,
+                633.0,
+                310.0
+            ]
+        },
+        {
+            "text": "3. \u25a1 Increase Revenues",
+            "bbox": [
+                246.0,
+                309.0,
+                345.0,
+                318.0
+            ]
+        },
+        {
+            "text": "O Cities",
+            "bbox": [
+                600.0,
+                310.0,
+                638.0,
+                322.0
+            ]
+        },
+        {
+            "text": "1. \u25a1 Increase Costs",
+            "bbox": [
+                68.0,
+                312.0,
+                153.0,
+                322.0
+            ]
+        },
+        {
+            "text": "[ Villages",
+            "bbox": [
+                517.0,
+                314.0,
+                565.0,
+                324.0
+            ]
+        },
+        {
+            "text": "C Towns",
+            "bbox": [
+                447.0,
+                316.0,
+                491.0,
+                325.0
+            ]
+        },
+        {
+            "text": "0 Mandatory",
+            "bbox": [
+                357.0,
+                318.0,
+                417.0,
+                328.0
+            ]
+        },
+        {
+            "text": "0 Permissive",
+            "bbox": [
+                290.0,
+                320.0,
+                348.0,
+                331.0
+            ]
+        },
+        {
+            "text": "O Permissive D Mandatory",
+            "bbox": [
+                109.0,
+                323.0,
+                235.0,
+                334.0
+            ]
+        },
+        {
+            "text": "O Others .",
+            "bbox": [
+                519.0,
+                326.0,
+                561.0,
+                335.0
+            ]
+        },
+        {
+            "text": "Counties",
+            "bbox": [
+                447.0,
+                327.0,
+                499.0,
+                339.0
+            ]
+        },
+        {
+            "text": "4. \u25a1 Decrease Revenues",
+            "bbox": [
+                248.0,
+                334.0,
+                351.0,
+                342.0
+            ]
+        },
+        {
+            "text": "2. O Decreass Costs",
+            "bbox": [
+                68.0,
+                337.0,
+                156.0,
+                348.0
+            ]
+        },
+        {
+            "text": "C Mandatory",
+            "bbox": [
+                356.0,
+                342.0,
+                417.0,
+                354.0
+            ]
+        },
+        {
+            "text": "0 Permissive",
+            "bbox": [
+                290.0,
+                344.0,
+                349.0,
+                355.0
+            ]
+        },
+        {
+            "text": "O Permissive ",
+            "bbox": [
+                110.0,
+                348.0,
+                236.0,
+                357.0
+            ]
+        },
+        {
+            "text": "Affected Ch. 20 Appropriations",
+            "bbox": [
+                381.0,
+                364.0,
+                513.0,
+                374.0
+            ]
+        },
+        {
+            "text": "Fund Sources Affected",
+            "bbox": [
+                53.0,
+                374.0,
+                149.0,
+                384.0
+            ]
+        },
+        {
+            "text": "20.285 1(a), 1(b), 1(im)",
+            "bbox": [
+                404.0,
+                378.0,
+                574.0,
+                388.0
+            ]
+        },
+        {
+            "text": " \u25a1 seg",
+            "bbox": [
+                267.0,
+                380.0,
+                304.0,
+                393.0
+            ]
+        },
+        {
+            "text": "\u25a1 SEG-S",
+            "bbox": [
+                321.0,
+                380.0,
+                364.0,
+                391.0
+            ]
+        },
+        {
+            "text": "l \") PRS",
+            "bbox": [
+                223.0,
+                382.0,
+                260.0,
+                394.0
+            ]
+        },
+        {
+            "text": "50 PRO",
+            "bbox": [
+                169.0,
+                384.0,
+                206.0,
+                395.0
+            ]
+        },
+        {
+            "text": "\u25a1 FED",
+            "bbox": [
+                114.0,
+                385.0,
+                151.0,
+                398.0
+            ]
+        },
+        {
+            "text": " G GPR",
+            "bbox": [
+                57.0,
+                389.0,
+                94.0,
+                399.0
+            ]
+        },
+        {
+            "text": "Assumptions Used in Arriving at Fiscal Estimate",
+            "bbox": [
+                50.0,
+                402.0,
+                250.0,
+                410.0
+            ]
+        },
+        {
+            "text": "This bill regulates smoking in university buildings which house educational",
+            "bbox": [
+                86.0,
+                418.0,
+                612.0,
+                419.0
+            ]
+        },
+        {
+            "text": "Smoking within these",
+            "bbox": [
+                439.0,
+                423.0,
+                584.0,
+                432.0
+            ]
+        },
+        {
+            "text": "programs and in inpatient health care facilities.",
+            "bbox": [
+                87.0,
+                433.0,
+                440.0,
+                438.0
+            ]
+        },
+        {
+            "text": "buildings would be allowed only in specified facilities or rooms, provided",
+            "bbox": [
+                87.0,
+                446.0,
+                607.0,
+                446.0
+            ]
+        },
+        {
+            "text": "- ------- -- -- ------ ------- ------- -",
+            "bbox": [
+                87.0,
+                458.0,
+                556.0,
+                461.0
+            ]
+        },
+        {
+            "text": "It is estimated that, on the average, university buildings would each",
+            "bbox": [
+                88.0,
+                486.0,
+                574.0,
+                487.0
+            ]
+        },
+        {
+            "text": "require about three \"smoking permitted\" signs. The per sign cost is",
+            "bbox": [
+                89.0,
+                498.0,
+                567.0,
+                504.0
+            ]
+        },
+        {
+            "text": "This estimate is based on the",
+            "bbox": [
+                364.0,
+                504.0,
+                573.0,
+                514.0
+            ]
+        },
+        {
+            "text": "estimated at $4.50 in 1982-83 dollars.",
+            "bbox": [
+                91.0,
+                514.0,
+                366.0,
+                521.0
+            ]
+        },
+        {
+            "text": "1981 per sign cost, and increased to reflect inflation from 1981 to 1983.",
+            "bbox": [
+                90.0,
+                526.0,
+                601.0,
+                527.0
+            ]
+        },
+        {
+            "text": "Thus, the expected one-time cost for the University System to implement",
+            "bbox": [
+                90.0,
+                540.0,
+                589.0,
+                541.0
+            ]
+        },
+        {
+            "text": "There are no significant",
+            "bbox": [
+                441.0,
+                544.0,
+                616.0,
+                554.0
+            ]
+        },
+        {
+            "text": "the provisions of the bill would be about $8,000.",
+            "bbox": [
+                91.0,
+                555.0,
+                445.0,
+                559.0
+            ]
+        },
+        {
+            "text": "continuing annual costs associated with the bill's provisions.",
+            "bbox": [
+                91.0,
+                567.0,
+                526.0,
+                570.0
+            ]
+        },
+        {
+            "text": "Long-Range Fiscal Implications",
+            "bbox": [
+                68.0,
+                775.0,
+                196.0,
+                785.0
+            ]
+        },
+        {
+            "text": "Date",
+            "bbox": [
+                581.0,
+                845.0,
+                601.0,
+                855.0
+            ]
+        },
+        {
+            "text": "Augurized Signature Tylephone",
+            "bbox": [
+                352.0,
+                850.0,
+                490.0,
+                857.0
+            ]
+        },
+        {
+            "text": "Agency",
+            "bbox": [
+                66.0,
+                857.0,
+                99.0,
+                869.0
+            ]
+        },
+        {
+            "text": "2-2-83",
+            "bbox": [
+                588.0,
+                859.0,
+                633.0,
+                872.0
+            ]
+        },
+        {
+            "text": "262-6423",
+            "bbox": [
+                513.0,
+                863.0,
+                570.0,
+                872.0
+            ]
+        },
+        {
+            "text": "University of Wisconsin System",
+            "bbox": [
+                101.0,
+                875.0,
+                315.0,
+                883.0
+            ]
+        },
+        {
+            "text": "680534113",
+            "bbox": [
+                0.0,
+                952.0,
+                81.0,
+                965.0
+            ]
+        },
+        {
+            "text": "PRODUCED FROM B&M MEB SITE",
+            "bbox": [
+                0.0,
+                968.0,
+                233.0,
+                984.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "text_lines": [
+        {
+            "text": "19",
+            "bbox": [
+                723.0,
+                14.0,
+                742.0,
+                30.0
+            ]
+        },
+        {
+            "text": "MAY 2 6 1981",
+            "bbox": [
+                589.0,
+                32.0,
+                705.0,
+                56.0
+            ]
+        },
+        {
+            "text": "ADDENDUM I",
+            "bbox": [
+                335.0,
+                47.0,
+                419.0,
+                61.0
+            ]
+        },
+        {
+            "text": "DAWSON RESEARCH CORPORATION",
+            "bbox": [
+                265.0,
+                88.0,
+                489.0,
+                105.0
+            ]
+        },
+        {
+            "text": "Change Order No. 1",
+            "bbox": [
+                328.0,
+                112.0,
+                492.0,
+                129.0
+            ]
+        },
+        {
+            "text": "Protocol",
+            "bbox": [
+                251.0,
+                114.0,
+                325.0,
+                130.0
+            ]
+        },
+        {
+            "text": "Date 5-13-81",
+            "bbox": [
+                532.0,
+                154.0,
+                630.0,
+                167.0
+            ]
+        },
+        {
+            "text": "Protocol LRC-5A",
+            "bbox": [
+                102.0,
+                162.0,
+                225.0,
+                176.0
+            ]
+        },
+        {
+            "text": "Change in the time of the Pre-dose Biomicroscopic Examination",
+            "bbox": [
+                165.0,
+                196.0,
+                655.0,
+                209.0
+            ]
+        },
+        {
+            "text": "Subject",
+            "bbox": [
+                101.0,
+                201.0,
+                163.0,
+                217.0
+            ]
+        },
+        {
+            "text": "Method Verbal-Phone",
+            "bbox": [
+                531.0,
+                280.0,
+                686.0,
+                292.0
+            ]
+        },
+        {
+            "text": "Authorized by Dr. Connie Stone",
+            "bbox": [
+                101.0,
+                282.0,
+                354.0,
+                295.0
+            ]
+        },
+        {
+            "text": "Date 5-13-81",
+            "bbox": [
+                410.0,
+                282.0,
+                512.0,
+                293.0
+            ]
+        },
+        {
+            "text": "(Means of communication)",
+            "bbox": [
+                536.0,
+                297.0,
+                731.0,
+                313.0
+            ]
+        },
+        {
+            "text": "Mr. Charles Burns",
+            "bbox": [
+                220.0,
+                326.0,
+                361.0,
+                340.0
+            ]
+        },
+        {
+            "text": "Authorized to",
+            "bbox": [
+                102.0,
+                329.0,
+                214.0,
+                345.0
+            ]
+        },
+        {
+            "text": "Estimated cost of the study will be:",
+            "bbox": [
+                102.0,
+                360.0,
+                400.0,
+                376.0
+            ]
+        },
+        {
+            "text": "not affected",
+            "bbox": [
+                630.0,
+                391.0,
+                733.0,
+                408.0
+            ]
+        },
+        {
+            "text": "| X",
+            "bbox": [
+                275.0,
+                392.0,
+                292.0,
+                405.0
+            ]
+        },
+        {
+            "text": "increased",
+            "bbox": [
+                314.0,
+                392.0,
+                393.0,
+                408.0
+            ]
+        },
+        {
+            "text": "decreased",
+            "bbox": [
+                486.0,
+                393.0,
+                560.0,
+                406.0
+            ]
+        },
+        {
+            "text": "Description of change order:",
+            "bbox": [
+                102.0,
+                424.0,
+                334.0,
+                440.0
+            ]
+        },
+        {
+            "text": "paragraph - the first sentence is to be changed to read",
+            "bbox": [
+                260.0,
+                460.0,
+                706.0,
+                475.0
+            ]
+        },
+        {
+            "text": "Section III. A. 2nd",
+            "bbox": [
+                103.0,
+                462.0,
+                263.0,
+                473.0
+            ]
+        },
+        {
+            "text": "as follows:",
+            "bbox": [
+                105.0,
+                476.0,
+                194.0,
+                492.0
+            ]
+        },
+        {
+            "text": "Twenty-four to 30 hours prior to dosing, both eyes of each rabbit will",
+            "bbox": [
+                143.0,
+                507.0,
+                705.0,
+                522.0
+            ]
+        },
+        {
+            "text": "be examined by an experienced investigator using a slit lamp",
+            "bbox": [
+                143.0,
+                523.0,
+                626.0,
+                538.0
+            ]
+        },
+        {
+            "text": "biomicroscope.",
+            "bbox": [
+                143.0,
+                540.0,
+                259.0,
+                553.0
+            ]
+        },
+        {
+            "text": "The change was made so the protocol more closely conforms with the proposed",
+            "bbox": [
+                106.0,
+                570.0,
+                707.0,
+                582.0
+            ]
+        },
+        {
+            "text": "regulations as stated in the Federal Register, Vol. 44, No. 145,",
+            "bbox": [
+                106.0,
+                584.0,
+                617.0,
+                600.0
+            ]
+        },
+        {
+            "text": "772.112-24 Primary Eye Irritation Study.",
+            "bbox": [
+                106.0,
+                600.0,
+                426.0,
+                615.0
+            ]
+        },
+        {
+            "text": "mill",
+            "bbox": [
+                150.0,
+                905.0,
+                192.0,
+                920.0
+            ]
+        },
+        {
+            "text": "Study Director Signature",
+            "bbox": [
+                499.0,
+                928.0,
+                697.0,
+                944.0
+            ]
+        },
+        {
+            "text": "Sporsor Signature",
+            "bbox": [
+                153.0,
+                929.0,
+                297.0,
+                945.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        777.0,
+        1000.0
+    ]
+}

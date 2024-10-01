@@ -1,0 +1,613 @@
+{
+    "text_lines": [
+        {
+            "text": "r SYST",
+            "bbox": [
+                100.0,
+                35.0,
+                151.0,
+                47.0
+            ]
+        },
+        {
+            "text": "10: The Corporation Trust Company",
+            "bbox": [
+                419.0,
+                41.0,
+                672.0,
+                52.0
+            ]
+        },
+        {
+            "text": "IC T Ofice)",
+            "bbox": [
+                534.0,
+                52.0,
+                582.0,
+                64.0
+            ]
+        },
+        {
+            "text": "The C",
+            "bbox": [
+                26.0,
+                55.0,
+                62.0,
+                68.0
+            ]
+        },
+        {
+            "text": "ompany",
+            "bbox": [
+                187.0,
+                58.0,
+                238.0,
+                67.0
+            ]
+        },
+        {
+            "text": "New York, New York",
+            "bbox": [
+                459.0,
+                66.0,
+                612.0,
+                78.0
+            ]
+        },
+        {
+            "text": "{Stale)",
+            "bbox": [
+                591.0,
+                79.0,
+                617.0,
+                89.0
+            ]
+        },
+        {
+            "text": "(City)",
+            "bbox": [
+                471.0,
+                81.0,
+                492.0,
+                91.0
+            ]
+        },
+        {
+            "text": "C T Corporation System",
+            "bbox": [
+                459.0,
+                95.0,
+                632.0,
+                105.0
+            ]
+        },
+        {
+            "text": "FROM:",
+            "bbox": [
+                405.0,
+                100.0,
+                440.0,
+                110.0
+            ]
+        },
+        {
+            "text": "Phyllis G. Jennings",
+            "bbox": [
+                458.0,
+                125.0,
+                600.0,
+                136.0
+            ]
+        },
+        {
+            "text": "William R. Degenhardt, Tax Director",
+            "bbox": [
+                81.0,
+                127.0,
+                333.0,
+                141.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                46.0,
+                130.0,
+                68.0,
+                143.0
+            ]
+        },
+        {
+            "text": "The American Tobacco Company",
+            "bbox": [
+                81.0,
+                142.0,
+                284.0,
+                155.0
+            ]
+        },
+        {
+            "text": "Jacksonville,",
+            "bbox": [
+                460.0,
+                151.0,
+                558.0,
+                164.0
+            ]
+        },
+        {
+            "text": "Florida",
+            "bbox": [
+                558.0,
+                151.0,
+                614.0,
+                164.0
+            ]
+        },
+        {
+            "text": "245 Park Avenue",
+            "bbox": [
+                81.0,
+                156.0,
+                191.0,
+                169.0
+            ]
+        },
+        {
+            "text": "(CHy)",
+            "bbox": [
+                474.0,
+                167.0,
+                495.0,
+                176.0
+            ]
+        },
+        {
+            "text": "New York, New York 10017",
+            "bbox": [
+                82.0,
+                171.0,
+                254.0,
+                183.0
+            ]
+        },
+        {
+            "text": "1-27-69",
+            "bbox": [
+                455.0,
+                180.0,
+                512.0,
+                194.0
+            ]
+        },
+        {
+            "text": "[Authorized Recipiont]",
+            "bbox": [
+                145.0,
+                185.0,
+                230.0,
+                197.0
+            ]
+        },
+        {
+            "text": "VIA: (X) Certified Mail ( ) Messenger",
+            "bbox": [
+                51.0,
+                230.0,
+                248.0,
+                241.0
+            ]
+        },
+        {
+            "text": "(  ) Certified Air Mail",
+            "bbox": [
+                77.0,
+                246.0,
+                189.0,
+                256.0
+            ]
+        },
+        {
+            "text": "FLORIDA",
+            "bbox": [
+                309.0,
+                266.0,
+                381.0,
+                280.0
+            ]
+        },
+        {
+            "text": "RE: PROCESS SERVED IN_",
+            "bbox": [
+                51.0,
+                268.0,
+                288.0,
+                285.0
+            ]
+        },
+        {
+            "text": "THE AMERICAN TOBACCO COMPANY",
+            "bbox": [
+                84.0,
+                309.0,
+                368.0,
+                321.0
+            ]
+        },
+        {
+            "text": "FOR",
+            "bbox": [
+                46.0,
+                310.0,
+                74.0,
+                323.0
+            ]
+        },
+        {
+            "text": "Enclosed are copies of legal pracess served upon the statutory agent of the above company as follows:",
+            "bbox": [
+                75.0,
+                339.0,
+                596.0,
+                348.0
+            ]
+        },
+        {
+            "text": "1. Title of Action: Reuben Sunetein, Plaintiff, v. The American Tobacco Company,",
+            "bbox": [
+                53.0,
+                367.0,
+                608.0,
+                374.0
+            ]
+        },
+        {
+            "text": "Jersey corporation, Defendant.",
+            "bbox": [
+                147.0,
+                381.0,
+                373.0,
+                393.0
+            ]
+        },
+        {
+            "text": "Summons and Complaint",
+            "bbox": [
+                183.0,
+                409.0,
+                362.0,
+                420.0
+            ]
+        },
+        {
+            "text": "2. Document(s) Served:",
+            "bbox": [
+                55.0,
+                412.0,
+                184.0,
+                424.0
+            ]
+        },
+        {
+            "text": "Circuit Court, Dade County, Florida.  No. 69-1351",
+            "bbox": [
+                116.0,
+                437.0,
+                488.0,
+                446.0
+            ]
+        },
+        {
+            "text": "3. Courl:",
+            "bbox": [
+                54.0,
+                439.0,
+                105.0,
+                451.0
+            ]
+        },
+        {
+            "text": "4. Noture of Action:  For personal injuries resulting after smoking \"Pall Mall\" and \"Lucky",
+            "bbox": [
+                55.0,
+                463.0,
+                669.0,
+                467.0
+            ]
+        },
+        {
+            "text": "Strike\" cigarattes manufactured by defendant, wherein plaintiff alleges breach of war-",
+            "bbox": [
+                60.0,
+                477.0,
+                679.0,
+                484.0
+            ]
+        },
+        {
+            "text": "anties, seeks damages in excess of $5,000 and demande trial by jury.",
+            "bbox": [
+                60.0,
+                494.0,
+                563.0,
+                501.0
+            ]
+        },
+        {
+            "text": "Phyllis G. Jonnings, Asst. Socy., The Corporation Company,",
+            "bbox": [
+                241.0,
+                517.0,
+                689.0,
+                525.0
+            ]
+        },
+        {
+            "text": "5. On Whom Process was Served:",
+            "bbox": [
+                56.0,
+                520.0,
+                227.0,
+                534.0
+            ]
+        },
+        {
+            "text": "Jacksonville, Florida",
+            "bbox": [
+                244.0,
+                534.0,
+                401.0,
+                546.0
+            ]
+        },
+        {
+            "text": "9:00 a.m.",
+            "bbox": [
+                406.0,
+                569.0,
+                478.0,
+                583.0
+            ]
+        },
+        {
+            "text": "January 27, 1969",
+            "bbox": [
+                244.0,
+                571.0,
+                371.0,
+                586.0
+            ]
+        },
+        {
+            "text": "6. Pute and Hour of Service:",
+            "bbox": [
+                56.0,
+                575.0,
+                205.0,
+                589.0
+            ]
+        },
+        {
+            "text": "Within 20 days after service, oxclusive of day of service.",
+            "bbox": [
+                244.0,
+                597.0,
+                659.0,
+                606.0
+            ]
+        },
+        {
+            "text": "7. Appearance or Answer Duel",
+            "bbox": [
+                57.0,
+                603.0,
+                216.0,
+                614.0
+            ]
+        },
+        {
+            "text": "R.L.P.",
+            "bbox": [
+                557.0,
+                614.0,
+                589.0,
+                625.0
+            ]
+        },
+        {
+            "text": "Max A. Goldfarb",
+            "bbox": [
+                244.0,
+                623.0,
+                368.0,
+                639.0
+            ]
+        },
+        {
+            "text": "M.A.",
+            "bbox": [
+                621.0,
+                629.0,
+                647.0,
+                642.0
+            ]
+        },
+        {
+            "text": "8. Plaintiff's Atlorney (s):",
+            "bbox": [
+                57.0,
+                630.0,
+                181.0,
+                642.0
+            ]
+        },
+        {
+            "text": "F.G.A.",
+            "bbox": [
+                557.0,
+                630.0,
+                592.0,
+                643.0
+            ]
+        },
+        {
+            "text": "414 Biscayne Building",
+            "bbox": [
+                245.0,
+                640.0,
+                406.0,
+                655.0
+            ]
+        },
+        {
+            "text": ".I.F.",
+            "bbox": [
+                622.0,
+                644.0,
+                643.0,
+                658.0
+            ]
+        },
+        {
+            "text": "J.M.C",
+            "bbox": [
+                558.0,
+                646.0,
+                592.0,
+                659.0
+            ]
+        },
+        {
+            "text": "Miami, Florida",
+            "bbox": [
+                245.0,
+                657.0,
+                362.0,
+                670.0
+            ]
+        },
+        {
+            "text": "H.E.F.",
+            "bbox": [
+                559.0,
+                663.0,
+                594.0,
+                675.0
+            ]
+        },
+        {
+            "text": "M.G.",
+            "bbox": [
+                622.0,
+                662.0,
+                650.0,
+                675.0
+            ]
+        },
+        {
+            "text": "J.J.G.",
+            "bbox": [
+                560.0,
+                679.0,
+                591.0,
+                691.0
+            ]
+        },
+        {
+            "text": "9. Remarks:",
+            "bbox": [
+                59.0,
+                684.0,
+                120.0,
+                696.0
+            ]
+        },
+        {
+            "text": "1/29/69 pore)",
+            "bbox": [
+                609.0,
+                746.0,
+                687.0,
+                762.0
+            ]
+        },
+        {
+            "text": "RECEIVED AND FORWARDED ON",
+            "bbox": [
+                418.0,
+                753.0,
+                589.0,
+                765.0
+            ]
+        },
+        {
+            "text": "ION TRUST COMPANY",
+            "bbox": [
+                537.0,
+                778.0,
+                655.0,
+                791.0
+            ]
+        },
+        {
+            "text": "KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO",
+            "bbox": [
+                25.0,
+                784.0,
+                376.0,
+                798.0
+            ]
+        },
+        {
+            "text": "US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM.",
+            "bbox": [
+                24.0,
+                797.0,
+                367.0,
+                811.0
+            ]
+        },
+        {
+            "text": "New York, New York 10017",
+            "bbox": [
+                450.0,
+                857.0,
+                621.0,
+                870.0
+            ]
+        },
+        {
+            "text": "nj 201",
+            "bbox": [
+                572.0,
+                882.0,
+                600.0,
+                892.0
+            ]
+        },
+        {
+            "text": "e - R R",
+            "bbox": [
+                612.0,
+                883.0,
+                631.0,
+                892.0
+            ]
+        },
+        {
+            "text": "SOM sets",
+            "bbox": [
+                643.0,
+                882.0,
+                683.0,
+                891.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

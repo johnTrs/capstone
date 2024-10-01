@@ -1,0 +1,415 @@
+{
+    "text_lines": [
+        {
+            "text": "To :",
+            "bbox": [
+                245.0,
+                60.0,
+                273.0,
+                74.0
+            ]
+        },
+        {
+            "text": "Mr. G. J. Schramm",
+            "bbox": [
+                295.0,
+                60.0,
+                445.0,
+                74.0
+            ]
+        },
+        {
+            "text": "Mr. W. P. Myhan",
+            "bbox": [
+                505.0,
+                60.0,
+                637.0,
+                74.0
+            ]
+        },
+        {
+            "text": "Mr. R. H. Stinnette",
+            "bbox": [
+                294.0,
+                73.0,
+                462.0,
+                89.0
+            ]
+        },
+        {
+            "text": "Mr. F. X. Whelan",
+            "bbox": [
+                504.0,
+                73.0,
+                646.0,
+                89.0
+            ]
+        },
+        {
+            "text": "Mr. J. B. McCarthy",
+            "bbox": [
+                295.0,
+                87.0,
+                454.0,
+                103.0
+            ]
+        },
+        {
+            "text": "From: E. E. Curtin",
+            "bbox": [
+                244.0,
+                115.0,
+                401.0,
+                132.0
+            ]
+        },
+        {
+            "text": "Request for contribution or membership to be",
+            "bbox": [
+                245.0,
+                186.0,
+                621.0,
+                200.0
+            ]
+        },
+        {
+            "text": "considered by Contributions Committee at next",
+            "bbox": [
+                246.0,
+                200.0,
+                631.0,
+                216.0
+            ]
+        },
+        {
+            "text": "meeting",
+            "bbox": [
+                245.0,
+                215.0,
+                311.0,
+                229.0
+            ]
+        },
+        {
+            "text": "Art of the same",
+            "bbox": [
+                398.0,
+                235.0,
+                477.0,
+                247.0
+            ]
+        },
+        {
+            "text": "x Contribution",
+            "bbox": [
+                264.0,
+                256.0,
+                396.0,
+                272.0
+            ]
+        },
+        {
+            "text": " | Membership",
+            "bbox": [
+                448.0,
+                256.0,
+                563.0,
+                273.0
+            ]
+        },
+        {
+            "text": "Harvard Medical School",
+            "bbox": [
+                375.0,
+                270.0,
+                567.0,
+                286.0
+            ]
+        },
+        {
+            "text": "Requested by __ and Dr. Gary Huber __ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+            "bbox": [
+                247.0,
+                285.0,
+                696.0,
+                302.0
+            ]
+        },
+        {
+            "text": "Boston, Massachusetts",
+            "bbox": [
+                375.0,
+                310.0,
+                694.0,
+                333.0
+            ]
+        },
+        {
+            "text": "Message ____ Letter 8/1/76",
+            "bbox": [
+                355.0,
+                343.0,
+                581.0,
+                356.0
+            ]
+        },
+        {
+            "text": "For American Brands, Inc. _",
+            "bbox": [
+                247.0,
+                369.0,
+                685.0,
+                388.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                314.0,
+                398.0,
+                400.0,
+                410.0
+            ]
+        },
+        {
+            "text": "and and the same of the same of the same of the subscription of the subject of the states",
+            "bbox": [
+                546.0,
+                398.0,
+                696.0,
+                410.0
+            ]
+        },
+        {
+            "text": "Recent actions regarding above solicitor -",
+            "bbox": [
+                264.0,
+                427.0,
+                623.0,
+                443.0
+            ]
+        },
+        {
+            "text": "Payment - 1976 $40,921.30 by A.B.,Inc.",
+            "bbox": [
+                243.0,
+                453.0,
+                567.0,
+                470.0
+            ]
+        },
+        {
+            "text": "84 , 309 . 94 . B . Inc.",
+            "bbox": [
+                374.0,
+                464.0,
+                568.0,
+                502.0
+            ]
+        },
+        {
+            "text": "1975",
+            "bbox": [
+                327.0,
+                468.0,
+                377.0,
+                481.0
+            ]
+        },
+        {
+            "text": "1974",
+            "bbox": [
+                327.0,
+                482.0,
+                367.0,
+                495.0
+            ]
+        },
+        {
+            "text": "A.B. , Inc.",
+            "bbox": [
+                485.0,
+                495.0,
+                567.0,
+                509.0
+            ]
+        },
+        {
+            "text": "1973",
+            "bbox": [
+                327.0,
+                496.0,
+                367.0,
+                509.0
+            ]
+        },
+        {
+            "text": "91,630.53",
+            "bbox": [
+                375.0,
+                496.0,
+                483.0,
+                508.0
+            ]
+        },
+        {
+            "text": "Remarks -",
+            "bbox": [
+                265.0,
+                582.0,
+                346.0,
+                595.0
+            ]
+        },
+        {
+            "text": "Check for",
+            "bbox": [
+                546.0,
+                620.0,
+                628.0,
+                635.0
+            ]
+        },
+        {
+            "text": "For confirmation by the Committee.",
+            "bbox": [
+                244.0,
+                621.0,
+                546.0,
+                635.0
+            ]
+        },
+        {
+            "text": "$43,910.30 representing the ninth semi-annual",
+            "bbox": [
+                245.0,
+                636.0,
+                629.0,
+                649.0
+            ]
+        },
+        {
+            "text": "installment to the Harvard Project transmitted",
+            "bbox": [
+                246.0,
+                650.0,
+                639.0,
+                664.0
+            ]
+        },
+        {
+            "text": "August 1976.",
+            "bbox": [
+                245.0,
+                664.0,
+                350.0,
+                680.0
+            ]
+        },
+        {
+            "text": "Decision of Committee on Present Request -",
+            "bbox": [
+                250.0,
+                750.0,
+                608.0,
+                765.0
+            ]
+        },
+        {
+            "text": "e",
+            "bbox": [
+                351.0,
+                766.0,
+                377.0,
+                780.0
+            ]
+        },
+        {
+            "text": "Pay - $_",
+            "bbox": [
+                267.0,
+                779.0,
+                337.0,
+                793.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                480.0,
+                782.0,
+                520.0,
+                792.0
+            ]
+        },
+        {
+            "text": "YES NO_",
+            "bbox": [
+                534.0,
+                805.0,
+                682.0,
+                821.0
+            ]
+        },
+        {
+            "text": "Declined - Send letter ",
+            "bbox": [
+                267.0,
+                806.0,
+                535.0,
+                821.0
+            ]
+        },
+        {
+            "text": "Consideration deferred until _",
+            "bbox": [
+                267.0,
+                834.0,
+                527.0,
+                850.0
+            ]
+        },
+        {
+            "text": "26",
+            "bbox": [
+                578.0,
+                856.0,
+                610.0,
+                870.0
+            ]
+        },
+        {
+            "text": "_1976",
+            "bbox": [
+                626.0,
+                860.0,
+                676.0,
+                874.0
+            ]
+        },
+        {
+            "text": "Committee meeting of _",
+            "bbox": [
+                368.0,
+                862.0,
+                556.0,
+                876.0
+            ]
+        },
+        {
+            "text": "-----------------",
+            "bbox": [
+                424.0,
+                915.0,
+                473.0,
+                927.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

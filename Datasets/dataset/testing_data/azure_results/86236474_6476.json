@@ -1,0 +1,1426 @@
+{
+    "text_lines": [
+        {
+            "line_text": "5",
+            "line_bbox": [
+                13.0,
+                92.0,
+                28.0,
+                109.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "5",
+                    "bbox": [
+                        15.0,
+                        92.0,
+                        27.0,
+                        109.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TO:",
+            "line_bbox": [
+                48.0,
+                104.0,
+                77.0,
+                119.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TO:",
+                    "bbox": [
+                        49.0,
+                        104.0,
+                        77.0,
+                        119.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Mrs. K.A. Sparrow",
+            "line_bbox": [
+                124.0,
+                103.0,
+                245.0,
+                120.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Mrs.",
+                    "bbox": [
+                        125.0,
+                        103.0,
+                        155.0,
+                        121.0
+                    ]
+                },
+                {
+                    "text": "K.A.",
+                    "bbox": [
+                        157.0,
+                        104.0,
+                        185.0,
+                        121.0
+                    ]
+                },
+                {
+                    "text": "Sparrow",
+                    "bbox": [
+                        187.0,
+                        104.0,
+                        242.0,
+                        121.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUBMISSION DATE:",
+            "line_bbox": [
+                519.0,
+                102.0,
+                654.0,
+                118.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUBMISSION",
+                    "bbox": [
+                        519.0,
+                        103.0,
+                        605.0,
+                        118.0
+                    ]
+                },
+                {
+                    "text": "DATE:",
+                    "bbox": [
+                        611.0,
+                        103.0,
+                        654.0,
+                        118.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FROM:",
+            "line_bbox": [
+                46.0,
+                141.0,
+                97.0,
+                156.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FROM:",
+                    "bbox": [
+                        48.0,
+                        142.0,
+                        97.0,
+                        157.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R.G. Ryan",
+            "line_bbox": [
+                125.0,
+                140.0,
+                193.0,
+                157.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R.G.",
+                    "bbox": [
+                        126.0,
+                        141.0,
+                        155.0,
+                        158.0
+                    ]
+                },
+                {
+                    "text": "Ryan",
+                    "bbox": [
+                        157.0,
+                        141.0,
+                        193.0,
+                        157.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "JUNE 7",
+            "line_bbox": [
+                510.0,
+                140.0,
+                560.0,
+                155.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "JUNE",
+                    "bbox": [
+                        510.0,
+                        140.0,
+                        546.0,
+                        156.0
+                    ]
+                },
+                {
+                    "text": "7",
+                    "bbox": [
+                        550.0,
+                        141.0,
+                        559.0,
+                        156.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "X",
+            "line_bbox": [
+                620.0,
+                139.0,
+                636.0,
+                156.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "X",
+                    "bbox": [
+                        622.0,
+                        139.0,
+                        632.0,
+                        156.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "AUG. 2",
+            "line_bbox": [
+                509.0,
+                159.0,
+                560.0,
+                174.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "AUG.",
+                    "bbox": [
+                        510.0,
+                        159.0,
+                        545.0,
+                        175.0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "bbox": [
+                        548.0,
+                        159.0,
+                        557.0,
+                        175.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OCT. 7",
+            "line_bbox": [
+                510.0,
+                176.0,
+                560.0,
+                193.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OCT.",
+                    "bbox": [
+                        510.0,
+                        177.0,
+                        544.0,
+                        193.0
+                    ]
+                },
+                {
+                    "text": "7",
+                    "bbox": [
+                        547.0,
+                        177.0,
+                        557.0,
+                        192.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NEWPORT LIGHTS HEAVY UP PROGRESS REPORT",
+            "line_bbox": [
+                168.0,
+                213.0,
+                545.0,
+                232.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NEWPORT",
+                    "bbox": [
+                        169.0,
+                        215.0,
+                        246.0,
+                        232.0
+                    ]
+                },
+                {
+                    "text": "LIGHTS",
+                    "bbox": [
+                        249.0,
+                        215.0,
+                        304.0,
+                        231.0
+                    ]
+                },
+                {
+                    "text": "HEAVY",
+                    "bbox": [
+                        308.0,
+                        214.0,
+                        360.0,
+                        231.0
+                    ]
+                },
+                {
+                    "text": "UP",
+                    "bbox": [
+                        364.0,
+                        214.0,
+                        384.0,
+                        231.0
+                    ]
+                },
+                {
+                    "text": "PROGRESS",
+                    "bbox": [
+                        388.0,
+                        214.0,
+                        473.0,
+                        231.0
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        477.0,
+                        214.0,
+                        540.0,
+                        232.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EFFECTIVENESS OF DISTRIBUTION ALLOWANCE:",
+            "line_bbox": [
+                48.0,
+                270.0,
+                419.0,
+                288.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EFFECTIVENESS",
+                    "bbox": [
+                        49.0,
+                        270.0,
+                        172.0,
+                        288.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        177.0,
+                        270.0,
+                        198.0,
+                        288.0
+                    ]
+                },
+                {
+                    "text": "DISTRIBUTION",
+                    "bbox": [
+                        202.0,
+                        270.0,
+                        309.0,
+                        288.0
+                    ]
+                },
+                {
+                    "text": "ALLOWANCE:",
+                    "bbox": [
+                        315.0,
+                        270.0,
+                        419.0,
+                        288.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIRECT ACCOUNT/WHOLESALERS:",
+            "line_bbox": [
+                47.0,
+                308.0,
+                287.0,
+                326.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIRECT",
+                    "bbox": [
+                        47.0,
+                        309.0,
+                        99.0,
+                        327.0
+                    ]
+                },
+                {
+                    "text": "ACCOUNT/WHOLESALERS:",
+                    "bbox": [
+                        102.0,
+                        308.0,
+                        287.0,
+                        325.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Distribution allowance was very effective in accomplishing our objectives. All accounts",
+            "line_bbox": [
+                50.0,
+                328.0,
+                599.0,
+                344.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Distribution",
+                    "bbox": [
+                        51.0,
+                        329.0,
+                        120.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "allowance",
+                    "bbox": [
+                        124.0,
+                        329.0,
+                        188.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "was",
+                    "bbox": [
+                        192.0,
+                        329.0,
+                        218.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "very",
+                    "bbox": [
+                        220.0,
+                        329.0,
+                        248.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "effective",
+                    "bbox": [
+                        251.0,
+                        328.0,
+                        304.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        307.0,
+                        328.0,
+                        319.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "accomplishing",
+                    "bbox": [
+                        322.0,
+                        328.0,
+                        415.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "our",
+                    "bbox": [
+                        418.0,
+                        328.0,
+                        439.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "objectives.",
+                    "bbox": [
+                        442.0,
+                        328.0,
+                        516.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "All",
+                    "bbox": [
+                        519.0,
+                        328.0,
+                        536.0,
+                        343.0
+                    ]
+                },
+                {
+                    "text": "accounts",
+                    "bbox": [
+                        539.0,
+                        328.0,
+                        599.0,
+                        343.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "have purchased introductory products.",
+            "line_bbox": [
+                47.0,
+                347.0,
+                296.0,
+                364.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "have",
+                    "bbox": [
+                        47.0,
+                        348.0,
+                        78.0,
+                        365.0
+                    ]
+                },
+                {
+                    "text": "purchased",
+                    "bbox": [
+                        81.0,
+                        347.0,
+                        151.0,
+                        364.0
+                    ]
+                },
+                {
+                    "text": "introductory",
+                    "bbox": [
+                        154.0,
+                        347.0,
+                        232.0,
+                        364.0
+                    ]
+                },
+                {
+                    "text": "products.",
+                    "bbox": [
+                        235.0,
+                        347.0,
+                        297.0,
+                        363.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DIRECT ACCOUNT CHAINS:",
+            "line_bbox": [
+                46.0,
+                438.0,
+                235.0,
+                455.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DIRECT",
+                    "bbox": [
+                        47.0,
+                        439.0,
+                        98.0,
+                        456.0
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "bbox": [
+                        101.0,
+                        438.0,
+                        172.0,
+                        455.0
+                    ]
+                },
+                {
+                    "text": "CHAINS:",
+                    "bbox": [
+                        175.0,
+                        438.0,
+                        235.0,
+                        455.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Eagle Foods is the only Void.",
+            "line_bbox": [
+                48.0,
+                457.0,
+                237.0,
+                474.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Eagle",
+                    "bbox": [
+                        48.0,
+                        458.0,
+                        83.0,
+                        475.0
+                    ]
+                },
+                {
+                    "text": "Foods",
+                    "bbox": [
+                        86.0,
+                        458.0,
+                        128.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        131.0,
+                        458.0,
+                        143.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        146.0,
+                        458.0,
+                        166.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "only",
+                    "bbox": [
+                        169.0,
+                        458.0,
+                        197.0,
+                        474.0
+                    ]
+                },
+                {
+                    "text": "Void.",
+                    "bbox": [
+                        200.0,
+                        458.0,
+                        237.0,
+                        474.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NON-DIRECT ACCOUNT CHAINS:",
+            "line_bbox": [
+                46.0,
+                552.0,
+                277.0,
+                569.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NON-DIRECT",
+                    "bbox": [
+                        46.0,
+                        553.0,
+                        142.0,
+                        570.0
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "bbox": [
+                        145.0,
+                        552.0,
+                        216.0,
+                        569.0
+                    ]
+                },
+                {
+                    "text": "CHAINS:",
+                    "bbox": [
+                        219.0,
+                        552.0,
+                        277.0,
+                        569.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Reception from these accounts is most positive with a solid incentitive to purchase.",
+            "line_bbox": [
+                47.0,
+                571.0,
+                573.0,
+                588.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Reception",
+                    "bbox": [
+                        47.0,
+                        573.0,
+                        111.0,
+                        589.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        114.0,
+                        573.0,
+                        141.0,
+                        588.0
+                    ]
+                },
+                {
+                    "text": "these",
+                    "bbox": [
+                        148.0,
+                        573.0,
+                        184.0,
+                        588.0
+                    ]
+                },
+                {
+                    "text": "accounts",
+                    "bbox": [
+                        187.0,
+                        572.0,
+                        246.0,
+                        588.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        249.0,
+                        572.0,
+                        260.0,
+                        588.0
+                    ]
+                },
+                {
+                    "text": "most",
+                    "bbox": [
+                        263.0,
+                        572.0,
+                        296.0,
+                        588.0
+                    ]
+                },
+                {
+                    "text": "positive",
+                    "bbox": [
+                        299.0,
+                        572.0,
+                        348.0,
+                        588.0
+                    ]
+                },
+                {
+                    "text": "with",
+                    "bbox": [
+                        351.0,
+                        572.0,
+                        377.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        380.0,
+                        572.0,
+                        389.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "solid",
+                    "bbox": [
+                        392.0,
+                        572.0,
+                        423.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "incentitive",
+                    "bbox": [
+                        426.0,
+                        572.0,
+                        490.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        493.0,
+                        572.0,
+                        506.0,
+                        587.0
+                    ]
+                },
+                {
+                    "text": "purchase.",
+                    "bbox": [
+                        509.0,
+                        572.0,
+                        573.0,
+                        586.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EFFECTIVENESS OF THE",
+            "line_bbox": [
+                45.0,
+                665.0,
+                218.0,
+                681.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EFFECTIVENESS",
+                    "bbox": [
+                        46.0,
+                        665.0,
+                        159.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        163.0,
+                        665.0,
+                        184.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "bbox": [
+                        187.0,
+                        666.0,
+                        215.0,
+                        680.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RETAIL (1.00 OFF CARTON)",
+            "line_bbox": [
+                46.0,
+                683.0,
+                232.0,
+                700.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RETAIL",
+                    "bbox": [
+                        47.0,
+                        684.0,
+                        94.0,
+                        701.0
+                    ]
+                },
+                {
+                    "text": "(1.00",
+                    "bbox": [
+                        97.0,
+                        684.0,
+                        130.0,
+                        701.0
+                    ]
+                },
+                {
+                    "text": "OFF",
+                    "bbox": [
+                        133.0,
+                        684.0,
+                        162.0,
+                        701.0
+                    ]
+                },
+                {
+                    "text": "CARTON)",
+                    "bbox": [
+                        165.0,
+                        684.0,
+                        232.0,
+                        701.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DISTRIBUTION ALLOWANCE:",
+            "line_bbox": [
+                47.0,
+                702.0,
+                243.0,
+                719.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DISTRIBUTION",
+                    "bbox": [
+                        48.0,
+                        703.0,
+                        142.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "ALLOWANCE:",
+                    "bbox": [
+                        147.0,
+                        702.0,
+                        243.0,
+                        719.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Has been most helpful in acquiring desireable distribution",
+            "line_bbox": [
+                277.0,
+                702.0,
+                646.0,
+                719.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Has",
+                    "bbox": [
+                        278.0,
+                        703.0,
+                        302.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "been",
+                    "bbox": [
+                        305.0,
+                        703.0,
+                        338.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "most",
+                    "bbox": [
+                        341.0,
+                        703.0,
+                        375.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "helpful",
+                    "bbox": [
+                        378.0,
+                        703.0,
+                        420.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        423.0,
+                        703.0,
+                        436.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "acquiring",
+                    "bbox": [
+                        439.0,
+                        703.0,
+                        499.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "desireable",
+                    "bbox": [
+                        503.0,
+                        703.0,
+                        569.0,
+                        719.0
+                    ]
+                },
+                {
+                    "text": "distribution",
+                    "bbox": [
+                        572.0,
+                        702.0,
+                        644.0,
+                        718.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "when needed by Sales Reps.",
+            "line_bbox": [
+                277.0,
+                721.0,
+                464.0,
+                738.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "when",
+                    "bbox": [
+                        278.0,
+                        723.0,
+                        312.0,
+                        739.0
+                    ]
+                },
+                {
+                    "text": "needed",
+                    "bbox": [
+                        315.0,
+                        722.0,
+                        364.0,
+                        738.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        366.0,
+                        722.0,
+                        384.0,
+                        737.0
+                    ]
+                },
+                {
+                    "text": "Sales",
+                    "bbox": [
+                        386.0,
+                        722.0,
+                        422.0,
+                        737.0
+                    ]
+                },
+                {
+                    "text": "Reps.",
+                    "bbox": [
+                        425.0,
+                        722.0,
+                        464.0,
+                        738.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PROMOTIONAL ACTIVITY",
+            "line_bbox": [
+                46.0,
+                795.0,
+                234.0,
+                813.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PROMOTIONAL",
+                    "bbox": [
+                        46.0,
+                        796.0,
+                        160.0,
+                        813.0
+                    ]
+                },
+                {
+                    "text": "ACTIVITY",
+                    "bbox": [
+                        164.0,
+                        795.0,
+                        232.0,
+                        813.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "86236474",
+            "line_bbox": [
+                683.0,
+                807.0,
+                707.0,
+                912.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "86236474",
+                    "bbox": [
+                        683.0,
+                        807.0,
+                        706.0,
+                        908.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "40c OFF PACK -",
+            "line_bbox": [
+                46.0,
+                835.0,
+                159.0,
+                850.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "40c",
+                    "bbox": [
+                        47.0,
+                        836.0,
+                        70.0,
+                        850.0
+                    ]
+                },
+                {
+                    "text": "OFF",
+                    "bbox": [
+                        72.0,
+                        836.0,
+                        100.0,
+                        850.0
+                    ]
+                },
+                {
+                    "text": "PACK",
+                    "bbox": [
+                        104.0,
+                        835.0,
+                        141.0,
+                        850.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        148.0,
+                        835.0,
+                        156.0,
+                        849.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "GENERAL MARKET:",
+            "line_bbox": [
+                47.0,
+                854.0,
+                179.0,
+                869.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "GENERAL",
+                    "bbox": [
+                        47.0,
+                        854.0,
+                        112.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "MARKET:",
+                    "bbox": [
+                        116.0,
+                        854.0,
+                        180.0,
+                        870.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The 40c off promotions continue to be well received at the retail",
+            "line_bbox": [
+                201.0,
+                854.0,
+                605.0,
+                870.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        202.0,
+                        854.0,
+                        225.0,
+                        871.0
+                    ]
+                },
+                {
+                    "text": "40c",
+                    "bbox": [
+                        229.0,
+                        854.0,
+                        251.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "off",
+                    "bbox": [
+                        254.0,
+                        854.0,
+                        272.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "promotions",
+                    "bbox": [
+                        275.0,
+                        854.0,
+                        348.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "continue",
+                    "bbox": [
+                        351.0,
+                        854.0,
+                        406.0,
+                        870.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        408.0,
+                        854.0,
+                        423.0,
+                        869.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        425.0,
+                        854.0,
+                        442.0,
+                        869.0
+                    ]
+                },
+                {
+                    "text": "well",
+                    "bbox": [
+                        445.0,
+                        854.0,
+                        471.0,
+                        869.0
+                    ]
+                },
+                {
+                    "text": "received",
+                    "bbox": [
+                        473.0,
+                        854.0,
+                        528.0,
+                        869.0
+                    ]
+                },
+                {
+                    "text": "at",
+                    "bbox": [
+                        532.0,
+                        854.0,
+                        545.0,
+                        868.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        547.0,
+                        854.0,
+                        568.0,
+                        868.0
+                    ]
+                },
+                {
+                    "text": "retail",
+                    "bbox": [
+                        570.0,
+                        854.0,
+                        605.0,
+                        868.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "stores and by consumers, as well.",
+            "line_bbox": [
+                202.0,
+                872.0,
+                417.0,
+                888.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "stores",
+                    "bbox": [
+                        202.0,
+                        873.0,
+                        241.0,
+                        889.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        243.0,
+                        873.0,
+                        268.0,
+                        888.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        271.0,
+                        873.0,
+                        288.0,
+                        888.0
+                    ]
+                },
+                {
+                    "text": "consumers,",
+                    "bbox": [
+                        291.0,
+                        873.0,
+                        368.0,
+                        888.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        370.0,
+                        873.0,
+                        386.0,
+                        888.0
+                    ]
+                },
+                {
+                    "text": "well.",
+                    "bbox": [
+                        388.0,
+                        873.0,
+                        417.0,
+                        888.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

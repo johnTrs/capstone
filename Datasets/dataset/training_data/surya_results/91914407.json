@@ -1,0 +1,253 @@
+{
+    "text_lines": [
+        {
+            "text": "@001",
+            "bbox": [
+                656.0,
+                35.0,
+                691.0,
+                50.0
+            ]
+        },
+        {
+            "text": "LORILLARD 25 JAX \u2192\u2192\u2192 SALES GENERAL NY",
+            "bbox": [
+                362.0,
+                38.0,
+                618.0,
+                53.0
+            ]
+        },
+        {
+            "text": "08:25",
+            "bbox": [
+                132.0,
+                40.0,
+                172.0,
+                55.0
+            ]
+        },
+        {
+            "text": "\u00d8I",
+            "bbox": [
+                195.0,
+                40.0,
+                219.0,
+                55.0
+            ]
+        },
+        {
+            "text": "06/29/94",
+            "bbox": [
+                60.0,
+                43.0,
+                116.0,
+                55.0
+            ]
+        },
+        {
+            "text": "KSONVILLE. FL 32256 TELEPHONE (904) 464-0800 FAX (904) 464-0744",
+            "bbox": [
+                250.0,
+                181.0,
+                551.0,
+                195.0
+            ]
+        },
+        {
+            "text": "FACSIMILE COVER PAGE",
+            "bbox": [
+                209.0,
+                244.0,
+                553.0,
+                283.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                58.0,
+                319.0,
+                116.0,
+                339.0
+            ]
+        },
+        {
+            "text": "TOTAL PAGES",
+            "bbox": [
+                369.0,
+                322.0,
+                489.0,
+                344.0
+            ]
+        },
+        {
+            "text": "6-29-94",
+            "bbox": [
+                161.0,
+                325.0,
+                229.0,
+                342.0
+            ]
+        },
+        {
+            "text": "14",
+            "bbox": [
+                537.0,
+                328.0,
+                561.0,
+                342.0
+            ]
+        },
+        {
+            "text": "(INCLUDING COVER SHEET)",
+            "bbox": [
+                370.0,
+                344.0,
+                598.0,
+                364.0
+            ]
+        },
+        {
+            "text": "PLEASE DELIVER TRANSMISSION TO:",
+            "bbox": [
+                58.0,
+                399.0,
+                360.0,
+                423.0
+            ]
+        },
+        {
+            "text": "Mr. Al Giacoio",
+            "bbox": [
+                187.0,
+                440.0,
+                314.0,
+                460.0
+            ]
+        },
+        {
+            "text": "NAME: ",
+            "bbox": [
+                58.0,
+                443.0,
+                125.0,
+                460.0
+            ]
+        },
+        {
+            "text": "OFFICE: ",
+            "bbox": [
+                58.0,
+                482.0,
+                134.0,
+                502.0
+            ]
+        },
+        {
+            "text": "FAX PHONE NUMBER: _",
+            "bbox": [
+                56.0,
+                523.0,
+                247.0,
+                544.0
+            ]
+        },
+        {
+            "text": "THIS DOCUMENT IS FROM:",
+            "bbox": [
+                56.0,
+                581.0,
+                277.0,
+                608.0
+            ]
+        },
+        {
+            "text": "NAME:",
+            "bbox": [
+                56.0,
+                625.0,
+                115.0,
+                645.0
+            ]
+        },
+        {
+            "text": "Fred Paternostro",
+            "bbox": [
+                213.0,
+                628.0,
+                355.0,
+                649.0
+            ]
+        },
+        {
+            "text": "FAX TELEPHONE NUMBER: (904) 464-0744",
+            "bbox": [
+                56.0,
+                667.0,
+                397.0,
+                689.0
+            ]
+        },
+        {
+            "text": "COMMENTS: _",
+            "bbox": [
+                54.0,
+                726.0,
+                179.0,
+                747.0
+            ]
+        },
+        {
+            "text": "The attached was obtained from Mackoul Dist.",
+            "bbox": [
+                203.0,
+                729.0,
+                585.0,
+                749.0
+            ]
+        },
+        {
+            "text": "CC: R.E. KLEIN",
+            "bbox": [
+                243.0,
+                810.0,
+                371.0,
+                832.0
+            ]
+        },
+        {
+            "text": "0\u30bb\u30ec\u3066\u308bT",
+            "bbox": [
+                697.0,
+                859.0,
+                715.0,
+                908.0
+            ]
+        },
+        {
+            "text": "IF ANY OF THESE PAGES ARE NOT LEGIBLE OR YOU DO NOT RECEIVE ALL O",
+            "bbox": [
+                53.0,
+                910.0,
+                660.0,
+                940.0
+            ]
+        },
+        {
+            "text": "THIS TRANSMISSION, PLEASE CAI L (904) 464-0800 AS SOON AS POSSIBLE",
+            "bbox": [
+                52.0,
+                931.0,
+                647.0,
+                960.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        802.0,
+        1000.0
+    ]
+}

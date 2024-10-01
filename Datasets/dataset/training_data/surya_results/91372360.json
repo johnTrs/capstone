@@ -1,0 +1,280 @@
+{
+    "text_lines": [
+        {
+            "text": "7",
+            "bbox": [
+                42.0,
+                5.0,
+                50.0,
+                15.0
+            ]
+        },
+        {
+            "text": "is",
+            "bbox": [
+                44.0,
+                23.0,
+                58.0,
+                33.0
+            ]
+        },
+        {
+            "text": "P. 1",
+            "bbox": [
+                694.0,
+                25.0,
+                723.0,
+                39.0
+            ]
+        },
+        {
+            "text": "KUNICA FAX 285",
+            "bbox": [
+                295.0,
+                29.0,
+                391.0,
+                42.0
+            ]
+        },
+        {
+            "text": "Nov. 4 '93 16:33",
+            "bbox": [
+                103.0,
+                32.0,
+                215.0,
+                45.0
+            ]
+        },
+        {
+            "text": "\"",
+            "bbox": [
+                46.0,
+                34.0,
+                56.0,
+                44.0
+            ]
+        },
+        {
+            "text": "r state and the material states",
+            "bbox": [
+                155.0,
+                48.0,
+                242.0,
+                58.0
+            ]
+        },
+        {
+            "text": "and and work and the same and the same with and the will and with and",
+            "bbox": [
+                395.0,
+                49.0,
+                635.0,
+                60.0
+            ]
+        },
+        {
+            "text": "5101 N. CLASSEN BLVD., SUITE 102. OKLAHOMA CITY, OK, 73118 TELEPHONE (405) 843-0455 or 0460",
+            "bbox": [
+                118.0,
+                153.0,
+                560.0,
+                166.0
+            ]
+        },
+        {
+            "text": "EACSIMILE COVER PAGE",
+            "bbox": [
+                314.0,
+                215.0,
+                527.0,
+                235.0
+            ]
+        },
+        {
+            "text": "DATE_ 11/4/93 _",
+            "bbox": [
+                159.0,
+                270.0,
+                348.0,
+                286.0
+            ]
+        },
+        {
+            "text": "TIME _ 3:28 CST",
+            "bbox": [
+                353.0,
+                271.0,
+                496.0,
+                288.0
+            ]
+        },
+        {
+            "text": "The following document, including cover page is _1 pages long.",
+            "bbox": [
+                159.0,
+                297.0,
+                658.0,
+                319.0
+            ]
+        },
+        {
+            "text": "PLEASE TRANSMIT THIS DOCUMENT TO:",
+            "bbox": [
+                157.0,
+                339.0,
+                514.0,
+                359.0
+            ]
+        },
+        {
+            "text": "NAME: _",
+            "bbox": [
+                158.0,
+                381.0,
+                401.0,
+                400.0
+            ]
+        },
+        {
+            "text": "OFFICE: _ New York - Sales Planning",
+            "bbox": [
+                156.0,
+                408.0,
+                459.0,
+                424.0
+            ]
+        },
+        {
+            "text": "FAX PHONE NUMBER: __ 212__545-3299",
+            "bbox": [
+                156.0,
+                435.0,
+                476.0,
+                453.0
+            ]
+        },
+        {
+            "text": "THIS DOCUMENT IS FROM:",
+            "bbox": [
+                156.0,
+                475.0,
+                390.0,
+                494.0
+            ]
+        },
+        {
+            "text": "NAME: \u0633\u0644\u0627\u0645\u0644\u0627\u0633\u062a\u0639\u0644\u0642\u0627\u062a",
+            "bbox": [
+                154.0,
+                515.0,
+                352.0,
+                539.0
+            ]
+        },
+        {
+            "text": "OFFICE: Oklahoma City, OK_",
+            "bbox": [
+                154.0,
+                545.0,
+                398.0,
+                565.0
+            ]
+        },
+        {
+            "text": "FAX PHONE NUMBER: (405) 840-0639",
+            "bbox": [
+                154.0,
+                571.0,
+                474.0,
+                591.0
+            ]
+        },
+        {
+            "text": "The attached Competitive Information",
+            "bbox": [
+                284.0,
+                613.0,
+                590.0,
+                629.0
+            ]
+        },
+        {
+            "text": "COMMENTS:__",
+            "bbox": [
+                155.0,
+                614.0,
+                286.0,
+                630.0
+            ]
+        },
+        {
+            "text": "was secured in Oklahoma today.",
+            "bbox": [
+                285.0,
+                640.0,
+                537.0,
+                655.0
+            ]
+        },
+        {
+            "text": "If you should have any questions.",
+            "bbox": [
+                285.0,
+                673.0,
+                562.0,
+                687.0
+            ]
+        },
+        {
+            "text": "please advise.",
+            "bbox": [
+                285.0,
+                692.0,
+                404.0,
+                705.0
+            ]
+        },
+        {
+            "text": "Dick",
+            "bbox": [
+                458.0,
+                692.0,
+                496.0,
+                705.0
+            ]
+        },
+        {
+            "text": " of these pages are not legible, or you do not receive ail \n, please call this office as soon as possible.",
+            "bbox": [
+                202.0,
+                710.0,
+                637.0,
+                745.0
+            ]
+        },
+        {
+            "text": "9EZLE IA",
+            "bbox": [
+                758.0,
+                750.0,
+                780.0,
+                810.0
+            ]
+        },
+        {
+            "text": "cc: Mr. R. B. Spell\n ",
+            "bbox": [
+                282.0,
+                783.0,
+                447.0,
+                814.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        814.0,
+        1000.0
+    ]
+}

@@ -1,0 +1,58 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+myenv/
+venv/
+.env/
+*.env
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.h5
+*.ckpt
+*.pt
+*.pkl
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Dataset files
+data/
+*.csv
+*.tsv
+# *.json
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Logs and cache
+*.log
+*.cache
+
+# Output files
+output/
+results/

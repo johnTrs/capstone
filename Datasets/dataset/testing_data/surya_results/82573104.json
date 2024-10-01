@@ -1,0 +1,343 @@
+{
+    "text_lines": [
+        {
+            "text": "xc: RBS",
+            "bbox": [
+                559.0,
+                79.0,
+                660.0,
+                103.0
+            ]
+        },
+        {
+            "text": "12 - 9 - 99",
+            "bbox": [
+                584.0,
+                105.0,
+                661.0,
+                127.0
+            ]
+        },
+        {
+            "text": "FRom RBENED",
+            "bbox": [
+                547.0,
+                131.0,
+                667.0,
+                161.0
+            ]
+        },
+        {
+            "text": "COVINGTON & BURLING",
+            "bbox": [
+                195.0,
+                161.0,
+                540.0,
+                183.0
+            ]
+        },
+        {
+            "text": "DEC \u2013 9 1999",
+            "bbox": [
+                583.0,
+                165.0,
+                670.0,
+                187.0
+            ]
+        },
+        {
+            "text": "R. B. SPELL",
+            "bbox": [
+                581.0,
+                194.0,
+                677.0,
+                219.0
+            ]
+        },
+        {
+            "text": "1201 Pennsylvania Avenue, N.W.",
+            "bbox": [
+                284.0,
+                205.0,
+                453.0,
+                221.0
+            ]
+        },
+        {
+            "text": "P.O. Box 7566",
+            "bbox": [
+                329.0,
+                220.0,
+                407.0,
+                235.0
+            ]
+        },
+        {
+            "text": "Washington, D.C.  20044-7566",
+            "bbox": [
+                290.0,
+                233.0,
+                446.0,
+                249.0
+            ]
+        },
+        {
+            "text": "(202) 662-6000 ",
+            "bbox": [
+                329.0,
+                246.0,
+                409.0,
+                262.0
+            ]
+        },
+        {
+            "text": "Fax Numbers (202) 662-6291 or (202) 737-0528",
+            "bbox": [
+                248.0,
+                261.0,
+                488.0,
+                275.0
+            ]
+        },
+        {
+            "text": "Fax Operator: (202) 662-6280",
+            "bbox": [
+                292.0,
+                274.0,
+                443.0,
+                288.0
+            ]
+        },
+        {
+            "text": "THIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN",
+            "bbox": [
+                163.0,
+                333.0,
+                608.0,
+                344.0
+            ]
+        },
+        {
+            "text": "BELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHERWISE",
+            "bbox": [
+                125.0,
+                344.0,
+                609.0,
+                355.0
+            ]
+        },
+        {
+            "text": "ROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION ",
+            "bbox": [
+                135.0,
+                354.0,
+                610.0,
+                370.0
+            ]
+        },
+        {
+            "text": "R ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. IF",
+            "bbox": [
+                132.0,
+                366.0,
+                608.0,
+                379.0
+            ]
+        },
+        {
+            "text": "HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND",
+            "bbox": [
+                150.0,
+                378.0,
+                609.0,
+                388.0
+            ]
+        },
+        {
+            "text": "THE ORIGINAL TO US AT THE ABOVE ADDRESS.",
+            "bbox": [
+                157.0,
+                390.0,
+                388.0,
+                402.0
+            ]
+        },
+        {
+            "text": "Date:",
+            "bbox": [
+                163.0,
+                457.0,
+                209.0,
+                477.0
+            ]
+        },
+        {
+            "text": "December 9, 1999",
+            "bbox": [
+                278.0,
+                457.0,
+                412.0,
+                474.0
+            ]
+        },
+        {
+            "text": "Haney H. Bell, Esq.",
+            "bbox": [
+                278.0,
+                495.0,
+                422.0,
+                516.0
+            ]
+        },
+        {
+            "text": "To:",
+            "bbox": [
+                163.0,
+                499.0,
+                195.0,
+                518.0
+            ]
+        },
+        {
+            "text": "David H. Remes",
+            "bbox": [
+                278.0,
+                536.0,
+                400.0,
+                556.0
+            ]
+        },
+        {
+            "text": "From:",
+            "bbox": [
+                160.0,
+                538.0,
+                211.0,
+                557.0
+            ]
+        },
+        {
+            "text": "(202) 778-5212 \u2013 direct fax",
+            "bbox": [
+                279.0,
+                557.0,
+                479.0,
+                576.0
+            ]
+        },
+        {
+            "text": "803E",
+            "bbox": [
+                278.0,
+                596.0,
+                324.0,
+                616.0
+            ]
+        },
+        {
+            "text": "Room:",
+            "bbox": [
+                160.0,
+                599.0,
+                214.0,
+                618.0
+            ]
+        },
+        {
+            "text": "Pages (including cover)",
+            "bbox": [
+                372.0,
+                636.0,
+                549.0,
+                656.0
+            ]
+        },
+        {
+            "text": "MESSAGE:",
+            "bbox": [
+                161.0,
+                692.0,
+                255.0,
+                711.0
+            ]
+        },
+        {
+            "text": "CC",
+            "bbox": [
+                645.0,
+                721.0,
+                664.0,
+                731.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                643.0,
+                733.0,
+                665.0,
+                745.0
+            ]
+        },
+        {
+            "text": "5",
+            "bbox": [
+                642.0,
+                746.0,
+                666.0,
+                760.0
+            ]
+        },
+        {
+            "text": "01249",
+            "bbox": [
+                639.0,
+                754.0,
+                668.0,
+                814.0
+            ]
+        },
+        {
+            "text": "\ufea4\ufe98",
+            "bbox": [
+                641.0,
+                810.0,
+                661.0,
+                823.0
+            ]
+        },
+        {
+            "text": "189 80 11 80 80 11 1 -",
+            "bbox": [
+                544.0,
+                946.0,
+                681.0,
+                960.0
+            ]
+        },
+        {
+            "text": "TOO D",
+            "bbox": [
+                93.0,
+                948.0,
+                127.0,
+                962.0
+            ]
+        },
+        {
+            "text": "COVINGTON & BURLING",
+            "bbox": [
+                287.0,
+                947.0,
+                410.0,
+                961.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "text_lines": [
+        {
+            "text": "COMPOUND PHYSICAL PARAMETERS",
+            "bbox": [
+                241.0,
+                141.0,
+                539.0,
+                160.0
+            ]
+        },
+        {
+            "text": "LOT NUMBER",
+            "bbox": [
+                504.0,
+                172.0,
+                551.0,
+                182.0
+            ]
+        },
+        {
+            "text": "BI64",
+            "bbox": [
+                166.0,
+                184.0,
+                202.0,
+                197.0
+            ]
+        },
+        {
+            "text": "Brownish-gray powder",
+            "bbox": [
+                167.0,
+                211.0,
+                337.0,
+                227.0
+            ]
+        },
+        {
+            "text": "The pH of a 50% concentration of B164 in water\nwas calculated to be 4.82 at 25\u00b0C",
+            "bbox": [
+                129.0,
+                267.0,
+                520.0,
+                296.0
+            ]
+        },
+        {
+            "text": "according to the extrapolation procedures by Dr. P. D.",
+            "bbox": [
+                132.0,
+                294.0,
+                587.0,
+                310.0
+            ]
+        },
+        {
+            "text": "Schickedantz, Lorillard Research Center Accession Number 1662.",
+            "bbox": [
+                132.0,
+                309.0,
+                655.0,
+                322.0
+            ]
+        },
+        {
+            "text": "SOLUBILITY.",
+            "bbox": [
+                98.0,
+                369.0,
+                142.0,
+                380.0
+            ]
+        },
+        {
+            "text": "(See SOP for Biological Solutioms)",
+            "bbox": [
+                151.0,
+                377.0,
+                436.0,
+                393.0
+            ]
+        },
+        {
+            "text": "oral",
+            "bbox": [
+                118.0,
+                390.0,
+                139.0,
+                402.0
+            ]
+        },
+        {
+            "text": "Reference: BC20-48",
+            "bbox": [
+                132.0,
+                406.0,
+                287.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Bl64 forms a suspension in corn oil at 0.5 g/l.5 ml",
+            "bbox": [
+                133.0,
+                431.0,
+                562.0,
+                448.0
+            ]
+        },
+        {
+            "text": "Triple dosing is required",
+            "bbox": [
+                133.0,
+                459.0,
+                346.0,
+                475.0
+            ]
+        },
+        {
+            "text": "acute cardiovascular",
+            "bbox": [
+                118.0,
+                506.0,
+                211.0,
+                519.0
+            ]
+        },
+        {
+            "text": "(See SOP for Determination of Solubility of Materials for",
+            "bbox": [
+                135.0,
+                516.0,
+                614.0,
+                531.0
+            ]
+        },
+        {
+            "text": "Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs)",
+            "bbox": [
+                133.0,
+                531.0,
+                688.0,
+                545.0
+            ]
+        },
+        {
+            "text": "Reference: BC20-48",
+            "bbox": [
+                133.0,
+                559.0,
+                285.0,
+                573.0
+            ]
+        },
+        {
+            "text": "B164 is insoluble according to this procedure",
+            "bbox": [
+                131.0,
+                586.0,
+                512.0,
+                605.0
+            ]
+        },
+        {
+            "text": "STORAGE RECOMMENDATIONS",
+            "bbox": [
+                98.0,
+                662.0,
+                207.0,
+                674.0
+            ]
+        },
+        {
+            "text": "than 8\u00b0C",
+            "bbox": [
+                518.0,
+                681.0,
+                591.0,
+                694.0
+            ]
+        },
+        {
+            "text": "Refrigerate in amber glass bottle at no more",
+            "bbox": [
+                134.0,
+                682.0,
+                509.0,
+                695.0
+            ]
+        },
+        {
+            "text": "85980",
+            "bbox": [
+                631.0,
+                718.0,
+                655.0,
+                767.0
+            ]
+        },
+        {
+            "text": "OMPOUND SENSITIVE TO",
+            "bbox": [
+                103.0,
+                771.0,
+                188.0,
+                780.0
+            ]
+        },
+        {
+            "text": "I ] OTHER",
+            "bbox": [
+                258.0,
+                795.0,
+                295.0,
+                804.0
+            ]
+        },
+        {
+            "text": "LOGILLAPD 81",
+            "bbox": [
+                96.0,
+                948.0,
+                141.0,
+                957.0
+            ]
+        },
+        {
+            "text": "ronu 9 (1 82)",
+            "bbox": [
+                643.0,
+                950.0,
+                693.0,
+                960.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

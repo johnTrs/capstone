@@ -1,0 +1,352 @@
+{
+    "text_lines": [
+        {
+            "text": "12/29/94",
+            "bbox": [
+                74.0,
+                25.0,
+                134.0,
+                41.0
+            ]
+        },
+        {
+            "text": "8713 591 0204",
+            "bbox": [
+                212.0,
+                25.0,
+                312.0,
+                41.0
+            ]
+        },
+        {
+            "text": "10:14",
+            "bbox": [
+                149.0,
+                26.0,
+                189.0,
+                40.0
+            ]
+        },
+        {
+            "text": "LORILLARD HOUS.",
+            "bbox": [
+                381.0,
+                26.0,
+                492.0,
+                42.0
+            ]
+        },
+        {
+            "text": " +++ NEW YORK SALES",
+            "bbox": [
+                494.0,
+                27.0,
+                627.0,
+                43.0
+            ]
+        },
+        {
+            "text": "@001/003",
+            "bbox": [
+                652.0,
+                28.0,
+                715.0,
+                44.0
+            ]
+        },
+        {
+            "text": "FACSIMILE COVER PAGE",
+            "bbox": [
+                255.0,
+                151.0,
+                496.0,
+                176.0
+            ]
+        },
+        {
+            "text": "TIME:",
+            "bbox": [
+                390.0,
+                205.0,
+                439.0,
+                223.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                80.0,
+                206.0,
+                119.0,
+                219.0
+            ]
+        },
+        {
+            "text": "12/28/94",
+            "bbox": [
+                227.0,
+                210.0,
+                287.0,
+                223.0
+            ]
+        },
+        {
+            "text": "10:15",
+            "bbox": [
+                505.0,
+                210.0,
+                546.0,
+                224.0
+            ]
+        },
+        {
+            "text": "The following document, including cover page is _______ 3",
+            "bbox": [
+                78.0,
+                256.0,
+                531.0,
+                282.0
+            ]
+        },
+        {
+            "text": "_ pages long.",
+            "bbox": [
+                565.0,
+                262.0,
+                672.0,
+                281.0
+            ]
+        },
+        {
+            "text": "PLEASE TRANSMIT THIS DOCUMENT TO:",
+            "bbox": [
+                218.0,
+                308.0,
+                534.0,
+                332.0
+            ]
+        },
+        {
+            "text": "NAME:",
+            "bbox": [
+                77.0,
+                345.0,
+                131.0,
+                362.0
+            ]
+        },
+        {
+            "text": "R. H. Orcutt",
+            "bbox": [
+                276.0,
+                347.0,
+                366.0,
+                363.0
+            ]
+        },
+        {
+            "text": "OFFICE:",
+            "bbox": [
+                76.0,
+                376.0,
+                143.0,
+                395.0
+            ]
+        },
+        {
+            "text": "Lorillard - New York",
+            "bbox": [
+                275.0,
+                383.0,
+                424.0,
+                399.0
+            ]
+        },
+        {
+            "text": "FAX PHONE NUMBER:",
+            "bbox": [
+                75.0,
+                411.0,
+                248.0,
+                429.0
+            ]
+        },
+        {
+            "text": "(212) 545-3299",
+            "bbox": [
+                277.0,
+                415.0,
+                381.0,
+                431.0
+            ]
+        },
+        {
+            "text": "THIS DOCUMENT IS FROM:",
+            "bbox": [
+                271.0,
+                484.0,
+                477.0,
+                504.0
+            ]
+        },
+        {
+            "text": "NAME:",
+            "bbox": [
+                74.0,
+                515.0,
+                130.0,
+                535.0
+            ]
+        },
+        {
+            "text": "J. L. McGinnis - Region- 9",
+            "bbox": [
+                274.0,
+                522.0,
+                459.0,
+                539.0
+            ]
+        },
+        {
+            "text": "OFFICE:",
+            "bbox": [
+                74.0,
+                554.0,
+                141.0,
+                573.0
+            ]
+        },
+        {
+            "text": "Lorillard Tobacco Company - Houston N., Texas",
+            "bbox": [
+                259.0,
+                554.0,
+                663.0,
+                577.0
+            ]
+        },
+        {
+            "text": "FAX PHONE NUMBER:",
+            "bbox": [
+                74.0,
+                584.0,
+                373.0,
+                610.0
+            ]
+        },
+        {
+            "text": "COMMENTS:",
+            "bbox": [
+                74.0,
+                652.0,
+                176.0,
+                675.0
+            ]
+        },
+        {
+            "text": "Harley-Davidson 100's Progress Report.",
+            "bbox": [
+                270.0,
+                658.0,
+                550.0,
+                677.0
+            ]
+        },
+        {
+            "text": "cc:",
+            "bbox": [
+                274.0,
+                730.0,
+                298.0,
+                742.0
+            ]
+        },
+        {
+            "text": "R. B. Spell",
+            "bbox": [
+                308.0,
+                730.0,
+                391.0,
+                744.0
+            ]
+        },
+        {
+            "text": "A. J. Giacoio",
+            "bbox": [
+                308.0,
+                745.0,
+                407.0,
+                763.0
+            ]
+        },
+        {
+            "text": "P. J. Mc Cann",
+            "bbox": [
+                308.0,
+                762.0,
+                398.0,
+                776.0
+            ]
+        },
+        {
+            "text": "S. L. Enloe",
+            "bbox": [
+                308.0,
+                778.0,
+                391.0,
+                796.0
+            ]
+        },
+        {
+            "text": "T. L. Achey",
+            "bbox": [
+                308.0,
+                794.0,
+                390.0,
+                808.0
+            ]
+        },
+        {
+            "text": "In the event that any of these pages are not legible, or you do not receive",
+            "bbox": [
+                69.0,
+                864.0,
+                636.0,
+                889.0
+            ]
+        },
+        {
+            "text": "pages, please call this office as soon as possible at (713",
+            "bbox": [
+                70.0,
+                884.0,
+                522.0,
+                908.0
+            ]
+        },
+        {
+            "text": "and and the supportunities",
+            "bbox": [
+                23.0,
+                938.0,
+                243.0,
+                960.0
+            ]
+        },
+        {
+            "text": "in the production of the superior Collection of the Beach of the Beach",
+            "bbox": [
+                248.0,
+                944.0,
+                516.0,
+                960.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        802.0,
+        1000.0
+    ]
+}

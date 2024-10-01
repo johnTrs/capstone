@@ -1,0 +1,298 @@
+{
+    "text_lines": [
+        {
+            "text": "FIELD TRIP",
+            "bbox": [
+                363.0,
+                83.0,
+                444.0,
+                99.0
+            ]
+        },
+        {
+            "text": "2/28/84",
+            "bbox": [
+                533.0,
+                133.0,
+                602.0,
+                154.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                469.0,
+                143.0,
+                511.0,
+                159.0
+            ]
+        },
+        {
+            "text": "J. R. Mueller",
+            "bbox": [
+                178.0,
+                146.0,
+                282.0,
+                163.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                90.0,
+                147.0,
+                116.0,
+                163.0
+            ]
+        },
+        {
+            "text": "Mary Anne Kayiatos",
+            "bbox": [
+                158.0,
+                183.0,
+                324.0,
+                200.0
+            ]
+        },
+        {
+            "text": "FROM:",
+            "bbox": [
+                89.0,
+                190.0,
+                141.0,
+                205.0
+            ]
+        },
+        {
+            "text": "Ted van de Kamp",
+            "bbox": [
+                497.0,
+                241.0,
+                637.0,
+                257.0
+            ]
+        },
+        {
+            "text": "Please make the necessary Field Trip arrangements for_",
+            "bbox": [
+                89.0,
+                251.0,
+                500.0,
+                263.0
+            ]
+        },
+        {
+            "text": "To evaluate Satin's overall performance and results of",
+            "bbox": [
+                229.0,
+                285.0,
+                718.0,
+                302.0
+            ]
+        },
+        {
+            "text": "Purpose of trip",
+            "bbox": [
+                90.0,
+                295.0,
+                206.0,
+                311.0
+            ]
+        },
+        {
+            "text": "Special Cities.",
+            "bbox": [
+                105.0,
+                330.0,
+                242.0,
+                349.0
+            ]
+        },
+        {
+            "text": "Boston",
+            "bbox": [
+                318.0,
+                383.0,
+                378.0,
+                399.0
+            ]
+        },
+        {
+            "text": "Division(s) to be contacted_",
+            "bbox": [
+                89.0,
+                384.0,
+                300.0,
+                398.0
+            ]
+        },
+        {
+            "text": "Tuesday 3/13 and Wednesday. 3/14",
+            "bbox": [
+                235.0,
+                425.0,
+                532.0,
+                445.0
+            ]
+        },
+        {
+            "text": "Dates of contact_",
+            "bbox": [
+                89.0,
+                428.0,
+                217.0,
+                442.0
+            ]
+        },
+        {
+            "text": "Train _",
+            "bbox": [
+                357.0,
+                470.0,
+                416.0,
+                485.0
+            ]
+        },
+        {
+            "text": "Other",
+            "bbox": [
+                433.0,
+                470.0,
+                475.0,
+                483.0
+            ]
+        },
+        {
+            "text": "Method of travel: Air X_ Auto __",
+            "bbox": [
+                89.0,
+                472.0,
+                359.0,
+                486.0
+            ]
+        },
+        {
+            "text": "Arrival date and time (include airline and flight no.)_",
+            "bbox": [
+                88.0,
+                514.0,
+                628.0,
+                530.0
+            ]
+        },
+        {
+            "text": "Evening Shuttle",
+            "bbox": [
+                103.0,
+                551.0,
+                243.0,
+                569.0
+            ]
+        },
+        {
+            "text": "XX",
+            "bbox": [
+                344.0,
+                602.0,
+                368.0,
+                616.0
+            ]
+        },
+        {
+            "text": "Hotel/Motel reservations needed",
+            "bbox": [
+                90.0,
+                604.0,
+                328.0,
+                618.0
+            ]
+        },
+        {
+            "text": "Dates",
+            "bbox": [
+                538.0,
+                645.0,
+                582.0,
+                659.0
+            ]
+        },
+        {
+            "text": "Reservations made at",
+            "bbox": [
+                90.0,
+                649.0,
+                244.0,
+                663.0
+            ]
+        },
+        {
+            "text": "Sales Personnel to be contacted",
+            "bbox": [
+                90.0,
+                693.0,
+                328.0,
+                706.0
+            ]
+        },
+        {
+            "text": "Sales Representative",
+            "bbox": [
+                508.0,
+                733.0,
+                663.0,
+                747.0
+            ]
+        },
+        {
+            "text": "A.D.M._",
+            "bbox": [
+                425.0,
+                734.0,
+                510.0,
+                750.0
+            ]
+        },
+        {
+            "text": "D.M._",
+            "bbox": [
+                357.0,
+                735.0,
+                411.0,
+                749.0
+            ]
+        },
+        {
+            "text": "Sales Personnel to be worked with:",
+            "bbox": [
+                89.0,
+                737.0,
+                353.0,
+                750.0
+            ]
+        },
+        {
+            "text": "L98ZL0",
+            "bbox": [
+                719.0,
+                800.0,
+                748.0,
+                870.0
+            ]
+        },
+        {
+            "text": "Return to J. R. Mueller no later than two weeks prior to anticipated trip.",
+            "bbox": [
+                83.0,
+                929.0,
+                639.0,
+                946.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        778.0,
+        1000.0
+    ]
+}

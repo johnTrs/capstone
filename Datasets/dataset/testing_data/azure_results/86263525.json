@@ -1,0 +1,1081 @@
+{
+    "text_lines": [
+        {
+            "line_text": "RECORDS RETENTION SCHEDULE RECONCILIATION",
+            "line_bbox": [
+                201.0,
+                44.0,
+                580.0,
+                60.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RECORDS",
+                    "bbox": [
+                        202.0,
+                        45.0,
+                        266.0,
+                        61.0
+                    ]
+                },
+                {
+                    "text": "RETENTION",
+                    "bbox": [
+                        274.0,
+                        45.0,
+                        358.0,
+                        61.0
+                    ]
+                },
+                {
+                    "text": "SCHEDULE",
+                    "bbox": [
+                        366.0,
+                        45.0,
+                        439.0,
+                        60.0
+                    ]
+                },
+                {
+                    "text": "RECONCILIATION",
+                    "bbox": [
+                        448.0,
+                        45.0,
+                        576.0,
+                        61.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RECORDS MANAGEMENT DEPARTMENT - M/C",
+            "line_bbox": [
+                229.0,
+                75.0,
+                552.0,
+                90.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RECORDS",
+                    "bbox": [
+                        231.0,
+                        76.0,
+                        294.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "MANAGEMENT",
+                    "bbox": [
+                        302.0,
+                        75.0,
+                        395.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "DEPARTMENT",
+                    "bbox": [
+                        402.0,
+                        75.0,
+                        495.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        504.0,
+                        75.0,
+                        513.0,
+                        90.0
+                    ]
+                },
+                {
+                    "text": "M/C",
+                    "bbox": [
+                        521.0,
+                        75.0,
+                        550.0,
+                        91.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DEPARTMENT NAME",
+            "line_bbox": [
+                93.0,
+                137.0,
+                234.0,
+                152.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DEPARTMENT",
+                    "bbox": [
+                        94.0,
+                        138.0,
+                        186.0,
+                        153.0
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        192.0,
+                        138.0,
+                        230.0,
+                        152.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SCIENCE & TECHNOLOGY",
+            "line_bbox": [
+                321.0,
+                135.0,
+                507.0,
+                151.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SCIENCE",
+                    "bbox": [
+                        322.0,
+                        137.0,
+                        385.0,
+                        152.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        394.0,
+                        137.0,
+                        403.0,
+                        152.0
+                    ]
+                },
+                {
+                    "text": "TECHNOLOGY",
+                    "bbox": [
+                        413.0,
+                        136.0,
+                        504.0,
+                        151.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COST CENTER NUMBER",
+            "line_bbox": [
+                95.0,
+                182.0,
+                260.0,
+                197.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COST",
+                    "bbox": [
+                        95.0,
+                        183.0,
+                        130.0,
+                        198.0
+                    ]
+                },
+                {
+                    "text": "CENTER",
+                    "bbox": [
+                        139.0,
+                        183.0,
+                        193.0,
+                        198.0
+                    ]
+                },
+                {
+                    "text": "NUMBER",
+                    "bbox": [
+                        202.0,
+                        183.0,
+                        258.0,
+                        197.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "141",
+            "line_bbox": [
+                359.0,
+                182.0,
+                387.0,
+                195.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "141",
+                    "bbox": [
+                        360.0,
+                        182.0,
+                        385.0,
+                        195.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INDEX BINDERS CONSOLIDATED BY:",
+            "line_bbox": [
+                95.0,
+                242.0,
+                368.0,
+                257.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INDEX",
+                    "bbox": [
+                        96.0,
+                        243.0,
+                        139.0,
+                        258.0
+                    ]
+                },
+                {
+                    "text": "BINDERS",
+                    "bbox": [
+                        147.0,
+                        243.0,
+                        212.0,
+                        258.0
+                    ]
+                },
+                {
+                    "text": "CONSOLIDATED",
+                    "bbox": [
+                        221.0,
+                        243.0,
+                        331.0,
+                        258.0
+                    ]
+                },
+                {
+                    "text": "BY:",
+                    "bbox": [
+                        339.0,
+                        243.0,
+                        368.0,
+                        258.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "N/A",
+            "line_bbox": [
+                229.0,
+                289.0,
+                261.0,
+                302.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "N/A",
+                    "bbox": [
+                        230.0,
+                        289.0,
+                        257.0,
+                        302.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                467.0,
+                288.0,
+                506.0,
+                302.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        467.0,
+                        288.0,
+                        503.0,
+                        302.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "INDEX BINDER RE-LABELED BY:",
+            "line_bbox": [
+                94.0,
+                347.0,
+                342.0,
+                364.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "INDEX",
+                    "bbox": [
+                        95.0,
+                        348.0,
+                        139.0,
+                        365.0
+                    ]
+                },
+                {
+                    "text": "BINDER",
+                    "bbox": [
+                        147.0,
+                        348.0,
+                        204.0,
+                        364.0
+                    ]
+                },
+                {
+                    "text": "RE-LABELED",
+                    "bbox": [
+                        212.0,
+                        348.0,
+                        304.0,
+                        363.0
+                    ]
+                },
+                {
+                    "text": "BY:",
+                    "bbox": [
+                        311.0,
+                        348.0,
+                        342.0,
+                        363.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "\u00c0 Dario Mallory",
+            "line_bbox": [
+                73.0,
+                390.0,
+                287.0,
+                415.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "\u00c0",
+                    "bbox": [
+                        73.0,
+                        395.0,
+                        85.0,
+                        411.0
+                    ]
+                },
+                {
+                    "text": "Dario",
+                    "bbox": [
+                        116.0,
+                        390.0,
+                        167.0,
+                        411.0
+                    ]
+                },
+                {
+                    "text": "Mallory",
+                    "bbox": [
+                        193.0,
+                        390.0,
+                        281.0,
+                        416.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                466.0,
+                393.0,
+                505.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        467.0,
+                        393.0,
+                        504.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2/15/90",
+            "line_bbox": [
+                557.0,
+                391.0,
+                625.0,
+                406.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2/15/90",
+                    "bbox": [
+                        559.0,
+                        392.0,
+                        621.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RETENTION & RECOMMENDATION FILE REORGANIZED AND RE-LABELED BY:",
+            "line_bbox": [
+                93.0,
+                452.0,
+                659.0,
+                469.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RETENTION",
+                    "bbox": [
+                        94.0,
+                        453.0,
+                        175.0,
+                        470.0
+                    ]
+                },
+                {
+                    "text": "&",
+                    "bbox": [
+                        185.0,
+                        453.0,
+                        195.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "RECOMMENDATION",
+                    "bbox": [
+                        203.0,
+                        453.0,
+                        331.0,
+                        469.0
+                    ]
+                },
+                {
+                    "text": "FILE",
+                    "bbox": [
+                        339.0,
+                        453.0,
+                        377.0,
+                        468.0
+                    ]
+                },
+                {
+                    "text": "REORGANIZED",
+                    "bbox": [
+                        384.0,
+                        453.0,
+                        485.0,
+                        468.0
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "bbox": [
+                        495.0,
+                        453.0,
+                        522.0,
+                        468.0
+                    ]
+                },
+                {
+                    "text": "RE-LABELED",
+                    "bbox": [
+                        531.0,
+                        453.0,
+                        623.0,
+                        468.0
+                    ]
+                },
+                {
+                    "text": "BY:",
+                    "bbox": [
+                        631.0,
+                        453.0,
+                        659.0,
+                        468.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "N/A",
+            "line_bbox": [
+                229.0,
+                499.0,
+                262.0,
+                513.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "N/A",
+                    "bbox": [
+                        230.0,
+                        499.0,
+                        258.0,
+                        513.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                467.0,
+                499.0,
+                507.0,
+                513.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        468.0,
+                        499.0,
+                        503.0,
+                        513.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RECORDS RETENTION SCHEDULE PLACED IN INDEX BINDER AND IN FILE BY:",
+            "line_bbox": [
+                94.0,
+                558.0,
+                686.0,
+                575.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RECORDS",
+                    "bbox": [
+                        95.0,
+                        560.0,
+                        158.0,
+                        576.0
+                    ]
+                },
+                {
+                    "text": "RETENTION",
+                    "bbox": [
+                        166.0,
+                        559.0,
+                        249.0,
+                        576.0
+                    ]
+                },
+                {
+                    "text": "SCHEDULE",
+                    "bbox": [
+                        257.0,
+                        559.0,
+                        330.0,
+                        576.0
+                    ]
+                },
+                {
+                    "text": "PLACED",
+                    "bbox": [
+                        339.0,
+                        559.0,
+                        395.0,
+                        575.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        404.0,
+                        559.0,
+                        421.0,
+                        575.0
+                    ]
+                },
+                {
+                    "text": "INDEX",
+                    "bbox": [
+                        431.0,
+                        559.0,
+                        477.0,
+                        575.0
+                    ]
+                },
+                {
+                    "text": "BINDER",
+                    "bbox": [
+                        484.0,
+                        559.0,
+                        540.0,
+                        575.0
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "bbox": [
+                        549.0,
+                        559.0,
+                        577.0,
+                        575.0
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "bbox": [
+                        585.0,
+                        559.0,
+                        603.0,
+                        575.0
+                    ]
+                },
+                {
+                    "text": "FILE",
+                    "bbox": [
+                        612.0,
+                        559.0,
+                        649.0,
+                        574.0
+                    ]
+                },
+                {
+                    "text": "BY:",
+                    "bbox": [
+                        657.0,
+                        559.0,
+                        686.0,
+                        574.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Wayne Baughan",
+            "line_bbox": [
+                156.0,
+                593.0,
+                309.0,
+                627.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "Wayne",
+                    "bbox": [
+                        157.0,
+                        593.0,
+                        217.0,
+                        626.0
+                    ]
+                },
+                {
+                    "text": "Baughan",
+                    "bbox": [
+                        226.0,
+                        593.0,
+                        307.0,
+                        628.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                468.0,
+                604.0,
+                505.0,
+                618.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        468.0,
+                        604.0,
+                        504.0,
+                        618.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "4/18/90",
+            "line_bbox": [
+                559.0,
+                604.0,
+                625.0,
+                619.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "4/18/90",
+                    "bbox": [
+                        560.0,
+                        604.0,
+                        622.0,
+                        620.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "0",
+            "line_bbox": [
+                265.0,
+                617.0,
+                281.0,
+                640.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "0",
+                    "bbox": [
+                        265.0,
+                        629.0,
+                        281.0,
+                        640.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "BOXES CREATED FOR HARD COPY PERMANENT RETENTION RECORDS BY:",
+            "line_bbox": [
+                93.0,
+                665.0,
+                633.0,
+                681.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "BOXES",
+                    "bbox": [
+                        94.0,
+                        667.0,
+                        139.0,
+                        682.0
+                    ]
+                },
+                {
+                    "text": "CREATED",
+                    "bbox": [
+                        148.0,
+                        666.0,
+                        213.0,
+                        682.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        220.0,
+                        666.0,
+                        249.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "HARD",
+                    "bbox": [
+                        256.0,
+                        665.0,
+                        295.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "COPY",
+                    "bbox": [
+                        304.0,
+                        665.0,
+                        340.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "PERMANENT",
+                    "bbox": [
+                        349.0,
+                        665.0,
+                        432.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "RETENTION",
+                    "bbox": [
+                        439.0,
+                        665.0,
+                        522.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "RECORDS",
+                    "bbox": [
+                        530.0,
+                        665.0,
+                        595.0,
+                        681.0
+                    ]
+                },
+                {
+                    "text": "BY:",
+                    "bbox": [
+                        603.0,
+                        666.0,
+                        632.0,
+                        680.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "N/A",
+            "line_bbox": [
+                230.0,
+                711.0,
+                263.0,
+                725.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "N/A",
+                    "bbox": [
+                        230.0,
+                        711.0,
+                        258.0,
+                        725.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                468.0,
+                711.0,
+                506.0,
+                725.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        468.0,
+                        711.0,
+                        504.0,
+                        725.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2051119008",
+            "line_bbox": [
+                721.0,
+                763.0,
+                743.0,
+                905.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2051119008",
+                    "bbox": [
+                        721.0,
+                        764.0,
+                        744.0,
+                        902.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RECORDS TRANSFER INVENTORY FORMS UPDATED BY:",
+            "line_bbox": [
+                94.0,
+                769.0,
+                496.0,
+                788.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RECORDS",
+                    "bbox": [
+                        94.0,
+                        771.0,
+                        159.0,
+                        789.0
+                    ]
+                },
+                {
+                    "text": "TRANSFER",
+                    "bbox": [
+                        167.0,
+                        771.0,
+                        241.0,
+                        788.0
+                    ]
+                },
+                {
+                    "text": "INVENTORY",
+                    "bbox": [
+                        249.0,
+                        771.0,
+                        332.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "FORMS",
+                    "bbox": [
+                        340.0,
+                        770.0,
+                        387.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "UPDATED",
+                    "bbox": [
+                        395.0,
+                        770.0,
+                        459.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "BY:",
+                    "bbox": [
+                        467.0,
+                        770.0,
+                        497.0,
+                        787.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Wayne Baughan",
+            "line_bbox": [
+                156.0,
+                798.0,
+                318.0,
+                839.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "Wayne",
+                    "bbox": [
+                        156.0,
+                        798.0,
+                        225.0,
+                        839.0
+                    ]
+                },
+                {
+                    "text": "Baughan",
+                    "bbox": [
+                        231.0,
+                        799.0,
+                        317.0,
+                        839.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                468.0,
+                816.0,
+                507.0,
+                830.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        468.0,
+                        816.0,
+                        504.0,
+                        830.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "7/25/90",
+            "line_bbox": [
+                560.0,
+                815.0,
+                625.0,
+                830.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "7/25/90",
+                    "bbox": [
+                        561.0,
+                        815.0,
+                        622.0,
+                        831.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

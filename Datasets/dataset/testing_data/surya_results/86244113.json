@@ -1,0 +1,388 @@
+{
+    "text_lines": [
+        {
+            "text": "DIVISION:",
+            "bbox": [
+                37.0,
+                142.0,
+                118.0,
+                155.0
+            ]
+        },
+        {
+            "text": "DATES:",
+            "bbox": [
+                488.0,
+                142.0,
+                537.0,
+                155.0
+            ]
+        },
+        {
+            "text": "ACCOUNT: _",
+            "bbox": [
+                37.0,
+                170.0,
+                118.0,
+                184.0
+            ]
+        },
+        {
+            "text": "INVENTORY FOR: __",
+            "bbox": [
+                37.0,
+                197.0,
+                157.0,
+                211.0
+            ]
+        },
+        {
+            "text": "{STATE}",
+            "bbox": [
+                165.0,
+                210.0,
+                218.0,
+                224.0
+            ]
+        },
+        {
+            "text": "DIRECT ACCOUNT STATUS REPORT",
+            "bbox": [
+                165.0,
+                267.0,
+                533.0,
+                294.0
+            ]
+        },
+        {
+            "text": "# OF CARTONS",
+            "bbox": [
+                234.0,
+                326.0,
+                325.0,
+                340.0
+            ]
+        },
+        {
+            "text": "AVERAGE WEEKLY",
+            "bbox": [
+                352.0,
+                326.0,
+                461.0,
+                340.0
+            ]
+        },
+        {
+            "text": "# OF WEEKS",
+            "bbox": [
+                490.0,
+                326.0,
+                566.0,
+                340.0
+            ]
+        },
+        {
+            "text": "BRAND",
+            "bbox": [
+                37.0,
+                340.0,
+                82.0,
+                356.0
+            ]
+        },
+        {
+            "text": "ON HAND",
+            "bbox": [
+                505.0,
+                340.0,
+                564.0,
+                356.0
+            ]
+        },
+        {
+            "text": "ON HAND",
+            "bbox": [
+                249.0,
+                341.0,
+                307.0,
+                355.0
+            ]
+        },
+        {
+            "text": "MOVEMENT",
+            "bbox": [
+                371.0,
+                341.0,
+                442.0,
+                355.0
+            ]
+        },
+        {
+            "text": "STYLE LIGHT 100'S",
+            "bbox": [
+                38.0,
+                368.0,
+                150.0,
+                382.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                259.0,
+                372.0,
+                326.0,
+                386.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                355.0,
+                372.0,
+                444.0,
+                385.0
+            ]
+        },
+        {
+            "text": "STYLE  LIGHT MENTHOL 100'S",
+            "bbox": [
+                38.0,
+                395.0,
+                208.0,
+                411.0
+            ]
+        },
+        {
+            "text": "STYLE  LIGHT BOX 100'S",
+            "bbox": [
+                38.0,
+                422.0,
+                177.0,
+                438.0
+            ]
+        },
+        {
+            "text": "STYLE  MEN, LIGHT BOX 100'S",
+            "bbox": [
+                37.0,
+                449.0,
+                207.0,
+                465.0
+            ]
+        },
+        {
+            "text": "STYLE SLIM LIGHT 100'S",
+            "bbox": [
+                37.0,
+                477.0,
+                185.0,
+                493.0
+            ]
+        },
+        {
+            "text": "STYLE SLIM MEN. LT. 100'S",
+            "bbox": [
+                37.0,
+                505.0,
+                192.0,
+                519.0
+            ]
+        },
+        {
+            "text": "NOTE:  REPORT STYLE INVENTORY ONLY.",
+            "bbox": [
+                37.0,
+                587.0,
+                294.0,
+                603.0
+            ]
+        },
+        {
+            "text": "SUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT.",
+            "bbox": [
+                84.0,
+                615.0,
+                509.0,
+                629.0
+            ]
+        },
+        {
+            "text": "CC:  REGIONAL SALES MANAGER, ALL DIVISIONS SERVICED BY THIS ACCOUNT.",
+            "bbox": [
+                83.0,
+                641.0,
+                566.0,
+                657.0
+            ]
+        },
+        {
+            "text": "co",
+            "bbox": [
+                669.0,
+                701.0,
+                689.0,
+                713.0
+            ]
+        },
+        {
+            "text": "ACTION PLAN: ",
+            "bbox": [
+                37.0,
+                710.0,
+                124.0,
+                726.0
+            ]
+        },
+        {
+            "text": "o",
+            "bbox": [
+                668.0,
+                714.0,
+                690.0,
+                726.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                667.0,
+                727.0,
+                689.0,
+                739.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                64.0,
+                730.0,
+                554.0,
+                749.0
+            ]
+        },
+        {
+            "text": "4",
+            "bbox": [
+                668.0,
+                740.0,
+                688.0,
+                752.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                226.0,
+                751.0,
+                519.0,
+                767.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                72.0,
+                753.0,
+                209.0,
+                761.0
+            ]
+        },
+        {
+            "text": "4",
+            "bbox": [
+                667.0,
+                752.0,
+                688.0,
+                765.0
+            ]
+        },
+        {
+            "text": "\ufe8e\ufeb3\ufeb4",
+            "bbox": [
+                669.0,
+                765.0,
+                687.0,
+                775.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                62.0,
+                771.0,
+                598.0,
+                786.0
+            ]
+        },
+        {
+            "text": "\ufe8b\ufbe9\ufeb4",
+            "bbox": [
+                668.0,
+                776.0,
+                686.0,
+                788.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                135.0,
+                790.0,
+                564.0,
+                806.0
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                665.0,
+                790.0,
+                686.0,
+                802.0
+            ]
+        },
+        {
+            "text": "and and and the first of the submit and the submit and the management of the submit and the management of the submit and the submit and the management of the second on the s",
+            "bbox": [
+                56.0,
+                809.0,
+                250.0,
+                822.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                72.0,
+                827.0,
+                586.0,
+                842.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                128.0,
+                864.0,
+                576.0,
+                880.0
+            ]
+        },
+        {
+            "text": "STYLEREP",
+            "bbox": [
+                618.0,
+                914.0,
+                672.0,
+                928.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

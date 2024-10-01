@@ -1,0 +1,397 @@
+{
+    "text_lines": [
+        {
+            "text": "P.O. 1534 REV. 7/75",
+            "bbox": [
+                470.0,
+                14.0,
+                570.0,
+                23.0
+            ]
+        },
+        {
+            "text": "PURCHASE REQUISITION",
+            "bbox": [
+                251.0,
+                24.0,
+                429.0,
+                38.0
+            ]
+        },
+        {
+            "text": "PURCHASING",
+            "bbox": [
+                32.0,
+                25.0,
+                122.0,
+                38.0
+            ]
+        },
+        {
+            "text": "LT-9-75",
+            "bbox": [
+                534.0,
+                25.0,
+                570.0,
+                32.0
+            ]
+        },
+        {
+            "text": "STATIONARY",
+            "bbox": [
+                31.0,
+                40.0,
+                127.0,
+                54.0
+            ]
+        },
+        {
+            "text": "PLEASE INCLUDE ONLY ONE TYPE OF MATERIAL ON THIS REQUISITION",
+            "bbox": [
+                158.0,
+                40.0,
+                534.0,
+                53.0
+            ]
+        },
+        {
+            "text": "FOR PURCHASING DEPARTMENT USE ONLY",
+            "bbox": [
+                186.0,
+                56.0,
+                413.0,
+                68.0
+            ]
+        },
+        {
+            "text": "ORDER NO",
+            "bbox": [
+                578.0,
+                57.0,
+                633.0,
+                66.0
+            ]
+        },
+        {
+            "text": "VENDOR",
+            "bbox": [
+                14.0,
+                60.0,
+                59.0,
+                71.0
+            ]
+        },
+        {
+            "text": "20816",
+            "bbox": [
+                451.0,
+                67.0,
+                501.0,
+                81.0
+            ]
+        },
+        {
+            "text": "Microbiological Associates , 5221 River Rd., Bethesda, MD",
+            "bbox": [
+                10.0,
+                72.0,
+                446.0,
+                83.0
+            ]
+        },
+        {
+            "text": "N/A",
+            "bbox": [
+                265.0,
+                100.0,
+                308.0,
+                115.0
+            ]
+        },
+        {
+            "text": "N/A",
+            "bbox": [
+                423.0,
+                100.0,
+                452.0,
+                113.0
+            ]
+        },
+        {
+            "text": "F.O.B.",
+            "bbox": [
+                199.0,
+                103.0,
+                243.0,
+                116.0
+            ]
+        },
+        {
+            "text": "VIA",
+            "bbox": [
+                371.0,
+                103.0,
+                393.0,
+                115.0
+            ]
+        },
+        {
+            "text": "TERMS 15 Net",
+            "bbox": [
+                41.0,
+                104.0,
+                137.0,
+                117.0
+            ]
+        },
+        {
+            "text": "DATE WANTED",
+            "bbox": [
+                503.0,
+                114.0,
+                582.0,
+                128.0
+            ]
+        },
+        {
+            "text": "SHIP TO (DEPT., BRANCH)",
+            "bbox": [
+                14.0,
+                119.0,
+                149.0,
+                132.0
+            ]
+        },
+        {
+            "text": "As required",
+            "bbox": [
+                534.0,
+                127.0,
+                624.0,
+                143.0
+            ]
+        },
+        {
+            "text": "Attn: Dr. Harry Minnemeyer",
+            "bbox": [
+                242.0,
+                130.0,
+                442.0,
+                145.0
+            ]
+        },
+        {
+            "text": "Lorillard Research Center",
+            "bbox": [
+                13.0,
+                133.0,
+                236.0,
+                146.0
+            ]
+        },
+        {
+            "text": "P. O. Box 21688, Greensboro, N. C. 27420",
+            "bbox": [
+                11.0,
+                161.0,
+                317.0,
+                175.0
+            ]
+        },
+        {
+            "text": "- UNIT PRICE",
+            "bbox": [
+                642.0,
+                188.0,
+                711.0,
+                202.0
+            ]
+        },
+        {
+            "text": "DESCRIPTION",
+            "bbox": [
+                372.0,
+                189.0,
+                451.0,
+                203.0
+            ]
+        },
+        {
+            "text": "QUANTITY-",
+            "bbox": [
+                23.0,
+                190.0,
+                86.0,
+                205.0
+            ]
+        },
+        {
+            "text": "CODE",
+            "bbox": [
+                134.0,
+                190.0,
+                180.0,
+                205.0
+            ]
+        },
+        {
+            "text": "This is your authorization to provide the \"1601:013: The Effect of Inhalation .",
+            "bbox": [
+                102.0,
+                222.0,
+                692.0,
+                234.0
+            ]
+        },
+        {
+            "text": "of Reference and Test (D3 and D4) Cigarette Smoke on Two Cytogenetic Endpoints",
+            "bbox": [
+                100.0,
+                245.0,
+                691.0,
+                259.0
+            ]
+        },
+        {
+            "text": "in Mice: Chromosome Aberrations and Sister Chromatid Exchange\" test for a",
+            "bbox": [
+                102.0,
+                276.0,
+                658.0,
+                289.0
+            ]
+        },
+        {
+            "text": "fixed price of $19,750. Tests will be performed in accordance with the",
+            "bbox": [
+                102.0,
+                299.0,
+                650.0,
+                312.0
+            ]
+        },
+        {
+            "text": "December 21, 1981 formal agreement between Microbiological Associates and",
+            "bbox": [
+                102.0,
+                329.0,
+                655.0,
+                344.0
+            ]
+        },
+        {
+            "text": "Lorillard. All work is to be coordinated with our Dr. Harry Minnemeyer",
+            "bbox": [
+                102.0,
+                354.0,
+                639.0,
+                367.0
+            ]
+        },
+        {
+            "text": "(919) 373-6603.",
+            "bbox": [
+                105.0,
+                385.0,
+                215.0,
+                400.0
+            ]
+        },
+        {
+            "text": "REQUISITION NO.",
+            "bbox": [
+                335.0,
+                653.0,
+                433.0,
+                669.0
+            ]
+        },
+        {
+            "text": "ISSUED BY",
+            "bbox": [
+                587.0,
+                653.0,
+                654.0,
+                669.0
+            ]
+        },
+        {
+            "text": "FOLLOW UP DATE",
+            "bbox": [
+                90.0,
+                655.0,
+                184.0,
+                669.0
+            ]
+        },
+        {
+            "text": "00922237",
+            "bbox": [
+                587.0,
+                675.0,
+                681.0,
+                692.0
+            ]
+        },
+        {
+            "text": "DEPT. NO.",
+            "bbox": [
+                413.0,
+                708.0,
+                474.0,
+                722.0
+            ]
+        },
+        {
+            "text": "APPROVED BY",
+            "bbox": [
+                582.0,
+                709.0,
+                658.0,
+                722.0
+            ]
+        },
+        {
+            "text": "BUDGET NO.",
+            "bbox": [
+                105.0,
+                710.0,
+                178.0,
+                723.0
+            ]
+        },
+        {
+            "text": "ACCT. NO.",
+            "bbox": [
+                285.0,
+                711.0,
+                347.0,
+                723.0
+            ]
+        },
+        {
+            "text": "9590",
+            "bbox": [
+                428.0,
+                733.0,
+                465.0,
+                747.0
+            ]
+        },
+        {
+            "text": "4111",
+            "bbox": [
+                277.0,
+                735.0,
+                311.0,
+                749.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        766.0,
+        1000.0
+    ]
+}

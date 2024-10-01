@@ -1,0 +1,694 @@
+{
+    "text_lines": [
+        {
+            "text": "Executive Offices",
+            "bbox": [
+                297.0,
+                36.0,
+                394.0,
+                52.0
+            ]
+        },
+        {
+            "text": "23-7773",
+            "bbox": [
+                495.0,
+                56.0,
+                543.0,
+                69.0
+            ]
+        },
+        {
+            "text": "PLAZA \u00b7 NEW YORK, NEW YORK",
+            "bbox": [
+                266.0,
+                58.0,
+                480.0,
+                71.0
+            ]
+        },
+        {
+            "text": "1 GULF + WESTE",
+            "bbox": [
+                150.0,
+                60.0,
+                247.0,
+                74.0
+            ]
+        },
+        {
+            "text": "(212) 373-7500",
+            "bbox": [
+                303.0,
+                73.0,
+                391.0,
+                86.0
+            ]
+        },
+        {
+            "text": "PRENTICE HALL CORPORATE SERVICES",
+            "bbox": [
+                130.0,
+                93.0,
+                564.0,
+                112.0
+            ]
+        },
+        {
+            "text": "The Prentice-Hall Corporation System, Inc.",
+            "bbox": [
+                434.0,
+                124.0,
+                671.0,
+                140.0
+            ]
+        },
+        {
+            "text": "United States Corporation Company",
+            "bbox": [
+                24.0,
+                131.0,
+                225.0,
+                144.0
+            ]
+        },
+        {
+            "text": "12-13-89",
+            "bbox": [
+                85.0,
+                152.0,
+                147.0,
+                166.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                24.0,
+                157.0,
+                66.0,
+                170.0
+            ]
+        },
+        {
+            "text": "13951",
+            "bbox": [
+                493.0,
+                162.0,
+                582.0,
+                175.0
+            ]
+        },
+        {
+            "text": "u",
+            "bbox": [
+                582.0,
+                162.0,
+                616.0,
+                174.0
+            ]
+        },
+        {
+            "text": "LORILLARD, INC.",
+            "bbox": [
+                85.0,
+                181.0,
+                198.0,
+                194.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                25.0,
+                183.0,
+                52.0,
+                196.0
+            ]
+        },
+        {
+            "text": "ONE PARK AVENUE 18TH FL",
+            "bbox": [
+                85.0,
+                197.0,
+                254.0,
+                207.0
+            ]
+        },
+        {
+            "text": "NEW YORK, N.Y. 10016",
+            "bbox": [
+                86.0,
+                212.0,
+                234.0,
+                223.0
+            ]
+        },
+        {
+            "text": "MOTOR CARRIER",
+            "bbox": [
+                446.0,
+                218.0,
+                552.0,
+                231.0
+            ]
+        },
+        {
+            "text": "ATTN: MR. ARTHUR STEVENS, ESQ.A. J. STEVENS",
+            "bbox": [
+                85.0,
+                225.0,
+                399.0,
+                233.0
+            ]
+        },
+        {
+            "text": "OR",
+            "bbox": [
+                481.0,
+                234.0,
+                504.0,
+                245.0
+            ]
+        },
+        {
+            "text": "x",
+            "bbox": [
+                545.0,
+                241.0,
+                557.0,
+                254.0
+            ]
+        },
+        {
+            "text": "STATUTORY",
+            "bbox": [
+                447.0,
+                247.0,
+                521.0,
+                260.0
+            ]
+        },
+        {
+            "text": "033052",
+            "bbox": [
+                546.0,
+                265.0,
+                592.0,
+                279.0
+            ]
+        },
+        {
+            "text": "LORILLARD, INC.",
+            "bbox": [
+                87.0,
+                275.0,
+                200.0,
+                290.0
+            ]
+        },
+        {
+            "text": "Account #",
+            "bbox": [
+                447.0,
+                278.0,
+                508.0,
+                291.0
+            ]
+        },
+        {
+            "text": "RE::",
+            "bbox": [
+                27.0,
+                284.0,
+                57.0,
+                298.0
+            ]
+        },
+        {
+            "text": "(Represented Company)",
+            "bbox": [
+                161.0,
+                295.0,
+                295.0,
+                309.0
+            ]
+        },
+        {
+            "text": "NOTICE OF SERVICE OF PROCESS",
+            "bbox": [
+                241.0,
+                319.0,
+                479.0,
+                331.0
+            ]
+        },
+        {
+            "text": "We enclose the following documents which were served upon:",
+            "bbox": [
+                51.0,
+                336.0,
+                394.0,
+                348.0
+            ]
+        },
+        {
+            "text": "UNITED STATES CORPORATION COMFANY IN TEXAS",
+            "bbox": [
+                136.0,
+                352.0,
+                515.0,
+                362.0
+            ]
+        },
+        {
+            "text": "as registered agent for the above-captioned corporation on_12=13-89_ via:",
+            "bbox": [
+                36.0,
+                381.0,
+                457.0,
+                391.0
+            ]
+        },
+        {
+            "text": "Certified #",
+            "bbox": [
+                519.0,
+                397.0,
+                582.0,
+                410.0
+            ]
+        },
+        {
+            "text": "_ or Certified",
+            "bbox": [
+                395.0,
+                399.0,
+                473.0,
+                412.0
+            ]
+        },
+        {
+            "text": "Personal Service ______ Mail: Regular",
+            "bbox": [
+                136.0,
+                401.0,
+                356.0,
+                413.0
+            ]
+        },
+        {
+            "text": "Notice of Mechanic's Lien",
+            "bbox": [
+                521.0,
+                428.0,
+                665.0,
+                438.0
+            ]
+        },
+        {
+            "text": "A self-addressed stamped",
+            "bbox": [
+                316.0,
+                429.0,
+                458.0,
+                442.0
+            ]
+        },
+        {
+            "text": "Summons",
+            "bbox": [
+                66.0,
+                433.0,
+                124.0,
+                445.0
+            ]
+        },
+        {
+            "text": "Notice of Default Judgment",
+            "bbox": [
+                522.0,
+                445.0,
+                674.0,
+                459.0
+            ]
+        },
+        {
+            "text": "envelope enclosed",
+            "bbox": [
+                316.0,
+                448.0,
+                421.0,
+                461.0
+            ]
+        },
+        {
+            "text": "Complaint",
+            "bbox": [
+                67.0,
+                451.0,
+                124.0,
+                465.0
+            ]
+        },
+        {
+            "text": "Subpoena",
+            "bbox": [
+                523.0,
+                464.0,
+                580.0,
+                478.0
+            ]
+        },
+        {
+            "text": "Garnishment",
+            "bbox": [
+                315.0,
+                467.0,
+                389.0,
+                481.0
+            ]
+        },
+        {
+            "text": "Duplicate copies of the Notice and",
+            "bbox": [
+                67.0,
+                471.0,
+                249.0,
+                482.0
+            ]
+        },
+        {
+            "text": "Notice of Attorney's Lien",
+            "bbox": [
+                315.0,
+                485.0,
+                453.0,
+                499.0
+            ]
+        },
+        {
+            "text": "Acknowledgement enclosed",
+            "bbox": [
+                68.0,
+                490.0,
+                220.0,
+                501.0
+            ]
+        },
+        {
+            "text": "CITATION AND FIRST ORIGINAL PETITION",
+            "bbox": [
+                116.0,
+                504.0,
+                390.0,
+                514.0
+            ]
+        },
+        {
+            "text": "X _ Other: _",
+            "bbox": [
+                48.0,
+                509.0,
+                119.0,
+                521.0
+            ]
+        },
+        {
+            "text": "TITLE OF ACTION: ",
+            "bbox": [
+                30.0,
+                560.0,
+                268.0,
+                573.0
+            ]
+        },
+        {
+            "text": "Case No. _ 475,592",
+            "bbox": [
+                492.0,
+                569.0,
+                614.0,
+                578.0
+            ]
+        },
+        {
+            "text": "vs.",
+            "bbox": [
+                30.0,
+                589.0,
+                50.0,
+                601.0
+            ]
+        },
+        {
+            "text": "R. J. REYNOLDS TOBACCO COMPANY, ET AL",
+            "bbox": [
+                91.0,
+                598.0,
+                364.0,
+                607.0
+            ]
+        },
+        {
+            "text": "345th Judicial District Court Travis County, Tx",
+            "bbox": [
+                199.0,
+                630.0,
+                544.0,
+                639.0
+            ]
+        },
+        {
+            "text": "COURT OR JURISDICTION _",
+            "bbox": [
+                30.0,
+                635.0,
+                203.0,
+                647.0
+            ]
+        },
+        {
+            "text": "Monday next 20 days from date of service",
+            "bbox": [
+                143.0,
+                647.0,
+                437.0,
+                655.0
+            ]
+        },
+        {
+            "text": "RETURN DATE",
+            "bbox": [
+                30.0,
+                655.0,
+                120.0,
+                669.0
+            ]
+        },
+        {
+            "text": "Agent called New York Office.",
+            "bbox": [
+                463.0,
+                672.0,
+                638.0,
+                685.0
+            ]
+        },
+        {
+            "text": "Tel Call Placed Direct _____ Collect ____ Spoke to",
+            "bbox": [
+                29.0,
+                678.0,
+                328.0,
+                689.0
+            ]
+        },
+        {
+            "text": "COMMENTS:",
+            "bbox": [
+                30.0,
+                699.0,
+                111.0,
+                712.0
+            ]
+        },
+        {
+            "text": "Mary Ellen Felps",
+            "bbox": [
+                211.0,
+                737.0,
+                331.0,
+                753.0
+            ]
+        },
+        {
+            "text": "ATTORNEYS FOR CLAIMANT",
+            "bbox": [
+                32.0,
+                745.0,
+                200.0,
+                758.0
+            ]
+        },
+        {
+            "text": "1000 West Ave.",
+            "bbox": [
+                212.0,
+                751.0,
+                314.0,
+                765.0
+            ]
+        },
+        {
+            "text": "Austin, Tx. 78701",
+            "bbox": [
+                212.0,
+                767.0,
+                338.0,
+                780.0
+            ]
+        },
+        {
+            "text": "4 \"",
+            "bbox": [
+                454.0,
+                786.0,
+                467.0,
+                800.0
+            ]
+        },
+        {
+            "text": "Profet 478-4873",
+            "bbox": [
+                489.0,
+                788.0,
+                582.0,
+                801.0
+            ]
+        },
+        {
+            "text": "PAPERS TRANSMITTED TO CLIENT",
+            "bbox": [
+                32.0,
+                823.0,
+                240.0,
+                837.0
+            ]
+        },
+        {
+            "text": "6508E2",
+            "bbox": [
+                704.0,
+                826.0,
+                725.0,
+                880.0
+            ]
+        },
+        {
+            "text": "Fed-X",
+            "bbox": [
+                32.0,
+                838.0,
+                72.0,
+                851.0
+            ]
+        },
+        {
+            "text": "Reg. Mail",
+            "bbox": [
+                147.0,
+                837.0,
+                204.0,
+                850.0
+            ]
+        },
+        {
+            "text": "x",
+            "bbox": [
+                98.0,
+                840.0,
+                113.0,
+                852.0
+            ]
+        },
+        {
+            "text": "FORM PREPARED BY _PAT WIGGINS",
+            "bbox": [
+                349.0,
+                847.0,
+                578.0,
+                856.0
+            ]
+        },
+        {
+            "text": "Other",
+            "bbox": [
+                32.0,
+                851.0,
+                68.0,
+                865.0
+            ]
+        },
+        {
+            "text": "PLEASE ACKNOWLEDGE RECEIPT OF THIS NOTICE AND THE ENCLOSURES BY SIGNING AND REJURJING THE",
+            "bbox": [
+                29.0,
+                880.0,
+                674.0,
+                889.0
+            ]
+        },
+        {
+            "text": "JUPLICATE COPY. A BUSINESS REPLY ENVELOPE IS ENCLOSED FOR YOUR CONVENIENCE",
+            "bbox": [
+                30.0,
+                894.0,
+                581.0,
+                904.0
+            ]
+        },
+        {
+            "text": "Signed:",
+            "bbox": [
+                444.0,
+                921.0,
+                488.0,
+                935.0
+            ]
+        },
+        {
+            "text": "12",
+            "bbox": [
+                142.0,
+                923.0,
+                171.0,
+                935.0
+            ]
+        },
+        {
+            "text": "Jate Received:",
+            "bbox": [
+                31.0,
+                926.0,
+                118.0,
+                939.0
+            ]
+        },
+        {
+            "text": "ORIGINAL",
+            "bbox": [
+                340.0,
+                945.0,
+                401.0,
+                958.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        802.0,
+        1000.0
+    ]
+}

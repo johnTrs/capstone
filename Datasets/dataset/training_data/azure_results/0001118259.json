@@ -1,0 +1,1111 @@
+{
+    "text_lines": [
+        {
+            "line_text": "Reconstituted Tobacco Leaf Substitutions",
+            "line_bbox": [
+                510.0,
+                50.0,
+                728.0,
+                70.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Reconstituted",
+                    "bbox": [
+                        511.0,
+                        51.0,
+                        583.0,
+                        67.0
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "bbox": [
+                        586.0,
+                        52.0,
+                        628.0,
+                        68.0
+                    ]
+                },
+                {
+                    "text": "Leaf",
+                    "bbox": [
+                        630.0,
+                        53.0,
+                        655.0,
+                        68.0
+                    ]
+                },
+                {
+                    "text": "Substitutions",
+                    "bbox": [
+                        657.0,
+                        54.0,
+                        729.0,
+                        70.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "B&W",
+            "line_bbox": [
+                215.0,
+                74.0,
+                261.0,
+                91.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "B&W",
+                    "bbox": [
+                        217.0,
+                        74.0,
+                        250.0,
+                        91.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Export Formulas",
+            "line_bbox": [
+                633.0,
+                69.0,
+                728.0,
+                84.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Export",
+                    "bbox": [
+                        633.0,
+                        70.0,
+                        670.0,
+                        82.0
+                    ]
+                },
+                {
+                    "text": "Formulas",
+                    "bbox": [
+                        672.0,
+                        70.0,
+                        728.0,
+                        85.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Revision Date: 05/11/95",
+            "line_bbox": [
+                598.0,
+                82.0,
+                727.0,
+                98.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Revision",
+                    "bbox": [
+                        599.0,
+                        82.0,
+                        644.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "Date:",
+                    "bbox": [
+                        646.0,
+                        83.0,
+                        675.0,
+                        97.0
+                    ]
+                },
+                {
+                    "text": "05/11/95",
+                    "bbox": [
+                        677.0,
+                        84.0,
+                        726.0,
+                        98.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Allowable Grade Substitutions",
+            "line_bbox": [
+                253.0,
+                151.0,
+                512.0,
+                175.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Allowable",
+                    "bbox": [
+                        253.0,
+                        151.0,
+                        337.0,
+                        173.0
+                    ]
+                },
+                {
+                    "text": "Grade",
+                    "bbox": [
+                        340.0,
+                        153.0,
+                        391.0,
+                        174.0
+                    ]
+                },
+                {
+                    "text": "Substitutions",
+                    "bbox": [
+                        394.0,
+                        154.0,
+                        509.0,
+                        175.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "for Export CPCL",
+            "line_bbox": [
+                312.0,
+                174.0,
+                452.0,
+                195.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "for",
+                    "bbox": [
+                        313.0,
+                        175.0,
+                        336.0,
+                        194.0
+                    ]
+                },
+                {
+                    "text": "Export",
+                    "bbox": [
+                        339.0,
+                        175.0,
+                        397.0,
+                        195.0
+                    ]
+                },
+                {
+                    "text": "CPCL",
+                    "bbox": [
+                        400.0,
+                        175.0,
+                        450.0,
+                        196.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Standard Grade Mark",
+            "line_bbox": [
+                148.0,
+                253.0,
+                328.0,
+                274.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Standard",
+                    "bbox": [
+                        148.0,
+                        254.0,
+                        223.0,
+                        273.0
+                    ]
+                },
+                {
+                    "text": "Grade",
+                    "bbox": [
+                        227.0,
+                        255.0,
+                        279.0,
+                        274.0
+                    ]
+                },
+                {
+                    "text": "Mark",
+                    "bbox": [
+                        282.0,
+                        256.0,
+                        326.0,
+                        275.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Allowable Substitutions",
+            "line_bbox": [
+                409.0,
+                256.0,
+                610.0,
+                280.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Allowable",
+                    "bbox": [
+                        410.0,
+                        257.0,
+                        491.0,
+                        278.0
+                    ]
+                },
+                {
+                    "text": "Substitutions",
+                    "bbox": [
+                        495.0,
+                        259.0,
+                        609.0,
+                        280.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PCFS",
+            "line_bbox": [
+                102.0,
+                283.0,
+                152.0,
+                301.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PCFS",
+                    "bbox": [
+                        105.0,
+                        284.0,
+                        146.0,
+                        301.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Flue cured fines",
+            "line_bbox": [
+                174.0,
+                287.0,
+                285.0,
+                305.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Flue",
+                    "bbox": [
+                        175.0,
+                        287.0,
+                        204.0,
+                        303.0
+                    ]
+                },
+                {
+                    "text": "cured",
+                    "bbox": [
+                        207.0,
+                        288.0,
+                        246.0,
+                        303.0
+                    ]
+                },
+                {
+                    "text": "fines",
+                    "bbox": [
+                        250.0,
+                        290.0,
+                        284.0,
+                        305.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RPCFS or RPCFS-O",
+            "line_bbox": [
+                378.0,
+                288.0,
+                521.0,
+                307.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RPCFS",
+                    "bbox": [
+                        379.0,
+                        289.0,
+                        430.0,
+                        306.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        433.0,
+                        289.0,
+                        449.0,
+                        307.0
+                    ]
+                },
+                {
+                    "text": "RPCFS-O",
+                    "bbox": [
+                        451.0,
+                        290.0,
+                        519.0,
+                        308.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PCBS",
+            "line_bbox": [
+                105.0,
+                329.0,
+                149.0,
+                345.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PCBS",
+                    "bbox": [
+                        106.0,
+                        329.0,
+                        147.0,
+                        345.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Burley fines",
+            "line_bbox": [
+                173.0,
+                332.0,
+                255.0,
+                350.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Burley",
+                    "bbox": [
+                        173.0,
+                        332.0,
+                        217.0,
+                        349.0
+                    ]
+                },
+                {
+                    "text": "fines",
+                    "bbox": [
+                        219.0,
+                        334.0,
+                        253.0,
+                        350.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RPCBS or RPCBS-O",
+            "line_bbox": [
+                377.0,
+                335.0,
+                522.0,
+                353.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RPCBS",
+                    "bbox": [
+                        377.0,
+                        335.0,
+                        430.0,
+                        352.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        433.0,
+                        335.0,
+                        449.0,
+                        352.0
+                    ]
+                },
+                {
+                    "text": "RPCBS-O",
+                    "bbox": [
+                        451.0,
+                        336.0,
+                        519.0,
+                        354.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WCc",
+            "line_bbox": [
+                377.0,
+                365.0,
+                418.0,
+                380.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WCc",
+                    "bbox": [
+                        377.0,
+                        365.0,
+                        412.0,
+                        380.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-4",
+            "line_bbox": [
+                103.0,
+                405.0,
+                145.0,
+                420.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-4",
+                    "bbox": [
+                        104.0,
+                        405.0,
+                        142.0,
+                        420.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Manufacturing fines",
+            "line_bbox": [
+                172.0,
+                407.0,
+                309.0,
+                426.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Manufacturing",
+                    "bbox": [
+                        173.0,
+                        408.0,
+                        268.0,
+                        425.0
+                    ]
+                },
+                {
+                    "text": "fines",
+                    "bbox": [
+                        270.0,
+                        411.0,
+                        306.0,
+                        426.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-4-S",
+            "line_bbox": [
+                375.0,
+                410.0,
+                432.0,
+                427.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-4-S",
+                    "bbox": [
+                        375.0,
+                        411.0,
+                        429.0,
+                        428.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-4-PH",
+            "line_bbox": [
+                374.0,
+                440.0,
+                443.0,
+                456.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-4-PH",
+                    "bbox": [
+                        375.0,
+                        441.0,
+                        437.0,
+                        457.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-4-RC",
+            "line_bbox": [
+                375.0,
+                471.0,
+                444.0,
+                487.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-4-RC",
+                    "bbox": [
+                        375.0,
+                        472.0,
+                        438.0,
+                        487.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-4-W",
+            "line_bbox": [
+                375.0,
+                501.0,
+                435.0,
+                517.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-4-W",
+                    "bbox": [
+                        376.0,
+                        502.0,
+                        427.0,
+                        518.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-6",
+            "line_bbox": [
+                99.0,
+                541.0,
+                139.0,
+                558.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-6",
+                    "bbox": [
+                        99.0,
+                        541.0,
+                        138.0,
+                        558.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Stem Meal",
+            "line_bbox": [
+                169.0,
+                545.0,
+                240.0,
+                561.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Stem",
+                    "bbox": [
+                        170.0,
+                        545.0,
+                        199.0,
+                        560.0
+                    ]
+                },
+                {
+                    "text": "Meal",
+                    "bbox": [
+                        206.0,
+                        546.0,
+                        240.0,
+                        562.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-1",
+            "line_bbox": [
+                371.0,
+                548.0,
+                414.0,
+                563.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-1",
+                    "bbox": [
+                        373.0,
+                        548.0,
+                        412.0,
+                        563.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MC-7",
+            "line_bbox": [
+                94.0,
+                588.0,
+                138.0,
+                603.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MC-7",
+                    "bbox": [
+                        99.0,
+                        588.0,
+                        138.0,
+                        603.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Winnowers",
+            "line_bbox": [
+                168.0,
+                589.0,
+                244.0,
+                607.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Winnowers",
+                    "bbox": [
+                        168.0,
+                        590.0,
+                        244.0,
+                        607.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "C Stem",
+            "line_bbox": [
+                371.0,
+                593.0,
+                426.0,
+                610.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "C",
+                    "bbox": [
+                        372.0,
+                        593.0,
+                        382.0,
+                        610.0
+                    ]
+                },
+                {
+                    "text": "Stem",
+                    "bbox": [
+                        386.0,
+                        594.0,
+                        420.0,
+                        610.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RXF",
+            "line_bbox": [
+                98.0,
+                633.0,
+                131.0,
+                648.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RXF",
+                    "bbox": [
+                        98.0,
+                        633.0,
+                        127.0,
+                        648.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Fine flue cured stem",
+            "line_bbox": [
+                164.0,
+                635.0,
+                308.0,
+                654.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Fine",
+                    "bbox": [
+                        165.0,
+                        636.0,
+                        196.0,
+                        651.0
+                    ]
+                },
+                {
+                    "text": "flue",
+                    "bbox": [
+                        198.0,
+                        637.0,
+                        224.0,
+                        652.0
+                    ]
+                },
+                {
+                    "text": "cured",
+                    "bbox": [
+                        227.0,
+                        638.0,
+                        266.0,
+                        653.0
+                    ]
+                },
+                {
+                    "text": "stem",
+                    "bbox": [
+                        271.0,
+                        639.0,
+                        301.0,
+                        654.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRXF or RRXF-O",
+            "line_bbox": [
+                371.0,
+                639.0,
+                495.0,
+                657.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRXF",
+                    "bbox": [
+                        372.0,
+                        639.0,
+                        413.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        415.0,
+                        639.0,
+                        432.0,
+                        656.0
+                    ]
+                },
+                {
+                    "text": "RRXF-O",
+                    "bbox": [
+                        434.0,
+                        640.0,
+                        493.0,
+                        658.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRXM-B",
+            "line_bbox": [
+                369.0,
+                668.0,
+                433.0,
+                686.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRXM-B",
+                    "bbox": [
+                        369.0,
+                        669.0,
+                        431.0,
+                        686.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRXM-T",
+            "line_bbox": [
+                369.0,
+                699.0,
+                431.0,
+                716.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRXM-T",
+                    "bbox": [
+                        370.0,
+                        700.0,
+                        430.0,
+                        716.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RBF",
+            "line_bbox": [
+                95.0,
+                741.0,
+                127.0,
+                755.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RBF",
+                    "bbox": [
+                        95.0,
+                        741.0,
+                        125.0,
+                        755.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Fine Burely stem",
+            "line_bbox": [
+                163.0,
+                744.0,
+                279.0,
+                761.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Fine",
+                    "bbox": [
+                        163.0,
+                        744.0,
+                        192.0,
+                        760.0
+                    ]
+                },
+                {
+                    "text": "Burely",
+                    "bbox": [
+                        196.0,
+                        745.0,
+                        241.0,
+                        761.0
+                    ]
+                },
+                {
+                    "text": "stem",
+                    "bbox": [
+                        243.0,
+                        747.0,
+                        273.0,
+                        761.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRBF or RRBF-O",
+            "line_bbox": [
+                368.0,
+                746.0,
+                495.0,
+                766.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRBF",
+                    "bbox": [
+                        368.0,
+                        746.0,
+                        410.0,
+                        764.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        414.0,
+                        747.0,
+                        429.0,
+                        764.0
+                    ]
+                },
+                {
+                    "text": "RRBF-O",
+                    "bbox": [
+                        432.0,
+                        747.0,
+                        490.0,
+                        766.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRB-B",
+            "line_bbox": [
+                366.0,
+                776.0,
+                420.0,
+                793.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRB-B",
+                    "bbox": [
+                        368.0,
+                        777.0,
+                        415.0,
+                        793.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "621800455",
+            "line_bbox": [
+                699.0,
+                804.0,
+                720.0,
+                926.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "621800455",
+                    "bbox": [
+                        699.0,
+                        804.0,
+                        720.0,
+                        922.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRB-L",
+            "line_bbox": [
+                367.0,
+                807.0,
+                415.0,
+                823.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRB-L",
+                    "bbox": [
+                        367.0,
+                        808.0,
+                        414.0,
+                        824.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RRB-T",
+            "line_bbox": [
+                366.0,
+                838.0,
+                414.0,
+                853.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RRB-T",
+                    "bbox": [
+                        367.0,
+                        838.0,
+                        412.0,
+                        853.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

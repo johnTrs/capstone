@@ -1,0 +1,415 @@
+{
+    "text_lines": [
+        {
+            "text": "Q001",
+            "bbox": [
+                627.0,
+                73.0,
+                660.0,
+                87.0
+            ]
+        },
+        {
+            "text": "/87 ",
+            "bbox": [
+                83.0,
+                75.0,
+                111.0,
+                88.0
+            ]
+        },
+        {
+            "text": "TUE 18:39 FAX 212",
+            "bbox": [
+                110.0,
+                75.0,
+                225.0,
+                89.0
+            ]
+        },
+        {
+            "text": " 5578",
+            "bbox": [
+                251.0,
+                75.0,
+                280.0,
+                89.0
+            ]
+        },
+        {
+            "text": "DP# 30-59",
+            "bbox": [
+                331.0,
+                75.0,
+                391.0,
+                88.0
+            ]
+        },
+        {
+            "text": "DAVIS POLK & WARDWELL",
+            "bbox": [
+                245.0,
+                111.0,
+                467.0,
+                127.0
+            ]
+        },
+        {
+            "text": "Fax Transmittal",
+            "bbox": [
+                55.0,
+                155.0,
+                147.0,
+                173.0
+            ]
+        },
+        {
+            "text": "To",
+            "bbox": [
+                256.0,
+                157.0,
+                276.0,
+                173.0
+            ]
+        },
+        {
+            "text": "Date",
+            "bbox": [
+                452.0,
+                157.0,
+                481.0,
+                173.0
+            ]
+        },
+        {
+            "text": "450 Lexington Avenue",
+            "bbox": [
+                55.0,
+                181.0,
+                169.0,
+                195.0
+            ]
+        },
+        {
+            "text": "Robert H. Shaw, Esq.",
+            "bbox": [
+                256.0,
+                181.0,
+                392.0,
+                200.0
+            ]
+        },
+        {
+            "text": " November 11, 1997",
+            "bbox": [
+                451.0,
+                182.0,
+                578.0,
+                201.0
+            ]
+        },
+        {
+            "text": "New York, NY 10017",
+            "bbox": [
+                55.0,
+                194.0,
+                158.0,
+                209.0
+            ]
+        },
+        {
+            "text": "212-450-4000",
+            "bbox": [
+                55.0,
+                206.0,
+                125.0,
+                220.0
+            ]
+        },
+        {
+            "text": "Company",
+            "bbox": [
+                256.0,
+                209.0,
+                309.0,
+                225.0
+            ]
+        },
+        {
+            "text": "Lorillard Tobacco Company",
+            "bbox": [
+                256.0,
+                234.0,
+                434.0,
+                251.0
+            ]
+        },
+        {
+            "text": "Fax Number",
+            "bbox": [
+                256.0,
+                259.0,
+                323.0,
+                275.0
+            ]
+        },
+        {
+            "text": "Voice Number",
+            "bbox": [
+                453.0,
+                259.0,
+                530.0,
+                275.0
+            ]
+        },
+        {
+            "text": "910-335-7077",
+            "bbox": [
+                256.0,
+                282.0,
+                343.0,
+                301.0
+            ]
+        },
+        {
+            "text": "910-335-7720",
+            "bbox": [
+                452.0,
+                283.0,
+                540.0,
+                302.0
+            ]
+        },
+        {
+            "text": "Sender",
+            "bbox": [
+                256.0,
+                310.0,
+                296.0,
+                326.0
+            ]
+        },
+        {
+            "text": "Number of Pages (this page included)",
+            "bbox": [
+                452.0,
+                310.0,
+                645.0,
+                326.0
+            ]
+        },
+        {
+            "text": "Charles Duggan",
+            "bbox": [
+                256.0,
+                333.0,
+                362.0,
+                353.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                452.0,
+                335.0,
+                466.0,
+                353.0
+            ]
+        },
+        {
+            "text": " :",
+            "bbox": [
+                234.0,
+                340.0,
+                243.0,
+                353.0
+            ]
+        },
+        {
+            "text": "Sender Voice Number",
+            "bbox": [
+                256.0,
+                360.0,
+                369.0,
+                377.0
+            ]
+        },
+        {
+            "text": "Main Fax Operator Voice Number",
+            "bbox": [
+                453.0,
+                360.0,
+                629.0,
+                377.0
+            ]
+        },
+        {
+            "text": "212-450-4785",
+            "bbox": [
+                256.0,
+                386.0,
+                343.0,
+                403.0
+            ]
+        },
+        {
+            "text": "Sender Fax Number",
+            "bbox": [
+                256.0,
+                411.0,
+                359.0,
+                428.0
+            ]
+        },
+        {
+            "text": "Reference",
+            "bbox": [
+                453.0,
+                411.0,
+                508.0,
+                427.0
+            ]
+        },
+        {
+            "text": "17560-188",
+            "bbox": [
+                452.0,
+                435.0,
+                522.0,
+                454.0
+            ]
+        },
+        {
+            "text": "212-450-5578",
+            "bbox": [
+                256.0,
+                436.0,
+                343.0,
+                454.0
+            ]
+        },
+        {
+            "text": "Message:",
+            "bbox": [
+                55.0,
+                462.0,
+                110.0,
+                479.0
+            ]
+        },
+        {
+            "text": "8",
+            "bbox": [
+                669.0,
+                807.0,
+                689.0,
+                820.0
+            ]
+        },
+        {
+            "text": "{ }",
+            "bbox": [
+                668.0,
+                820.0,
+                690.0,
+                835.0
+            ]
+        },
+        {
+            "text": "8",
+            "bbox": [
+                667.0,
+                833.0,
+                689.0,
+                846.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                667.0,
+                846.0,
+                690.0,
+                860.0
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                667.0,
+                860.0,
+                690.0,
+                873.0
+            ]
+        },
+        {
+            "text": "~ 3",
+            "bbox": [
+                669.0,
+                873.0,
+                690.0,
+                885.0
+            ]
+        },
+        {
+            "text": "r",
+            "bbox": [
+                667.0,
+                886.0,
+                689.0,
+                899.0
+            ]
+        },
+        {
+            "text": "Confidentiality Note: This finalinite is intended only for the person or catily to which it is selected and may contain information thats privileged, confidential",
+            "bbox": [
+                78.0,
+                893.0,
+                642.0,
+                906.0
+            ]
+        },
+        {
+            "text": "0",
+            "bbox": [
+                670.0,
+                901.0,
+                688.0,
+                910.0
+            ]
+        },
+        {
+            "text": "or otherwise protected from disclosum.  Dissemination, distribution or copying of this factionille or the information barels by anyone other than the intented",
+            "bbox": [
+                78.0,
+                905.0,
+                648.0,
+                916.0
+            ]
+        },
+        {
+            "text": "recipient, or an employee or agent responsible for delivering the message to the intended recipient, is probibition. If you have received this fassionile in error,",
+            "bbox": [
+                78.0,
+                916.0,
+                648.0,
+                927.0
+            ]
+        },
+        {
+            "text": "please notify us immediately by telephone and return the facsimile by mail.",
+            "bbox": [
+                78.0,
+                926.0,
+                355.0,
+                939.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

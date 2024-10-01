@@ -1,0 +1,2479 @@
+{
+    "text_lines": [
+        {
+            "line_text": ".",
+            "line_bbox": [
+                37.0,
+                114.0,
+                55.0,
+                131.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": ".",
+                    "bbox": [
+                        37.0,
+                        114.0,
+                        48.0,
+                        131.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CREATIVE INPUT DOCUMENT",
+            "line_bbox": [
+                61.0,
+                100.0,
+                389.0,
+                132.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CREATIVE",
+                    "bbox": [
+                        65.0,
+                        103.0,
+                        176.0,
+                        133.0
+                    ]
+                },
+                {
+                    "text": "INPUT",
+                    "bbox": [
+                        182.0,
+                        102.0,
+                        252.0,
+                        130.0
+                    ]
+                },
+                {
+                    "text": "DOCUMENT",
+                    "bbox": [
+                        257.0,
+                        100.0,
+                        388.0,
+                        130.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SPECIFICS",
+            "line_bbox": [
+                95.0,
+                153.0,
+                181.0,
+                172.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SPECIFICS",
+                    "bbox": [
+                        96.0,
+                        153.0,
+                        179.0,
+                        171.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date/Time:",
+            "line_bbox": [
+                70.0,
+                180.0,
+                156.0,
+                198.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date/Time:",
+                    "bbox": [
+                        70.0,
+                        181.0,
+                        156.0,
+                        199.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "10/30/98 1:46 PM",
+            "line_bbox": [
+                174.0,
+                182.0,
+                283.0,
+                197.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "10/30/98",
+                    "bbox": [
+                        177.0,
+                        183.0,
+                        229.0,
+                        198.0
+                    ]
+                },
+                {
+                    "text": "1:46",
+                    "bbox": [
+                        232.0,
+                        183.0,
+                        258.0,
+                        197.0
+                    ]
+                },
+                {
+                    "text": "PM",
+                    "bbox": [
+                        260.0,
+                        183.0,
+                        277.0,
+                        197.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Client Name:",
+            "line_bbox": [
+                388.0,
+                177.0,
+                483.0,
+                194.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Client",
+                    "bbox": [
+                        389.0,
+                        178.0,
+                        433.0,
+                        195.0
+                    ]
+                },
+                {
+                    "text": "Name:",
+                    "bbox": [
+                        436.0,
+                        178.0,
+                        483.0,
+                        195.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Prepared By:",
+            "line_bbox": [
+                69.0,
+                202.0,
+                166.0,
+                219.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Prepared",
+                    "bbox": [
+                        70.0,
+                        202.0,
+                        137.0,
+                        219.0
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "bbox": [
+                        140.0,
+                        202.0,
+                        166.0,
+                        220.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Matter Number:",
+            "line_bbox": [
+                389.0,
+                199.0,
+                505.0,
+                216.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Matter",
+                    "bbox": [
+                        389.0,
+                        200.0,
+                        437.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "Number:",
+                    "bbox": [
+                        440.0,
+                        200.0,
+                        505.0,
+                        216.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Milestone Presentation Date:",
+            "line_bbox": [
+                69.0,
+                220.0,
+                286.0,
+                240.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Milestone",
+                    "bbox": [
+                        70.0,
+                        221.0,
+                        142.0,
+                        241.0
+                    ]
+                },
+                {
+                    "text": "Presentation",
+                    "bbox": [
+                        145.0,
+                        221.0,
+                        241.0,
+                        240.0
+                    ]
+                },
+                {
+                    "text": "Date:",
+                    "bbox": [
+                        244.0,
+                        221.0,
+                        286.0,
+                        240.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Project Title:",
+            "line_bbox": [
+                388.0,
+                219.0,
+                485.0,
+                237.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Project",
+                    "bbox": [
+                        388.0,
+                        219.0,
+                        443.0,
+                        237.0
+                    ]
+                },
+                {
+                    "text": "Title:",
+                    "bbox": [
+                        446.0,
+                        219.0,
+                        485.0,
+                        238.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Estimated Creative Budget:",
+            "line_bbox": [
+                68.0,
+                241.0,
+                271.0,
+                260.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Estimated",
+                    "bbox": [
+                        69.0,
+                        242.0,
+                        143.0,
+                        260.0
+                    ]
+                },
+                {
+                    "text": "Creative",
+                    "bbox": [
+                        146.0,
+                        242.0,
+                        208.0,
+                        260.0
+                    ]
+                },
+                {
+                    "text": "Budget:",
+                    "bbox": [
+                        211.0,
+                        241.0,
+                        272.0,
+                        259.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Est. Production Budget:",
+            "line_bbox": [
+                388.0,
+                239.0,
+                561.0,
+                257.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Est.",
+                    "bbox": [
+                        389.0,
+                        240.0,
+                        413.0,
+                        258.0
+                    ]
+                },
+                {
+                    "text": "Production",
+                    "bbox": [
+                        416.0,
+                        239.0,
+                        498.0,
+                        258.0
+                    ]
+                },
+                {
+                    "text": "Budget:",
+                    "bbox": [
+                        502.0,
+                        239.0,
+                        561.0,
+                        257.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Concept:",
+            "line_bbox": [
+                71.0,
+                265.0,
+                129.0,
+                281.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Concept:",
+                    "bbox": [
+                        71.0,
+                        266.0,
+                        129.0,
+                        281.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Execution:",
+            "line_bbox": [
+                221.0,
+                263.0,
+                291.0,
+                278.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Execution:",
+                    "bbox": [
+                        223.0,
+                        264.0,
+                        291.0,
+                        279.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Media:",
+            "line_bbox": [
+                388.0,
+                260.0,
+                439.0,
+                278.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Media:",
+                    "bbox": [
+                        388.0,
+                        260.0,
+                        439.0,
+                        278.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "OBJECTIVE",
+            "line_bbox": [
+                89.0,
+                296.0,
+                188.0,
+                316.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "OBJECTIVE",
+                    "bbox": [
+                        90.0,
+                        296.0,
+                        184.0,
+                        316.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Why are we advertising?",
+            "line_bbox": [
+                70.0,
+                324.0,
+                255.0,
+                344.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Why",
+                    "bbox": [
+                        70.0,
+                        326.0,
+                        100.0,
+                        345.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        103.0,
+                        326.0,
+                        128.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "we",
+                    "bbox": [
+                        131.0,
+                        326.0,
+                        153.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "advertising?",
+                    "bbox": [
+                        156.0,
+                        325.0,
+                        253.0,
+                        343.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What do we plan to achieve?",
+            "line_bbox": [
+                69.0,
+                343.0,
+                193.0,
+                356.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        69.0,
+                        344.0,
+                        91.0,
+                        356.0
+                    ]
+                },
+                {
+                    "text": "do",
+                    "bbox": [
+                        93.0,
+                        344.0,
+                        104.0,
+                        356.0
+                    ]
+                },
+                {
+                    "text": "we",
+                    "bbox": [
+                        105.0,
+                        344.0,
+                        118.0,
+                        356.0
+                    ]
+                },
+                {
+                    "text": "plan",
+                    "bbox": [
+                        120.0,
+                        344.0,
+                        139.0,
+                        356.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        141.0,
+                        344.0,
+                        150.0,
+                        356.0
+                    ]
+                },
+                {
+                    "text": "achieve?",
+                    "bbox": [
+                        152.0,
+                        344.0,
+                        193.0,
+                        355.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "O Relationship-Building",
+            "line_bbox": [
+                111.0,
+                363.0,
+                212.0,
+                374.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "O",
+                    "bbox": [
+                        111.0,
+                        364.0,
+                        117.0,
+                        375.0
+                    ]
+                },
+                {
+                    "text": "Relationship-Building",
+                    "bbox": [
+                        120.0,
+                        363.0,
+                        211.0,
+                        375.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "D Retention",
+            "line_bbox": [
+                290.0,
+                361.0,
+                346.0,
+                373.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "D",
+                    "bbox": [
+                        291.0,
+                        362.0,
+                        298.0,
+                        373.0
+                    ]
+                },
+                {
+                    "text": "Retention",
+                    "bbox": [
+                        302.0,
+                        362.0,
+                        344.0,
+                        374.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Acquisition",
+            "line_bbox": [
+                430.0,
+                360.0,
+                490.0,
+                372.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Acquisition",
+                    "bbox": [
+                        440.0,
+                        361.0,
+                        489.0,
+                        372.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "O Loyalty",
+            "line_bbox": [
+                557.0,
+                359.0,
+                601.0,
+                372.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "O",
+                    "bbox": [
+                        558.0,
+                        360.0,
+                        565.0,
+                        372.0
+                    ]
+                },
+                {
+                    "text": "Loyalty",
+                    "bbox": [
+                        568.0,
+                        360.0,
+                        601.0,
+                        372.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Competitive Blocking",
+            "line_bbox": [
+                110.0,
+                376.0,
+                211.0,
+                389.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Competitive",
+                    "bbox": [
+                        119.0,
+                        377.0,
+                        171.0,
+                        389.0
+                    ]
+                },
+                {
+                    "text": "Blocking",
+                    "bbox": [
+                        173.0,
+                        377.0,
+                        211.0,
+                        389.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "[] Cross-Sell",
+            "line_bbox": [
+                290.0,
+                374.0,
+                348.0,
+                388.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "[]",
+                    "bbox": [
+                        291.0,
+                        375.0,
+                        299.0,
+                        388.0
+                    ]
+                },
+                {
+                    "text": "Cross-Sell",
+                    "bbox": [
+                        301.0,
+                        375.0,
+                        348.0,
+                        388.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "[ Up-Seli",
+            "line_bbox": [
+                430.0,
+                373.0,
+                475.0,
+                386.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "[",
+                    "bbox": [
+                        431.0,
+                        374.0,
+                        438.0,
+                        386.0
+                    ]
+                },
+                {
+                    "text": "Up-Seli",
+                    "bbox": [
+                        440.0,
+                        374.0,
+                        475.0,
+                        386.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Lead Generation",
+            "line_bbox": [
+                558.0,
+                373.0,
+                650.0,
+                386.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Lead",
+                    "bbox": [
+                        575.0,
+                        374.0,
+                        598.0,
+                        386.0
+                    ]
+                },
+                {
+                    "text": "Generation",
+                    "bbox": [
+                        600.0,
+                        374.0,
+                        649.0,
+                        386.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "New Product/Package Intro.",
+            "line_bbox": [
+                108.0,
+                391.0,
+                243.0,
+                404.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "New",
+                    "bbox": [
+                        119.0,
+                        391.0,
+                        139.0,
+                        404.0
+                    ]
+                },
+                {
+                    "text": "Product/Package",
+                    "bbox": [
+                        141.0,
+                        391.0,
+                        215.0,
+                        404.0
+                    ]
+                },
+                {
+                    "text": "Intro.",
+                    "bbox": [
+                        217.0,
+                        391.0,
+                        244.0,
+                        404.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "[] Direct Sale",
+            "line_bbox": [
+                290.0,
+                389.0,
+                352.0,
+                403.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "[]",
+                    "bbox": [
+                        291.0,
+                        390.0,
+                        299.0,
+                        403.0
+                    ]
+                },
+                {
+                    "text": "Direct",
+                    "bbox": [
+                        302.0,
+                        390.0,
+                        327.0,
+                        403.0
+                    ]
+                },
+                {
+                    "text": "Sale",
+                    "bbox": [
+                        329.0,
+                        390.0,
+                        352.0,
+                        404.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Awareness",
+            "line_bbox": [
+                429.0,
+                389.0,
+                490.0,
+                401.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Awareness",
+                    "bbox": [
+                        441.0,
+                        389.0,
+                        490.0,
+                        402.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "O Trial",
+            "line_bbox": [
+                557.0,
+                388.0,
+                593.0,
+                400.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "O",
+                    "bbox": [
+                        558.0,
+                        388.0,
+                        565.0,
+                        400.0
+                    ]
+                },
+                {
+                    "text": "Trial",
+                    "bbox": [
+                        569.0,
+                        388.0,
+                        592.0,
+                        400.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "] Change Image Perception",
+            "line_bbox": [
+                110.0,
+                405.0,
+                232.0,
+                418.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "]",
+                    "bbox": [
+                        115.0,
+                        406.0,
+                        117.0,
+                        419.0
+                    ]
+                },
+                {
+                    "text": "Change",
+                    "bbox": [
+                        119.0,
+                        406.0,
+                        154.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "Image",
+                    "bbox": [
+                        156.0,
+                        406.0,
+                        183.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "Perception",
+                    "bbox": [
+                        185.0,
+                        406.0,
+                        232.0,
+                        418.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Other",
+            "line_bbox": [
+                291.0,
+                404.0,
+                327.0,
+                415.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Other",
+                    "bbox": [
+                        302.0,
+                        405.0,
+                        327.0,
+                        416.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "TARGET",
+            "line_bbox": [
+                102.0,
+                437.0,
+                172.0,
+                454.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "TARGET",
+                    "bbox": [
+                        103.0,
+                        437.0,
+                        170.0,
+                        455.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "To whom are we talking?",
+            "line_bbox": [
+                76.0,
+                463.0,
+                260.0,
+                483.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "To",
+                    "bbox": [
+                        76.0,
+                        465.0,
+                        90.0,
+                        483.0
+                    ]
+                },
+                {
+                    "text": "whom",
+                    "bbox": [
+                        94.0,
+                        464.0,
+                        135.0,
+                        483.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        141.0,
+                        464.0,
+                        167.0,
+                        482.0
+                    ]
+                },
+                {
+                    "text": "we",
+                    "bbox": [
+                        170.0,
+                        464.0,
+                        191.0,
+                        482.0
+                    ]
+                },
+                {
+                    "text": "talking?",
+                    "bbox": [
+                        194.0,
+                        463.0,
+                        258.0,
+                        482.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Who is the primary target? Is there a secondary target? What is their relationship to the brand, and what do they currently think about it?",
+            "line_bbox": [
+                74.0,
+                479.0,
+                648.0,
+                495.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Who",
+                    "bbox": [
+                        74.0,
+                        483.0,
+                        93.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        95.0,
+                        483.0,
+                        102.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        104.0,
+                        483.0,
+                        118.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "primary",
+                    "bbox": [
+                        120.0,
+                        483.0,
+                        152.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "target?",
+                    "bbox": [
+                        154.0,
+                        483.0,
+                        185.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "Is",
+                    "bbox": [
+                        187.0,
+                        483.0,
+                        194.0,
+                        495.0
+                    ]
+                },
+                {
+                    "text": "there",
+                    "bbox": [
+                        197.0,
+                        482.0,
+                        219.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "a",
+                    "bbox": [
+                        221.0,
+                        482.0,
+                        227.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "secondary",
+                    "bbox": [
+                        229.0,
+                        482.0,
+                        273.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "target?",
+                    "bbox": [
+                        276.0,
+                        482.0,
+                        306.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "What",
+                    "bbox": [
+                        308.0,
+                        482.0,
+                        331.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        333.0,
+                        482.0,
+                        339.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "their",
+                    "bbox": [
+                        342.0,
+                        481.0,
+                        361.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "relationship",
+                    "bbox": [
+                        363.0,
+                        481.0,
+                        412.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        414.0,
+                        481.0,
+                        422.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        425.0,
+                        481.0,
+                        439.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "brand,",
+                    "bbox": [
+                        441.0,
+                        481.0,
+                        469.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        471.0,
+                        481.0,
+                        487.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "what",
+                    "bbox": [
+                        489.0,
+                        480.0,
+                        510.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "do",
+                    "bbox": [
+                        512.0,
+                        480.0,
+                        523.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "they",
+                    "bbox": [
+                        525.0,
+                        480.0,
+                        543.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "currently",
+                    "bbox": [
+                        546.0,
+                        480.0,
+                        582.0,
+                        493.0
+                    ]
+                },
+                {
+                    "text": "think",
+                    "bbox": [
+                        585.0,
+                        480.0,
+                        606.0,
+                        492.0
+                    ]
+                },
+                {
+                    "text": "about",
+                    "bbox": [
+                        609.0,
+                        480.0,
+                        633.0,
+                        492.0
+                    ]
+                },
+                {
+                    "text": "it?",
+                    "bbox": [
+                        635.0,
+                        480.0,
+                        648.0,
+                        492.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMUNICATION PLATFORM",
+            "line_bbox": [
+                93.0,
+                546.0,
+                284.0,
+                565.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMUNICATION",
+                    "bbox": [
+                        94.0,
+                        546.0,
+                        206.0,
+                        566.0
+                    ]
+                },
+                {
+                    "text": "PLATFORM",
+                    "bbox": [
+                        209.0,
+                        546.0,
+                        276.0,
+                        564.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What is the single most important message/idea we are trying to communicate?",
+            "line_bbox": [
+                76.0,
+                571.0,
+                670.0,
+                592.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        76.0,
+                        575.0,
+                        112.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        116.0,
+                        575.0,
+                        129.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        132.0,
+                        575.0,
+                        157.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "single",
+                    "bbox": [
+                        160.0,
+                        574.0,
+                        206.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "most",
+                    "bbox": [
+                        209.0,
+                        574.0,
+                        247.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "important",
+                    "bbox": [
+                        250.0,
+                        573.0,
+                        324.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "message/idea",
+                    "bbox": [
+                        327.0,
+                        572.0,
+                        433.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "we",
+                    "bbox": [
+                        436.0,
+                        572.0,
+                        457.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        460.0,
+                        572.0,
+                        486.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "trying",
+                    "bbox": [
+                        489.0,
+                        572.0,
+                        534.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        537.0,
+                        572.0,
+                        552.0,
+                        591.0
+                    ]
+                },
+                {
+                    "text": "communicate?",
+                    "bbox": [
+                        555.0,
+                        572.0,
+                        668.0,
+                        590.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What is the unique selling position that will help us achieve our advertising goal? Are there any secondary messages?",
+            "line_bbox": [
+                72.0,
+                590.0,
+                572.0,
+                605.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        74.0,
+                        594.0,
+                        96.0,
+                        606.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        98.0,
+                        593.0,
+                        105.0,
+                        606.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        107.0,
+                        593.0,
+                        121.0,
+                        606.0
+                    ]
+                },
+                {
+                    "text": "unique",
+                    "bbox": [
+                        123.0,
+                        593.0,
+                        152.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "selling",
+                    "bbox": [
+                        154.0,
+                        593.0,
+                        182.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "position",
+                    "bbox": [
+                        184.0,
+                        592.0,
+                        217.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "that",
+                    "bbox": [
+                        219.0,
+                        592.0,
+                        236.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "will",
+                    "bbox": [
+                        238.0,
+                        592.0,
+                        252.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "help",
+                    "bbox": [
+                        254.0,
+                        592.0,
+                        272.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "us",
+                    "bbox": [
+                        274.0,
+                        592.0,
+                        285.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "achieve",
+                    "bbox": [
+                        287.0,
+                        592.0,
+                        321.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "our",
+                    "bbox": [
+                        323.0,
+                        592.0,
+                        337.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "advertising",
+                    "bbox": [
+                        339.0,
+                        591.0,
+                        385.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "goal?",
+                    "bbox": [
+                        387.0,
+                        591.0,
+                        411.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "Are",
+                    "bbox": [
+                        413.0,
+                        591.0,
+                        428.0,
+                        604.0
+                    ]
+                },
+                {
+                    "text": "there",
+                    "bbox": [
+                        430.0,
+                        591.0,
+                        453.0,
+                        603.0
+                    ]
+                },
+                {
+                    "text": "any",
+                    "bbox": [
+                        455.0,
+                        591.0,
+                        471.0,
+                        603.0
+                    ]
+                },
+                {
+                    "text": "secondary",
+                    "bbox": [
+                        473.0,
+                        591.0,
+                        517.0,
+                        603.0
+                    ]
+                },
+                {
+                    "text": "messages?",
+                    "bbox": [
+                        519.0,
+                        590.0,
+                        572.0,
+                        603.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What is the key benefit to the target?",
+            "line_bbox": [
+                74.0,
+                638.0,
+                351.0,
+                658.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        75.0,
+                        640.0,
+                        112.0,
+                        658.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        115.0,
+                        640.0,
+                        129.0,
+                        658.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        132.0,
+                        640.0,
+                        156.0,
+                        658.0
+                    ]
+                },
+                {
+                    "text": "key",
+                    "bbox": [
+                        159.0,
+                        639.0,
+                        186.0,
+                        657.0
+                    ]
+                },
+                {
+                    "text": "benefit",
+                    "bbox": [
+                        189.0,
+                        639.0,
+                        243.0,
+                        657.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        246.0,
+                        639.0,
+                        261.0,
+                        657.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        264.0,
+                        639.0,
+                        288.0,
+                        657.0
+                    ]
+                },
+                {
+                    "text": "target?",
+                    "bbox": [
+                        291.0,
+                        638.0,
+                        349.0,
+                        657.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What's in it for the reader?",
+            "line_bbox": [
+                73.0,
+                658.0,
+                187.0,
+                669.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What's",
+                    "bbox": [
+                        74.0,
+                        658.0,
+                        103.0,
+                        670.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        105.0,
+                        658.0,
+                        113.0,
+                        669.0
+                    ]
+                },
+                {
+                    "text": "it",
+                    "bbox": [
+                        115.0,
+                        658.0,
+                        121.0,
+                        669.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        123.0,
+                        658.0,
+                        135.0,
+                        669.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        137.0,
+                        658.0,
+                        150.0,
+                        669.0
+                    ]
+                },
+                {
+                    "text": "reader?",
+                    "bbox": [
+                        152.0,
+                        658.0,
+                        188.0,
+                        669.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Is there an offer/call to action?",
+            "line_bbox": [
+                74.0,
+                704.0,
+                309.0,
+                723.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Is",
+                    "bbox": [
+                        74.0,
+                        706.0,
+                        87.0,
+                        724.0
+                    ]
+                },
+                {
+                    "text": "there",
+                    "bbox": [
+                        90.0,
+                        705.0,
+                        132.0,
+                        723.0
+                    ]
+                },
+                {
+                    "text": "an",
+                    "bbox": [
+                        135.0,
+                        705.0,
+                        154.0,
+                        722.0
+                    ]
+                },
+                {
+                    "text": "offer/call",
+                    "bbox": [
+                        157.0,
+                        705.0,
+                        228.0,
+                        722.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        231.0,
+                        705.0,
+                        246.0,
+                        721.0
+                    ]
+                },
+                {
+                    "text": "action?",
+                    "bbox": [
+                        249.0,
+                        704.0,
+                        307.0,
+                        721.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What are we offering the target to persuade him/her to act now? (A premium, sweepstakes, limited-time offer, free information, or something else?)",
+            "line_bbox": [
+                74.0,
+                719.0,
+                677.0,
+                735.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        74.0,
+                        723.0,
+                        96.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        98.0,
+                        723.0,
+                        110.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "we",
+                    "bbox": [
+                        113.0,
+                        723.0,
+                        125.0,
+                        736.0
+                    ]
+                },
+                {
+                    "text": "offering",
+                    "bbox": [
+                        127.0,
+                        722.0,
+                        158.0,
+                        735.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        161.0,
+                        722.0,
+                        174.0,
+                        735.0
+                    ]
+                },
+                {
+                    "text": "target",
+                    "bbox": [
+                        176.0,
+                        722.0,
+                        200.0,
+                        735.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        202.0,
+                        722.0,
+                        210.0,
+                        735.0
+                    ]
+                },
+                {
+                    "text": "persuade",
+                    "bbox": [
+                        212.0,
+                        721.0,
+                        251.0,
+                        735.0
+                    ]
+                },
+                {
+                    "text": "him/her",
+                    "bbox": [
+                        254.0,
+                        721.0,
+                        285.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        287.0,
+                        721.0,
+                        295.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "act",
+                    "bbox": [
+                        298.0,
+                        721.0,
+                        310.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "now?",
+                    "bbox": [
+                        312.0,
+                        721.0,
+                        335.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "(A",
+                    "bbox": [
+                        337.0,
+                        721.0,
+                        346.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "premium,",
+                    "bbox": [
+                        348.0,
+                        720.0,
+                        388.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "sweepstakes,",
+                    "bbox": [
+                        391.0,
+                        720.0,
+                        446.0,
+                        734.0
+                    ]
+                },
+                {
+                    "text": "limited-time",
+                    "bbox": [
+                        449.0,
+                        720.0,
+                        496.0,
+                        733.0
+                    ]
+                },
+                {
+                    "text": "offer,",
+                    "bbox": [
+                        499.0,
+                        720.0,
+                        520.0,
+                        733.0
+                    ]
+                },
+                {
+                    "text": "free",
+                    "bbox": [
+                        522.0,
+                        720.0,
+                        539.0,
+                        733.0
+                    ]
+                },
+                {
+                    "text": "information,",
+                    "bbox": [
+                        541.0,
+                        719.0,
+                        589.0,
+                        733.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        592.0,
+                        719.0,
+                        601.0,
+                        733.0
+                    ]
+                },
+                {
+                    "text": "something",
+                    "bbox": [
+                        603.0,
+                        719.0,
+                        646.0,
+                        733.0
+                    ]
+                },
+                {
+                    "text": "else?)",
+                    "bbox": [
+                        648.0,
+                        719.0,
+                        677.0,
+                        732.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What would we like our target to think?",
+            "line_bbox": [
+                74.0,
+                766.0,
+                368.0,
+                787.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        74.0,
+                        769.0,
+                        112.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "would",
+                    "bbox": [
+                        115.0,
+                        769.0,
+                        161.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "we",
+                    "bbox": [
+                        164.0,
+                        769.0,
+                        185.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "like",
+                    "bbox": [
+                        188.0,
+                        769.0,
+                        216.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "our",
+                    "bbox": [
+                        219.0,
+                        768.0,
+                        244.0,
+                        787.0
+                    ]
+                },
+                {
+                    "text": "target",
+                    "bbox": [
+                        247.0,
+                        768.0,
+                        293.0,
+                        786.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        296.0,
+                        768.0,
+                        311.0,
+                        786.0
+                    ]
+                },
+                {
+                    "text": "think?",
+                    "bbox": [
+                        314.0,
+                        767.0,
+                        365.0,
+                        786.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "What would our target say after being exposed to our program?",
+            "line_bbox": [
+                73.0,
+                785.0,
+                342.0,
+                799.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "What",
+                    "bbox": [
+                        73.0,
+                        787.0,
+                        95.0,
+                        800.0
+                    ]
+                },
+                {
+                    "text": "would",
+                    "bbox": [
+                        98.0,
+                        787.0,
+                        123.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "our",
+                    "bbox": [
+                        126.0,
+                        787.0,
+                        139.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "target",
+                    "bbox": [
+                        141.0,
+                        787.0,
+                        166.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "say",
+                    "bbox": [
+                        168.0,
+                        787.0,
+                        184.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "after",
+                    "bbox": [
+                        187.0,
+                        787.0,
+                        205.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "being",
+                    "bbox": [
+                        207.0,
+                        787.0,
+                        231.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "exposed",
+                    "bbox": [
+                        234.0,
+                        786.0,
+                        270.0,
+                        799.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        272.0,
+                        786.0,
+                        281.0,
+                        798.0
+                    ]
+                },
+                {
+                    "text": "our",
+                    "bbox": [
+                        283.0,
+                        786.0,
+                        297.0,
+                        798.0
+                    ]
+                },
+                {
+                    "text": "program?",
+                    "bbox": [
+                        299.0,
+                        786.0,
+                        342.0,
+                        798.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "00",
+            "line_bbox": [
+                531.0,
+                865.0,
+                545.0,
+                878.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "00",
+                    "bbox": [
+                        532.0,
+                        865.0,
+                        545.0,
+                        878.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "86079776",
+            "line_bbox": [
+                521.0,
+                865.0,
+                548.0,
+                972.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "86079776",
+                    "bbox": [
+                        522.0,
+                        866.0,
+                        547.0,
+                        967.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": ".",
+            "line_bbox": [
+                620.0,
+                903.0,
+                629.0,
+                915.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": ".",
+                    "bbox": [
+                        621.0,
+                        903.0,
+                        629.0,
+                        908.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "6",
+            "line_bbox": [
+                527.0,
+                916.0,
+                543.0,
+                930.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "6",
+                    "bbox": [
+                        534.0,
+                        916.0,
+                        543.0,
+                        928.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "c:\\my documents\\wp\\sample cid.doc",
+            "line_bbox": [
+                66.0,
+                932.0,
+                243.0,
+                949.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "c:\\my",
+                    "bbox": [
+                        67.0,
+                        935.0,
+                        93.0,
+                        949.0
+                    ]
+                },
+                {
+                    "text": "documents\\wp\\sample",
+                    "bbox": [
+                        96.0,
+                        933.0,
+                        203.0,
+                        949.0
+                    ]
+                },
+                {
+                    "text": "cid.doc",
+                    "bbox": [
+                        206.0,
+                        932.0,
+                        244.0,
+                        948.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1 of 2",
+            "line_bbox": [
+                364.0,
+                931.0,
+                394.0,
+                945.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1",
+                    "bbox": [
+                        364.0,
+                        931.0,
+                        368.0,
+                        945.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        371.0,
+                        931.0,
+                        382.0,
+                        945.0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "bbox": [
+                        385.0,
+                        931.0,
+                        393.0,
+                        945.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "10/30/98 01:46 PM",
+            "line_bbox": [
+                596.0,
+                930.0,
+                696.0,
+                944.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "10/30/98",
+                    "bbox": [
+                        597.0,
+                        930.0,
+                        641.0,
+                        944.0
+                    ]
+                },
+                {
+                    "text": "01:46",
+                    "bbox": [
+                        644.0,
+                        931.0,
+                        673.0,
+                        944.0
+                    ]
+                },
+                {
+                    "text": "PM",
+                    "bbox": [
+                        675.0,
+                        931.0,
+                        691.0,
+                        943.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

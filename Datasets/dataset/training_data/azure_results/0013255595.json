@@ -1,0 +1,538 @@
+{
+    "text_lines": [
+        {
+            "line_text": "Attachment A",
+            "line_bbox": [
+                538.0,
+                56.0,
+                643.0,
+                73.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Attachment",
+                    "bbox": [
+                        539.0,
+                        56.0,
+                        624.0,
+                        73.0
+                    ]
+                },
+                {
+                    "text": "A",
+                    "bbox": [
+                        630.0,
+                        58.0,
+                        639.0,
+                        73.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PUBLIC COMMUNICATIONS APPROVAL SHEET",
+            "line_bbox": [
+                217.0,
+                91.0,
+                524.0,
+                111.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PUBLIC",
+                    "bbox": [
+                        217.0,
+                        91.0,
+                        268.0,
+                        108.0
+                    ]
+                },
+                {
+                    "text": "COMMUNICATIONS",
+                    "bbox": [
+                        276.0,
+                        93.0,
+                        395.0,
+                        109.0
+                    ]
+                },
+                {
+                    "text": "APPROVAL",
+                    "bbox": [
+                        403.0,
+                        94.0,
+                        471.0,
+                        110.0
+                    ]
+                },
+                {
+                    "text": "SHEET",
+                    "bbox": [
+                        478.0,
+                        95.0,
+                        522.0,
+                        111.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The Tobacco Institute",
+            "line_bbox": [
+                277.0,
+                120.0,
+                457.0,
+                138.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        278.0,
+                        121.0,
+                        302.0,
+                        136.0
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "bbox": [
+                        311.0,
+                        122.0,
+                        369.0,
+                        136.0
+                    ]
+                },
+                {
+                    "text": "Institute",
+                    "bbox": [
+                        378.0,
+                        123.0,
+                        454.0,
+                        138.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE:",
+            "line_bbox": [
+                91.0,
+                161.0,
+                132.0,
+                174.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE:",
+                    "bbox": [
+                        91.0,
+                        161.0,
+                        132.0,
+                        175.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUBJECT:",
+            "line_bbox": [
+                90.0,
+                188.0,
+                161.0,
+                206.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUBJECT:",
+                    "bbox": [
+                        90.0,
+                        188.0,
+                        161.0,
+                        207.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "WRITER:",
+            "line_bbox": [
+                89.0,
+                244.0,
+                149.0,
+                257.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "WRITER:",
+                    "bbox": [
+                        90.0,
+                        245.0,
+                        149.0,
+                        258.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "APPROVALS :",
+            "line_bbox": [
+                88.0,
+                287.0,
+                175.0,
+                302.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "APPROVALS",
+                    "bbox": [
+                        89.0,
+                        287.0,
+                        164.0,
+                        302.0
+                    ]
+                },
+                {
+                    "text": ":",
+                    "bbox": [
+                        167.0,
+                        289.0,
+                        175.0,
+                        302.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NAME OR INITIALS",
+            "line_bbox": [
+                416.0,
+                320.0,
+                556.0,
+                337.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        417.0,
+                        321.0,
+                        451.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "OR",
+                    "bbox": [
+                        459.0,
+                        322.0,
+                        477.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "INITIALS",
+                    "bbox": [
+                        485.0,
+                        322.0,
+                        553.0,
+                        337.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                602.0,
+                325.0,
+                640.0,
+                339.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        603.0,
+                        325.0,
+                        637.0,
+                        339.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Division Head",
+            "line_bbox": [
+                88.0,
+                343.0,
+                202.0,
+                360.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Division",
+                    "bbox": [
+                        88.0,
+                        343.0,
+                        157.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "Head",
+                    "bbox": [
+                        163.0,
+                        344.0,
+                        199.0,
+                        360.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Bill Kloepfer",
+            "line_bbox": [
+                87.0,
+                370.0,
+                201.0,
+                387.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Bill",
+                    "bbox": [
+                        88.0,
+                        370.0,
+                        121.0,
+                        386.0
+                    ]
+                },
+                {
+                    "text": "Kloepfer",
+                    "bbox": [
+                        129.0,
+                        371.0,
+                        199.0,
+                        387.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Sam Chilcote",
+            "line_bbox": [
+                87.0,
+                399.0,
+                194.0,
+                414.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Sam",
+                    "bbox": [
+                        88.0,
+                        400.0,
+                        112.0,
+                        413.0
+                    ]
+                },
+                {
+                    "text": "Chilcote",
+                    "bbox": [
+                        120.0,
+                        399.0,
+                        189.0,
+                        415.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Legal Approval Recommended/Required:",
+            "line_bbox": [
+                85.0,
+                426.0,
+                393.0,
+                446.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Legal",
+                    "bbox": [
+                        86.0,
+                        426.0,
+                        131.0,
+                        442.0
+                    ]
+                },
+                {
+                    "text": "Approval",
+                    "bbox": [
+                        136.0,
+                        427.0,
+                        207.0,
+                        444.0
+                    ]
+                },
+                {
+                    "text": "Recommended/Required:",
+                    "bbox": [
+                        213.0,
+                        428.0,
+                        393.0,
+                        446.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "YES",
+            "line_bbox": [
+                442.0,
+                431.0,
+                469.0,
+                445.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "YES",
+                    "bbox": [
+                        442.0,
+                        431.0,
+                        468.0,
+                        445.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NO",
+            "line_bbox": [
+                569.0,
+                434.0,
+                590.0,
+                446.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NO",
+                    "bbox": [
+                        569.0,
+                        434.0,
+                        585.0,
+                        446.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                621.0,
+                439.0,
+                642.0,
+                456.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        627.0,
+                        439.0,
+                        638.0,
+                        456.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SH&B",
+            "line_bbox": [
+                86.0,
+                453.0,
+                123.0,
+                466.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SH&B",
+                    "bbox": [
+                        86.0,
+                        453.0,
+                        120.0,
+                        466.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "C& B",
+            "line_bbox": [
+                86.0,
+                481.0,
+                116.0,
+                494.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "C&",
+                    "bbox": [
+                        89.0,
+                        481.0,
+                        104.0,
+                        494.0
+                    ]
+                },
+                {
+                    "text": "B",
+                    "bbox": [
+                        107.0,
+                        481.0,
+                        115.0,
+                        494.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Other:",
+            "line_bbox": [
+                85.0,
+                509.0,
+                137.0,
+                524.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Other:",
+                    "bbox": [
+                        86.0,
+                        510.0,
+                        137.0,
+                        525.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

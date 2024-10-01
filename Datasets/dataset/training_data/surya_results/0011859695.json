@@ -1,0 +1,388 @@
+{
+    "text_lines": [
+        {
+            "text": "AMERICAN BROADCASTING COMPANY",
+            "bbox": [
+                222.0,
+                63.0,
+                433.0,
+                80.0
+            ]
+        },
+        {
+            "text": "TELEVISION NETWORK",
+            "bbox": [
+                257.0,
+                90.0,
+                400.0,
+                105.0
+            ]
+        },
+        {
+            "text": "1330 Avenue of the Americas, New York, New York 10019",
+            "bbox": [
+                208.0,
+                114.0,
+                450.0,
+                126.0
+            ]
+        },
+        {
+            "text": "LY 1-7777",
+            "bbox": [
+                300.0,
+                134.0,
+                361.0,
+                147.0
+            ]
+        },
+        {
+            "text": "September 25, 1969",
+            "bbox": [
+                438.0,
+                190.0,
+                597.0,
+                207.0
+            ]
+        },
+        {
+            "text": "Date:",
+            "bbox": [
+                387.0,
+                202.0,
+                419.0,
+                215.0
+            ]
+        },
+        {
+            "text": "Larry Odum",
+            "bbox": [
+                446.0,
+                234.0,
+                537.0,
+                249.0
+            ]
+        },
+        {
+            "text": "SSC&B, Inc",
+            "bbox": [
+                117.0,
+                236.0,
+                208.0,
+                252.0
+            ]
+        },
+        {
+            "text": "Contact:",
+            "bbox": [
+                388.0,
+                241.0,
+                434.0,
+                255.0
+            ]
+        },
+        {
+            "text": "Agency:",
+            "bbox": [
+                59.0,
+                246.0,
+                103.0,
+                260.0
+            ]
+        },
+        {
+            "text": "575 Lexington Avenue, New York, New York 10022",
+            "bbox": [
+                117.0,
+                292.0,
+                521.0,
+                305.0
+            ]
+        },
+        {
+            "text": "Addross:",
+            "bbox": [
+                59.0,
+                300.0,
+                107.0,
+                313.0
+            ]
+        },
+        {
+            "text": "American Tobacco Company",
+            "bbox": [
+                118.0,
+                347.0,
+                332.0,
+                364.0
+            ]
+        },
+        {
+            "text": "Cliont:",
+            "bbox": [
+                59.0,
+                354.0,
+                103.0,
+                368.0
+            ]
+        },
+        {
+            "text": "RECEIVED",
+            "bbox": [
+                572.0,
+                386.0,
+                624.0,
+                403.0
+            ]
+        },
+        {
+            "text": "Pall Mall Filter tip",
+            "bbox": [
+                119.0,
+                396.0,
+                297.0,
+                413.0
+            ]
+        },
+        {
+            "text": "Product;",
+            "bbox": [
+                61.0,
+                410.0,
+                108.0,
+                424.0
+            ]
+        },
+        {
+            "text": "SEP 30 issu",
+            "bbox": [
+                551.0,
+                419.0,
+                642.0,
+                443.0
+            ]
+        },
+        {
+            "text": "PERCY F. SMITH",
+            "bbox": [
+                546.0,
+                455.0,
+                634.0,
+                474.0
+            ]
+        },
+        {
+            "text": "VIDEO TAPE APPROVAL",
+            "bbox": [
+                189.0,
+                459.0,
+                359.0,
+                473.0
+            ]
+        },
+        {
+            "text": "Film Cleared:",
+            "bbox": [
+                60.0,
+                464.0,
+                136.0,
+                478.0
+            ]
+        },
+        {
+            "text": ". . . . . . . .",
+            "bbox": [
+                498.0,
+                476.0,
+                527.0,
+                492.0
+            ]
+        },
+        {
+            "text": "AT-M/B-T-64",
+            "bbox": [
+                336.0,
+                493.0,
+                437.0,
+                509.0
+            ]
+        },
+        {
+            "text": ": 60",
+            "bbox": [
+                469.0,
+                493.0,
+                497.0,
+                506.0
+            ]
+        },
+        {
+            "text": "\"Presenter/Girl Rev\"",
+            "bbox": [
+                121.0,
+                494.0,
+                299.0,
+                510.0
+            ]
+        },
+        {
+            "text": ":30",
+            "bbox": [
+                469.0,
+                506.0,
+                497.0,
+                522.0
+            ]
+        },
+        {
+            "text": "AT-P/F-T-317",
+            "bbox": [
+                336.0,
+                507.0,
+                447.0,
+                523.0
+            ]
+        },
+        {
+            "text": "\"Pall Mall Filter Tip\"",
+            "bbox": [
+                121.0,
+                510.0,
+                317.0,
+                524.0
+            ]
+        },
+        {
+            "text": "TAPE WILL FOLLOW AS SOON AS I RECEIVE IT FROM THE TAPE",
+            "bbox": [
+                119.0,
+                550.0,
+                594.0,
+                563.0
+            ]
+        },
+        {
+            "text": "LIBRARY.",
+            "bbox": [
+                120.0,
+                565.0,
+                194.0,
+                581.0
+            ]
+        },
+        {
+            "text": "PLEASE NOTIFY THIS DEPARTMENT OF ANY CHANGES IN THE CODE NUMBER(S).",
+            "bbox": [
+                61.0,
+                677.0,
+                526.0,
+                687.0
+            ]
+        },
+        {
+            "text": "Final approval is, of course, dependent upon time and placement of the commercial(s).",
+            "bbox": [
+                63.0,
+                705.0,
+                511.0,
+                714.0
+            ]
+        },
+        {
+            "text": "Film(s) enclosed.",
+            "bbox": [
+                64.0,
+                745.0,
+                158.0,
+                761.0
+            ]
+        },
+        {
+            "text": "Sincerely,",
+            "bbox": [
+                396.0,
+                754.0,
+                440.0,
+                768.0
+            ]
+        },
+        {
+            "text": "Amorican Broadcasting Company",
+            "bbox": [
+                395.0,
+                775.0,
+                579.0,
+                785.0
+            ]
+        },
+        {
+            "text": "CF:cb",
+            "bbox": [
+                64.0,
+                778.0,
+                111.0,
+                792.0
+            ]
+        },
+        {
+            "text": "\":\"",
+            "bbox": [
+                65.0,
+                793.0,
+                85.0,
+                807.0
+            ]
+        },
+        {
+            "text": "Cynthia Fat",
+            "bbox": [
+                396.0,
+                825.0,
+                474.0,
+                838.0
+            ]
+        },
+        {
+            "text": "\u00b7",
+            "bbox": [
+                81.0,
+                837.0,
+                90.0,
+                846.0
+            ]
+        },
+        {
+            "text": "Department of",
+            "bbox": [
+                396.0,
+                844.0,
+                459.0,
+                858.0
+            ]
+        },
+        {
+            "text": "BROADCAST STANDARDS AND PRACTICES",
+            "bbox": [
+                397.0,
+                857.0,
+                593.0,
+                871.0
+            ]
+        },
+        {
+            "text": "XER- 264/B-3 REV 5/68",
+            "bbox": [
+                77.0,
+                873.0,
+                191.0,
+                885.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

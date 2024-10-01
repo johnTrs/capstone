@@ -1,0 +1,694 @@
+{
+    "text_lines": [
+        {
+            "text": "ACCEPTED SYMPOSIUM",
+            "bbox": [
+                259.0,
+                3.0,
+                467.0,
+                20.0
+            ]
+        },
+        {
+            "text": "Return this form to:",
+            "bbox": [
+                501.0,
+                3.0,
+                632.0,
+                17.0
+            ]
+        },
+        {
+            "text": "AAAS Meetings Office",
+            "bbox": [
+                501.0,
+                19.0,
+                622.0,
+                32.0
+            ]
+        },
+        {
+            "text": "Preliminary Program Information",
+            "bbox": [
+                262.0,
+                25.0,
+                465.0,
+                41.0
+            ]
+        },
+        {
+            "text": "1101 Vermont Ave., N.W.",
+            "bbox": [
+                501.0,
+                34.0,
+                633.0,
+                48.0
+            ]
+        },
+        {
+            "text": "Washington, D. C. 20005",
+            "bbox": [
+                501.0,
+                50.0,
+                631.0,
+                63.0
+            ]
+        },
+        {
+            "text": "Submit not later than 1 November",
+            "bbox": [
+                254.0,
+                65.0,
+                470.0,
+                79.0
+            ]
+        },
+        {
+            "text": "Telephone: (202) 842-9530",
+            "bbox": [
+                502.0,
+                65.0,
+                648.0,
+                79.0
+            ]
+        },
+        {
+            "text": "READ REVERSE SIDE BEFORE FILLING OUT THIS FORM",
+            "bbox": [
+                173.0,
+                103.0,
+                519.0,
+                119.0
+            ]
+        },
+        {
+            "text": "RINCIPAL ORGANIZER (who will receive correspondence):",
+            "bbox": [
+                11.0,
+                138.0,
+                339.0,
+                156.0
+            ]
+        },
+        {
+            "text": "TELEPHONE 202/   457-4850",
+            "bbox": [
+                443.0,
+                137.0,
+                645.0,
+                146.0
+            ]
+        },
+        {
+            "text": "LAJE CASE I",
+            "bbox": [
+                531.0,
+                150.0,
+                573.0,
+                160.0
+            ]
+        },
+        {
+            "text": "AME_ Marvin A. Kastenbaum",
+            "bbox": [
+                10.0,
+                166.0,
+                250.0,
+                182.0
+            ]
+        },
+        {
+            "text": "AFFILIATION.",
+            "bbox": [
+                369.0,
+                169.0,
+                453.0,
+                183.0
+            ]
+        },
+        {
+            "text": "DDRESS 1875 Eye Street NW Suite 800 CHTY STATE. ZIP Washington. DC 20006",
+            "bbox": [
+                10.0,
+                194.0,
+                619.0,
+                213.0
+            ]
+        },
+        {
+            "text": "'O-ORGANIZER (if applicable):",
+            "bbox": [
+                10.0,
+                226.0,
+                186.0,
+                240.0
+            ]
+        },
+        {
+            "text": "TELEPHONE.",
+            "bbox": [
+                445.0,
+                227.0,
+                525.0,
+                241.0
+            ]
+        },
+        {
+            "text": "[Ares Coos]",
+            "bbox": [
+                531.0,
+                236.0,
+                573.0,
+                248.0
+            ]
+        },
+        {
+            "text": ":AME.",
+            "bbox": [
+                10.0,
+                256.0,
+                49.0,
+                269.0
+            ]
+        },
+        {
+            "text": "AFFILIATION.",
+            "bbox": [
+                370.0,
+                256.0,
+                454.0,
+                269.0
+            ]
+        },
+        {
+            "text": "DDRESS_",
+            "bbox": [
+                11.0,
+                284.0,
+                72.0,
+                298.0
+            ]
+        },
+        {
+            "text": "CITY, STATE, ZIP .",
+            "bbox": [
+                323.0,
+                284.0,
+                431.0,
+                299.0
+            ]
+        },
+        {
+            "text": "FOR ONE SESSION",
+            "bbox": [
+                288.0,
+                327.0,
+                403.0,
+                341.0
+            ]
+        },
+        {
+            "text": "THE HUMAN CHROMOSOME",
+            "bbox": [
+                282.0,
+                355.0,
+                466.0,
+                369.0
+            ]
+        },
+        {
+            "text": "INAL TITLE OF SYMPOSTUM",
+            "bbox": [
+                10.0,
+                363.0,
+                189.0,
+                377.0
+            ]
+        },
+        {
+            "text": "Dr. William J. Schull",
+            "bbox": [
+                64.0,
+                440.0,
+                260.0,
+                457.0
+            ]
+        },
+        {
+            "text": "Director - Genetics Centers",
+            "bbox": [
+                389.0,
+                441.0,
+                639.0,
+                455.0
+            ]
+        },
+        {
+            "text": "Tesider .",
+            "bbox": [
+                11.0,
+                449.0,
+                53.0,
+                461.0
+            ]
+        },
+        {
+            "text": ". Position",
+            "bbox": [
+                347.0,
+                449.0,
+                390.0,
+                462.0
+            ]
+        },
+        {
+            "text": "(Houston)",
+            "bbox": [
+                574.0,
+                465.0,
+                655.0,
+                479.0
+            ]
+        },
+        {
+            "text": "Amisulon Univ. of Texas Graduate School of Biomedical Sciences",
+            "bbox": [
+                20.0,
+                468.0,
+                574.0,
+                482.0
+            ]
+        },
+        {
+            "text": "Professor",
+            "bbox": [
+                418.0,
+                496.0,
+                504.0,
+                510.0
+            ]
+        },
+        {
+            "text": "Dr. Jorge J ..",
+            "bbox": [
+                71.0,
+                498.0,
+                184.0,
+                512.0
+            ]
+        },
+        {
+            "text": "Yunis",
+            "bbox": [
+                182.0,
+                498.0,
+                231.0,
+                511.0
+            ]
+        },
+        {
+            "text": ". Speaker_",
+            "bbox": [
+                12.0,
+                500.0,
+                71.0,
+                513.0
+            ]
+        },
+        {
+            "text": ". Position .",
+            "bbox": [
+                347.0,
+                500.0,
+                398.0,
+                514.0
+            ]
+        },
+        {
+            "text": "School of Medicine",
+            "bbox": [
+                271.0,
+                514.0,
+                433.0,
+                530.0
+            ]
+        },
+        {
+            "text": "Univ. of Minnesota",
+            "bbox": [
+                92.0,
+                516.0,
+                260.0,
+                529.0
+            ]
+        },
+        {
+            "text": "A. Hiliation .",
+            "bbox": [
+                20.0,
+                522.0,
+                75.0,
+                535.0
+            ]
+        },
+        {
+            "text": "The Oncogene, the Fragile Site, and Nonrandom Aberrations",
+            "bbox": [
+                63.0,
+                538.0,
+                586.0,
+                550.0
+            ]
+        },
+        {
+            "text": "Topic -",
+            "bbox": [
+                20.0,
+                545.0,
+                57.0,
+                557.0
+            ]
+        },
+        {
+            "text": "Chairman - Professor of Cytogenetic",
+            "bbox": [
+                391.0,
+                565.0,
+                712.0,
+                579.0
+            ]
+        },
+        {
+            "text": "Dr. Sheldon Wolff",
+            "bbox": [
+                74.0,
+                566.0,
+                233.0,
+                581.0
+            ]
+        },
+        {
+            "text": ". Speaker .",
+            "bbox": [
+                12.0,
+                573.0,
+                69.0,
+                586.0
+            ]
+        },
+        {
+            "text": "Position.",
+            "bbox": [
+                348.0,
+                573.0,
+                393.0,
+                586.0
+            ]
+        },
+        {
+            "text": "San Francis",
+            "bbox": [
+                610.0,
+                585.0,
+                711.0,
+                599.0
+            ]
+        },
+        {
+            "text": "Laborat. Radiobiology & Environmental Health - U. of Cal.",
+            "bbox": [
+                72.0,
+                586.0,
+                593.0,
+                601.0
+            ]
+        },
+        {
+            "text": "Affiliation.",
+            "bbox": [
+                20.0,
+                594.0,
+                74.0,
+                607.0
+            ]
+        },
+        {
+            "text": "Sister-Chromatid Exchanges",
+            "bbox": [
+                94.0,
+                613.0,
+                333.0,
+                629.0
+            ]
+        },
+        {
+            "text": "Topic -",
+            "bbox": [
+                20.0,
+                617.0,
+                55.0,
+                630.0
+            ]
+        },
+        {
+            "text": "Professor",
+            "bbox": [
+                411.0,
+                640.0,
+                497.0,
+                656.0
+            ]
+        },
+        {
+            "text": ". Speaker DX ... Patzicia Jacobs",
+            "bbox": [
+                12.0,
+                644.0,
+                243.0,
+                656.0
+            ]
+        },
+        {
+            "text": ". Position _",
+            "bbox": [
+                348.0,
+                645.0,
+                395.0,
+                658.0
+            ]
+        },
+        {
+            "text": "University of Hawaii - Dept.",
+            "bbox": [
+                85.0,
+                660.0,
+                348.0,
+                675.0
+            ]
+        },
+        {
+            "text": "of Anatomy",
+            "bbox": [
+                347.0,
+                660.0,
+                443.0,
+                674.0
+            ]
+        },
+        {
+            "text": "Affiliation _",
+            "bbox": [
+                20.0,
+                667.0,
+                75.0,
+                680.0
+            ]
+        },
+        {
+            "text": "Abnormal Human Chromosome Complements",
+            "bbox": [
+                66.0,
+                684.0,
+                406.0,
+                698.0
+            ]
+        },
+        {
+            "text": "Topic .",
+            "bbox": [
+                20.0,
+                689.0,
+                55.0,
+                701.0
+            ]
+        },
+        {
+            "text": "Professor",
+            "bbox": [
+                422.0,
+                710.0,
+                506.0,
+                726.0
+            ]
+        },
+        {
+            "text": "Dr. Ravmond White",
+            "bbox": [
+                95.0,
+                712.0,
+                253.0,
+                728.0
+            ]
+        },
+        {
+            "text": ". Speaker .",
+            "bbox": [
+                12.0,
+                717.0,
+                69.0,
+                729.0
+            ]
+        },
+        {
+            "text": ". Position.",
+            "bbox": [
+                348.0,
+                717.0,
+                394.0,
+                730.0
+            ]
+        },
+        {
+            "text": "University of Utah",
+            "bbox": [
+                95.0,
+                733.0,
+                264.0,
+                749.0
+            ]
+        },
+        {
+            "text": "Affiliation .",
+            "bbox": [
+                21.0,
+                739.0,
+                75.0,
+                752.0
+            ]
+        },
+        {
+            "text": "A Human Linkage Map based on DNA Markers",
+            "bbox": [
+                95.0,
+                755.0,
+                462.0,
+                768.0
+            ]
+        },
+        {
+            "text": "Topic -",
+            "bbox": [
+                21.0,
+                760.0,
+                55.0,
+                774.0
+            ]
+        },
+        {
+            "text": "Cytogeneticist",
+            "bbox": [
+                413.0,
+                782.0,
+                544.0,
+                796.0
+            ]
+        },
+        {
+            "text": "Dr. Michael A Bender",
+            "bbox": [
+                76.0,
+                785.0,
+                263.0,
+                798.0
+            ]
+        },
+        {
+            "text": ". Speaker_",
+            "bbox": [
+                12.0,
+                790.0,
+                69.0,
+                802.0
+            ]
+        },
+        {
+            "text": "Position.",
+            "bbox": [
+                349.0,
+                790.0,
+                393.0,
+                802.0
+            ]
+        },
+        {
+            "text": "Medical Deparment",
+            "bbox": [
+                413.0,
+                801.0,
+                580.0,
+                814.0
+            ]
+        },
+        {
+            "text": "Brookhaven National Laboratory",
+            "bbox": [
+                97.0,
+                803.0,
+                372.0,
+                816.0
+            ]
+        },
+        {
+            "text": "Affiliation .",
+            "bbox": [
+                22.0,
+                811.0,
+                75.0,
+                824.0
+            ]
+        },
+        {
+            "text": "Cyrogeneric Epidemiology",
+            "bbox": [
+                96.0,
+                830.0,
+                318.0,
+                843.0
+            ]
+        },
+        {
+            "text": "Topic -",
+            "bbox": [
+                22.0,
+                833.0,
+                59.0,
+                846.0
+            ]
+        },
+        {
+            "text": "See Reverse Side",
+            "bbox": [
+                605.0,
+                854.0,
+                688.0,
+                867.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

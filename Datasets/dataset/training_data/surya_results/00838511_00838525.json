@@ -1,0 +1,181 @@
+{
+    "text_lines": [
+        {
+            "text": "DECISION TREE ESTIMATION OF TOXIC RISK",
+            "bbox": [
+                208.0,
+                74.0,
+                581.0,
+                97.0
+            ]
+        },
+        {
+            "text": "NAME",
+            "bbox": [
+                72.0,
+                103.0,
+                99.0,
+                115.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                510.0,
+                102.0,
+                536.0,
+                115.0
+            ]
+        },
+        {
+            "text": "12-4-80",
+            "bbox": [
+                557.0,
+                107.0,
+                615.0,
+                123.0
+            ]
+        },
+        {
+            "text": "Paul Schickedantz, Jack Reid",
+            "bbox": [
+                105.0,
+                109.0,
+                322.0,
+                125.0
+            ]
+        },
+        {
+            "text": "COMPOUND NAME",
+            "bbox": [
+                72.0,
+                129.0,
+                149.0,
+                142.0
+            ]
+        },
+        {
+            "text": "2-Hydroxycyclododecanone",
+            "bbox": [
+                106.0,
+                152.0,
+                291.0,
+                167.0
+            ]
+        },
+        {
+            "text": "STRUCTURE",
+            "bbox": [
+                74.0,
+                185.0,
+                123.0,
+                199.0
+            ]
+        },
+        {
+            "text": "OH",
+            "bbox": [
+                191.0,
+                232.0,
+                210.0,
+                245.0
+            ]
+        },
+        {
+            "text": "ESTIMATED TOXICITY CLASS",
+            "bbox": [
+                72.0,
+                323.0,
+                187.0,
+                335.0
+            ]
+        },
+        {
+            "text": "LORILLARD COMPOUND CODE NUMBER",
+            "bbox": [
+                397.0,
+                322.0,
+                556.0,
+                335.0
+            ]
+        },
+        {
+            "text": "II",
+            "bbox": [
+                203.0,
+                328.0,
+                224.0,
+                344.0
+            ]
+        },
+        {
+            "text": "A41",
+            "bbox": [
+                459.0,
+                335.0,
+                486.0,
+                349.0
+            ]
+        },
+        {
+            "text": "COMMENTS.",
+            "bbox": [
+                72.0,
+                350.0,
+                124.0,
+                362.0
+            ]
+        },
+        {
+            "text": "This carbocyclic keto alcohol was placed in estimated toxicity class II",
+            "bbox": [
+                105.0,
+                376.0,
+                646.0,
+                393.0
+            ]
+        },
+        {
+            "text": "due to the direct attachment of the ketone to the cyclic nucleus.",
+            "bbox": [
+                105.0,
+                392.0,
+                599.0,
+                406.0
+            ]
+        },
+        {
+            "text": "S8C800",
+            "bbox": [
+                673.0,
+                809.0,
+                700.0,
+                871.0
+            ]
+        },
+        {
+            "text": "FORM 1 (5 80)",
+            "bbox": [
+                662.0,
+                897.0,
+                722.0,
+                911.0
+            ]
+        },
+        {
+            "text": "LORILUARD RESEARCH CENTERI",
+            "bbox": [
+                73.0,
+                899.0,
+                203.0,
+                912.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        773.0,
+        1000.0
+    ]
+}

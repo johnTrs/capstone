@@ -1,0 +1,451 @@
+{
+    "text_lines": [
+        {
+            "text": "CREATIVE INPUT DOCUMENT",
+            "bbox": [
+                67.0,
+                101.0,
+                391.0,
+                129.0
+            ]
+        },
+        {
+            "text": "r",
+            "bbox": [
+                38.0,
+                116.0,
+                48.0,
+                130.0
+            ]
+        },
+        {
+            "text": "SPECIFICS",
+            "bbox": [
+                92.0,
+                152.0,
+                187.0,
+                172.0
+            ]
+        },
+        {
+            "text": "Client Name:",
+            "bbox": [
+                387.0,
+                177.0,
+                486.0,
+                196.0
+            ]
+        },
+        {
+            "text": "Date/Time:",
+            "bbox": [
+                69.0,
+                181.0,
+                160.0,
+                199.0
+            ]
+        },
+        {
+            "text": "10/30/98 1:46 PM",
+            "bbox": [
+                167.0,
+                183.0,
+                286.0,
+                196.0
+            ]
+        },
+        {
+            "text": "Matter Number:",
+            "bbox": [
+                386.0,
+                198.0,
+                510.0,
+                217.0
+            ]
+        },
+        {
+            "text": "Prepared By:",
+            "bbox": [
+                69.0,
+                202.0,
+                168.0,
+                220.0
+            ]
+        },
+        {
+            "text": "Project Title:",
+            "bbox": [
+                386.0,
+                219.0,
+                487.0,
+                238.0
+            ]
+        },
+        {
+            "text": "Milestone Presentation Date:",
+            "bbox": [
+                69.0,
+                222.0,
+                295.0,
+                240.0
+            ]
+        },
+        {
+            "text": "Est. Production Budget:",
+            "bbox": [
+                387.0,
+                239.0,
+                564.0,
+                258.0
+            ]
+        },
+        {
+            "text": "Estimated Creative Budget:",
+            "bbox": [
+                68.0,
+                242.0,
+                273.0,
+                259.0
+            ]
+        },
+        {
+            "text": "Media:",
+            "bbox": [
+                387.0,
+                260.0,
+                443.0,
+                278.0
+            ]
+        },
+        {
+            "text": "Execution:",
+            "bbox": [
+                219.0,
+                263.0,
+                295.0,
+                279.0
+            ]
+        },
+        {
+            "text": "Concept:",
+            "bbox": [
+                69.0,
+                265.0,
+                131.0,
+                280.0
+            ]
+        },
+        {
+            "text": "OBJECTIVE",
+            "bbox": [
+                86.0,
+                296.0,
+                190.0,
+                316.0
+            ]
+        },
+        {
+            "text": "Why are we advertising?",
+            "bbox": [
+                69.0,
+                328.0,
+                256.0,
+                341.0
+            ]
+        },
+        {
+            "text": "What do we plan to achieve?",
+            "bbox": [
+                69.0,
+                343.0,
+                193.0,
+                355.0
+            ]
+        },
+        {
+            "text": "[ Loyalty",
+            "bbox": [
+                557.0,
+                359.0,
+                603.0,
+                371.0
+            ]
+        },
+        {
+            "text": "\u25a1 Retention",
+            "bbox": [
+                290.0,
+                360.0,
+                346.0,
+                372.0
+            ]
+        },
+        {
+            "text": "O Acquisition",
+            "bbox": [
+                429.0,
+                360.0,
+                491.0,
+                372.0
+            ]
+        },
+        {
+            "text": "\u25a1 Relationship-Building",
+            "bbox": [
+                109.0,
+                362.0,
+                214.0,
+                374.0
+            ]
+        },
+        {
+            "text": "\u25a1 Up-Selli",
+            "bbox": [
+                428.0,
+                373.0,
+                476.0,
+                385.0
+            ]
+        },
+        {
+            "text": "[ Lead Generation",
+            "bbox": [
+                557.0,
+                373.0,
+                650.0,
+                385.0
+            ]
+        },
+        {
+            "text": "\u25a1 Cross-Sell",
+            "bbox": [
+                289.0,
+                374.0,
+                350.0,
+                387.0
+            ]
+        },
+        {
+            "text": "\u25a1 Competitive Blocking",
+            "bbox": [
+                109.0,
+                376.0,
+                212.0,
+                388.0
+            ]
+        },
+        {
+            "text": "\u25a1 Awareness",
+            "bbox": [
+                428.0,
+                387.0,
+                492.0,
+                401.0
+            ]
+        },
+        {
+            "text": "\u25a1 Trial",
+            "bbox": [
+                556.0,
+                387.0,
+                592.0,
+                400.0
+            ]
+        },
+        {
+            "text": "\u25a1 Direct Sale",
+            "bbox": [
+                289.0,
+                389.0,
+                353.0,
+                402.0
+            ]
+        },
+        {
+            "text": "\u25a1 New Product/Package Intro.",
+            "bbox": [
+                108.0,
+                390.0,
+                242.0,
+                402.0
+            ]
+        },
+        {
+            "text": "\u25a1 Other",
+            "bbox": [
+                289.0,
+                402.0,
+                348.0,
+                418.0
+            ]
+        },
+        {
+            "text": "\u25a1 Change Image Perception",
+            "bbox": [
+                108.0,
+                405.0,
+                234.0,
+                416.0
+            ]
+        },
+        {
+            "text": "TARGET",
+            "bbox": [
+                103.0,
+                435.0,
+                174.0,
+                455.0
+            ]
+        },
+        {
+            "text": "To whom are we talking?",
+            "bbox": [
+                73.0,
+                467.0,
+                261.0,
+                480.0
+            ]
+        },
+        {
+            "text": "Who is the primary targel? Is there a secondary targe!? What is their relationship to the brand, and what do they currently think about it?",
+            "bbox": [
+                73.0,
+                481.0,
+                649.0,
+                491.0
+            ]
+        },
+        {
+            "text": "COMMUNICATION PLATFORM",
+            "bbox": [
+                93.0,
+                545.0,
+                285.0,
+                565.0
+            ]
+        },
+        {
+            "text": "What is the single most important message/idea we are trying to communicate?",
+            "bbox": [
+                73.0,
+                575.0,
+                671.0,
+                589.0
+            ]
+        },
+        {
+            "text": "What is the unique selling position that will help us achieve our advertising goal? Are there any secondary messages?",
+            "bbox": [
+                73.0,
+                591.0,
+                571.0,
+                603.0
+            ]
+        },
+        {
+            "text": "What is the key benefit to the target?",
+            "bbox": [
+                72.0,
+                639.0,
+                352.0,
+                658.0
+            ]
+        },
+        {
+            "text": "What's in it for the reader?",
+            "bbox": [
+                73.0,
+                657.0,
+                188.0,
+                670.0
+            ]
+        },
+        {
+            "text": "Is there an offer/call to action?",
+            "bbox": [
+                72.0,
+                704.0,
+                311.0,
+                720.0
+            ]
+        },
+        {
+            "text": "What are we offering the target to persuade himvher to act now? (A premium, sweepstakes, limited-time offer, free information, or something else?)",
+            "bbox": [
+                73.0,
+                721.0,
+                677.0,
+                731.0
+            ]
+        },
+        {
+            "text": "What would we like our target to think?",
+            "bbox": [
+                73.0,
+                769.0,
+                368.0,
+                786.0
+            ]
+        },
+        {
+            "text": "What would our target say after being exposed to our program?",
+            "bbox": [
+                73.0,
+                785.0,
+                343.0,
+                798.0
+            ]
+        },
+        {
+            "text": "8",
+            "bbox": [
+                528.0,
+                865.0,
+                549.0,
+                878.0
+            ]
+        },
+        {
+            "text": "' L 6 L 6 L 0 9 :",
+            "bbox": [
+                523.0,
+                874.0,
+                553.0,
+                961.0
+            ]
+        },
+        {
+            "text": "10/30/98 01:46 PM",
+            "bbox": [
+                596.0,
+                930.0,
+                696.0,
+                943.0
+            ]
+        },
+        {
+            "text": "c:\\my documents\\wp\\sample cid.doc",
+            "bbox": [
+                65.0,
+                933.0,
+                245.0,
+                946.0
+            ]
+        },
+        {
+            "text": "1 of 2",
+            "bbox": [
+                362.0,
+                932.0,
+                394.0,
+                945.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

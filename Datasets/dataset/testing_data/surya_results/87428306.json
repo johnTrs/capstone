@@ -1,0 +1,262 @@
+{
+    "text_lines": [
+        {
+            "text": "COMPOUND PHYSICAL PARAMETERS",
+            "bbox": [
+                252.0,
+                121.0,
+                543.0,
+                135.0
+            ]
+        },
+        {
+            "text": "LAC FILE MUBER\nA221",
+            "bbox": [
+                111.0,
+                150.0,
+                177.0,
+                176.0
+            ]
+        },
+        {
+            "text": "PHYSICAL STATE",
+            "bbox": [
+                113.0,
+                178.0,
+                171.0,
+                190.0
+            ]
+        },
+        {
+            "text": "A crystalline solid at room temperature which melts at >56\u00b0C.",
+            "bbox": [
+                126.0,
+                188.0,
+                547.0,
+                200.0
+            ]
+        },
+        {
+            "text": "The pH of a 50% concentration of A221 in water was theoretically",
+            "bbox": [
+                127.0,
+                220.0,
+                571.0,
+                236.0
+            ]
+        },
+        {
+            "text": "calculated to be 7.26 at 22\u00b0C from a 0.5% solution in 79.5% aqueous",
+            "bbox": [
+                127.0,
+                234.0,
+                590.0,
+                250.0
+            ]
+        },
+        {
+            "text": "dioxane according to the extrapolation procedures of Dr. P. D.",
+            "bbox": [
+                127.0,
+                247.0,
+                554.0,
+                263.0
+            ]
+        },
+        {
+            "text": "Reference 45-10-1.",
+            "bbox": [
+                451.0,
+                261.0,
+                581.0,
+                275.0
+            ]
+        },
+        {
+            "text": "Schickedantz, Lozillard Accession Number 1662.",
+            "bbox": [
+                127.0,
+                263.0,
+                454.0,
+                276.0
+            ]
+        },
+        {
+            "text": "SPECIFIC GRAVITY",
+            "bbox": [
+                116.0,
+                288.0,
+                177.0,
+                298.0
+            ]
+        },
+        {
+            "text": "Not Determined.",
+            "bbox": [
+                126.0,
+                304.0,
+                231.0,
+                317.0
+            ]
+        },
+        {
+            "text": "SOLUBE ITY",
+            "bbox": [
+                116.0,
+                349.0,
+                154.0,
+                358.0
+            ]
+        },
+        {
+            "text": "MUTAGENCITY SOLVENTS",
+            "bbox": [
+                124.0,
+                360.0,
+                213.0,
+                371.0
+            ]
+        },
+        {
+            "text": "A221 is soluble in EtOH at 0.2 g/mL, with stirring, at room",
+            "bbox": [
+                125.0,
+                370.0,
+                536.0,
+                386.0
+            ]
+        },
+        {
+            "text": "Reference BC30-88.",
+            "bbox": [
+                220.0,
+                385.0,
+                351.0,
+                398.0
+            ]
+        },
+        {
+            "text": "temperature.",
+            "bbox": [
+                126.0,
+                386.0,
+                222.0,
+                398.0
+            ]
+        },
+        {
+            "text": "\"A221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring",
+            "bbox": [
+                123.0,
+                436.0,
+                570.0,
+                454.0
+            ]
+        },
+        {
+            "text": "at room temperature.  Reference BC30-88.",
+            "bbox": [
+                125.0,
+                452.0,
+                403.0,
+                466.0
+            ]
+        },
+        {
+            "text": "CRAL",
+            "bbox": [
+                123.0,
+                483.0,
+                145.0,
+                495.0
+            ]
+        },
+        {
+            "text": "A221 forms a solution in corn oil at 0.5 g/0.5 mL, with stirring",
+            "bbox": [
+                124.0,
+                506.0,
+                569.0,
+                519.0
+            ]
+        },
+        {
+            "text": "at room temperature.",
+            "bbox": [
+                125.0,
+                520.0,
+                274.0,
+                533.0
+            ]
+        },
+        {
+            "text": "Reference BC30-88.",
+            "bbox": [
+                274.0,
+                520.0,
+                402.0,
+                533.0
+            ]
+        },
+        {
+            "text": "CUTE CARDIOVASCI",
+            "bbox": [
+                119.0,
+                574.0,
+                186.0,
+                582.0
+            ]
+        },
+        {
+            "text": "A221 is insoluble for this procedure.",
+            "bbox": [
+                125.0,
+                600.0,
+                392.0,
+                615.0
+            ]
+        },
+        {
+            "text": "Reference BC30-88.",
+            "bbox": [
+                390.0,
+                600.0,
+                518.0,
+                614.0
+            ]
+        },
+        {
+            "text": "088284",
+            "bbox": [
+                642.0,
+                655.0,
+                667.0,
+                720.0
+            ]
+        },
+        {
+            "text": "Refrigerate in an amber glass bottle at no more than 8\u00b0C.",
+            "bbox": [
+                125.0,
+                681.0,
+                519.0,
+                695.0
+            ]
+        },
+        {
+            "text": "A - 13",
+            "bbox": [
+                370.0,
+                890.0,
+                425.0,
+                903.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        770.0,
+        1000.0
+    ]
+}

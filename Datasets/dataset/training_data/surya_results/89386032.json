@@ -1,0 +1,208 @@
+{
+    "text_lines": [
+        {
+            "text": "EXPERIMENTAL PATHOLOGY LABORATORIES, INC.",
+            "bbox": [
+                138.0,
+                166.0,
+                425.0,
+                182.0
+            ]
+        },
+        {
+            "text": "QUALITY ASSURANCE",
+            "bbox": [
+                302.0,
+                220.0,
+                420.0,
+                231.0
+            ]
+        },
+        {
+            "text": "REPORT CERTIFICATION",
+            "bbox": [
+                291.0,
+                231.0,
+                437.0,
+                245.0
+            ]
+        },
+        {
+            "text": "Client Name",
+            "bbox": [
+                104.0,
+                274.0,
+                189.0,
+                290.0
+            ]
+        },
+        {
+            "text": "Borriston Laboratories, Inc. Client Study No.",
+            "bbox": [
+                197.0,
+                275.0,
+                539.0,
+                290.0
+            ]
+        },
+        {
+            "text": "1419A",
+            "bbox": [
+                567.0,
+                275.0,
+                608.0,
+                289.0
+            ]
+        },
+        {
+            "text": "Study Director Dr. William O. Iverson Pathologist Dr. Charley E. Gilmore",
+            "bbox": [
+                104.0,
+                317.0,
+                637.0,
+                334.0
+            ]
+        },
+        {
+            "text": "Bioassay of Cigarette Smoke Condensates for Potential",
+            "bbox": [
+                212.0,
+                346.0,
+                594.0,
+                362.0
+            ]
+        },
+        {
+            "text": "Study Title",
+            "bbox": [
+                105.0,
+                360.0,
+                189.0,
+                376.0
+            ]
+        },
+        {
+            "text": "Tumorigenic Activity on Mouse Skin",
+            "bbox": [
+                212.0,
+                360.0,
+                459.0,
+                376.0
+            ]
+        },
+        {
+            "text": "(Revised Pathology Report)",
+            "bbox": [
+                213.0,
+                375.0,
+                401.0,
+                391.0
+            ]
+        },
+        {
+            "text": "Test Article",
+            "bbox": [
+                104.0,
+                404.0,
+                200.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Multiple",
+            "bbox": [
+                211.0,
+                404.0,
+                274.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Mice",
+            "bbox": [
+                524.0,
+                404.0,
+                560.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Species",
+            "bbox": [
+                440.0,
+                405.0,
+                494.0,
+                419.0
+            ]
+        },
+        {
+            "text": "All parts of the pathology phase of this study, including the final report,",
+            "bbox": [
+                126.0,
+                489.0,
+                665.0,
+                506.0
+            ]
+        },
+        {
+            "text": "were reviewed by Experimental Pathology Laboratories Quality Assurance Unit",
+            "bbox": [
+                125.0,
+                519.0,
+                666.0,
+                535.0
+            ]
+        },
+        {
+            "text": "March 2 - June 8, 1983",
+            "bbox": [
+                176.0,
+                548.0,
+                340.0,
+                564.0
+            ]
+        },
+        {
+            "text": "All findings were reported",
+            "bbox": [
+                467.0,
+                549.0,
+                659.0,
+                563.0
+            ]
+        },
+        {
+            "text": "on",
+            "bbox": [
+                127.0,
+                550.0,
+                147.0,
+                563.0
+            ]
+        },
+        {
+            "text": "to the Study Director and Management.",
+            "bbox": [
+                127.0,
+                577.0,
+                394.0,
+                593.0
+            ]
+        },
+        {
+            "text": "098800",
+            "bbox": [
+                670.0,
+                855.0,
+                695.0,
+                905.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        778.0,
+        1000.0
+    ]
+}

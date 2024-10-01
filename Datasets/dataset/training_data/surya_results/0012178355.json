@@ -1,0 +1,568 @@
+{
+    "text_lines": [
+        {
+            "text": "Attachment II",
+            "bbox": [
+                40.0,
+                48.0,
+                134.0,
+                61.0
+            ]
+        },
+        {
+            "text": "SPECIFICATION CHANGE PROPOSAL",
+            "bbox": [
+                229.0,
+                60.0,
+                431.0,
+                75.0
+            ]
+        },
+        {
+            "text": "BRAND",
+            "bbox": [
+                41.0,
+                90.0,
+                83.0,
+                103.0
+            ]
+        },
+        {
+            "text": "ELI CUTTER KS",
+            "bbox": [
+                123.0,
+                90.0,
+                217.0,
+                103.0
+            ]
+        },
+        {
+            "text": "SPECIFICATION CHANGE NUMBER 84-79",
+            "bbox": [
+                361.0,
+                90.0,
+                602.0,
+                102.0
+            ]
+        },
+        {
+            "text": "Export ",
+            "bbox": [
+                230.0,
+                103.0,
+                317.0,
+                116.0
+            ]
+        },
+        {
+            "text": "Military ",
+            "bbox": [
+                340.0,
+                103.0,
+                459.0,
+                119.0
+            ]
+        },
+        {
+            "text": "Contract",
+            "bbox": [
+                477.0,
+                103.0,
+                563.0,
+                117.0
+            ]
+        },
+        {
+            "text": "Domestic X",
+            "bbox": [
+                116.0,
+                104.0,
+                230.0,
+                118.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                459.0,
+                105.0,
+                476.0,
+                117.0
+            ]
+        },
+        {
+            "text": "TYPE OF SPECIFICATION CHANGE (Check all that apply)",
+            "bbox": [
+                69.0,
+                130.0,
+                423.0,
+                146.0
+            ]
+        },
+        {
+            "text": "Packaging, Permanent",
+            "bbox": [
+                362.0,
+                145.0,
+                506.0,
+                161.0
+            ]
+        },
+        {
+            "text": "Packaging, Temporary",
+            "bbox": [
+                69.0,
+                146.0,
+                210.0,
+                160.0
+            ]
+        },
+        {
+            "text": "Cigarette Design, Trial",
+            "bbox": [
+                69.0,
+                160.0,
+                234.0,
+                175.0
+            ]
+        },
+        {
+            "text": "Cigarette Design, Permanent",
+            "bbox": [
+                361.0,
+                160.0,
+                554.0,
+                174.0
+            ]
+        },
+        {
+            "text": "l",
+            "bbox": [
+                302.0,
+                166.0,
+                327.0,
+                180.0
+            ]
+        },
+        {
+            "text": "Tar Adjustment < 1 mg",
+            "bbox": [
+                69.0,
+                173.0,
+                237.0,
+                189.0
+            ]
+        },
+        {
+            "text": "Tar Adjustment > 1 mg",
+            "bbox": [
+                362.0,
+                173.0,
+                516.0,
+                187.0
+            ]
+        },
+        {
+            "text": "New Product",
+            "bbox": [
+                69.0,
+                187.0,
+                149.0,
+                201.0
+            ]
+        },
+        {
+            "text": "x",
+            "bbox": [
+                306.0,
+                187.0,
+                329.0,
+                203.0
+            ]
+        },
+        {
+            "text": "Discontinue Product",
+            "bbox": [
+                362.0,
+                187.0,
+                499.0,
+                201.0
+            ]
+        },
+        {
+            "text": "Equivalent Additive",
+            "bbox": [
+                69.0,
+                201.0,
+                206.0,
+                215.0
+            ]
+        },
+        {
+            "text": "Equivalent Packaging Material",
+            "bbox": [
+                362.0,
+                201.0,
+                568.0,
+                215.0
+            ]
+        },
+        {
+            "text": "Equivalent Filter/Paper/Tipping",
+            "bbox": [
+                69.0,
+                214.0,
+                287.0,
+                232.0
+            ]
+        },
+        {
+            "text": "Processing",
+            "bbox": [
+                363.0,
+                216.0,
+                437.0,
+                229.0
+            ]
+        },
+        {
+            "text": "Description: ELI CUTTER KS, for test market, using AMELIA \"B\" Blend (XLF-680G).",
+            "bbox": [
+                43.0,
+                243.0,
+                595.0,
+                259.0
+            ]
+        },
+        {
+            "text": "*Cost Summary -",
+            "bbox": [
+                43.0,
+                271.0,
+                153.0,
+                285.0
+            ]
+        },
+        {
+            "text": "REQUESTED IMPLEMENTATION DATE",
+            "bbox": [
+                71.0,
+                299.0,
+                358.0,
+                314.0
+            ]
+        },
+        {
+            "text": "COST SUMMARY",
+            "bbox": [
+                71.0,
+                326.0,
+                160.0,
+                340.0
+            ]
+        },
+        {
+            "text": "Obsolete Material Cost",
+            "bbox": [
+                98.0,
+                340.0,
+                253.0,
+                355.0
+            ]
+        },
+        {
+            "text": "Special Equipment/Material Cost _",
+            "bbox": [
+                99.0,
+                353.0,
+                328.0,
+                370.0
+            ]
+        },
+        {
+            "text": "Est. Annual Product Cost Change _",
+            "bbox": [
+                99.0,
+                369.0,
+                327.0,
+                382.0
+            ]
+        },
+        {
+            "text": "ATTACHMENTS (Check if Included)",
+            "bbox": [
+                72.0,
+                395.0,
+                287.0,
+                410.0
+            ]
+        },
+        {
+            "text": "Rationale",
+            "bbox": [
+                73.0,
+                410.0,
+                139.0,
+                424.0
+            ]
+        },
+        {
+            "text": "Cost Analysis",
+            "bbox": [
+                364.0,
+                410.0,
+                459.0,
+                424.0
+            ]
+        },
+        {
+            "text": "Product Specification List",
+            "bbox": [
+                73.0,
+                424.0,
+                255.0,
+                438.0
+            ]
+        },
+        {
+            "text": "se",
+            "bbox": [
+                309.0,
+                424.0,
+                330.0,
+                440.0
+            ]
+        },
+        {
+            "text": "Spec. Change Detail",
+            "bbox": [
+                365.0,
+                424.0,
+                501.0,
+                438.0
+            ]
+        },
+        {
+            "text": "Packaging Art Stat. ",
+            "bbox": [
+                73.0,
+                437.0,
+                214.0,
+                453.0
+            ]
+        },
+        {
+            "text": "Casing/Flavoring Formulae",
+            "bbox": [
+                364.0,
+                437.0,
+                542.0,
+                453.0
+            ]
+        },
+        {
+            "text": "x",
+            "bbox": [
+                309.0,
+                450.0,
+                330.0,
+                466.0
+            ]
+        },
+        {
+            "text": "Processing Detail",
+            "bbox": [
+                73.0,
+                451.0,
+                195.0,
+                465.0
+            ]
+        },
+        {
+            "text": "Blend Formulae",
+            "bbox": [
+                365.0,
+                452.0,
+                470.0,
+                465.0
+            ]
+        },
+        {
+            "text": "Initial Production Requirement",
+            "bbox": [
+                74.0,
+                465.0,
+                282.0,
+                479.0
+            ]
+        },
+        {
+            "text": "--",
+            "bbox": [
+                304.0,
+                470.0,
+                330.0,
+                485.0
+            ]
+        },
+        {
+            "text": "Prepared By:  _",
+            "bbox": [
+                74.0,
+                506.0,
+                306.0,
+                521.0
+            ]
+        },
+        {
+            "text": "Date _ 10/10/84 _",
+            "bbox": [
+                386.0,
+                506.0,
+                583.0,
+                523.0
+            ]
+        },
+        {
+            "text": "   ",
+            "bbox": [
+                100.0,
+                535.0,
+                257.0,
+                548.0
+            ]
+        },
+        {
+            "text": "",
+            "bbox": [
+                260.0,
+                535.0,
+                358.0,
+                547.0
+            ]
+        },
+        {
+            "text": "Date",
+            "bbox": [
+                358.0,
+                535.0,
+                393.0,
+                548.0
+            ]
+        },
+        {
+            "text": "CQA",
+            "bbox": [
+                74.0,
+                563.0,
+                114.0,
+                577.0
+            ]
+        },
+        {
+            "text": "RD&E - Product",
+            "bbox": [
+                74.0,
+                590.0,
+                177.0,
+                604.0
+            ]
+        },
+        {
+            "text": "RD&E - Process",
+            "bbox": [
+                74.0,
+                617.0,
+                177.0,
+                631.0
+            ]
+        },
+        {
+            "text": "ELT",
+            "bbox": [
+                76.0,
+                646.0,
+                297.0,
+                665.0
+            ]
+        },
+        {
+            "text": "Marketing",
+            "bbox": [
+                76.0,
+                674.0,
+                153.0,
+                686.0
+            ]
+        },
+        {
+            "text": "A STATUAL APPROVAL A CHANGE AND",
+            "bbox": [
+                106.0,
+                700.0,
+                337.0,
+                715.0
+            ]
+        },
+        {
+            "text": "Date ",
+            "bbox": [
+                347.0,
+                701.0,
+                410.0,
+                715.0
+            ]
+        },
+        {
+            "text": "CQA ",
+            "bbox": [
+                76.0,
+                729.0,
+                107.0,
+                742.0
+            ]
+        },
+        {
+            "text": "e and the support of the support of the support of the support of the subject of th",
+            "bbox": [
+                231.0,
+                729.0,
+                370.0,
+                742.0
+            ]
+        },
+        {
+            "text": "President",
+            "bbox": [
+                77.0,
+                756.0,
+                144.0,
+                769.0
+            ]
+        },
+        {
+            "text": "1011k",
+            "bbox": [
+                51.0,
+                797.0,
+                89.0,
+                813.0
+            ]
+        },
+        {
+            "text": "821626776",
+            "bbox": [
+                558.0,
+                847.0,
+                675.0,
+                866.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

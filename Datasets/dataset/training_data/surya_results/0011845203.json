@@ -1,0 +1,361 @@
+{
+    "text_lines": [
+        {
+            "text": "BROWN & WILLIANSON BID REQUEST FORM",
+            "bbox": [
+                258.0,
+                84.0,
+                496.0,
+                98.0
+            ]
+        },
+        {
+            "text": "(QUANTITATIVE RESEARCH)",
+            "bbox": [
+                298.0,
+                110.0,
+                457.0,
+                126.0
+            ]
+        },
+        {
+            "text": "1991-18",
+            "bbox": [
+                227.0,
+                178.0,
+                328.0,
+                192.0
+            ]
+        },
+        {
+            "text": "PROJECT NUMBER: ",
+            "bbox": [
+                112.0,
+                180.0,
+                222.0,
+                194.0
+            ]
+        },
+        {
+            "text": "B&W ORIGINATOR: _ Mary D. Davis",
+            "bbox": [
+                112.0,
+                206.0,
+                336.0,
+                221.0
+            ]
+        },
+        {
+            "text": "TO: Mr. Johnny Pedersen - Gallup",
+            "bbox": [
+                112.0,
+                233.0,
+                349.0,
+                247.0
+            ]
+        },
+        {
+            "text": "INSTRUCTIONS",
+            "bbox": [
+                112.0,
+                273.0,
+                200.0,
+                289.0
+            ]
+        },
+        {
+            "text": "THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+            "bbox": [
+                152.0,
+                298.0,
+                505.0,
+                311.0
+            ]
+        },
+        {
+            "text": "l.",
+            "bbox": [
+                113.0,
+                302.0,
+                132.0,
+                315.0
+            ]
+        },
+        {
+            "text": "SECTION ONE CONTAINS THE PROJECT DESCRIPTIONS AND SPECIFICATIONS FROM",
+            "bbox": [
+                154.0,
+                324.0,
+                619.0,
+                336.0
+            ]
+        },
+        {
+            "text": "B&W. ALL BIDS SHOULD BE BASED ON THE SPECIFICATIONS IN THIS DOCUMENT.",
+            "bbox": [
+                154.0,
+                338.0,
+                622.0,
+                350.0
+            ]
+        },
+        {
+            "text": "SECTION THO SHOULD BE COMPLETED BY THE RESEARCH AGENCY AND RETURNED BY",
+            "bbox": [
+                154.0,
+                366.0,
+                626.0,
+                374.0
+            ]
+        },
+        {
+            "text": "FAX TO THE FOLLOWING PERSON:",
+            "bbox": [
+                155.0,
+                379.0,
+                347.0,
+                393.0
+            ]
+        },
+        {
+            "text": "MS. JACKIE KEY",
+            "bbox": [
+                361.0,
+                404.0,
+                460.0,
+                416.0
+            ]
+        },
+        {
+            "text": "B&H",
+            "bbox": [
+                362.0,
+                417.0,
+                387.0,
+                430.0
+            ]
+        },
+        {
+            "text": "LOUISVILLE, KENTUCKY",
+            "bbox": [
+                361.0,
+                430.0,
+                500.0,
+                443.0
+            ]
+        },
+        {
+            "text": "U.S.A.",
+            "bbox": [
+                361.0,
+                443.0,
+                407.0,
+                457.0
+            ]
+        },
+        {
+            "text": "FAX NUMBER:  1-502-568-8092",
+            "bbox": [
+                363.0,
+                469.0,
+                548.0,
+                482.0
+            ]
+        },
+        {
+            "text": "IN ORDER TO ALLOW US TO COMPARE BIOS, WE REQUEST THAT YOU SUBMIT A BID",
+            "bbox": [
+                155.0,
+                498.0,
+                628.0,
+                507.0
+            ]
+        },
+        {
+            "text": "2.",
+            "bbox": [
+                115.0,
+                500.0,
+                133.0,
+                514.0
+            ]
+        },
+        {
+            "text": "FOR THE RESEARCH AS SPECIFIED IN SECTION ONE.",
+            "bbox": [
+                156.0,
+                511.0,
+                462.0,
+                525.0
+            ]
+        },
+        {
+            "text": "SUGGESTIONS FOR ALTERNATE DESIGNS FROM THE AGENCY ARE WELCOMED. HOWEVER,",
+            "bbox": [
+                156.0,
+                538.0,
+                648.0,
+                547.0
+            ]
+        },
+        {
+            "text": "THESE SHOULD BE SUBMITTED AS SEPARATE DOCUMENTS APPENDED TO THIS BID",
+            "bbox": [
+                156.0,
+                551.0,
+                616.0,
+                561.0
+            ]
+        },
+        {
+            "text": "FORM.",
+            "bbox": [
+                157.0,
+                565.0,
+                196.0,
+                579.0
+            ]
+        },
+        {
+            "text": "IF YOU HAVE ANY QUESTIONS, PLEASE CONTACT THE FOLLOWING PERSON:",
+            "bbox": [
+                156.0,
+                590.0,
+                582.0,
+                601.0
+            ]
+        },
+        {
+            "text": "3.",
+            "bbox": [
+                116.0,
+                592.0,
+                136.0,
+                605.0
+            ]
+        },
+        {
+            "text": "Mary D. Davis",
+            "bbox": [
+                166.0,
+                630.0,
+                280.0,
+                646.0
+            ]
+        },
+        {
+            "text": "FAX NUMBER: 1-502-568-8092",
+            "bbox": [
+                158.0,
+                656.0,
+                344.0,
+                672.0
+            ]
+        },
+        {
+            "text": "OTHER INFORMATION",
+            "bbox": [
+                117.0,
+                696.0,
+                241.0,
+                713.0
+            ]
+        },
+        {
+            "text": "2/22 by courier",
+            "bbox": [
+                320.0,
+                723.0,
+                439.0,
+                736.0
+            ]
+        },
+        {
+            "text": "DATE REQUESTED:",
+            "bbox": [
+                118.0,
+                724.0,
+                225.0,
+                738.0
+            ]
+        },
+        {
+            "text": "3/1/91_",
+            "bbox": [
+                318.0,
+                741.0,
+                378.0,
+                755.0
+            ]
+        },
+        {
+            "text": "DEADLINE FOR BID RECEIPT:",
+            "bbox": [
+                118.0,
+                743.0,
+                295.0,
+                757.0
+            ]
+        },
+        {
+            "text": "464565018",
+            "bbox": [
+                506.0,
+                840.0,
+                619.0,
+                857.0
+            ]
+        },
+        {
+            "text": "different",
+            "bbox": [
+                392.0,
+                874.0,
+                465.0,
+                903.0
+            ]
+        },
+        {
+            "text": ":",
+            "bbox": [
+                360.0,
+                880.0,
+                389.0,
+                894.0
+            ]
+        },
+        {
+            "text": "40.67",
+            "bbox": [
+                474.0,
+                880.0,
+                524.0,
+                902.0
+            ]
+        },
+        {
+            "text": ".",
+            "bbox": [
+                389.0,
+                890.0,
+                412.0,
+                904.0
+            ]
+        },
+        {
+            "text": ". 5",
+            "bbox": [
+                368.0,
+                893.0,
+                385.0,
+                905.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

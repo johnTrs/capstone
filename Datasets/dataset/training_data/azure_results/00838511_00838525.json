@@ -1,0 +1,763 @@
+{
+    "text_lines": [
+        {
+            "line_text": "DECISION TREE ESTIMATION OF TOXIC RISK",
+            "line_bbox": [
+                209.0,
+                77.0,
+                579.0,
+                96.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DECISION",
+                    "bbox": [
+                        209.0,
+                        78.0,
+                        287.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "TREE",
+                    "bbox": [
+                        298.0,
+                        78.0,
+                        336.0,
+                        95.0
+                    ]
+                },
+                {
+                    "text": "ESTIMATION",
+                    "bbox": [
+                        341.0,
+                        77.0,
+                        440.0,
+                        95.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        450.0,
+                        77.0,
+                        475.0,
+                        95.0
+                    ]
+                },
+                {
+                    "text": "TOXIC",
+                    "bbox": [
+                        481.0,
+                        77.0,
+                        532.0,
+                        95.0
+                    ]
+                },
+                {
+                    "text": "RISK",
+                    "bbox": [
+                        539.0,
+                        77.0,
+                        575.0,
+                        95.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "NAME",
+            "line_bbox": [
+                76.0,
+                105.0,
+                101.0,
+                113.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        76.0,
+                        105.0,
+                        98.0,
+                        113.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Paul Schickedantz, Jack Reid",
+            "line_bbox": [
+                108.0,
+                109.0,
+                318.0,
+                124.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Paul",
+                    "bbox": [
+                        108.0,
+                        111.0,
+                        136.0,
+                        124.0
+                    ]
+                },
+                {
+                    "text": "Schickedantz,",
+                    "bbox": [
+                        143.0,
+                        110.0,
+                        244.0,
+                        124.0
+                    ]
+                },
+                {
+                    "text": "Jack",
+                    "bbox": [
+                        248.0,
+                        110.0,
+                        279.0,
+                        124.0
+                    ]
+                },
+                {
+                    "text": "Reid",
+                    "bbox": [
+                        285.0,
+                        109.0,
+                        318.0,
+                        124.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                513.0,
+                104.0,
+                533.0,
+                112.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        513.0,
+                        104.0,
+                        533.0,
+                        112.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "12-4-80",
+            "line_bbox": [
+                558.0,
+                107.0,
+                613.0,
+                121.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "12-4-80",
+                    "bbox": [
+                        559.0,
+                        108.0,
+                        611.0,
+                        121.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMPOUND NAME",
+            "line_bbox": [
+                75.0,
+                132.0,
+                146.0,
+                141.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMPOUND",
+                    "bbox": [
+                        75.0,
+                        132.0,
+                        120.0,
+                        141.0
+                    ]
+                },
+                {
+                    "text": "NAME",
+                    "bbox": [
+                        124.0,
+                        132.0,
+                        146.0,
+                        142.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "2-Hydroxycyclododecanone",
+            "line_bbox": [
+                107.0,
+                153.0,
+                290.0,
+                167.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "2-Hydroxycyclododecanone",
+                    "bbox": [
+                        107.0,
+                        154.0,
+                        287.0,
+                        167.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "STRUCTURE",
+            "line_bbox": [
+                75.0,
+                187.0,
+                120.0,
+                197.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "STRUCTURE",
+                    "bbox": [
+                        75.0,
+                        187.0,
+                        120.0,
+                        198.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "HO",
+            "line_bbox": [
+                194.0,
+                232.0,
+                209.0,
+                244.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "HO",
+                    "bbox": [
+                        195.0,
+                        232.0,
+                        209.0,
+                        244.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ESTIMATED TOXICITY CLASS",
+            "line_bbox": [
+                74.0,
+                323.0,
+                188.0,
+                335.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ESTIMATED",
+                    "bbox": [
+                        75.0,
+                        324.0,
+                        119.0,
+                        335.0
+                    ]
+                },
+                {
+                    "text": "TOXICITY",
+                    "bbox": [
+                        121.0,
+                        324.0,
+                        156.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "CLASS",
+                    "bbox": [
+                        158.0,
+                        324.0,
+                        185.0,
+                        334.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "II",
+            "line_bbox": [
+                206.0,
+                330.0,
+                222.0,
+                340.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "II",
+                    "bbox": [
+                        206.0,
+                        330.0,
+                        220.0,
+                        340.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LORILLARD COMPOUND CODE NUMBER",
+            "line_bbox": [
+                401.0,
+                323.0,
+                554.0,
+                333.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LORILLARD",
+                    "bbox": [
+                        401.0,
+                        324.0,
+                        442.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "COMPOUND",
+                    "bbox": [
+                        444.0,
+                        324.0,
+                        492.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "CODE",
+                    "bbox": [
+                        494.0,
+                        324.0,
+                        517.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "NUMBER",
+                    "bbox": [
+                        519.0,
+                        324.0,
+                        554.0,
+                        334.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "A41",
+            "line_bbox": [
+                461.0,
+                335.0,
+                484.0,
+                346.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "A41",
+                    "bbox": [
+                        461.0,
+                        335.0,
+                        483.0,
+                        346.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "COMMENTS",
+            "line_bbox": [
+                74.0,
+                351.0,
+                122.0,
+                360.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "COMMENTS",
+                    "bbox": [
+                        75.0,
+                        351.0,
+                        120.0,
+                        361.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "This carbocyclic keto alcohol was placed in estimated toxicity class II",
+            "line_bbox": [
+                107.0,
+                377.0,
+                644.0,
+                392.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "This",
+                    "bbox": [
+                        107.0,
+                        379.0,
+                        137.0,
+                        392.0
+                    ]
+                },
+                {
+                    "text": "carbocyclic",
+                    "bbox": [
+                        143.0,
+                        379.0,
+                        227.0,
+                        392.0
+                    ]
+                },
+                {
+                    "text": "keto",
+                    "bbox": [
+                        234.0,
+                        379.0,
+                        265.0,
+                        392.0
+                    ]
+                },
+                {
+                    "text": "alcohol",
+                    "bbox": [
+                        272.0,
+                        378.0,
+                        325.0,
+                        392.0
+                    ]
+                },
+                {
+                    "text": "was",
+                    "bbox": [
+                        332.0,
+                        378.0,
+                        356.0,
+                        392.0
+                    ]
+                },
+                {
+                    "text": "placed",
+                    "bbox": [
+                        362.0,
+                        378.0,
+                        408.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        415.0,
+                        378.0,
+                        430.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "estimated",
+                    "bbox": [
+                        438.0,
+                        378.0,
+                        506.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "toxicity",
+                    "bbox": [
+                        514.0,
+                        378.0,
+                        574.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "class",
+                    "bbox": [
+                        581.0,
+                        378.0,
+                        619.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "II",
+                    "bbox": [
+                        627.0,
+                        378.0,
+                        643.0,
+                        391.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "due to the direct attachment of the ketone to the cyclic nucleus.",
+            "line_bbox": [
+                109.0,
+                392.0,
+                599.0,
+                406.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "due",
+                    "bbox": [
+                        109.0,
+                        394.0,
+                        129.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        137.0,
+                        393.0,
+                        152.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        159.0,
+                        393.0,
+                        183.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "direct",
+                    "bbox": [
+                        189.0,
+                        393.0,
+                        235.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "attachment",
+                    "bbox": [
+                        242.0,
+                        392.0,
+                        318.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        324.0,
+                        392.0,
+                        340.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        347.0,
+                        392.0,
+                        371.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "ketone",
+                    "bbox": [
+                        377.0,
+                        392.0,
+                        424.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        430.0,
+                        392.0,
+                        445.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        453.0,
+                        392.0,
+                        476.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "cyclic",
+                    "bbox": [
+                        482.0,
+                        392.0,
+                        528.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "nucleus.",
+                    "bbox": [
+                        535.0,
+                        392.0,
+                        598.0,
+                        405.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "00838511",
+            "line_bbox": [
+                676.0,
+                801.0,
+                697.0,
+                891.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "00838511",
+                    "bbox": [
+                        677.0,
+                        801.0,
+                        696.0,
+                        887.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "LORILLARD RESEARCH CENTER",
+            "line_bbox": [
+                75.0,
+                901.0,
+                201.0,
+                911.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "LORILLARD",
+                    "bbox": [
+                        76.0,
+                        901.0,
+                        119.0,
+                        911.0
+                    ]
+                },
+                {
+                    "text": "RESEARCH",
+                    "bbox": [
+                        121.0,
+                        901.0,
+                        164.0,
+                        911.0
+                    ]
+                },
+                {
+                    "text": "CENTER",
+                    "bbox": [
+                        165.0,
+                        901.0,
+                        198.0,
+                        911.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "FORM 1 [5 80)",
+            "line_bbox": [
+                662.0,
+                900.0,
+                721.0,
+                910.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "FORM",
+                    "bbox": [
+                        663.0,
+                        900.0,
+                        685.0,
+                        910.0
+                    ]
+                },
+                {
+                    "text": "1",
+                    "bbox": [
+                        689.0,
+                        900.0,
+                        694.0,
+                        910.0
+                    ]
+                },
+                {
+                    "text": "[5",
+                    "bbox": [
+                        695.0,
+                        900.0,
+                        704.0,
+                        910.0
+                    ]
+                },
+                {
+                    "text": "80)",
+                    "bbox": [
+                        705.0,
+                        900.0,
+                        721.0,
+                        911.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

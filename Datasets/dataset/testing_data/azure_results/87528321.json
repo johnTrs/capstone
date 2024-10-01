@@ -1,0 +1,2506 @@
+{
+    "text_lines": [
+        {
+            "line_text": "RJRT",
+            "line_bbox": [
+                27.0,
+                15.0,
+                63.0,
+                27.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RJRT",
+                    "bbox": [
+                        28.0,
+                        16.0,
+                        58.0,
+                        28.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REQUEST FOR CHANGE",
+            "line_bbox": [
+                244.0,
+                11.0,
+                390.0,
+                24.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REQUEST",
+                    "bbox": [
+                        244.0,
+                        11.0,
+                        300.0,
+                        25.0
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "bbox": [
+                        306.0,
+                        11.0,
+                        331.0,
+                        24.0
+                    ]
+                },
+                {
+                    "text": "CHANGE",
+                    "bbox": [
+                        338.0,
+                        11.0,
+                        386.0,
+                        24.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "F-1001",
+            "line_bbox": [
+                252.0,
+                26.0,
+                302.0,
+                39.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "F-1001",
+                    "bbox": [
+                        253.0,
+                        27.0,
+                        300.0,
+                        39.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "7/88",
+            "line_bbox": [
+                323.0,
+                26.0,
+                357.0,
+                38.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "7/88",
+                    "bbox": [
+                        324.0,
+                        26.0,
+                        355.0,
+                        38.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "RFC",
+            "line_bbox": [
+                637.0,
+                23.0,
+                669.0,
+                34.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "RFC",
+                    "bbox": [
+                        638.0,
+                        23.0,
+                        660.0,
+                        34.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "880029",
+            "line_bbox": [
+                673.0,
+                23.0,
+                725.0,
+                35.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "880029",
+                    "bbox": [
+                        676.0,
+                        24.0,
+                        722.0,
+                        35.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ORIGINATOR Name: Dan Straka",
+            "line_bbox": [
+                27.0,
+                57.0,
+                249.0,
+                72.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ORIGINATOR",
+                    "bbox": [
+                        29.0,
+                        59.0,
+                        105.0,
+                        73.0
+                    ]
+                },
+                {
+                    "text": "Name:",
+                    "bbox": [
+                        112.0,
+                        59.0,
+                        154.0,
+                        72.0
+                    ]
+                },
+                {
+                    "text": "Dan",
+                    "bbox": [
+                        166.0,
+                        58.0,
+                        191.0,
+                        71.0
+                    ]
+                },
+                {
+                    "text": "Straka",
+                    "bbox": [
+                        198.0,
+                        58.0,
+                        246.0,
+                        71.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date Prepared",
+            "line_bbox": [
+                442.0,
+                55.0,
+                547.0,
+                69.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date",
+                    "bbox": [
+                        443.0,
+                        57.0,
+                        472.0,
+                        69.0
+                    ]
+                },
+                {
+                    "text": "Prepared",
+                    "bbox": [
+                        480.0,
+                        56.0,
+                        542.0,
+                        69.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Page",
+            "line_bbox": [
+                608.0,
+                53.0,
+                642.0,
+                66.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Page",
+                    "bbox": [
+                        608.0,
+                        53.0,
+                        638.0,
+                        66.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date",
+            "line_bbox": [
+                683.0,
+                53.0,
+                719.0,
+                64.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date",
+                    "bbox": [
+                        684.0,
+                        54.0,
+                        714.0,
+                        65.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "8-17-88",
+            "line_bbox": [
+                456.0,
+                70.0,
+                513.0,
+                82.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "8-17-88",
+                    "bbox": [
+                        458.0,
+                        71.0,
+                        511.0,
+                        82.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1_of_1",
+            "line_bbox": [
+                619.0,
+                67.0,
+                674.0,
+                82.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1_of_1",
+                    "bbox": [
+                        621.0,
+                        67.0,
+                        670.0,
+                        83.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "8-17-88",
+            "line_bbox": [
+                697.0,
+                68.0,
+                757.0,
+                80.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "8-17-88",
+                    "bbox": [
+                        699.0,
+                        68.0,
+                        754.0,
+                        80.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Position",
+            "line_bbox": [
+                30.0,
+                89.0,
+                94.0,
+                102.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Position",
+                    "bbox": [
+                        31.0,
+                        89.0,
+                        91.0,
+                        103.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Telephone No.",
+            "line_bbox": [
+                442.0,
+                84.0,
+                543.0,
+                99.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Telephone",
+                    "bbox": [
+                        444.0,
+                        85.0,
+                        512.0,
+                        98.0
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "bbox": [
+                        519.0,
+                        85.0,
+                        543.0,
+                        98.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Received By D. Marsh",
+            "line_bbox": [
+                606.0,
+                83.0,
+                765.0,
+                96.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Received",
+                    "bbox": [
+                        607.0,
+                        84.0,
+                        668.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "By",
+                    "bbox": [
+                        675.0,
+                        84.0,
+                        692.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "D.",
+                    "bbox": [
+                        698.0,
+                        83.0,
+                        716.0,
+                        96.0
+                    ]
+                },
+                {
+                    "text": "Marsh",
+                    "bbox": [
+                        722.0,
+                        83.0,
+                        762.0,
+                        96.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "5398",
+            "line_bbox": [
+                476.0,
+                100.0,
+                505.0,
+                112.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "5398",
+                    "bbox": [
+                        476.0,
+                        100.0,
+                        504.0,
+                        112.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Department Name and Location",
+            "line_bbox": [
+                28.0,
+                117.0,
+                252.0,
+                134.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Department",
+                    "bbox": [
+                        29.0,
+                        119.0,
+                        107.0,
+                        135.0
+                    ]
+                },
+                {
+                    "text": "Name",
+                    "bbox": [
+                        112.0,
+                        119.0,
+                        146.0,
+                        132.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        153.0,
+                        118.0,
+                        176.0,
+                        131.0
+                    ]
+                },
+                {
+                    "text": "Location",
+                    "bbox": [
+                        183.0,
+                        118.0,
+                        246.0,
+                        131.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Change Order Number",
+            "line_bbox": [
+                607.0,
+                113.0,
+                757.0,
+                126.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Change",
+                    "bbox": [
+                        608.0,
+                        114.0,
+                        654.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "Order",
+                    "bbox": [
+                        660.0,
+                        114.0,
+                        700.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "Number",
+                    "bbox": [
+                        707.0,
+                        114.0,
+                        754.0,
+                        127.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "611-13_3rd Floor_",
+            "line_bbox": [
+                97.0,
+                132.0,
+                230.0,
+                146.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "611-13_3rd",
+                    "bbox": [
+                        98.0,
+                        133.0,
+                        176.0,
+                        147.0
+                    ]
+                },
+                {
+                    "text": "Floor_",
+                    "bbox": [
+                        183.0,
+                        133.0,
+                        230.0,
+                        146.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "8816059",
+            "line_bbox": [
+                640.0,
+                127.0,
+                708.0,
+                142.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "8816059",
+                    "bbox": [
+                        641.0,
+                        127.0,
+                        709.0,
+                        142.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Brand/Assembly/Material Affected",
+            "line_bbox": [
+                29.0,
+                147.0,
+                281.0,
+                164.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Brand/Assembly/Material",
+                    "bbox": [
+                        30.0,
+                        148.0,
+                        208.0,
+                        165.0
+                    ]
+                },
+                {
+                    "text": "Affected",
+                    "bbox": [
+                        214.0,
+                        148.0,
+                        278.0,
+                        161.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Glass Mat and Slit Glass Mat",
+            "line_bbox": [
+                35.0,
+                163.0,
+                257.0,
+                178.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Glass",
+                    "bbox": [
+                        36.0,
+                        165.0,
+                        76.0,
+                        179.0
+                    ]
+                },
+                {
+                    "text": "Mat",
+                    "bbox": [
+                        82.0,
+                        164.0,
+                        107.0,
+                        178.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        114.0,
+                        164.0,
+                        138.0,
+                        178.0
+                    ]
+                },
+                {
+                    "text": "Slit",
+                    "bbox": [
+                        145.0,
+                        163.0,
+                        177.0,
+                        177.0
+                    ]
+                },
+                {
+                    "text": "Glass",
+                    "bbox": [
+                        183.0,
+                        163.0,
+                        224.0,
+                        177.0
+                    ]
+                },
+                {
+                    "text": "Mat",
+                    "bbox": [
+                        229.0,
+                        163.0,
+                        255.0,
+                        176.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Type of Change",
+            "line_bbox": [
+                28.0,
+                179.0,
+                145.0,
+                195.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Type",
+                    "bbox": [
+                        31.0,
+                        180.0,
+                        61.0,
+                        195.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        67.0,
+                        180.0,
+                        86.0,
+                        194.0
+                    ]
+                },
+                {
+                    "text": "Change",
+                    "bbox": [
+                        90.0,
+                        180.0,
+                        140.0,
+                        194.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Addition",
+            "line_bbox": [
+                73.0,
+                209.0,
+                141.0,
+                222.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Addition",
+                    "bbox": [
+                        75.0,
+                        210.0,
+                        137.0,
+                        223.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Design",
+            "line_bbox": [
+                271.0,
+                208.0,
+                319.0,
+                221.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Design",
+                    "bbox": [
+                        272.0,
+                        208.0,
+                        317.0,
+                        222.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Spec Change",
+            "line_bbox": [
+                462.0,
+                206.0,
+                548.0,
+                220.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Spec",
+                    "bbox": [
+                        462.0,
+                        207.0,
+                        489.0,
+                        220.0
+                    ]
+                },
+                {
+                    "text": "Change",
+                    "bbox": [
+                        496.0,
+                        206.0,
+                        544.0,
+                        220.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Emergency",
+            "line_bbox": [
+                648.0,
+                206.0,
+                717.0,
+                218.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Emergency",
+                    "bbox": [
+                        648.0,
+                        206.0,
+                        716.0,
+                        218.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Deletion",
+            "line_bbox": [
+                76.0,
+                225.0,
+                141.0,
+                237.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Deletion",
+                    "bbox": [
+                        77.0,
+                        225.0,
+                        137.0,
+                        238.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Compatibity",
+            "line_bbox": [
+                272.0,
+                222.0,
+                360.0,
+                236.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Compatibity",
+                    "bbox": [
+                        273.0,
+                        223.0,
+                        357.0,
+                        237.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Cost Reduction",
+            "line_bbox": [
+                457.0,
+                220.0,
+                571.0,
+                234.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Cost",
+                    "bbox": [
+                        458.0,
+                        221.0,
+                        489.0,
+                        234.0
+                    ]
+                },
+                {
+                    "text": "Reduction",
+                    "bbox": [
+                        497.0,
+                        221.0,
+                        568.0,
+                        234.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Urgent",
+            "line_bbox": [
+                646.0,
+                220.0,
+                696.0,
+                232.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Urgent",
+                    "bbox": [
+                        646.0,
+                        220.0,
+                        692.0,
+                        232.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "\u00d7",
+            "line_bbox": [
+                40.0,
+                236.0,
+                61.0,
+                254.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "\u00d7",
+                    "bbox": [
+                        45.0,
+                        236.0,
+                        57.0,
+                        254.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Change",
+            "line_bbox": [
+                68.0,
+                240.0,
+                124.0,
+                255.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Change",
+                    "bbox": [
+                        75.0,
+                        241.0,
+                        123.0,
+                        256.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Manufacturability",
+            "line_bbox": [
+                268.0,
+                237.0,
+                405.0,
+                251.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Manufacturability",
+                    "bbox": [
+                        269.0,
+                        238.0,
+                        404.0,
+                        252.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Other",
+            "line_bbox": [
+                451.0,
+                236.0,
+                501.0,
+                249.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Other",
+                    "bbox": [
+                        458.0,
+                        237.0,
+                        497.0,
+                        250.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "K_Routine",
+            "line_bbox": [
+                628.0,
+                234.0,
+                704.0,
+                249.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "K_Routine",
+                    "bbox": [
+                        628.0,
+                        235.0,
+                        701.0,
+                        250.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Description of Problem",
+            "line_bbox": [
+                29.0,
+                269.0,
+                203.0,
+                285.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Description",
+                    "bbox": [
+                        31.0,
+                        271.0,
+                        116.0,
+                        286.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        122.0,
+                        270.0,
+                        139.0,
+                        285.0
+                    ]
+                },
+                {
+                    "text": "Problem",
+                    "bbox": [
+                        145.0,
+                        270.0,
+                        202.0,
+                        284.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The current specifications for glass mat and alit glass mat can be made more accurate",
+            "line_bbox": [
+                60.0,
+                281.0,
+                727.0,
+                300.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        62.0,
+                        287.0,
+                        85.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "current",
+                    "bbox": [
+                        91.0,
+                        286.0,
+                        147.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "specifications",
+                    "bbox": [
+                        153.0,
+                        284.0,
+                        263.0,
+                        300.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        270.0,
+                        284.0,
+                        294.0,
+                        299.0
+                    ]
+                },
+                {
+                    "text": "glass",
+                    "bbox": [
+                        301.0,
+                        283.0,
+                        342.0,
+                        299.0
+                    ]
+                },
+                {
+                    "text": "mat",
+                    "bbox": [
+                        347.0,
+                        283.0,
+                        373.0,
+                        299.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        379.0,
+                        283.0,
+                        404.0,
+                        298.0
+                    ]
+                },
+                {
+                    "text": "alit",
+                    "bbox": [
+                        411.0,
+                        282.0,
+                        444.0,
+                        298.0
+                    ]
+                },
+                {
+                    "text": "glass",
+                    "bbox": [
+                        451.0,
+                        282.0,
+                        490.0,
+                        298.0
+                    ]
+                },
+                {
+                    "text": "mat",
+                    "bbox": [
+                        496.0,
+                        282.0,
+                        521.0,
+                        297.0
+                    ]
+                },
+                {
+                    "text": "can",
+                    "bbox": [
+                        528.0,
+                        282.0,
+                        553.0,
+                        297.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        558.0,
+                        282.0,
+                        577.0,
+                        297.0
+                    ]
+                },
+                {
+                    "text": "made",
+                    "bbox": [
+                        583.0,
+                        282.0,
+                        616.0,
+                        296.0
+                    ]
+                },
+                {
+                    "text": "more",
+                    "bbox": [
+                        622.0,
+                        282.0,
+                        655.0,
+                        296.0
+                    ]
+                },
+                {
+                    "text": "accurate",
+                    "bbox": [
+                        661.0,
+                        282.0,
+                        725.0,
+                        295.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "and complete with the following changes:",
+            "line_bbox": [
+                60.0,
+                299.0,
+                378.0,
+                316.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "and",
+                    "bbox": [
+                        61.0,
+                        302.0,
+                        85.0,
+                        317.0
+                    ]
+                },
+                {
+                    "text": "complete",
+                    "bbox": [
+                        91.0,
+                        300.0,
+                        155.0,
+                        316.0
+                    ]
+                },
+                {
+                    "text": "with",
+                    "bbox": [
+                        161.0,
+                        300.0,
+                        194.0,
+                        315.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        200.0,
+                        300.0,
+                        225.0,
+                        314.0
+                    ]
+                },
+                {
+                    "text": "following",
+                    "bbox": [
+                        231.0,
+                        299.0,
+                        303.0,
+                        314.0
+                    ]
+                },
+                {
+                    "text": "changes:",
+                    "bbox": [
+                        309.0,
+                        299.0,
+                        375.0,
+                        313.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Glass Mat:",
+            "line_bbox": [
+                60.0,
+                331.0,
+                141.0,
+                345.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Glass",
+                    "bbox": [
+                        61.0,
+                        331.0,
+                        101.0,
+                        346.0
+                    ]
+                },
+                {
+                    "text": "Mat:",
+                    "bbox": [
+                        106.0,
+                        331.0,
+                        140.0,
+                        345.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Delete C-glass from item description.",
+            "line_bbox": [
+                214.0,
+                328.0,
+                509.0,
+                344.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Delete",
+                    "bbox": [
+                        215.0,
+                        329.0,
+                        263.0,
+                        345.0
+                    ]
+                },
+                {
+                    "text": "C-glass",
+                    "bbox": [
+                        269.0,
+                        329.0,
+                        326.0,
+                        344.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        333.0,
+                        329.0,
+                        365.0,
+                        343.0
+                    ]
+                },
+                {
+                    "text": "item",
+                    "bbox": [
+                        372.0,
+                        329.0,
+                        404.0,
+                        342.0
+                    ]
+                },
+                {
+                    "text": "description.",
+                    "bbox": [
+                        410.0,
+                        328.0,
+                        508.0,
+                        342.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Change glass softening point to 756 +/- 10 degrees from 750.",
+            "line_bbox": [
+                215.0,
+                340.0,
+                689.0,
+                360.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Change",
+                    "bbox": [
+                        215.0,
+                        345.0,
+                        264.0,
+                        360.0
+                    ]
+                },
+                {
+                    "text": "glass",
+                    "bbox": [
+                        270.0,
+                        345.0,
+                        311.0,
+                        359.0
+                    ]
+                },
+                {
+                    "text": "softening",
+                    "bbox": [
+                        317.0,
+                        344.0,
+                        389.0,
+                        359.0
+                    ]
+                },
+                {
+                    "text": "point",
+                    "bbox": [
+                        395.0,
+                        343.0,
+                        436.0,
+                        358.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        443.0,
+                        343.0,
+                        460.0,
+                        358.0
+                    ]
+                },
+                {
+                    "text": "756",
+                    "bbox": [
+                        468.0,
+                        343.0,
+                        492.0,
+                        358.0
+                    ]
+                },
+                {
+                    "text": "+/-",
+                    "bbox": [
+                        497.0,
+                        342.0,
+                        523.0,
+                        357.0
+                    ]
+                },
+                {
+                    "text": "10",
+                    "bbox": [
+                        529.0,
+                        342.0,
+                        546.0,
+                        357.0
+                    ]
+                },
+                {
+                    "text": "degrees",
+                    "bbox": [
+                        552.0,
+                        341.0,
+                        609.0,
+                        357.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        616.0,
+                        341.0,
+                        648.0,
+                        357.0
+                    ]
+                },
+                {
+                    "text": "750.",
+                    "bbox": [
+                        655.0,
+                        340.0,
+                        687.0,
+                        356.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Change rolls per pallet to 2 from 1.",
+            "line_bbox": [
+                214.0,
+                357.0,
+                500.0,
+                375.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Change",
+                    "bbox": [
+                        216.0,
+                        360.0,
+                        264.0,
+                        376.0
+                    ]
+                },
+                {
+                    "text": "rolls",
+                    "bbox": [
+                        270.0,
+                        360.0,
+                        311.0,
+                        375.0
+                    ]
+                },
+                {
+                    "text": "per",
+                    "bbox": [
+                        317.0,
+                        360.0,
+                        343.0,
+                        375.0
+                    ]
+                },
+                {
+                    "text": "pallet",
+                    "bbox": [
+                        348.0,
+                        359.0,
+                        397.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        403.0,
+                        359.0,
+                        421.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "bbox": [
+                        428.0,
+                        358.0,
+                        437.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        444.0,
+                        358.0,
+                        477.0,
+                        374.0
+                    ]
+                },
+                {
+                    "text": "1.",
+                    "bbox": [
+                        482.0,
+                        357.0,
+                        500.0,
+                        373.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Slit Glass Mat:",
+            "line_bbox": [
+                61.0,
+                391.0,
+                179.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Slit",
+                    "bbox": [
+                        62.0,
+                        393.0,
+                        93.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "Glass",
+                    "bbox": [
+                        99.0,
+                        392.0,
+                        140.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "Mat:",
+                    "bbox": [
+                        145.0,
+                        392.0,
+                        179.0,
+                        407.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Delete C-glass from item description.",
+            "line_bbox": [
+                215.0,
+                388.0,
+                507.0,
+                406.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Delete",
+                    "bbox": [
+                        216.0,
+                        390.0,
+                        264.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "C-glass",
+                    "bbox": [
+                        270.0,
+                        389.0,
+                        327.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        334.0,
+                        389.0,
+                        366.0,
+                        405.0
+                    ]
+                },
+                {
+                    "text": "item",
+                    "bbox": [
+                        373.0,
+                        389.0,
+                        405.0,
+                        404.0
+                    ]
+                },
+                {
+                    "text": "description.",
+                    "bbox": [
+                        411.0,
+                        389.0,
+                        507.0,
+                        404.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Change bobbins per stack to 47 from 45.",
+            "line_bbox": [
+                214.0,
+                404.0,
+                523.0,
+                421.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Change",
+                    "bbox": [
+                        215.0,
+                        406.0,
+                        264.0,
+                        422.0
+                    ]
+                },
+                {
+                    "text": "bobbins",
+                    "bbox": [
+                        270.0,
+                        406.0,
+                        327.0,
+                        421.0
+                    ]
+                },
+                {
+                    "text": "per",
+                    "bbox": [
+                        333.0,
+                        405.0,
+                        358.0,
+                        420.0
+                    ]
+                },
+                {
+                    "text": "stack",
+                    "bbox": [
+                        365.0,
+                        405.0,
+                        404.0,
+                        420.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        411.0,
+                        405.0,
+                        428.0,
+                        419.0
+                    ]
+                },
+                {
+                    "text": "47",
+                    "bbox": [
+                        437.0,
+                        405.0,
+                        453.0,
+                        419.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        460.0,
+                        404.0,
+                        491.0,
+                        419.0
+                    ]
+                },
+                {
+                    "text": "45.",
+                    "bbox": [
+                        499.0,
+                        404.0,
+                        523.0,
+                        418.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Add outside diameter specs of 30.0, 26.0 - 31.0 inches.",
+            "line_bbox": [
+                217.0,
+                418.0,
+                648.0,
+                436.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Add",
+                    "bbox": [
+                        217.0,
+                        422.0,
+                        241.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "outside",
+                    "bbox": [
+                        247.0,
+                        421.0,
+                        304.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "diameter",
+                    "bbox": [
+                        309.0,
+                        420.0,
+                        374.0,
+                        436.0
+                    ]
+                },
+                {
+                    "text": "specs",
+                    "bbox": [
+                        381.0,
+                        420.0,
+                        421.0,
+                        435.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        427.0,
+                        419.0,
+                        445.0,
+                        435.0
+                    ]
+                },
+                {
+                    "text": "30.0,",
+                    "bbox": [
+                        452.0,
+                        419.0,
+                        492.0,
+                        435.0
+                    ]
+                },
+                {
+                    "text": "26.0",
+                    "bbox": [
+                        498.0,
+                        419.0,
+                        529.0,
+                        434.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        537.0,
+                        419.0,
+                        546.0,
+                        434.0
+                    ]
+                },
+                {
+                    "text": "31.0",
+                    "bbox": [
+                        553.0,
+                        419.0,
+                        585.0,
+                        434.0
+                    ]
+                },
+                {
+                    "text": "inches.",
+                    "bbox": [
+                        592.0,
+                        418.0,
+                        647.0,
+                        433.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Proposed Solution",
+            "line_bbox": [
+                31.0,
+                529.0,
+                166.0,
+                544.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Proposed",
+                    "bbox": [
+                        32.0,
+                        530.0,
+                        94.0,
+                        544.0
+                    ]
+                },
+                {
+                    "text": "Solution",
+                    "bbox": [
+                        100.0,
+                        529.0,
+                        163.0,
+                        544.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Change the current MSS specifications as outlined above.",
+            "line_bbox": [
+                64.0,
+                541.0,
+                499.0,
+                559.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Change",
+                    "bbox": [
+                        64.0,
+                        545.0,
+                        110.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        115.0,
+                        544.0,
+                        141.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "current",
+                    "bbox": [
+                        147.0,
+                        543.0,
+                        203.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "MSS",
+                    "bbox": [
+                        208.0,
+                        543.0,
+                        234.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "specifications",
+                    "bbox": [
+                        241.0,
+                        542.0,
+                        351.0,
+                        559.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        358.0,
+                        542.0,
+                        375.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "outlined",
+                    "bbox": [
+                        380.0,
+                        541.0,
+                        445.0,
+                        558.0
+                    ]
+                },
+                {
+                    "text": "above.",
+                    "bbox": [
+                        453.0,
+                        541.0,
+                        499.0,
+                        557.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "51484 3791",
+            "line_bbox": [
+                741.0,
+                582.0,
+                756.0,
+                674.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "51484",
+                    "bbox": [
+                        741.0,
+                        583.0,
+                        756.0,
+                        627.0
+                    ]
+                },
+                {
+                    "text": "3791",
+                    "bbox": [
+                        743.0,
+                        636.0,
+                        757.0,
+                        672.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Signature",
+            "line_bbox": [
+                226.0,
+                726.0,
+                300.0,
+                741.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Signature",
+                    "bbox": [
+                        227.0,
+                        726.0,
+                        298.0,
+                        742.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Title",
+            "line_bbox": [
+                508.0,
+                724.0,
+                553.0,
+                739.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Title",
+                    "bbox": [
+                        509.0,
+                        725.0,
+                        548.0,
+                        739.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date",
+            "line_bbox": [
+                727.0,
+                723.0,
+                761.0,
+                735.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date",
+                    "bbox": [
+                        727.0,
+                        723.0,
+                        758.0,
+                        735.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Accepted for",
+            "line_bbox": [
+                56.0,
+                743.0,
+                151.0,
+                757.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Accepted",
+                    "bbox": [
+                        57.0,
+                        743.0,
+                        117.0,
+                        757.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        125.0,
+                        743.0,
+                        149.0,
+                        757.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Investigation",
+            "line_bbox": [
+                57.0,
+                758.0,
+                160.0,
+                772.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Investigation",
+                    "bbox": [
+                        58.0,
+                        758.0,
+                        157.0,
+                        773.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Final Disposition",
+            "line_bbox": [
+                33.0,
+                788.0,
+                169.0,
+                802.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Final",
+                    "bbox": [
+                        34.0,
+                        788.0,
+                        72.0,
+                        802.0
+                    ]
+                },
+                {
+                    "text": "Disposition",
+                    "bbox": [
+                        78.0,
+                        788.0,
+                        165.0,
+                        803.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Approved",
+            "line_bbox": [
+                227.0,
+                787.0,
+                293.0,
+                801.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Approved",
+                    "bbox": [
+                        227.0,
+                        788.0,
+                        290.0,
+                        802.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                366.0,
+                793.0,
+                390.0,
+                805.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        372.0,
+                        793.0,
+                        379.0,
+                        805.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Rejected",
+            "line_bbox": [
+                391.0,
+                785.0,
+                458.0,
+                800.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Rejected",
+                    "bbox": [
+                        391.0,
+                        786.0,
+                        455.0,
+                        800.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SPEC HOABER",
+            "line_bbox": [
+                530.0,
+                784.0,
+                623.0,
+                800.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SPEC",
+                    "bbox": [
+                        532.0,
+                        785.0,
+                        565.0,
+                        801.0
+                    ]
+                },
+                {
+                    "text": "HOABER",
+                    "bbox": [
+                        571.0,
+                        785.0,
+                        620.0,
+                        801.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Dastorba 8-17-88",
+            "line_bbox": [
+                516.0,
+                792.0,
+                769.0,
+                830.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "Dastorba",
+                    "bbox": [
+                        530.0,
+                        793.0,
+                        645.0,
+                        829.0
+                    ]
+                },
+                {
+                    "text": "8-17-88",
+                    "bbox": [
+                        679.0,
+                        797.0,
+                        767.0,
+                        829.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DATE",
+            "line_bbox": [
+                726.0,
+                783.0,
+                762.0,
+                796.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DATE",
+                    "bbox": [
+                        727.0,
+                        784.0,
+                        757.0,
+                        796.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Action Taken or Reason for Rejection",
+            "line_bbox": [
+                32.0,
+                816.0,
+                316.0,
+                833.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Action",
+                    "bbox": [
+                        33.0,
+                        819.0,
+                        81.0,
+                        833.0
+                    ]
+                },
+                {
+                    "text": "Taken",
+                    "bbox": [
+                        87.0,
+                        819.0,
+                        127.0,
+                        833.0
+                    ]
+                },
+                {
+                    "text": "or",
+                    "bbox": [
+                        132.0,
+                        819.0,
+                        151.0,
+                        833.0
+                    ]
+                },
+                {
+                    "text": "Reason",
+                    "bbox": [
+                        156.0,
+                        818.0,
+                        205.0,
+                        833.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        212.0,
+                        818.0,
+                        236.0,
+                        833.0
+                    ]
+                },
+                {
+                    "text": "Rejection",
+                    "bbox": [
+                        241.0,
+                        817.0,
+                        314.0,
+                        833.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCT REVIEW COMMITTEE)",
+            "line_bbox": [
+                533.0,
+                827.0,
+                725.0,
+                845.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCT",
+                    "bbox": [
+                        533.0,
+                        827.0,
+                        590.0,
+                        845.0
+                    ]
+                },
+                {
+                    "text": "REVIEW",
+                    "bbox": [
+                        594.0,
+                        827.0,
+                        645.0,
+                        845.0
+                    ]
+                },
+                {
+                    "text": "COMMITTEE)",
+                    "bbox": [
+                        650.0,
+                        827.0,
+                        726.0,
+                        845.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Proposed Effective Date:",
+            "line_bbox": [
+                314.0,
+                890.0,
+                512.0,
+                907.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Proposed",
+                    "bbox": [
+                        321.0,
+                        892.0,
+                        385.0,
+                        907.0
+                    ]
+                },
+                {
+                    "text": "Effective",
+                    "bbox": [
+                        390.0,
+                        891.0,
+                        464.0,
+                        906.0
+                    ]
+                },
+                {
+                    "text": "Date:",
+                    "bbox": [
+                        470.0,
+                        891.0,
+                        512.0,
+                        906.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCT ACCEPTANCE COMMITTEE",
+            "line_bbox": [
+                532.0,
+                887.0,
+                753.0,
+                905.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCT",
+                    "bbox": [
+                        533.0,
+                        887.0,
+                        590.0,
+                        905.0
+                    ]
+                },
+                {
+                    "text": "ACCEPTANCE",
+                    "bbox": [
+                        594.0,
+                        888.0,
+                        675.0,
+                        905.0
+                    ]
+                },
+                {
+                    "text": "COMMITTEE",
+                    "bbox": [
+                        680.0,
+                        888.0,
+                        753.0,
+                        903.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "9/8/88",
+            "line_bbox": [
+                337.0,
+                916.0,
+                401.0,
+                941.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "9/8/88",
+                    "bbox": [
+                        341.0,
+                        916.0,
+                        400.0,
+                        941.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "robaniss Drue 9/7/88,",
+            "line_bbox": [
+                533.0,
+                901.0,
+                749.0,
+                927.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "robaniss",
+                    "bbox": [
+                        546.0,
+                        901.0,
+                        630.0,
+                        926.0
+                    ]
+                },
+                {
+                    "text": "Drue",
+                    "bbox": [
+                        643.0,
+                        901.0,
+                        683.0,
+                        918.0
+                    ]
+                },
+                {
+                    "text": "9/7/88,",
+                    "bbox": [
+                        688.0,
+                        901.0,
+                        750.0,
+                        922.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "text_lines": [
+        {
+            "text": "APPIEDGRAPI",
+            "bbox": [
+                495.0,
+                93.0,
+                623.0,
+                122.0
+            ]
+        },
+        {
+            "text": "Lorillard",
+            "bbox": [
+                191.0,
+                170.0,
+                254.0,
+                186.0
+            ]
+        },
+        {
+            "text": "July 7, 1993",
+            "bbox": [
+                531.0,
+                170.0,
+                620.0,
+                190.0
+            ]
+        },
+        {
+            "text": "Quotation To:",
+            "bbox": [
+                78.0,
+                173.0,
+                146.0,
+                187.0
+            ]
+        },
+        {
+            "text": "Date:",
+            "bbox": [
+                492.0,
+                174.0,
+                522.0,
+                190.0
+            ]
+        },
+        {
+            "text": "One Park Avenue",
+            "bbox": [
+                191.0,
+                186.0,
+                314.0,
+                203.0
+            ]
+        },
+        {
+            "text": "Estimate No.:\n ",
+            "bbox": [
+                491.0,
+                190.0,
+                584.0,
+                225.0
+            ]
+        },
+        {
+            "text": "New York, NY 10016",
+            "bbox": [
+                191.0,
+                203.0,
+                332.0,
+                220.0
+            ]
+        },
+        {
+            "text": "Attn:",
+            "bbox": [
+                192.0,
+                220.0,
+                230.0,
+                236.0
+            ]
+        },
+        {
+            "text": "Neil Toumey",
+            "bbox": [
+                239.0,
+                220.0,
+                329.0,
+                237.0
+            ]
+        },
+        {
+            "text": "Account Executive:",
+            "bbox": [
+                492.0,
+                225.0,
+                579.0,
+                239.0
+            ]
+        },
+        {
+            "text": "Peter Faucetta Jr.",
+            "bbox": [
+                532.0,
+                239.0,
+                656.0,
+                256.0
+            ]
+        },
+        {
+            "text": "A",
+            "bbox": [
+                17.0,
+                250.0,
+                25.0,
+                260.0
+            ]
+        },
+        {
+            "text": "Quantities and Description:",
+            "bbox": [
+                78.0,
+                272.0,
+                208.0,
+                286.0
+            ]
+        },
+        {
+            "text": "H/D 8 Pk. Wide Header",
+            "bbox": [
+                191.0,
+                286.0,
+                357.0,
+                305.0
+            ]
+        },
+        {
+            "text": "4 C/P + 2 Hits Day-Glo + Spot Varnish",
+            "bbox": [
+                191.0,
+                303.0,
+                460.0,
+                324.0
+            ]
+        },
+        {
+            "text": "Qty: ",
+            "bbox": [
+                191.0,
+                323.0,
+                228.0,
+                340.0
+            ]
+        },
+        {
+            "text": "89,725",
+            "bbox": [
+                232.0,
+                322.0,
+                283.0,
+                340.0
+            ]
+        },
+        {
+            "text": "b",
+            "bbox": [
+                16.0,
+                337.0,
+                25.0,
+                349.0
+            ]
+        },
+        {
+            "text": "Sizes:",
+            "bbox": [
+                78.0,
+                360.0,
+                112.0,
+                372.0
+            ]
+        },
+        {
+            "text": "19.750 X 11",
+            "bbox": [
+                191.0,
+                373.0,
+                275.0,
+                392.0
+            ]
+        },
+        {
+            "text": "Paper and Materials:",
+            "bbox": [
+                78.0,
+                412.0,
+                177.0,
+                425.0
+            ]
+        },
+        {
+            "text": "24 pt. Carolina C/1/S",
+            "bbox": [
+                189.0,
+                425.0,
+                345.0,
+                445.0
+            ]
+        },
+        {
+            "text": "Preparation and Composition:",
+            "bbox": [
+                77.0,
+                467.0,
+                221.0,
+                483.0
+            ]
+        },
+        {
+            "text": "Final Film Supplied",
+            "bbox": [
+                189.0,
+                497.0,
+                332.0,
+                515.0
+            ]
+        },
+        {
+            "text": "Combined Blue",
+            "bbox": [
+                189.0,
+                513.0,
+                302.0,
+                532.0
+            ]
+        },
+        {
+            "text": ".",
+            "bbox": [
+                200.0,
+                535.0,
+                206.0,
+                550.0
+            ]
+        },
+        {
+            "text": "Process and Colors:",
+            "bbox": [
+                77.0,
+                565.0,
+                174.0,
+                577.0
+            ]
+        },
+        {
+            "text": "6 / 1",
+            "bbox": [
+                189.0,
+                566.0,
+                218.0,
+                582.0
+            ]
+        },
+        {
+            "text": "1 / 1",
+            "bbox": [
+                190.0,
+                584.0,
+                218.0,
+                600.0
+            ]
+        },
+        {
+            "text": "Binding:",
+            "bbox": [
+                77.0,
+                629.0,
+                117.0,
+                641.0
+            ]
+        },
+        {
+            "text": "Leave in Full Sheets",
+            "bbox": [
+                189.0,
+                635.0,
+                329.0,
+                652.0
+            ]
+        },
+        {
+            "text": "Packing and Distribution:",
+            "bbox": [
+                76.0,
+                690.0,
+                196.0,
+                705.0
+            ]
+        },
+        {
+            "text": "Bulk in cartons, FOB Oceanside",
+            "bbox": [
+                189.0,
+                702.0,
+                408.0,
+                720.0
+            ]
+        },
+        {
+            "text": "Please allow 14 working days for delivery",
+            "bbox": [
+                188.0,
+                720.0,
+                476.0,
+                736.0
+            ]
+        },
+        {
+            "text": "Delivery Date:",
+            "bbox": [
+                76.0,
+                726.0,
+                145.0,
+                739.0
+            ]
+        },
+        {
+            "text": "Prices and Schedule:",
+            "bbox": [
+                76.0,
+                756.0,
+                177.0,
+                770.0
+            ]
+        },
+        {
+            "text": "$16,158",
+            "bbox": [
+                187.0,
+                770.0,
+                247.0,
+                785.0
+            ]
+        },
+        {
+            "text": "Other Specifications:",
+            "bbox": [
+                75.0,
+                839.0,
+                177.0,
+                852.0
+            ]
+        },
+        {
+            "text": "Authorized Signature:",
+            "bbox": [
+                495.0,
+                840.0,
+                597.0,
+                855.0
+            ]
+        },
+        {
+            "text": "Accepted by:",
+            "bbox": [
+                73.0,
+                899.0,
+                155.0,
+                912.0
+            ]
+        },
+        {
+            "text": "Applied Graphics Technologies",
+            "bbox": [
+                468.0,
+                902.0,
+                631.0,
+                915.0
+            ]
+        },
+        {
+            "text": "50 West 23rd Street, N.Y.C. 10010",
+            "bbox": [
+                468.0,
+                914.0,
+                641.0,
+                928.0
+            ]
+        },
+        {
+            "text": "TEL: (212) 627-4111 FAX: (212) 627-8602",
+            "bbox": [
+                469.0,
+                926.0,
+                684.0,
+                939.0
+            ]
+        },
+        {
+            "text": "on is subject to the Standard Terms",
+            "bbox": [
+                322.0,
+                947.0,
+                434.0,
+                954.0
+            ]
+        },
+        {
+            "text": "and Condit",
+            "bbox": [
+                435.0,
+                948.0,
+                470.0,
+                954.0
+            ]
+        },
+        {
+            "text": "including those limiting Printer's",
+            "bbox": [
+                487.0,
+                947.0,
+                589.0,
+                954.0
+            ]
+        },
+        {
+            "text": "nd all work performed hersunder shall be poverned by said Standard Terms and Condi",
+            "bbox": [
+                318.0,
+                957.0,
+                588.0,
+                964.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        757.0,
+        1000.0
+    ]
+}

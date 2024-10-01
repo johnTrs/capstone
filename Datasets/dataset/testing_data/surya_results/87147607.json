@@ -1,0 +1,496 @@
+{
+    "text_lines": [
+        {
+            "text": "P.O. 1534 REV. 10/79",
+            "bbox": [
+                471.0,
+                36.0,
+                566.0,
+                46.0
+            ]
+        },
+        {
+            "text": "OATE",
+            "bbox": [
+                574.0,
+                38.0,
+                605.0,
+                50.0
+            ]
+        },
+        {
+            "text": "] PURCHASING",
+            "bbox": [
+                65.0,
+                40.0,
+                140.0,
+                52.0
+            ]
+        },
+        {
+            "text": "PURCHASE REQUISITION",
+            "bbox": [
+                265.0,
+                44.0,
+                428.0,
+                58.0
+            ]
+        },
+        {
+            "text": "LT-10-79",
+            "bbox": [
+                527.0,
+                48.0,
+                567.0,
+                58.0
+            ]
+        },
+        {
+            "text": "] STATIONARY",
+            "bbox": [
+                69.0,
+                55.0,
+                142.0,
+                68.0
+            ]
+        },
+        {
+            "text": "April 19, 1988",
+            "bbox": [
+                578.0,
+                56.0,
+                703.0,
+                70.0
+            ]
+        },
+        {
+            "text": " Please Include only one type of material on this requisition",
+            "bbox": [
+                179.0,
+                58.0,
+                530.0,
+                73.0
+            ]
+        },
+        {
+            "text": "FOR PURCHASING DEPARTMENT USE ONLY",
+            "bbox": [
+                204.0,
+                73.0,
+                416.0,
+                85.0
+            ]
+        },
+        {
+            "text": "ORDER NO.",
+            "bbox": [
+                571.0,
+                76.0,
+                630.0,
+                88.0
+            ]
+        },
+        {
+            "text": "Piedmont Research Laboratory 2748 Patterson Ave., Greensboro, N",
+            "bbox": [
+                43.0,
+                82.0,
+                572.0,
+                104.0
+            ]
+        },
+        {
+            "text": "IC",
+            "bbox": [
+                571.0,
+                92.0,
+                582.0,
+                102.0
+            ]
+        },
+        {
+            "text": "27407",
+            "bbox": [
+                494.0,
+                104.0,
+                538.0,
+                117.0
+            ]
+        },
+        {
+            "text": "NET 15",
+            "bbox": [
+                136.0,
+                113.0,
+                192.0,
+                126.0
+            ]
+        },
+        {
+            "text": "N / A ",
+            "bbox": [
+                305.0,
+                114.0,
+                343.0,
+                128.0
+            ]
+        },
+        {
+            "text": "terms",
+            "bbox": [
+                67.0,
+                116.0,
+                104.0,
+                128.0
+            ]
+        },
+        {
+            "text": "N / A",
+            "bbox": [
+                441.0,
+                116.0,
+                474.0,
+                129.0
+            ]
+        },
+        {
+            "text": "F.O.B.",
+            "bbox": [
+                214.0,
+                118.0,
+                248.0,
+                130.0
+            ]
+        },
+        {
+            "text": "VIA",
+            "bbox": [
+                376.0,
+                118.0,
+                402.0,
+                131.0
+            ]
+        },
+        {
+            "text": "SHIP TO (DEPT., BRANCH)",
+            "bbox": [
+                41.0,
+                130.0,
+                166.0,
+                142.0
+            ]
+        },
+        {
+            "text": "DATE WANTED",
+            "bbox": [
+                501.0,
+                132.0,
+                576.0,
+                144.0
+            ]
+        },
+        {
+            "text": "Lorillard Research Center",
+            "bbox": [
+                41.0,
+                140.0,
+                259.0,
+                156.0
+            ]
+        },
+        {
+            "text": "N. A. Thaggard",
+            "bbox": [
+                338.0,
+                142.0,
+                464.0,
+                160.0
+            ]
+        },
+        {
+            "text": "As required",
+            "bbox": [
+                542.0,
+                146.0,
+                641.0,
+                160.0
+            ]
+        },
+        {
+            "text": "420 English St., Greensboro, NC 27405",
+            "bbox": [
+                42.0,
+                165.0,
+                361.0,
+                187.0
+            ]
+        },
+        {
+            "text": "QUANTITY",
+            "bbox": [
+                47.0,
+                196.0,
+                103.0,
+                210.0
+            ]
+        },
+        {
+            "text": "CODE",
+            "bbox": [
+                154.0,
+                197.0,
+                185.0,
+                211.0
+            ]
+        },
+        {
+            "text": "DESCRIPTION",
+            "bbox": [
+                370.0,
+                199.0,
+                440.0,
+                212.0
+            ]
+        },
+        {
+            "text": "UNIT PRICE",
+            "bbox": [
+                640.0,
+                200.0,
+                700.0,
+                215.0
+            ]
+        },
+        {
+            "text": "authorization to prepare cigarette smoke condensate",
+            "bbox": [
+                235.0,
+                224.0,
+                676.0,
+                248.0
+            ]
+        },
+        {
+            "text": "This is your",
+            "bbox": [
+                126.0,
+                225.0,
+                232.0,
+                242.0
+            ]
+        },
+        {
+            "text": "the protocol \"Standard Operating Procedure for the",
+            "bbox": [
+                235.0,
+                252.0,
+                667.0,
+                278.0
+            ]
+        },
+        {
+            "text": "according to",
+            "bbox": [
+                126.0,
+                255.0,
+                233.0,
+                269.0
+            ]
+        },
+        {
+            "text": "Preparation of Smoke Condensate for Mouse Skin Bioassay,\" for the a",
+            "bbox": [
+                125.0,
+                281.0,
+                692.0,
+                305.0
+            ]
+        },
+        {
+            "text": "1, 1988 through December 31, 1988.  Condensate will be",
+            "bbox": [
+                233.0,
+                311.0,
+                701.0,
+                335.0
+            ]
+        },
+        {
+            "text": "period April",
+            "bbox": [
+                125.0,
+                312.0,
+                229.0,
+                326.0
+            ]
+        },
+        {
+            "text": "prepared according to a time schedule provided by Lorillard.",
+            "bbox": [
+                124.0,
+                338.0,
+                643.0,
+                363.0
+            ]
+        },
+        {
+            "text": "The",
+            "bbox": [
+                652.0,
+                348.0,
+                682.0,
+                361.0
+            ]
+        },
+        {
+            "text": "fixed price for condensate collection will be at a rate of",
+            "bbox": [
+                124.0,
+                367.0,
+                614.0,
+                391.0
+            ]
+        },
+        {
+            "text": "$1,750/10,000 cigarettes smoked.  Piedmont will pay the cost of",
+            "bbox": [
+                124.0,
+                394.0,
+                665.0,
+                422.0
+            ]
+        },
+        {
+            "text": "consumable supplies.",
+            "bbox": [
+                124.0,
+                425.0,
+                311.0,
+                444.0
+            ]
+        },
+        {
+            "text": "This work is to be conducted in accordance",
+            "bbox": [
+                307.0,
+                427.0,
+                673.0,
+                449.0
+            ]
+        },
+        {
+            "text": "with the December 10, 1984 formal agreement between Piedmont Reseach",
+            "bbox": [
+                122.0,
+                452.0,
+                708.0,
+                478.0
+            ]
+        },
+        {
+            "text": "Laboratories and Lorillard. All work is to be coordinated with our",
+            "bbox": [
+                121.0,
+                480.0,
+                699.0,
+                507.0
+            ]
+        },
+        {
+            "text": "Mr. Neil Thaggard (919) 373-6628.",
+            "bbox": [
+                121.0,
+                510.0,
+                405.0,
+                530.0
+            ]
+        },
+        {
+            "text": "FOLLOW UP DATE",
+            "bbox": [
+                105.0,
+                680.0,
+                195.0,
+                692.0
+            ]
+        },
+        {
+            "text": "REQUISITION NO.",
+            "bbox": [
+                337.0,
+                680.0,
+                425.0,
+                695.0
+            ]
+        },
+        {
+            "text": "ISSUED BY",
+            "bbox": [
+                578.0,
+                683.0,
+                634.0,
+                695.0
+            ]
+        },
+        {
+            "text": "BUDGET NO.",
+            "bbox": [
+                118.0,
+                730.0,
+                182.0,
+                745.0
+            ]
+        },
+        {
+            "text": "ACCT. NO.",
+            "bbox": [
+                296.0,
+                732.0,
+                348.0,
+                745.0
+            ]
+        },
+        {
+            "text": "DEPT. NO.",
+            "bbox": [
+                410.0,
+                732.0,
+                461.0,
+                746.0
+            ]
+        },
+        {
+            "text": "APPROVED BY",
+            "bbox": [
+                572.0,
+                735.0,
+                643.0,
+                745.0
+            ]
+        },
+        {
+            "text": "4111",
+            "bbox": [
+                298.0,
+                755.0,
+                334.0,
+                769.0
+            ]
+        },
+        {
+            "text": "8700",
+            "bbox": [
+                434.0,
+                756.0,
+                470.0,
+                770.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        771.0,
+        1000.0
+    ]
+}

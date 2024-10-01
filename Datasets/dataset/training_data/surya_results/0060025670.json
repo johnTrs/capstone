@@ -1,0 +1,181 @@
+{
+    "text_lines": [
+        {
+            "text": "TEST ADIESIVE EVALUATION",
+            "bbox": [
+                285.0,
+                92.0,
+                479.0,
+                109.0
+            ]
+        },
+        {
+            "text": "Supplier: _",
+            "bbox": [
+                147.0,
+                169.0,
+                250.0,
+                185.0
+            ]
+        },
+        {
+            "text": "---",
+            "bbox": [
+                252.0,
+                169.0,
+                386.0,
+                188.0
+            ]
+        },
+        {
+            "text": "Adhesive Code:_",
+            "bbox": [
+                146.0,
+                205.0,
+                397.0,
+                229.0
+            ]
+        },
+        {
+            "text": "Application:",
+            "bbox": [
+                147.0,
+                246.0,
+                244.0,
+                263.0
+            ]
+        },
+        {
+            "text": "(tipping, carton end flaps, etc.)",
+            "bbox": [
+                147.0,
+                260.0,
+                406.0,
+                276.0
+            ]
+        },
+        {
+            "text": "Test Period:_",
+            "bbox": [
+                146.0,
+                299.0,
+                259.0,
+                315.0
+            ]
+        },
+        {
+            "text": "\u00b7",
+            "bbox": [
+                186.0,
+                317.0,
+                196.0,
+                326.0
+            ]
+        },
+        {
+            "text": "APPROVED",
+            "bbox": [
+                193.0,
+                350.0,
+                260.0,
+                366.0
+            ]
+        },
+        {
+            "text": "NOT APPROVED",
+            "bbox": [
+                401.0,
+                351.0,
+                501.0,
+                368.0
+            ]
+        },
+        {
+            "text": "If not approved state reasons.",
+            "bbox": [
+                147.0,
+                402.0,
+                382.0,
+                420.0
+            ]
+        },
+        {
+            "text": "Tester",
+            "bbox": [
+                147.0,
+                596.0,
+                199.0,
+                612.0
+            ]
+        },
+        {
+            "text": "Quality Control",
+            "bbox": [
+                147.0,
+                616.0,
+                269.0,
+                632.0
+            ]
+        },
+        {
+            "text": "Local Purchasing",
+            "bbox": [
+                147.0,
+                635.0,
+                276.0,
+                650.0
+            ]
+        },
+        {
+            "text": "Manager",
+            "bbox": [
+                147.0,
+                655.0,
+                208.0,
+                670.0
+            ]
+        },
+        {
+            "text": ".",
+            "bbox": [
+                138.0,
+                660.0,
+                148.0,
+                669.0
+            ]
+        },
+        {
+            "text": "Complete and return to D. R. Brickey, Department of Research",
+            "bbox": [
+                147.0,
+                690.0,
+                617.0,
+                706.0
+            ]
+        },
+        {
+            "text": "and Development, as soon as possible.",
+            "bbox": [
+                147.0,
+                703.0,
+                431.0,
+                720.0
+            ]
+        },
+        {
+            "text": "ATXO2 0083035",
+            "bbox": [
+                518.0,
+                882.0,
+                632.0,
+                900.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

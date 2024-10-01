@@ -1,0 +1,640 @@
+{
+    "text_lines": [
+        {
+            "text": "\"",
+            "bbox": [
+                35.0,
+                13.0,
+                49.0,
+                27.0
+            ]
+        },
+        {
+            "text": "d",
+            "bbox": [
+                39.0,
+                38.0,
+                54.0,
+                51.0
+            ]
+        },
+        {
+            "text": "9200 LEESBURG TURNPIKE",
+            "bbox": [
+                583.0,
+                80.0,
+                743.0,
+                91.0
+            ]
+        },
+        {
+            "text": "PROJECT SHEET",
+            "bbox": [
+                40.0,
+                83.0,
+                173.0,
+                100.0
+            ]
+        },
+        {
+            "text": "VIENNA, VIAGINIA 22180",
+            "bbox": [
+                591.0,
+                90.0,
+                734.0,
+                104.0
+            ]
+        },
+        {
+            "text": "U S A",
+            "bbox": [
+                646.0,
+                104.0,
+                678.0,
+                115.0
+            ]
+        },
+        {
+            "text": "Oct. 11, 1983",
+            "bbox": [
+                122.0,
+                133.0,
+                223.0,
+                147.0
+            ]
+        },
+        {
+            "text": "642-138",
+            "bbox": [
+                591.0,
+                135.0,
+                646.0,
+                149.0
+            ]
+        },
+        {
+            "text": "DATE ISSUED",
+            "bbox": [
+                45.0,
+                139.0,
+                110.0,
+                153.0
+            ]
+        },
+        {
+            "text": "PROJECT SHEET NO",
+            "bbox": [
+                279.0,
+                140.0,
+                371.0,
+                155.0
+            ]
+        },
+        {
+            "text": "PROJECT NO",
+            "bbox": [
+                477.0,
+                143.0,
+                564.0,
+                154.0
+            ]
+        },
+        {
+            "text": "STUDY TITLE & PROPOSAL NUMBER",
+            "bbox": [
+                46.0,
+                158.0,
+                210.0,
+                172.0
+            ]
+        },
+        {
+            "text": "PROJECT COORDINATOR",
+            "bbox": [
+                421.0,
+                160.0,
+                527.0,
+                175.0
+            ]
+        },
+        {
+            "text": "3212",
+            "bbox": [
+                351.0,
+                164.0,
+                380.0,
+                175.0
+            ]
+        },
+        {
+            "text": "Acute Intraperitoneal Toxicity Study in",
+            "bbox": [
+                49.0,
+                175.0,
+                342.0,
+                190.0
+            ]
+        },
+        {
+            "text": "Rats",
+            "bbox": [
+                340.0,
+                177.0,
+                374.0,
+                190.0
+            ]
+        },
+        {
+            "text": "SIGNATURE:",
+            "bbox": [
+                471.0,
+                185.0,
+                524.0,
+                197.0
+            ]
+        },
+        {
+            "text": "TEST MATERIAL (s)",
+            "bbox": [
+                45.0,
+                202.0,
+                135.0,
+                215.0
+            ]
+        },
+        {
+            "text": "LOT NO. (s)",
+            "bbox": [
+                418.0,
+                205.0,
+                474.0,
+                217.0
+            ]
+        },
+        {
+            "text": "RECEIPT DATE(s)",
+            "bbox": [
+                525.0,
+                205.0,
+                608.0,
+                219.0
+            ]
+        },
+        {
+            "text": "LH-NUMBER(s)",
+            "bbox": [
+                661.0,
+                206.0,
+                729.0,
+                220.0
+            ]
+        },
+        {
+            "text": "B166",
+            "bbox": [
+                180.0,
+                235.0,
+                214.0,
+                249.0
+            ]
+        },
+        {
+            "text": "9/28/83",
+            "bbox": [
+                532.0,
+                236.0,
+                587.0,
+                250.0
+            ]
+        },
+        {
+            "text": "20,845",
+            "bbox": [
+                657.0,
+                236.0,
+                704.0,
+                252.0
+            ]
+        },
+        {
+            "text": "PERFORMING DEPARTMENTS (4 COPIES EACH DIRECTOR)",
+            "bbox": [
+                45.0,
+                288.0,
+                307.0,
+                307.0
+            ]
+        },
+        {
+            "text": "ORIGINAL SIGNED PROJECT SHEETS TO PSO",
+            "bbox": [
+                420.0,
+                293.0,
+                628.0,
+                310.0
+            ]
+        },
+        {
+            "text": "Acute/Dermal Toxicology",
+            "bbox": [
+                49.0,
+                303.0,
+                222.0,
+                321.0
+            ]
+        },
+        {
+            "text": "FIXED DISTRIBUTION: (1 COPY TO EACH)",
+            "bbox": [
+                474.0,
+                316.0,
+                676.0,
+                334.0
+            ]
+        },
+        {
+            "text": "DIR. OF LIFE SCIENCES",
+            "bbox": [
+                429.0,
+                334.0,
+                539.0,
+                347.0
+            ]
+        },
+        {
+            "text": "LAB ANIMAL MEDICINE",
+            "bbox": [
+                617.0,
+                336.0,
+                723.0,
+                349.0
+            ]
+        },
+        {
+            "text": "HEALTH SERVICES",
+            "bbox": [
+                430.0,
+                348.0,
+                516.0,
+                362.0
+            ]
+        },
+        {
+            "text": "QUALITY ASSURANCE",
+            "bbox": [
+                616.0,
+                350.0,
+                713.0,
+                363.0
+            ]
+        },
+        {
+            "text": "PROTECTIVE PRECAUTIONS REQUIRED:",
+            "bbox": [
+                43.0,
+                355.0,
+                222.0,
+                369.0
+            ]
+        },
+        {
+            "text": "COMPOUND PREP (TOX)",
+            "bbox": [
+                431.0,
+                364.0,
+                537.0,
+                378.0
+            ]
+        },
+        {
+            "text": "CONTRACTS",
+            "bbox": [
+                619.0,
+                366.0,
+                667.0,
+                378.0
+            ]
+        },
+        {
+            "text": "HAZARDOUS COMPOUND",
+            "bbox": [
+                165.0,
+                369.0,
+                268.0,
+                381.0
+            ]
+        },
+        {
+            "text": "Sponso",
+            "bbox": [
+                622.0,
+                378.0,
+                667.0,
+                388.0
+            ]
+        },
+        {
+            "text": "SCIENTIFIC RES (TOX)",
+            "bbox": [
+                431.0,
+                380.0,
+                533.0,
+                393.0
+            ]
+        },
+        {
+            "text": "EXPLOSIVE",
+            "bbox": [
+                43.0,
+                390.0,
+                96.0,
+                402.0
+            ]
+        },
+        {
+            "text": "CARCINOGEN (OSHA)",
+            "bbox": [
+                212.0,
+                391.0,
+                308.0,
+                405.0
+            ]
+        },
+        {
+            "text": "FOLLOW DEPARTMENT AND COMPANY",
+            "bbox": [
+                421.0,
+                403.0,
+                583.0,
+                415.0
+            ]
+        },
+        {
+            "text": "FLAMMABLE",
+            "bbox": [
+                43.0,
+                411.0,
+                95.0,
+                425.0
+            ]
+        },
+        {
+            "text": "CARCINOGEN (OTHER)",
+            "bbox": [
+                212.0,
+                412.0,
+                313.0,
+                428.0
+            ]
+        },
+        {
+            "text": "SAFETY MANUALS",
+            "bbox": [
+                421.0,
+                414.0,
+                501.0,
+                427.0
+            ]
+        },
+        {
+            "text": "x",
+            "bbox": [
+                605.0,
+                414.0,
+                622.0,
+                428.0
+            ]
+        },
+        {
+            "text": "RADIOACTIVE",
+            "bbox": [
+                43.0,
+                430.0,
+                108.0,
+                445.0
+            ]
+        },
+        {
+            "text": "STORAGE CONDITIONS",
+            "bbox": [
+                420.0,
+                440.0,
+                522.0,
+                454.0
+            ]
+        },
+        {
+            "text": "PHYSICAL DESCRIPTION:",
+            "bbox": [
+                43.0,
+                453.0,
+                162.0,
+                466.0
+            ]
+        },
+        {
+            "text": "OSTORE IN DARK",
+            "bbox": [
+                424.0,
+                456.0,
+                509.0,
+                470.0
+            ]
+        },
+        {
+            "text": "ODESSICATOR",
+            "bbox": [
+                615.0,
+                458.0,
+                688.0,
+                471.0
+            ]
+        },
+        {
+            "text": "SOLID",
+            "bbox": [
+                75.0,
+                472.0,
+                107.0,
+                485.0
+            ]
+        },
+        {
+            "text": "REFRIGERATOR",
+            "bbox": [
+                423.0,
+                473.0,
+                505.0,
+                486.0
+            ]
+        },
+        {
+            "text": "8\u00b0C",
+            "bbox": [
+                515.0,
+                473.0,
+                540.0,
+                485.0
+            ]
+        },
+        {
+            "text": "FREEZER",
+            "bbox": [
+                616.0,
+                474.0,
+                669.0,
+                488.0
+            ]
+        },
+        {
+            "text": "Colorless_color",
+            "bbox": [
+                217.0,
+                480.0,
+                321.0,
+                500.0
+            ]
+        },
+        {
+            "text": "\u00d7",
+            "bbox": [
+                120.0,
+                483.0,
+                132.0,
+                496.0
+            ]
+        },
+        {
+            "text": "LIQUID",
+            "bbox": [
+                69.0,
+                487.0,
+                108.0,
+                501.0
+            ]
+        },
+        {
+            "text": "OROOM TEMPERATURE",
+            "bbox": [
+                424.0,
+                488.0,
+                531.0,
+                503.0
+            ]
+        },
+        {
+            "text": "OTHER.",
+            "bbox": [
+                616.0,
+                490.0,
+                661.0,
+                504.0
+            ]
+        },
+        {
+            "text": "PRESSURIZED",
+            "bbox": [
+                42.0,
+                503.0,
+                106.0,
+                516.0
+            ]
+        },
+        {
+            "text": "OSPECIAL INSTRUCTIONS WHILE DOSING",
+            "bbox": [
+                424.0,
+                504.0,
+                612.0,
+                520.0
+            ]
+        },
+        {
+            "text": "EXPERIMENTAL PROCEDURES",
+            "bbox": [
+                43.0,
+                521.0,
+                173.0,
+                535.0
+            ]
+        },
+        {
+            "text": "to performed in Acute/Dermal Toxicology, building 18.",
+            "bbox": [
+                187.0,
+                525.0,
+                576.0,
+                540.0
+            ]
+        },
+        {
+            "text": "The protocol for this study is attached.",
+            "bbox": [
+                91.0,
+                573.0,
+                386.0,
+                592.0
+            ]
+        },
+        {
+            "text": "The protocol was approved in sponsor letter of June 6, 1983.",
+            "bbox": [
+                90.0,
+                602.0,
+                533.0,
+                623.0
+            ]
+        },
+        {
+            "text": "The anticipated initiation date of this study is October 1983.",
+            "bbox": [
+                90.0,
+                632.0,
+                547.0,
+                652.0
+            ]
+        },
+        {
+            "text": "The anticipated completion date of this study is November 1983.",
+            "bbox": [
+                90.0,
+                662.0,
+                555.0,
+                682.0
+            ]
+        },
+        {
+            "text": "09380",
+            "bbox": [
+                688.0,
+                825.0,
+                716.0,
+                885.0
+            ]
+        },
+        {
+            "text": "HL FORM NO.",
+            "bbox": [
+                49.0,
+                960.0,
+                106.0,
+                971.0
+            ]
+        },
+        {
+            "text": "REVISED 1-81",
+            "bbox": [
+                49.0,
+                970.0,
+                121.0,
+                986.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        764.0,
+        1000.0
+    ]
+}

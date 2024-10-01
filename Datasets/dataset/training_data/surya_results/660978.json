@@ -1,0 +1,262 @@
+{
+    "text_lines": [
+        {
+            "text": "GREY  ADVERTISING  INC. \u2013 MEETING  REPORT",
+            "bbox": [
+                68.0,
+                53.0,
+                577.0,
+                88.0
+            ]
+        },
+        {
+            "text": "FEB 2 \t 1982",
+            "bbox": [
+                603.0,
+                59.0,
+                684.0,
+                90.0
+            ]
+        },
+        {
+            "text": "Brown & Williamson",
+            "bbox": [
+                167.0,
+                104.0,
+                301.0,
+                125.0
+            ]
+        },
+        {
+            "text": "CLIENT:",
+            "bbox": [
+                102.0,
+                105.0,
+                170.0,
+                120.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                381.0,
+                110.0,
+                499.0,
+                131.0
+            ]
+        },
+        {
+            "text": "NO. V82-2 R1",
+            "bbox": [
+                516.0,
+                115.0,
+                607.0,
+                131.0
+            ]
+        },
+        {
+            "text": "PRODUCT:  Viceroy",
+            "bbox": [
+                101.0,
+                130.0,
+                239.0,
+                152.0
+            ]
+        },
+        {
+            "text": "PLACE: Telephone",
+            "bbox": [
+                381.0,
+                139.0,
+                503.0,
+                159.0
+            ]
+        },
+        {
+            "text": "PRESENT: (For the client)",
+            "bbox": [
+                101.0,
+                158.0,
+                254.0,
+                181.0
+            ]
+        },
+        {
+            "text": "DATE OF REPORT: 2/17/82",
+            "bbox": [
+                378.0,
+                163.0,
+                530.0,
+                188.0
+            ]
+        },
+        {
+            "text": "T. Parrack",
+            "bbox": [
+                99.0,
+                182.0,
+                173.0,
+                198.0
+            ]
+        },
+        {
+            "text": "(For the agency)",
+            "bbox": [
+                162.0,
+                225.0,
+                261.0,
+                243.0
+            ]
+        },
+        {
+            "text": "P. Hendricks",
+            "bbox": [
+                97.0,
+                244.0,
+                188.0,
+                263.0
+            ]
+        },
+        {
+            "text": "SUMMARY:",
+            "bbox": [
+                97.0,
+                280.0,
+                168.0,
+                297.0
+            ]
+        },
+        {
+            "text": "Written by: P. Hendricks",
+            "bbox": [
+                444.0,
+                305.0,
+                626.0,
+                325.0
+            ]
+        },
+        {
+            "text": "CONFIDENTIAL ",
+            "bbox": [
+                444.0,
+                326.0,
+                552.0,
+                346.0
+            ]
+        },
+        {
+            "text": "Client confirmed agreement for Agency to pay advance to photographer,",
+            "bbox": [
+                93.0,
+                371.0,
+                582.0,
+                403.0
+            ]
+        },
+        {
+            "text": "with official signed estimate to follow, for Viceroy shoot week of",
+            "bbox": [
+                93.0,
+                385.0,
+                562.0,
+                417.0
+            ]
+        },
+        {
+            "text": "1/25/82. This was agreed to by T. Parrack and A. Forsythe at the",
+            "bbox": [
+                93.0,
+                399.0,
+                555.0,
+                430.0
+            ]
+        },
+        {
+            "text": "January 18 pre-production meeting.",
+            "bbox": [
+                94.0,
+                413.0,
+                337.0,
+                439.0
+            ]
+        },
+        {
+            "text": "PH:mg",
+            "bbox": [
+                92.0,
+                500.0,
+                133.0,
+                518.0
+            ]
+        },
+        {
+            "text": "R. Schoenfein",
+            "bbox": [
+                124.0,
+                529.0,
+                223.0,
+                547.0
+            ]
+        },
+        {
+            "text": "cc: ",
+            "bbox": [
+                92.0,
+                530.0,
+                124.0,
+                545.0
+            ]
+        },
+        {
+            "text": "S. Dammers",
+            "bbox": [
+                125.0,
+                545.0,
+                201.0,
+                559.0
+            ]
+        },
+        {
+            "text": "P. Hendricks",
+            "bbox": [
+                125.0,
+                558.0,
+                215.0,
+                576.0
+            ]
+        },
+        {
+            "text": "9077704",
+            "bbox": [
+                617.0,
+                725.0,
+                648.0,
+                819.0
+            ]
+        },
+        {
+            "text": "670121460",
+            "bbox": [
+                0.0,
+                952.0,
+                81.0,
+                966.0
+            ]
+        },
+        {
+            "text": "PRODUCED FROM B&W WEB SITE",
+            "bbox": [
+                0.0,
+                967.0,
+                233.0,
+                983.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

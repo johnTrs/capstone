@@ -1,0 +1,1210 @@
+{
+    "text_lines": [
+        {
+            "line_text": "=",
+            "line_bbox": [
+                117.0,
+                122.0,
+                131.0,
+                141.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "=",
+                    "bbox": [
+                        117.0,
+                        122.0,
+                        131.0,
+                        130.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EPL",
+            "line_bbox": [
+                70.0,
+                131.0,
+                122.0,
+                158.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EPL",
+                    "bbox": [
+                        70.0,
+                        131.0,
+                        119.0,
+                        158.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "EXPERIMENTAL PATHOLOGY LABORATORIES, INC.",
+            "line_bbox": [
+                137.0,
+                166.0,
+                423.0,
+                182.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "EXPERIMENTAL",
+                    "bbox": [
+                        138.0,
+                        167.0,
+                        226.0,
+                        182.0
+                    ]
+                },
+                {
+                    "text": "PATHOLOGY",
+                    "bbox": [
+                        229.0,
+                        167.0,
+                        299.0,
+                        181.0
+                    ]
+                },
+                {
+                    "text": "LABORATORIES,",
+                    "bbox": [
+                        303.0,
+                        166.0,
+                        395.0,
+                        181.0
+                    ]
+                },
+                {
+                    "text": "INC.",
+                    "bbox": [
+                        397.0,
+                        166.0,
+                        423.0,
+                        181.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "QUALITY ASSURANCE",
+            "line_bbox": [
+                298.0,
+                218.0,
+                420.0,
+                232.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "QUALITY",
+                    "bbox": [
+                        299.0,
+                        219.0,
+                        350.0,
+                        232.0
+                    ]
+                },
+                {
+                    "text": "ASSURANCE",
+                    "bbox": [
+                        355.0,
+                        219.0,
+                        419.0,
+                        232.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "REPORT CERTIFICATION",
+            "line_bbox": [
+                290.0,
+                231.0,
+                437.0,
+                244.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "REPORT",
+                    "bbox": [
+                        291.0,
+                        231.0,
+                        335.0,
+                        245.0
+                    ]
+                },
+                {
+                    "text": "CERTIFICATION",
+                    "bbox": [
+                        340.0,
+                        231.0,
+                        434.0,
+                        245.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Client Name Borriston Laboratories, Inc. Client Study No.",
+            "line_bbox": [
+                105.0,
+                274.0,
+                521.0,
+                289.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Client",
+                    "bbox": [
+                        105.0,
+                        274.0,
+                        150.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "Name",
+                    "bbox": [
+                        155.0,
+                        275.0,
+                        186.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Borriston",
+                    "bbox": [
+                        198.0,
+                        275.0,
+                        264.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Laboratories,",
+                    "bbox": [
+                        269.0,
+                        275.0,
+                        365.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Inc.",
+                    "bbox": [
+                        369.0,
+                        275.0,
+                        400.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Client",
+                    "bbox": [
+                        404.0,
+                        275.0,
+                        449.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": "Study",
+                    "bbox": [
+                        454.0,
+                        274.0,
+                        493.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "bbox": [
+                        498.0,
+                        274.0,
+                        522.0,
+                        290.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1419A",
+            "line_bbox": [
+                570.0,
+                275.0,
+                608.0,
+                288.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1419A",
+                    "bbox": [
+                        570.0,
+                        276.0,
+                        606.0,
+                        289.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Study Director Dr. William 0. Iverson Pathologist Dr. Charley E. Gilmore",
+            "line_bbox": [
+                104.0,
+                316.0,
+                636.0,
+                334.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Study",
+                    "bbox": [
+                        105.0,
+                        317.0,
+                        143.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "Director",
+                    "bbox": [
+                        147.0,
+                        317.0,
+                        208.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "Dr.",
+                    "bbox": [
+                        212.0,
+                        317.0,
+                        237.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "William",
+                    "bbox": [
+                        240.0,
+                        317.0,
+                        293.0,
+                        334.0
+                    ]
+                },
+                {
+                    "text": "0.",
+                    "bbox": [
+                        298.0,
+                        317.0,
+                        316.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "Iverson",
+                    "bbox": [
+                        320.0,
+                        317.0,
+                        371.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "Pathologist",
+                    "bbox": [
+                        382.0,
+                        317.0,
+                        465.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "Dr.",
+                    "bbox": [
+                        475.0,
+                        317.0,
+                        501.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "Charley",
+                    "bbox": [
+                        505.0,
+                        317.0,
+                        557.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "E.",
+                    "bbox": [
+                        562.0,
+                        317.0,
+                        580.0,
+                        333.0
+                    ]
+                },
+                {
+                    "text": "Gilmore",
+                    "bbox": [
+                        583.0,
+                        317.0,
+                        636.0,
+                        333.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Study Title",
+            "line_bbox": [
+                103.0,
+                360.0,
+                188.0,
+                376.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Study",
+                    "bbox": [
+                        105.0,
+                        360.0,
+                        144.0,
+                        377.0
+                    ]
+                },
+                {
+                    "text": "Title",
+                    "bbox": [
+                        148.0,
+                        360.0,
+                        186.0,
+                        377.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Bioassay of Cigarette Smoke Condensates for Potential",
+            "line_bbox": [
+                211.0,
+                346.0,
+                592.0,
+                361.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Bioassay",
+                    "bbox": [
+                        212.0,
+                        346.0,
+                        271.0,
+                        361.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        276.0,
+                        346.0,
+                        293.0,
+                        361.0
+                    ]
+                },
+                {
+                    "text": "Cigarette",
+                    "bbox": [
+                        297.0,
+                        346.0,
+                        363.0,
+                        361.0
+                    ]
+                },
+                {
+                    "text": "Smoke",
+                    "bbox": [
+                        367.0,
+                        346.0,
+                        406.0,
+                        361.0
+                    ]
+                },
+                {
+                    "text": "Condensates",
+                    "bbox": [
+                        410.0,
+                        346.0,
+                        491.0,
+                        361.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        498.0,
+                        346.0,
+                        521.0,
+                        361.0
+                    ]
+                },
+                {
+                    "text": "Potential",
+                    "bbox": [
+                        526.0,
+                        346.0,
+                        591.0,
+                        361.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Tumorigenic Activity on Mouse Skin",
+            "line_bbox": [
+                214.0,
+                361.0,
+                457.0,
+                375.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Tumorigenic",
+                    "bbox": [
+                        214.0,
+                        361.0,
+                        292.0,
+                        375.0
+                    ]
+                },
+                {
+                    "text": "Activity",
+                    "bbox": [
+                        298.0,
+                        361.0,
+                        356.0,
+                        376.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        362.0,
+                        361.0,
+                        377.0,
+                        376.0
+                    ]
+                },
+                {
+                    "text": "Mouse",
+                    "bbox": [
+                        382.0,
+                        362.0,
+                        420.0,
+                        376.0
+                    ]
+                },
+                {
+                    "text": "Skin",
+                    "bbox": [
+                        426.0,
+                        362.0,
+                        457.0,
+                        376.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "(Revised Pathology Report )",
+            "line_bbox": [
+                213.0,
+                375.0,
+                399.0,
+                390.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "(Revised",
+                    "bbox": [
+                        214.0,
+                        375.0,
+                        271.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "Pathology",
+                    "bbox": [
+                        277.0,
+                        375.0,
+                        343.0,
+                        390.0
+                    ]
+                },
+                {
+                    "text": "Report",
+                    "bbox": [
+                        346.0,
+                        376.0,
+                        389.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": ")",
+                    "bbox": [
+                        391.0,
+                        376.0,
+                        398.0,
+                        391.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Test Article",
+            "line_bbox": [
+                105.0,
+                403.0,
+                196.0,
+                419.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Test",
+                    "bbox": [
+                        106.0,
+                        404.0,
+                        135.0,
+                        419.0
+                    ]
+                },
+                {
+                    "text": "Article",
+                    "bbox": [
+                        140.0,
+                        404.0,
+                        193.0,
+                        419.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Multiple",
+            "line_bbox": [
+                213.0,
+                403.0,
+                272.0,
+                419.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Multiple",
+                    "bbox": [
+                        213.0,
+                        404.0,
+                        273.0,
+                        420.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Species",
+            "line_bbox": [
+                441.0,
+                403.0,
+                494.0,
+                420.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Species",
+                    "bbox": [
+                        441.0,
+                        404.0,
+                        493.0,
+                        420.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Mice",
+            "line_bbox": [
+                526.0,
+                405.0,
+                558.0,
+                418.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Mice",
+                    "bbox": [
+                        526.0,
+                        405.0,
+                        556.0,
+                        418.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "All parts of the pathology phase of this study, including the final report,",
+            "line_bbox": [
+                127.0,
+                489.0,
+                665.0,
+                507.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "All",
+                    "bbox": [
+                        127.0,
+                        490.0,
+                        151.0,
+                        505.0
+                    ]
+                },
+                {
+                    "text": "parts",
+                    "bbox": [
+                        154.0,
+                        490.0,
+                        194.0,
+                        506.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        198.0,
+                        490.0,
+                        216.0,
+                        506.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        220.0,
+                        490.0,
+                        244.0,
+                        506.0
+                    ]
+                },
+                {
+                    "text": "pathology",
+                    "bbox": [
+                        248.0,
+                        490.0,
+                        316.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "phase",
+                    "bbox": [
+                        319.0,
+                        490.0,
+                        357.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        362.0,
+                        490.0,
+                        379.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "this",
+                    "bbox": [
+                        383.0,
+                        490.0,
+                        414.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "study,",
+                    "bbox": [
+                        418.0,
+                        490.0,
+                        465.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "including",
+                    "bbox": [
+                        471.0,
+                        490.0,
+                        537.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        542.0,
+                        490.0,
+                        565.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "final",
+                    "bbox": [
+                        570.0,
+                        490.0,
+                        608.0,
+                        507.0
+                    ]
+                },
+                {
+                    "text": "report,",
+                    "bbox": [
+                        612.0,
+                        490.0,
+                        665.0,
+                        507.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "were reviewed by Experimental Pathology Laboratories Quality Assurance Unit",
+            "line_bbox": [
+                124.0,
+                518.0,
+                664.0,
+                535.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "were",
+                    "bbox": [
+                        125.0,
+                        520.0,
+                        158.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "reviewed",
+                    "bbox": [
+                        162.0,
+                        519.0,
+                        222.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        226.0,
+                        519.0,
+                        244.0,
+                        535.0
+                    ]
+                },
+                {
+                    "text": "Experimental",
+                    "bbox": [
+                        248.0,
+                        519.0,
+                        336.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "Pathology",
+                    "bbox": [
+                        340.0,
+                        519.0,
+                        407.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "Laboratories",
+                    "bbox": [
+                        411.0,
+                        519.0,
+                        500.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "Quality",
+                    "bbox": [
+                        505.0,
+                        519.0,
+                        557.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "Assurance",
+                    "bbox": [
+                        562.0,
+                        519.0,
+                        628.0,
+                        536.0
+                    ]
+                },
+                {
+                    "text": "Unit",
+                    "bbox": [
+                        632.0,
+                        520.0,
+                        663.0,
+                        535.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "on",
+            "line_bbox": [
+                127.0,
+                550.0,
+                146.0,
+                561.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "on",
+                    "bbox": [
+                        128.0,
+                        550.0,
+                        141.0,
+                        561.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "March 2 - June 8, 1983",
+            "line_bbox": [
+                178.0,
+                547.0,
+                335.0,
+                563.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "March",
+                    "bbox": [
+                        179.0,
+                        548.0,
+                        215.0,
+                        563.0
+                    ]
+                },
+                {
+                    "text": "2",
+                    "bbox": [
+                        221.0,
+                        548.0,
+                        230.0,
+                        563.0
+                    ]
+                },
+                {
+                    "text": "-",
+                    "bbox": [
+                        236.0,
+                        548.0,
+                        245.0,
+                        563.0
+                    ]
+                },
+                {
+                    "text": "June",
+                    "bbox": [
+                        249.0,
+                        548.0,
+                        279.0,
+                        564.0
+                    ]
+                },
+                {
+                    "text": "8,",
+                    "bbox": [
+                        285.0,
+                        548.0,
+                        302.0,
+                        564.0
+                    ]
+                },
+                {
+                    "text": "1983",
+                    "bbox": [
+                        306.0,
+                        547.0,
+                        336.0,
+                        563.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Alll findings were reported",
+            "line_bbox": [
+                470.0,
+                547.0,
+                657.0,
+                564.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Alll",
+                    "bbox": [
+                        471.0,
+                        548.0,
+                        494.0,
+                        564.0
+                    ]
+                },
+                {
+                    "text": "findings",
+                    "bbox": [
+                        498.0,
+                        548.0,
+                        557.0,
+                        564.0
+                    ]
+                },
+                {
+                    "text": "were",
+                    "bbox": [
+                        561.0,
+                        549.0,
+                        592.0,
+                        564.0
+                    ]
+                },
+                {
+                    "text": "reported",
+                    "bbox": [
+                        597.0,
+                        548.0,
+                        656.0,
+                        565.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "to the Study Director and Management.",
+            "line_bbox": [
+                126.0,
+                576.0,
+                392.0,
+                593.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "to",
+                    "bbox": [
+                        127.0,
+                        577.0,
+                        143.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        148.0,
+                        577.0,
+                        172.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "Study",
+                    "bbox": [
+                        176.0,
+                        577.0,
+                        216.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "Director",
+                    "bbox": [
+                        218.0,
+                        577.0,
+                        280.0,
+                        592.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        284.0,
+                        577.0,
+                        308.0,
+                        593.0
+                    ]
+                },
+                {
+                    "text": "Management.",
+                    "bbox": [
+                        311.0,
+                        577.0,
+                        393.0,
+                        594.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Janet Milazzo",
+            "line_bbox": [
+                405.0,
+                666.0,
+                628.0,
+                709.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "Janet",
+                    "bbox": [
+                        422.0,
+                        667.0,
+                        508.0,
+                        710.0
+                    ]
+                },
+                {
+                    "text": "Milazzo",
+                    "bbox": [
+                        522.0,
+                        667.0,
+                        628.0,
+                        708.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "6/8/83",
+            "line_bbox": [
+                466.0,
+                724.0,
+                574.0,
+                749.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "6/8/83",
+                    "bbox": [
+                        473.0,
+                        724.0,
+                        572.0,
+                        749.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "L",
+            "line_bbox": [
+                16.0,
+                812.0,
+                35.0,
+                832.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "L",
+                    "bbox": [
+                        18.0,
+                        812.0,
+                        30.0,
+                        832.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "89386032",
+            "line_bbox": [
+                674.0,
+                835.0,
+                692.0,
+                923.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "89386032",
+                    "bbox": [
+                        674.0,
+                        835.0,
+                        692.0,
+                        919.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                19.0,
+                944.0,
+                36.0,
+                981.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        19.0,
+                        948.0,
+                        35.0,
+                        957.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

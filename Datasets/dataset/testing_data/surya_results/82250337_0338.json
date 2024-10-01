@@ -1,0 +1,442 @@
+{
+    "text_lines": [
+        {
+            "text": "COMPETITIVE PRODUCT INTRODUCTION",
+            "bbox": [
+                219.0,
+                135.0,
+                508.0,
+                152.0
+            ]
+        },
+        {
+            "text": "PROGRESS REPORT",
+            "bbox": [
+                289.0,
+                153.0,
+                437.0,
+                168.0
+            ]
+        },
+        {
+            "text": "B&W",
+            "bbox": [
+                448.0,
+                198.0,
+                478.0,
+                211.0
+            ]
+        },
+        {
+            "text": "TO:",
+            "bbox": [
+                91.0,
+                200.0,
+                114.0,
+                215.0
+            ]
+        },
+        {
+            "text": "MANUFACTURER:",
+            "bbox": [
+                311.0,
+                200.0,
+                409.0,
+                212.0
+            ]
+        },
+        {
+            "text": "Sam Zolot",
+            "bbox": [
+                138.0,
+                201.0,
+                195.0,
+                215.0
+            ]
+        },
+        {
+            "text": "BRAND:",
+            "bbox": [
+                311.0,
+                216.0,
+                358.0,
+                230.0
+            ]
+        },
+        {
+            "text": "Kool Waterfall",
+            "bbox": [
+                402.0,
+                216.0,
+                474.0,
+                229.0
+            ]
+        },
+        {
+            "text": "D. J. Landro",
+            "bbox": [
+                135.0,
+                218.0,
+                203.0,
+                231.0
+            ]
+        },
+        {
+            "text": "FROM: ",
+            "bbox": [
+                91.0,
+                219.0,
+                136.0,
+                231.0
+            ]
+        },
+        {
+            "text": "All Packings",
+            "bbox": [
+                448.0,
+                233.0,
+                515.0,
+                245.0
+            ]
+        },
+        {
+            "text": "TYPE OF PACKINGS:",
+            "bbox": [
+                311.0,
+                234.0,
+                424.0,
+                248.0
+            ]
+        },
+        {
+            "text": "2-Dec-97",
+            "bbox": [
+                136.0,
+                235.0,
+                187.0,
+                249.0
+            ]
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                91.0,
+                236.0,
+                129.0,
+                249.0
+            ]
+        },
+        {
+            "text": "Dec.",
+            "bbox": [
+                459.0,
+                268.0,
+                485.0,
+                280.0
+            ]
+        },
+        {
+            "text": "REPORTING PERIODS:",
+            "bbox": [
+                91.0,
+                269.0,
+                215.0,
+                283.0
+            ]
+        },
+        {
+            "text": "Nov. X",
+            "bbox": [
+                366.0,
+                269.0,
+                417.0,
+                282.0
+            ]
+        },
+        {
+            "text": "Oct.",
+            "bbox": [
+                276.0,
+                270.0,
+                302.0,
+                282.0
+            ]
+        },
+        {
+            "text": "Jan.",
+            "bbox": [
+                554.0,
+                270.0,
+                576.0,
+                279.0
+            ]
+        },
+        {
+            "text": "Divisions 621 and 627",
+            "bbox": [
+                312.0,
+                319.0,
+                420.0,
+                333.0
+            ]
+        },
+        {
+            "text": "TEST MARKET GEOGRAPHY:",
+            "bbox": [
+                91.0,
+                320.0,
+                248.0,
+                335.0
+            ]
+        },
+        {
+            "text": "(Indicate Distributor's Cost Per Carton)",
+            "bbox": [
+                315.0,
+                354.0,
+                518.0,
+                368.0
+            ]
+        },
+        {
+            "text": "PN $",
+            "bbox": [
+                253.0,
+                355.0,
+                288.0,
+                368.0
+            ]
+        },
+        {
+            "text": "PRICE POINT:",
+            "bbox": [
+                91.0,
+                356.0,
+                170.0,
+                370.0
+            ]
+        },
+        {
+            "text": "FULL $",
+            "bbox": [
+                175.0,
+                356.0,
+                234.0,
+                369.0
+            ]
+        },
+        {
+            "text": "SALES FORCE INVOLVEMENT:",
+            "bbox": [
+                91.0,
+                394.0,
+                256.0,
+                408.0
+            ]
+        },
+        {
+            "text": "They have crew-worked distribution, and it is reported that they may crew-work it again.  Sales force has been busy",
+            "bbox": [
+                91.0,
+                416.0,
+                645.0,
+                427.0
+            ]
+        },
+        {
+            "text": "promoting old style packs to clean up inventory.  All POS is being converted to \"B\" Kool.",
+            "bbox": [
+                91.0,
+                437.0,
+                514.0,
+                449.0
+            ]
+        },
+        {
+            "text": "DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:",
+            "bbox": [
+                91.0,
+                501.0,
+                496.0,
+                514.0
+            ]
+        },
+        {
+            "text": "All accounts have the new packaging. It was not a problem obtaining new distribution.  All accounts appear",
+            "bbox": [
+                91.0,
+                523.0,
+                609.0,
+                534.0
+            ]
+        },
+        {
+            "text": "to have 100% distribution of new packings.",
+            "bbox": [
+                91.0,
+                544.0,
+                301.0,
+                558.0
+            ]
+        },
+        {
+            "text": "CHAINS - ACCEPTANCE/MERCHANDISING:",
+            "bbox": [
+                91.0,
+                609.0,
+                318.0,
+                623.0
+            ]
+        },
+        {
+            "text": "This has not been a problem.  New packaging is just following up on the old \"packaging\".",
+            "bbox": [
+                91.0,
+                631.0,
+                521.0,
+                643.0
+            ]
+        },
+        {
+            "text": "INDEPENDENTS - ACCEPTANCE/MERCHANDISING:",
+            "bbox": [
+                91.0,
+                717.0,
+                362.0,
+                730.0
+            ]
+        },
+        {
+            "text": "Very well received. The old packs are being consolidated and promoted in select retail locations at 40\u00a2",
+            "bbox": [
+                91.0,
+                739.0,
+                589.0,
+                750.0
+            ]
+        },
+        {
+            "text": "off/$4.00 off cartons.",
+            "bbox": [
+                91.0,
+                760.0,
+                195.0,
+                775.0
+            ]
+        },
+        {
+            "text": "ADVERTISING - EFFECTIVENESS OF P.O.S .:",
+            "bbox": [
+                92.0,
+                824.0,
+                326.0,
+                838.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                679.0,
+                828.0,
+                699.0,
+                838.0
+            ]
+        },
+        {
+            "text": "2",
+            "bbox": [
+                677.0,
+                840.0,
+                699.0,
+                852.0
+            ]
+        },
+        {
+            "text": "The theme \"B\" Kool has replaced all previous POS.  They have effectively replaced all old POS.  New",
+            "bbox": [
+                92.0,
+                845.0,
+                580.0,
+                858.0
+            ]
+        },
+        {
+            "text": "5",
+            "bbox": [
+                678.0,
+                852.0,
+                700.0,
+                865.0
+            ]
+        },
+        {
+            "text": "0",
+            "bbox": [
+                678.0,
+                866.0,
+                699.0,
+                879.0
+            ]
+        },
+        {
+            "text": "door signage, hour signs, poster mats, and clocks have the new design.  \u201cB\u201d Kool also appears on billboards",
+            "bbox": [
+                91.0,
+                868.0,
+                614.0,
+                878.0
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                679.0,
+                879.0,
+                700.0,
+                892.0
+            ]
+        },
+        {
+            "text": "in Illinois.",
+            "bbox": [
+                92.0,
+                889.0,
+                141.0,
+                903.0
+            ]
+        },
+        {
+            "text": "3",
+            "bbox": [
+                679.0,
+                893.0,
+                699.0,
+                905.0
+            ]
+        },
+        {
+            "text": "7",
+            "bbox": [
+                682.0,
+                905.0,
+                699.0,
+                916.0
+            ]
+        },
+        {
+            "text": "PAGE 1 OF 2",
+            "bbox": [
+                329.0,
+                949.0,
+                398.0,
+                963.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        754.0,
+        1000.0
+    ]
+}

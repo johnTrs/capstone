@@ -1,0 +1,568 @@
+{
+    "text_lines": [
+        {
+            "text": "AT 135-M (3-90)",
+            "bbox": [
+                643.0,
+                36.0,
+                700.0,
+                48.0
+            ]
+        },
+        {
+            "text": "PURCHASE REQUISITION",
+            "bbox": [
+                490.0,
+                56.0,
+                703.0,
+                79.0
+            ]
+        },
+        {
+            "text": "LOCATION",
+            "bbox": [
+                261.0,
+                79.0,
+                304.0,
+                91.0
+            ]
+        },
+        {
+            "text": "AUTHORIZATION NO.",
+            "bbox": [
+                480.0,
+                80.0,
+                557.0,
+                93.0
+            ]
+        },
+        {
+            "text": "STAMFORD, CT",
+            "bbox": [
+                323.0,
+                86.0,
+                417.0,
+                100.0
+            ]
+        },
+        {
+            "text": "DATE OF REQUISITION",
+            "bbox": [
+                39.0,
+                105.0,
+                125.0,
+                118.0
+            ]
+        },
+        {
+            "text": "REQUISITIONER",
+            "bbox": [
+                260.0,
+                106.0,
+                322.0,
+                119.0
+            ]
+        },
+        {
+            "text": "BUOGET NO.",
+            "bbox": [
+                480.0,
+                109.0,
+                529.0,
+                121.0
+            ]
+        },
+        {
+            "text": "January 3, 1995",
+            "bbox": [
+                66.0,
+                123.0,
+                167.0,
+                136.0
+            ]
+        },
+        {
+            "text": "Mr. G. Schumacher",
+            "bbox": [
+                262.0,
+                122.0,
+                385.0,
+                136.0
+            ]
+        },
+        {
+            "text": "SUPPLIER",
+            "bbox": [
+                40.0,
+                135.0,
+                78.0,
+                146.0
+            ]
+        },
+        {
+            "text": "SHIP TO",
+            "bbox": [
+                372.0,
+                136.0,
+                402.0,
+                148.0
+            ]
+        },
+        {
+            "text": "WEBCRAFT TECHNOLOGIES, INC.",
+            "bbox": [
+                56.0,
+                152.0,
+                289.0,
+                168.0
+            ]
+        },
+        {
+            "text": "NO SHIPPING REQUIRED.",
+            "bbox": [
+                381.0,
+                153.0,
+                551.0,
+                169.0
+            ]
+        },
+        {
+            "text": "Attn: Mr. Steven Katz",
+            "bbox": [
+                64.0,
+                168.0,
+                200.0,
+                182.0
+            ]
+        },
+        {
+            "text": "- Route 1-and-Adams-Station -",
+            "bbox": [
+                58.0,
+                183.0,
+                243.0,
+                197.0
+            ]
+        },
+        {
+            "text": "North Brunswick, NJ 08901-0623",
+            "bbox": [
+                64.0,
+                197.0,
+                271.0,
+                213.0
+            ]
+        },
+        {
+            "text": "SHIPMENT TO ARRIVE NOT LATER THAN",
+            "bbox": [
+                38.0,
+                243.0,
+                187.0,
+                260.0
+            ]
+        },
+        {
+            "text": "VIA",
+            "bbox": [
+                370.0,
+                249.0,
+                386.0,
+                260.0
+            ]
+        },
+        {
+            "text": "NO SHIPPING REQUIRED.",
+            "bbox": [
+                63.0,
+                258.0,
+                229.0,
+                274.0
+            ]
+        },
+        {
+            "text": "F O B.",
+            "bbox": [
+                37.0,
+                274.0,
+                62.0,
+                285.0
+            ]
+        },
+        {
+            "text": "|TER'Net 30 Days",
+            "bbox": [
+                367.0,
+                276.0,
+                464.0,
+                298.0
+            ]
+        },
+        {
+            "text": "QUANTITY",
+            "bbox": [
+                73.0,
+                301.0,
+                139.0,
+                319.0
+            ]
+        },
+        {
+            "text": "DESCRIPTION",
+            "bbox": [
+                325.0,
+                304.0,
+                410.0,
+                318.0
+            ]
+        },
+        {
+            "text": "PRICE",
+            "bbox": [
+                608.0,
+                306.0,
+                648.0,
+                322.0
+            ]
+        },
+        {
+            "text": "CARLTON \"Free Carton\" Direct Mail Piece",
+            "bbox": [
+                177.0,
+                321.0,
+                441.0,
+                338.0
+            ]
+        },
+        {
+            "text": "This Purchase Order is to cover all costs incurred to",
+            "bbox": [
+                178.0,
+                352.0,
+                507.0,
+                366.0
+            ]
+        },
+        {
+            "text": "listed below :- - -",
+            "bbox": [
+                177.0,
+                368.0,
+                277.0,
+                382.0
+            ]
+        },
+        {
+            "text": "'42,000 lbs. of 80 1b. Sterling C/2/S = 36-t/2\" rati-",
+            "bbox": [
+                177.0,
+                398.0,
+                475.0,
+                414.0
+            ]
+        },
+        {
+            "text": "-$20,580.00-",
+            "bbox": [
+                572.0,
+                398.0,
+                647.0,
+                414.0
+            ]
+        },
+        {
+            "text": "31,000 lbs. of 80 lb. Sterling C/2/S - 26-1/2\" roll",
+            "bbox": [
+                177.0,
+                413.0,
+                469.0,
+                430.0
+            ]
+        },
+        {
+            "text": "$15,190.00",
+            "bbox": [
+                574.0,
+                413.0,
+                643.0,
+                429.0
+            ]
+        },
+        {
+            "text": "Prep. (line negatives, paper prints, cameralstripping)",
+            "bbox": [
+                177.0,
+                443.0,
+                506.0,
+                461.0
+            ]
+        },
+        {
+            "text": "$431.25",
+            "bbox": [
+                591.0,
+                444.0,
+                643.0,
+                460.0
+            ]
+        },
+        {
+            "text": "Federal Express Charges",
+            "bbox": [
+                175.0,
+                474.0,
+                338.0,
+                489.0
+            ]
+        },
+        {
+            "text": "$48.75",
+            "bbox": [
+                593.0,
+                475.0,
+                647.0,
+                492.0
+            ]
+        },
+        {
+            "text": "ALL MATERIALS HAVE BEEN CANCELLED.",
+            "bbox": [
+                177.0,
+                504.0,
+                448.0,
+                518.0
+            ]
+        },
+        {
+            "text": "DEPARTMENT CHARGED",
+            "bbox": [
+                34.0,
+                763.0,
+                125.0,
+                775.0
+            ]
+        },
+        {
+            "text": "ACCOUNTING CHARGE NO.",
+            "bbox": [
+                255.0,
+                763.0,
+                356.0,
+                776.0
+            ]
+        },
+        {
+            "text": "EXTRA COPIES TO:",
+            "bbox": [
+                380.0,
+                764.0,
+                449.0,
+                777.0
+            ]
+        },
+        {
+            "text": "Brand Operations",
+            "bbox": [
+                60.0,
+                776.0,
+                174.0,
+                792.0
+            ]
+        },
+        {
+            "text": "Adv. Expense",
+            "bbox": [
+                259.0,
+                776.0,
+                347.0,
+                792.0
+            ]
+        },
+        {
+            "text": "D. Barcia",
+            "bbox": [
+                384.0,
+                776.0,
+                444.0,
+                792.0
+            ]
+        },
+        {
+            "text": "STATE TAX STATUS",
+            "bbox": [
+                33.0,
+                790.0,
+                107.0,
+                802.0
+            ]
+        },
+        {
+            "text": "NOT TO BE CHARGED BY SUPPLIER",
+            "bbox": [
+                223.0,
+                800.0,
+                365.0,
+                819.0
+            ]
+        },
+        {
+            "text": "O TO BE CHARGED",
+            "bbox": [
+                429.0,
+                805.0,
+                502.0,
+                817.0
+            ]
+        },
+        {
+            "text": "LOCAL APPROVAL",
+            "bbox": [
+                45.0,
+                817.0,
+                116.0,
+                830.0
+            ]
+        },
+        {
+            "text": " DATE",
+            "bbox": [
+                225.0,
+                819.0,
+                248.0,
+                831.0
+            ]
+        },
+        {
+            "text": "LOCAL P.O. RELEASE NO.",
+            "bbox": [
+                302.0,
+                820.0,
+                397.0,
+                832.0
+            ]
+        },
+        {
+            "text": "ADMIN, CTRUMGMT. OTR PURCHASE ORDER NO.",
+            "bbox": [
+                440.0,
+                820.0,
+                617.0,
+                834.0
+            ]
+        },
+        {
+            "text": "M14789",
+            "bbox": [
+                467.0,
+                833.0,
+                517.0,
+                847.0
+            ]
+        },
+        {
+            "text": "o m",
+            "bbox": [
+                33.0,
+                844.0,
+                43.0,
+                862.0
+            ]
+        },
+        {
+            "text": "ADMIN, CTR./MGMT CTR. (AS REQUIRED)",
+            "bbox": [
+                45.0,
+                846.0,
+                199.0,
+                859.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                226.0,
+                847.0,
+                248.0,
+                859.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                302.0,
+                847.0,
+                327.0,
+                860.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                440.0,
+                850.0,
+                464.0,
+                861.0
+            ]
+        },
+        {
+            "text": "January 3, 1995",
+            "bbox": [
+                467.0,
+                854.0,
+                568.0,
+                870.0
+            ]
+        },
+        {
+            "text": "OTHER",
+            "bbox": [
+                45.0,
+                874.0,
+                76.0,
+                885.0
+            ]
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                225.0,
+                875.0,
+                248.0,
+                888.0
+            ]
+        },
+        {
+            "text": " \u0a24\u0a47 \u0a2e",
+            "bbox": [
+                303.0,
+                876.0,
+                316.0,
+                888.0
+            ]
+        },
+        {
+            "text": "BUYER M. Stock/smm",
+            "bbox": [
+                440.0,
+                877.0,
+                553.0,
+                894.0
+            ]
+        },
+        {
+            "text": "Mother Sta",
+            "bbox": [
+                551.0,
+                880.0,
+                637.0,
+                900.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

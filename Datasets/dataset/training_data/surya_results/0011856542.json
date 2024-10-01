@@ -1,0 +1,271 @@
+{
+    "text_lines": [
+        {
+            "text": "PROJECT INITIATION FORM",
+            "bbox": [
+                257.0,
+                155.0,
+                461.0,
+                176.0
+            ]
+        },
+        {
+            "text": "PROJECT CODE",
+            "bbox": [
+                71.0,
+                251.0,
+                177.0,
+                267.0
+            ]
+        },
+        {
+            "text": "BD-FF",
+            "bbox": [
+                261.0,
+                257.0,
+                304.0,
+                271.0
+            ]
+        },
+        {
+            "text": "DATE ",
+            "bbox": [
+                423.0,
+                257.0,
+                562.0,
+                278.0
+            ]
+        },
+        {
+            "text": "PROJECT NAME",
+            "bbox": [
+                70.0,
+                294.0,
+                177.0,
+                310.0
+            ]
+        },
+        {
+            "text": "BULL DURHAM Full Flayor King Size Cigarettes",
+            "bbox": [
+                260.0,
+                296.0,
+                590.0,
+                322.0
+            ]
+        },
+        {
+            "text": "PROJECT LEADER",
+            "bbox": [
+                70.0,
+                336.0,
+                195.0,
+                354.0
+            ]
+        },
+        {
+            "text": "J. F. Anders/J. E. Mann",
+            "bbox": [
+                259.0,
+                339.0,
+                499.0,
+                362.0
+            ]
+        },
+        {
+            "text": "WORK REQUESTED BY",
+            "bbox": [
+                69.0,
+                378.0,
+                218.0,
+                396.0
+            ]
+        },
+        {
+            "text": "Marketing",
+            "bbox": [
+                259.0,
+                382.0,
+                362.0,
+                401.0
+            ]
+        },
+        {
+            "text": "PROJECT ORJECTIVE",
+            "bbox": [
+                69.0,
+                420.0,
+                218.0,
+                440.0
+            ]
+        },
+        {
+            "text": "Develop 14-mg \"tar\" delivery king size cigarette",
+            "bbox": [
+                258.0,
+                423.0,
+                604.0,
+                449.0
+            ]
+        },
+        {
+            "text": "for generic pricing directed toward young male",
+            "bbox": [
+                257.0,
+                453.0,
+                600.0,
+                476.0
+            ]
+        },
+        {
+            "text": "smokers. Cigarette dimensions - 85 mm x 24.9 mm",
+            "bbox": [
+                258.0,
+                480.0,
+                604.0,
+                504.0
+            ]
+        },
+        {
+            "text": "circumference - 20 mm filter - 24 mm tipping.",
+            "bbox": [
+                256.0,
+                507.0,
+                590.0,
+                533.0
+            ]
+        },
+        {
+            "text": "Offshore tobacco blend with unique flavor formulation.",
+            "bbox": [
+                257.0,
+                534.0,
+                642.0,
+                558.0
+            ]
+        },
+        {
+            "text": "Cork tipping.",
+            "bbox": [
+                257.0,
+                563.0,
+                360.0,
+                582.0
+            ]
+        },
+        {
+            "text": "OTHER PERSONNEL",
+            "bbox": [
+                67.0,
+                589.0,
+                178.0,
+                605.0
+            ]
+        },
+        {
+            "text": "ASSIGNED",
+            "bbox": [
+                81.0,
+                603.0,
+                143.0,
+                619.0
+            ]
+        },
+        {
+            "text": "Approved by",
+            "bbox": [
+                368.0,
+                717.0,
+                466.0,
+                733.0
+            ]
+        },
+        {
+            "text": "CC :",
+            "bbox": [
+                65.0,
+                755.0,
+                93.0,
+                768.0
+            ]
+        },
+        {
+            "text": "RSS",
+            "bbox": [
+                106.0,
+                755.0,
+                136.0,
+                769.0
+            ]
+        },
+        {
+            "text": "RDC",
+            "bbox": [
+                106.0,
+                770.0,
+                136.0,
+                782.0
+            ]
+        },
+        {
+            "text": "PHL",
+            "bbox": [
+                106.0,
+                783.0,
+                137.0,
+                797.0
+            ]
+        },
+        {
+            "text": "PRC",
+            "bbox": [
+                106.0,
+                797.0,
+                136.0,
+                811.0
+            ]
+        },
+        {
+            "text": "DRB",
+            "bbox": [
+                107.0,
+                812.0,
+                137.0,
+                826.0
+            ]
+        },
+        {
+            "text": "Records",
+            "bbox": [
+                106.0,
+                825.0,
+                170.0,
+                840.0
+            ]
+        },
+        {
+            "text": "Project Leader",
+            "bbox": [
+                106.0,
+                840.0,
+                229.0,
+                855.0
+            ]
+        },
+        {
+            "text": "Other Personnel Assigned",
+            "bbox": [
+                105.0,
+                852.0,
+                313.0,
+                873.0
+            ]
+        }
+    ],
+    "image_bbox": [
+        0.0,
+        0.0,
+        762.0,
+        1000.0
+    ]
+}

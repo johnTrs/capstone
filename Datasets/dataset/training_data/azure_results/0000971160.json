@@ -1,0 +1,1534 @@
+{
+    "text_lines": [
+        {
+            "line_text": "R&D",
+            "line_bbox": [
+                321.0,
+                104.0,
+                346.0,
+                116.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R&D",
+                    "bbox": [
+                        322.0,
+                        104.0,
+                        345.0,
+                        116.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R&D QUALITY IMPROVEMENT",
+            "line_bbox": [
+                257.0,
+                200.0,
+                420.0,
+                216.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R&D",
+                    "bbox": [
+                        258.0,
+                        203.0,
+                        278.0,
+                        216.0
+                    ]
+                },
+                {
+                    "text": "QUALITY",
+                    "bbox": [
+                        284.0,
+                        202.0,
+                        334.0,
+                        215.0
+                    ]
+                },
+                {
+                    "text": "IMPROVEMENT",
+                    "bbox": [
+                        341.0,
+                        200.0,
+                        419.0,
+                        214.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "SUGGESTION/SOLUTION FORM",
+            "line_bbox": [
+                253.0,
+                213.0,
+                424.0,
+                230.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "SUGGESTION/SOLUTION",
+                    "bbox": [
+                        254.0,
+                        215.0,
+                        386.0,
+                        230.0
+                    ]
+                },
+                {
+                    "text": "FORM",
+                    "bbox": [
+                        393.0,
+                        214.0,
+                        422.0,
+                        228.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Name/Phone Ext .: M. Hamann. P. Harper, P. Martinez",
+            "line_bbox": [
+                89.0,
+                268.0,
+                450.0,
+                290.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Name/Phone",
+                    "bbox": [
+                        90.0,
+                        274.0,
+                        163.0,
+                        290.0
+                    ]
+                },
+                {
+                    "text": "Ext",
+                    "bbox": [
+                        167.0,
+                        274.0,
+                        187.0,
+                        289.0
+                    ]
+                },
+                {
+                    "text": ".:",
+                    "bbox": [
+                        189.0,
+                        273.0,
+                        204.0,
+                        288.0
+                    ]
+                },
+                {
+                    "text": "M.",
+                    "bbox": [
+                        214.0,
+                        273.0,
+                        232.0,
+                        288.0
+                    ]
+                },
+                {
+                    "text": "Hamann.",
+                    "bbox": [
+                        235.0,
+                        272.0,
+                        288.0,
+                        287.0
+                    ]
+                },
+                {
+                    "text": "P.",
+                    "bbox": [
+                        292.0,
+                        271.0,
+                        309.0,
+                        286.0
+                    ]
+                },
+                {
+                    "text": "Harper,",
+                    "bbox": [
+                        313.0,
+                        270.0,
+                        366.0,
+                        286.0
+                    ]
+                },
+                {
+                    "text": "P.",
+                    "bbox": [
+                        369.0,
+                        270.0,
+                        387.0,
+                        285.0
+                    ]
+                },
+                {
+                    "text": "Martinez",
+                    "bbox": [
+                        389.0,
+                        269.0,
+                        449.0,
+                        285.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Date:",
+            "line_bbox": [
+                481.0,
+                269.0,
+                520.0,
+                281.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Date:",
+                    "bbox": [
+                        482.0,
+                        269.0,
+                        518.0,
+                        281.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "9/3/92",
+            "line_bbox": [
+                543.0,
+                265.0,
+                605.0,
+                281.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "9/3/92",
+                    "bbox": [
+                        544.0,
+                        266.0,
+                        590.0,
+                        282.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Supervisor/Manager: J. S. Wigand",
+            "line_bbox": [
+                89.0,
+                311.0,
+                326.0,
+                331.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Supervisor/Manager:",
+                    "bbox": [
+                        90.0,
+                        314.0,
+                        226.0,
+                        332.0
+                    ]
+                },
+                {
+                    "text": "J.",
+                    "bbox": [
+                        237.0,
+                        314.0,
+                        255.0,
+                        328.0
+                    ]
+                },
+                {
+                    "text": "S.",
+                    "bbox": [
+                        259.0,
+                        313.0,
+                        275.0,
+                        327.0
+                    ]
+                },
+                {
+                    "text": "Wigand",
+                    "bbox": [
+                        278.0,
+                        312.0,
+                        324.0,
+                        327.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "R&D Group:",
+            "line_bbox": [
+                418.0,
+                310.0,
+                493.0,
+                323.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "R&D",
+                    "bbox": [
+                        419.0,
+                        310.0,
+                        441.0,
+                        323.0
+                    ]
+                },
+                {
+                    "text": "Group:",
+                    "bbox": [
+                        446.0,
+                        310.0,
+                        492.0,
+                        324.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Licensee",
+            "line_bbox": [
+                499.0,
+                308.0,
+                571.0,
+                322.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Licensee",
+                    "bbox": [
+                        510.0,
+                        309.0,
+                        568.0,
+                        322.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Suggestion:",
+            "line_bbox": [
+                92.0,
+                355.0,
+                171.0,
+                371.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Suggestion:",
+                    "bbox": [
+                        93.0,
+                        356.0,
+                        170.0,
+                        371.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Discontinue coal retention analyses on licensee submitted",
+            "line_bbox": [
+                189.0,
+                347.0,
+                594.0,
+                368.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Discontinue",
+                    "bbox": [
+                        190.0,
+                        354.0,
+                        267.0,
+                        369.0
+                    ]
+                },
+                {
+                    "text": "coal",
+                    "bbox": [
+                        273.0,
+                        354.0,
+                        303.0,
+                        367.0
+                    ]
+                },
+                {
+                    "text": "retention",
+                    "bbox": [
+                        308.0,
+                        353.0,
+                        372.0,
+                        366.0
+                    ]
+                },
+                {
+                    "text": "analyses",
+                    "bbox": [
+                        378.0,
+                        351.0,
+                        435.0,
+                        365.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        441.0,
+                        351.0,
+                        455.0,
+                        364.0
+                    ]
+                },
+                {
+                    "text": "licensee",
+                    "bbox": [
+                        462.0,
+                        350.0,
+                        519.0,
+                        363.0
+                    ]
+                },
+                {
+                    "text": "submitted",
+                    "bbox": [
+                        525.0,
+                        348.0,
+                        589.0,
+                        362.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "product samples. (Note: Coal Retention testing is not",
+            "line_bbox": [
+                189.0,
+                362.0,
+                579.0,
+                381.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "product",
+                    "bbox": [
+                        189.0,
+                        368.0,
+                        240.0,
+                        382.0
+                    ]
+                },
+                {
+                    "text": "samples.",
+                    "bbox": [
+                        245.0,
+                        367.0,
+                        304.0,
+                        381.0
+                    ]
+                },
+                {
+                    "text": "(Note:",
+                    "bbox": [
+                        317.0,
+                        366.0,
+                        359.0,
+                        380.0
+                    ]
+                },
+                {
+                    "text": "Coal",
+                    "bbox": [
+                        371.0,
+                        365.0,
+                        400.0,
+                        379.0
+                    ]
+                },
+                {
+                    "text": "Retention",
+                    "bbox": [
+                        405.0,
+                        364.0,
+                        471.0,
+                        378.0
+                    ]
+                },
+                {
+                    "text": "testing",
+                    "bbox": [
+                        477.0,
+                        363.0,
+                        527.0,
+                        377.0
+                    ]
+                },
+                {
+                    "text": "is",
+                    "bbox": [
+                        534.0,
+                        363.0,
+                        548.0,
+                        375.0
+                    ]
+                },
+                {
+                    "text": "not",
+                    "bbox": [
+                        554.0,
+                        362.0,
+                        576.0,
+                        375.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "performed by most licensees. Other B&W physical",
+            "line_bbox": [
+                189.0,
+                377.0,
+                528.0,
+                395.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "performed",
+                    "bbox": [
+                        190.0,
+                        381.0,
+                        254.0,
+                        395.0
+                    ]
+                },
+                {
+                    "text": "by",
+                    "bbox": [
+                        259.0,
+                        381.0,
+                        274.0,
+                        394.0
+                    ]
+                },
+                {
+                    "text": "most",
+                    "bbox": [
+                        280.0,
+                        380.0,
+                        310.0,
+                        394.0
+                    ]
+                },
+                {
+                    "text": "licensees.",
+                    "bbox": [
+                        316.0,
+                        379.0,
+                        388.0,
+                        393.0
+                    ]
+                },
+                {
+                    "text": "Other",
+                    "bbox": [
+                        399.0,
+                        378.0,
+                        435.0,
+                        392.0
+                    ]
+                },
+                {
+                    "text": "B&W",
+                    "bbox": [
+                        442.0,
+                        378.0,
+                        463.0,
+                        391.0
+                    ]
+                },
+                {
+                    "text": "physical",
+                    "bbox": [
+                        469.0,
+                        377.0,
+                        527.0,
+                        390.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "measurements as ends stability and inspection for soft",
+            "line_bbox": [
+                189.0,
+                389.0,
+                572.0,
+                409.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "measurements",
+                    "bbox": [
+                        190.0,
+                        395.0,
+                        274.0,
+                        409.0
+                    ]
+                },
+                {
+                    "text": "as",
+                    "bbox": [
+                        281.0,
+                        394.0,
+                        296.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "ends",
+                    "bbox": [
+                        302.0,
+                        393.0,
+                        331.0,
+                        407.0
+                    ]
+                },
+                {
+                    "text": "stability",
+                    "bbox": [
+                        337.0,
+                        392.0,
+                        401.0,
+                        406.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        408.0,
+                        392.0,
+                        429.0,
+                        405.0
+                    ]
+                },
+                {
+                    "text": "inspection",
+                    "bbox": [
+                        436.0,
+                        390.0,
+                        505.0,
+                        404.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        513.0,
+                        390.0,
+                        534.0,
+                        403.0
+                    ]
+                },
+                {
+                    "text": "soft",
+                    "bbox": [
+                        541.0,
+                        389.0,
+                        570.0,
+                        403.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "spots in cigarettes are thought to be sufficient measures",
+            "line_bbox": [
+                190.0,
+                402.0,
+                592.0,
+                422.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "spots",
+                    "bbox": [
+                        191.0,
+                        409.0,
+                        226.0,
+                        423.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        233.0,
+                        408.0,
+                        247.0,
+                        422.0
+                    ]
+                },
+                {
+                    "text": "cigarettes",
+                    "bbox": [
+                        253.0,
+                        407.0,
+                        324.0,
+                        421.0
+                    ]
+                },
+                {
+                    "text": "are",
+                    "bbox": [
+                        331.0,
+                        406.0,
+                        352.0,
+                        420.0
+                    ]
+                },
+                {
+                    "text": "thought",
+                    "bbox": [
+                        358.0,
+                        405.0,
+                        409.0,
+                        419.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        415.0,
+                        405.0,
+                        429.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        434.0,
+                        405.0,
+                        450.0,
+                        418.0
+                    ]
+                },
+                {
+                    "text": "sufficient",
+                    "bbox": [
+                        456.0,
+                        404.0,
+                        528.0,
+                        417.0
+                    ]
+                },
+                {
+                    "text": "measures",
+                    "bbox": [
+                        533.0,
+                        403.0,
+                        591.0,
+                        416.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "to assure cigarette physical integrity. The proposed",
+            "line_bbox": [
+                191.0,
+                416.0,
+                565.0,
+                435.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "to",
+                    "bbox": [
+                        191.0,
+                        422.0,
+                        205.0,
+                        435.0
+                    ]
+                },
+                {
+                    "text": "assure",
+                    "bbox": [
+                        211.0,
+                        421.0,
+                        255.0,
+                        435.0
+                    ]
+                },
+                {
+                    "text": "cigarette",
+                    "bbox": [
+                        260.0,
+                        420.0,
+                        325.0,
+                        434.0
+                    ]
+                },
+                {
+                    "text": "physical",
+                    "bbox": [
+                        330.0,
+                        419.0,
+                        387.0,
+                        433.0
+                    ]
+                },
+                {
+                    "text": "integrity.",
+                    "bbox": [
+                        394.0,
+                        418.0,
+                        466.0,
+                        432.0
+                    ]
+                },
+                {
+                    "text": "The",
+                    "bbox": [
+                        478.0,
+                        417.0,
+                        500.0,
+                        431.0
+                    ]
+                },
+                {
+                    "text": "proposed",
+                    "bbox": [
+                        505.0,
+                        417.0,
+                        564.0,
+                        430.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "action will increase laboratory productivity.)",
+            "line_bbox": [
+                191.0,
+                429.0,
+                515.0,
+                449.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "action",
+                    "bbox": [
+                        191.0,
+                        435.0,
+                        234.0,
+                        449.0
+                    ]
+                },
+                {
+                    "text": "will",
+                    "bbox": [
+                        239.0,
+                        434.0,
+                        269.0,
+                        448.0
+                    ]
+                },
+                {
+                    "text": "increase",
+                    "bbox": [
+                        275.0,
+                        433.0,
+                        332.0,
+                        448.0
+                    ]
+                },
+                {
+                    "text": "laboratory",
+                    "bbox": [
+                        338.0,
+                        432.0,
+                        409.0,
+                        447.0
+                    ]
+                },
+                {
+                    "text": "productivity.)",
+                    "bbox": [
+                        415.0,
+                        430.0,
+                        515.0,
+                        445.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Suggested Solution(s): Delete coal retention from the list of standard",
+            "line_bbox": [
+                93.0,
+                482.0,
+                594.0,
+                504.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Suggested",
+                    "bbox": [
+                        94.0,
+                        489.0,
+                        159.0,
+                        505.0
+                    ]
+                },
+                {
+                    "text": "Solution(s):",
+                    "bbox": [
+                        163.0,
+                        488.0,
+                        250.0,
+                        504.0
+                    ]
+                },
+                {
+                    "text": "Delete",
+                    "bbox": [
+                        261.0,
+                        487.0,
+                        306.0,
+                        502.0
+                    ]
+                },
+                {
+                    "text": "coal",
+                    "bbox": [
+                        311.0,
+                        486.0,
+                        340.0,
+                        501.0
+                    ]
+                },
+                {
+                    "text": "retention",
+                    "bbox": [
+                        345.0,
+                        485.0,
+                        410.0,
+                        500.0
+                    ]
+                },
+                {
+                    "text": "from",
+                    "bbox": [
+                        416.0,
+                        485.0,
+                        445.0,
+                        499.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        451.0,
+                        485.0,
+                        474.0,
+                        498.0
+                    ]
+                },
+                {
+                    "text": "list",
+                    "bbox": [
+                        479.0,
+                        484.0,
+                        509.0,
+                        498.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        514.0,
+                        484.0,
+                        530.0,
+                        497.0
+                    ]
+                },
+                {
+                    "text": "standard",
+                    "bbox": [
+                        535.0,
+                        483.0,
+                        593.0,
+                        497.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "analyses performed on licensee submitted",
+            "line_bbox": [
+                261.0,
+                496.0,
+                546.0,
+                515.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "analyses",
+                    "bbox": [
+                        262.0,
+                        501.0,
+                        319.0,
+                        515.0
+                    ]
+                },
+                {
+                    "text": "performed",
+                    "bbox": [
+                        324.0,
+                        499.0,
+                        389.0,
+                        514.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        395.0,
+                        499.0,
+                        410.0,
+                        513.0
+                    ]
+                },
+                {
+                    "text": "licensee",
+                    "bbox": [
+                        416.0,
+                        498.0,
+                        474.0,
+                        512.0
+                    ]
+                },
+                {
+                    "text": "submitted",
+                    "bbox": [
+                        480.0,
+                        497.0,
+                        544.0,
+                        511.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "product samples. Special requests for coal",
+            "line_bbox": [
+                263.0,
+                510.0,
+                566.0,
+                528.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "product",
+                    "bbox": [
+                        263.0,
+                        515.0,
+                        312.0,
+                        529.0
+                    ]
+                },
+                {
+                    "text": "samples.",
+                    "bbox": [
+                        318.0,
+                        513.0,
+                        376.0,
+                        528.0
+                    ]
+                },
+                {
+                    "text": "Special",
+                    "bbox": [
+                        388.0,
+                        512.0,
+                        439.0,
+                        527.0
+                    ]
+                },
+                {
+                    "text": "requests",
+                    "bbox": [
+                        444.0,
+                        511.0,
+                        501.0,
+                        526.0
+                    ]
+                },
+                {
+                    "text": "for",
+                    "bbox": [
+                        507.0,
+                        511.0,
+                        530.0,
+                        524.0
+                    ]
+                },
+                {
+                    "text": "coal",
+                    "bbox": [
+                        535.0,
+                        510.0,
+                        565.0,
+                        524.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "retention testing could still be submitted on",
+            "line_bbox": [
+                261.0,
+                522.0,
+                582.0,
+                542.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "retention",
+                    "bbox": [
+                        262.0,
+                        527.0,
+                        327.0,
+                        542.0
+                    ]
+                },
+                {
+                    "text": "testing",
+                    "bbox": [
+                        333.0,
+                        526.0,
+                        383.0,
+                        541.0
+                    ]
+                },
+                {
+                    "text": "could",
+                    "bbox": [
+                        388.0,
+                        525.0,
+                        424.0,
+                        540.0
+                    ]
+                },
+                {
+                    "text": "still",
+                    "bbox": [
+                        431.0,
+                        524.0,
+                        467.0,
+                        539.0
+                    ]
+                },
+                {
+                    "text": "be",
+                    "bbox": [
+                        472.0,
+                        524.0,
+                        488.0,
+                        538.0
+                    ]
+                },
+                {
+                    "text": "submitted",
+                    "bbox": [
+                        493.0,
+                        523.0,
+                        558.0,
+                        538.0
+                    ]
+                },
+                {
+                    "text": "on",
+                    "bbox": [
+                        564.0,
+                        522.0,
+                        580.0,
+                        536.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "an exception basis.",
+            "line_bbox": [
+                264.0,
+                539.0,
+                396.0,
+                555.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "an",
+                    "bbox": [
+                        265.0,
+                        542.0,
+                        277.0,
+                        555.0
+                    ]
+                },
+                {
+                    "text": "exception",
+                    "bbox": [
+                        284.0,
+                        540.0,
+                        348.0,
+                        555.0
+                    ]
+                },
+                {
+                    "text": "basis.",
+                    "bbox": [
+                        354.0,
+                        540.0,
+                        397.0,
+                        553.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Have you contacted your Manager/Supervisor?",
+            "line_bbox": [
+                98.0,
+                606.0,
+                399.0,
+                625.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Have",
+                    "bbox": [
+                        98.0,
+                        611.0,
+                        126.0,
+                        625.0
+                    ]
+                },
+                {
+                    "text": "you",
+                    "bbox": [
+                        131.0,
+                        611.0,
+                        153.0,
+                        625.0
+                    ]
+                },
+                {
+                    "text": "contacted",
+                    "bbox": [
+                        159.0,
+                        610.0,
+                        224.0,
+                        625.0
+                    ]
+                },
+                {
+                    "text": "your",
+                    "bbox": [
+                        228.0,
+                        609.0,
+                        260.0,
+                        624.0
+                    ]
+                },
+                {
+                    "text": "Manager/Supervisor?",
+                    "bbox": [
+                        262.0,
+                        606.0,
+                        399.0,
+                        624.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "-",
+            "line_bbox": [
+                437.0,
+                610.0,
+                459.0,
+                622.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "-",
+                    "bbox": [
+                        438.0,
+                        610.0,
+                        445.0,
+                        622.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Yes",
+            "line_bbox": [
+                460.0,
+                605.0,
+                485.0,
+                618.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Yes",
+                    "bbox": [
+                        460.0,
+                        605.0,
+                        483.0,
+                        618.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "No",
+            "line_bbox": [
+                541.0,
+                604.0,
+                562.0,
+                615.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "No",
+                    "bbox": [
+                        544.0,
+                        604.0,
+                        560.0,
+                        615.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Manager Comments: Manager, please contact suggester and forward",
+            "line_bbox": [
+                97.0,
+                644.0,
+                548.0,
+                665.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Manager",
+                    "bbox": [
+                        98.0,
+                        652.0,
+                        146.0,
+                        665.0
+                    ]
+                },
+                {
+                    "text": "Comments:",
+                    "bbox": [
+                        152.0,
+                        651.0,
+                        218.0,
+                        665.0
+                    ]
+                },
+                {
+                    "text": "Manager,",
+                    "bbox": [
+                        228.0,
+                        650.0,
+                        288.0,
+                        663.0
+                    ]
+                },
+                {
+                    "text": "please",
+                    "bbox": [
+                        293.0,
+                        649.0,
+                        336.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "contact",
+                    "bbox": [
+                        341.0,
+                        648.0,
+                        392.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "suggester",
+                    "bbox": [
+                        398.0,
+                        646.0,
+                        462.0,
+                        661.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        469.0,
+                        646.0,
+                        491.0,
+                        659.0
+                    ]
+                },
+                {
+                    "text": "forward",
+                    "bbox": [
+                        496.0,
+                        645.0,
+                        546.0,
+                        659.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "comments to the Quality Council.",
+            "line_bbox": [
+                98.0,
+                662.0,
+                324.0,
+                679.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "comments",
+                    "bbox": [
+                        99.0,
+                        665.0,
+                        154.0,
+                        679.0
+                    ]
+                },
+                {
+                    "text": "to",
+                    "bbox": [
+                        161.0,
+                        665.0,
+                        175.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "the",
+                    "bbox": [
+                        182.0,
+                        664.0,
+                        203.0,
+                        678.0
+                    ]
+                },
+                {
+                    "text": "Quality",
+                    "bbox": [
+                        208.0,
+                        663.0,
+                        260.0,
+                        677.0
+                    ]
+                },
+                {
+                    "text": "Council.",
+                    "bbox": [
+                        265.0,
+                        662.0,
+                        324.0,
+                        677.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "qip.wp",
+            "line_bbox": [
+                100.0,
+                823.0,
+                145.0,
+                838.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "qip.wp",
+                    "bbox": [
+                        101.0,
+                        823.0,
+                        144.0,
+                        838.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "597005708",
+            "line_bbox": [
+                523.0,
+                905.0,
+                642.0,
+                927.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "597005708",
+                    "bbox": [
+                        524.0,
+                        906.0,
+                        637.0,
+                        928.0
+                    ]
+                }
+            ]
+        }
+    ]
+}

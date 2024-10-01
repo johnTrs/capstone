@@ -1,0 +1,1441 @@
+{
+    "text_lines": [
+        {
+            "line_text": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN",
+            "line_bbox": [
+                225.0,
+                52.0,
+                593.0,
+                69.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CITY",
+                    "bbox": [
+                        226.0,
+                        54.0,
+                        260.0,
+                        70.0
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "bbox": [
+                        263.0,
+                        54.0,
+                        282.0,
+                        70.0
+                    ]
+                },
+                {
+                    "text": "REIDSVILLE",
+                    "bbox": [
+                        285.0,
+                        53.0,
+                        367.0,
+                        70.0
+                    ]
+                },
+                {
+                    "text": "CHEMICAL",
+                    "bbox": [
+                        371.0,
+                        53.0,
+                        444.0,
+                        70.0
+                    ]
+                },
+                {
+                    "text": "MANAGEMENT",
+                    "bbox": [
+                        447.0,
+                        53.0,
+                        549.0,
+                        69.0
+                    ]
+                },
+                {
+                    "text": "PLAN",
+                    "bbox": [
+                        551.0,
+                        53.0,
+                        587.0,
+                        68.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1",
+            "line_bbox": [
+                649.0,
+                55.0,
+                663.0,
+                73.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "1",
+                    "bbox": [
+                        650.0,
+                        55.0,
+                        663.0,
+                        73.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1993 INVENTORY",
+            "line_bbox": [
+                351.0,
+                68.0,
+                465.0,
+                82.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1993",
+                    "bbox": [
+                        352.0,
+                        69.0,
+                        379.0,
+                        82.0
+                    ]
+                },
+                {
+                    "text": "INVENTORY",
+                    "bbox": [
+                        381.0,
+                        69.0,
+                        460.0,
+                        82.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHEMICAL USAGE FACT SHEET",
+            "line_bbox": [
+                300.0,
+                81.0,
+                512.0,
+                97.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHEMICAL",
+                    "bbox": [
+                        300.0,
+                        83.0,
+                        372.0,
+                        97.0
+                    ]
+                },
+                {
+                    "text": "USAGE",
+                    "bbox": [
+                        375.0,
+                        82.0,
+                        420.0,
+                        97.0
+                    ]
+                },
+                {
+                    "text": "FACT",
+                    "bbox": [
+                        424.0,
+                        82.0,
+                        462.0,
+                        97.0
+                    ]
+                },
+                {
+                    "text": "SHEET",
+                    "bbox": [
+                        464.0,
+                        82.0,
+                        510.0,
+                        97.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Process Chemicals Used in Excess of 100 Pounds/Day,",
+            "line_bbox": [
+                250.0,
+                113.0,
+                561.0,
+                128.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Process",
+                    "bbox": [
+                        251.0,
+                        114.0,
+                        296.0,
+                        128.0
+                    ]
+                },
+                {
+                    "text": "Chemicals",
+                    "bbox": [
+                        298.0,
+                        113.0,
+                        358.0,
+                        128.0
+                    ]
+                },
+                {
+                    "text": "Used",
+                    "bbox": [
+                        360.0,
+                        113.0,
+                        389.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "in",
+                    "bbox": [
+                        391.0,
+                        113.0,
+                        405.0,
+                        127.0
+                    ]
+                },
+                {
+                    "text": "Excess",
+                    "bbox": [
+                        407.0,
+                        113.0,
+                        445.0,
+                        128.0
+                    ]
+                },
+                {
+                    "text": "of",
+                    "bbox": [
+                        447.0,
+                        113.0,
+                        461.0,
+                        128.0
+                    ]
+                },
+                {
+                    "text": "100",
+                    "bbox": [
+                        463.0,
+                        113.0,
+                        485.0,
+                        128.0
+                    ]
+                },
+                {
+                    "text": "Pounds/Day,",
+                    "bbox": [
+                        486.0,
+                        113.0,
+                        562.0,
+                        129.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Water Treatment Chemicals, Cleaning Compounds",
+            "line_bbox": [
+                260.0,
+                127.0,
+                554.0,
+                144.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Water",
+                    "bbox": [
+                        261.0,
+                        128.0,
+                        298.0,
+                        143.0
+                    ]
+                },
+                {
+                    "text": "Treatment",
+                    "bbox": [
+                        301.0,
+                        128.0,
+                        360.0,
+                        144.0
+                    ]
+                },
+                {
+                    "text": "Chemicals,",
+                    "bbox": [
+                        362.0,
+                        128.0,
+                        424.0,
+                        144.0
+                    ]
+                },
+                {
+                    "text": "Cleaning",
+                    "bbox": [
+                        427.0,
+                        128.0,
+                        479.0,
+                        144.0
+                    ]
+                },
+                {
+                    "text": "Compounds",
+                    "bbox": [
+                        482.0,
+                        128.0,
+                        554.0,
+                        144.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Facility:",
+            "line_bbox": [
+                110.0,
+                158.0,
+                155.0,
+                172.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Facility:",
+                    "bbox": [
+                        110.0,
+                        159.0,
+                        155.0,
+                        172.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Permit #;",
+            "line_bbox": [
+                541.0,
+                157.0,
+                596.0,
+                172.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Permit",
+                    "bbox": [
+                        541.0,
+                        158.0,
+                        578.0,
+                        172.0
+                    ]
+                },
+                {
+                    "text": "#;",
+                    "bbox": [
+                        581.0,
+                        158.0,
+                        596.0,
+                        172.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "The American Tobacco Company",
+            "line_bbox": [
+                163.0,
+                176.0,
+                348.0,
+                192.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "The",
+                    "bbox": [
+                        163.0,
+                        178.0,
+                        184.0,
+                        192.0
+                    ]
+                },
+                {
+                    "text": "American",
+                    "bbox": [
+                        187.0,
+                        177.0,
+                        242.0,
+                        192.0
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "bbox": [
+                        247.0,
+                        177.0,
+                        294.0,
+                        192.0
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "bbox": [
+                        297.0,
+                        177.0,
+                        346.0,
+                        193.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "0001",
+            "line_bbox": [
+                612.0,
+                177.0,
+                639.0,
+                188.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "0001",
+                    "bbox": [
+                        612.0,
+                        177.0,
+                        638.0,
+                        188.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHEMICAL DESCRIPTION",
+            "line_bbox": [
+                336.0,
+                210.0,
+                474.0,
+                224.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHEMICAL",
+                    "bbox": [
+                        336.0,
+                        211.0,
+                        394.0,
+                        224.0
+                    ]
+                },
+                {
+                    "text": "DESCRIPTION",
+                    "bbox": [
+                        396.0,
+                        211.0,
+                        469.0,
+                        224.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCT (CHEMICAL) NAME:",
+            "line_bbox": [
+                118.0,
+                247.0,
+                277.0,
+                261.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCT",
+                    "bbox": [
+                        119.0,
+                        247.0,
+                        170.0,
+                        260.0
+                    ]
+                },
+                {
+                    "text": "(CHEMICAL)",
+                    "bbox": [
+                        172.0,
+                        247.0,
+                        236.0,
+                        261.0
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "bbox": [
+                        238.0,
+                        247.0,
+                        277.0,
+                        261.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Fuller G2315 DC",
+            "line_bbox": [
+                293.0,
+                254.0,
+                395.0,
+                268.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Fuller",
+                    "bbox": [
+                        294.0,
+                        255.0,
+                        334.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "G2315",
+                    "bbox": [
+                        339.0,
+                        255.0,
+                        373.0,
+                        268.0
+                    ]
+                },
+                {
+                    "text": "DC",
+                    "bbox": [
+                        377.0,
+                        255.0,
+                        393.0,
+                        269.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "DESCRIPTION: Liquid Adhesive",
+            "line_bbox": [
+                119.0,
+                283.0,
+                297.0,
+                300.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "DESCRIPTION:",
+                    "bbox": [
+                        120.0,
+                        284.0,
+                        194.0,
+                        298.0
+                    ]
+                },
+                {
+                    "text": "Liquid",
+                    "bbox": [
+                        196.0,
+                        286.0,
+                        237.0,
+                        299.0
+                    ]
+                },
+                {
+                    "text": "Adhesive",
+                    "bbox": [
+                        242.0,
+                        287.0,
+                        296.0,
+                        301.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PRODUCT CLASSIFICATION (Circle One):",
+            "line_bbox": [
+                118.0,
+                321.0,
+                320.0,
+                335.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PRODUCT",
+                    "bbox": [
+                        118.0,
+                        321.0,
+                        168.0,
+                        335.0
+                    ]
+                },
+                {
+                    "text": "CLASSIFICATION",
+                    "bbox": [
+                        171.0,
+                        321.0,
+                        258.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "(Circle",
+                    "bbox": [
+                        260.0,
+                        322.0,
+                        291.0,
+                        336.0
+                    ]
+                },
+                {
+                    "text": "One):",
+                    "bbox": [
+                        293.0,
+                        322.0,
+                        321.0,
+                        336.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Organic",
+            "line_bbox": [
+                379.0,
+                322.0,
+                417.0,
+                334.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Organic",
+                    "bbox": [
+                        379.0,
+                        323.0,
+                        417.0,
+                        335.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Inorganic",
+            "line_bbox": [
+                496.0,
+                323.0,
+                542.0,
+                336.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Inorganic",
+                    "bbox": [
+                        497.0,
+                        323.0,
+                        542.0,
+                        336.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHEMICAL FORMULA:",
+            "line_bbox": [
+                118.0,
+                359.0,
+                234.0,
+                372.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHEMICAL",
+                    "bbox": [
+                        118.0,
+                        359.0,
+                        173.0,
+                        371.0
+                    ]
+                },
+                {
+                    "text": "FORMULA:",
+                    "bbox": [
+                        175.0,
+                        360.0,
+                        234.0,
+                        373.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Vinyl Acetate",
+            "line_bbox": [
+                265.0,
+                363.0,
+                353.0,
+                377.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Vinyl",
+                    "bbox": [
+                        266.0,
+                        364.0,
+                        300.0,
+                        377.0
+                    ]
+                },
+                {
+                    "text": "Acetate",
+                    "bbox": [
+                        305.0,
+                        364.0,
+                        352.0,
+                        377.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CAS#:",
+            "line_bbox": [
+                117.0,
+                396.0,
+                148.0,
+                407.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CAS#:",
+                    "bbox": [
+                        117.0,
+                        396.0,
+                        149.0,
+                        408.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "108-05-4",
+            "line_bbox": [
+                193.0,
+                399.0,
+                249.0,
+                412.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "108-05-4",
+                    "bbox": [
+                        194.0,
+                        400.0,
+                        248.0,
+                        412.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PERCENT ACTIVES (Non-water):",
+            "line_bbox": [
+                455.0,
+                395.0,
+                618.0,
+                411.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PERCENT",
+                    "bbox": [
+                        455.0,
+                        396.0,
+                        504.0,
+                        410.0
+                    ]
+                },
+                {
+                    "text": "ACTIVES",
+                    "bbox": [
+                        507.0,
+                        396.0,
+                        551.0,
+                        411.0
+                    ]
+                },
+                {
+                    "text": "(Non-water):",
+                    "bbox": [
+                        554.0,
+                        396.0,
+                        617.0,
+                        412.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "6.5%",
+            "line_bbox": [
+                621.0,
+                395.0,
+                666.0,
+                420.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "6.5%",
+                    "bbox": [
+                        624.0,
+                        395.0,
+                        665.0,
+                        421.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MANUFACTURER:",
+            "line_bbox": [
+                115.0,
+                431.0,
+                210.0,
+                445.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MANUFACTURER:",
+                    "bbox": [
+                        116.0,
+                        432.0,
+                        210.0,
+                        445.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "H. B. Fuller Company",
+            "line_bbox": [
+                237.0,
+                438.0,
+                371.0,
+                455.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "H.",
+                    "bbox": [
+                        238.0,
+                        438.0,
+                        254.0,
+                        451.0
+                    ]
+                },
+                {
+                    "text": "B.",
+                    "bbox": [
+                        257.0,
+                        439.0,
+                        273.0,
+                        452.0
+                    ]
+                },
+                {
+                    "text": "Fuller",
+                    "bbox": [
+                        277.0,
+                        439.0,
+                        318.0,
+                        453.0
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "bbox": [
+                        322.0,
+                        440.0,
+                        369.0,
+                        455.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "PHONE #:",
+            "line_bbox": [
+                535.0,
+                432.0,
+                586.0,
+                445.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "PHONE",
+                    "bbox": [
+                        535.0,
+                        432.0,
+                        571.0,
+                        445.0
+                    ]
+                },
+                {
+                    "text": "#:",
+                    "bbox": [
+                        573.0,
+                        433.0,
+                        586.0,
+                        445.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "612-481-3300",
+            "line_bbox": [
+                581.0,
+                442.0,
+                664.0,
+                454.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "612-481-3300",
+                    "bbox": [
+                        582.0,
+                        442.0,
+                        662.0,
+                        455.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "MSDS ON FILE? (Circle One):",
+            "line_bbox": [
+                114.0,
+                468.0,
+                256.0,
+                483.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "MSDS",
+                    "bbox": [
+                        115.0,
+                        468.0,
+                        144.0,
+                        482.0
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "bbox": [
+                        146.0,
+                        469.0,
+                        162.0,
+                        482.0
+                    ]
+                },
+                {
+                    "text": "FILE?",
+                    "bbox": [
+                        165.0,
+                        469.0,
+                        193.0,
+                        482.0
+                    ]
+                },
+                {
+                    "text": "(Circle",
+                    "bbox": [
+                        196.0,
+                        469.0,
+                        227.0,
+                        483.0
+                    ]
+                },
+                {
+                    "text": "One):",
+                    "bbox": [
+                        229.0,
+                        469.0,
+                        257.0,
+                        483.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Yes",
+            "line_bbox": [
+                376.0,
+                469.0,
+                397.0,
+                482.0
+            ],
+            "handwriting": 1,
+            "words": [
+                {
+                    "text": "Yes",
+                    "bbox": [
+                        378.0,
+                        469.0,
+                        397.0,
+                        482.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "No",
+            "line_bbox": [
+                494.0,
+                470.0,
+                514.0,
+                483.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "No",
+                    "bbox": [
+                        494.0,
+                        470.0,
+                        511.0,
+                        483.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "CHEMICAL, USAGE",
+            "line_bbox": [
+                346.0,
+                518.0,
+                446.0,
+                532.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "CHEMICAL,",
+                    "bbox": [
+                        346.0,
+                        519.0,
+                        406.0,
+                        532.0
+                    ]
+                },
+                {
+                    "text": "USAGE",
+                    "bbox": [
+                        408.0,
+                        519.0,
+                        444.0,
+                        532.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1993 ANNUAL USAGE (LBS.):",
+            "line_bbox": [
+                113.0,
+                554.0,
+                261.0,
+                569.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1993",
+                    "bbox": [
+                        114.0,
+                        555.0,
+                        135.0,
+                        568.0
+                    ]
+                },
+                {
+                    "text": "ANNUAL",
+                    "bbox": [
+                        138.0,
+                        555.0,
+                        183.0,
+                        568.0
+                    ]
+                },
+                {
+                    "text": "USAGE",
+                    "bbox": [
+                        185.0,
+                        555.0,
+                        222.0,
+                        569.0
+                    ]
+                },
+                {
+                    "text": "(LBS.):",
+                    "bbox": [
+                        223.0,
+                        556.0,
+                        261.0,
+                        569.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "74880",
+            "line_bbox": [
+                296.0,
+                569.0,
+                330.0,
+                581.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "74880",
+                    "bbox": [
+                        296.0,
+                        570.0,
+                        328.0,
+                        581.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "1993 AVG. MONTHLY USAGE (LBS.) 6240",
+            "line_bbox": [
+                114.0,
+                591.0,
+                337.0,
+                608.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "1993",
+                    "bbox": [
+                        114.0,
+                        592.0,
+                        134.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "AVG.",
+                    "bbox": [
+                        137.0,
+                        592.0,
+                        163.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "MONTHLY",
+                    "bbox": [
+                        165.0,
+                        592.0,
+                        219.0,
+                        605.0
+                    ]
+                },
+                {
+                    "text": "USAGE",
+                    "bbox": [
+                        221.0,
+                        592.0,
+                        258.0,
+                        606.0
+                    ]
+                },
+                {
+                    "text": "(LBS.)",
+                    "bbox": [
+                        260.0,
+                        593.0,
+                        295.0,
+                        607.0
+                    ]
+                },
+                {
+                    "text": "6240",
+                    "bbox": [
+                        307.0,
+                        594.0,
+                        335.0,
+                        609.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "APPLICATION (Circle One and Briefly Describe):",
+            "line_bbox": [
+                111.0,
+                628.0,
+                338.0,
+                644.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "APPLICATION",
+                    "bbox": [
+                        112.0,
+                        629.0,
+                        180.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "(Circle",
+                    "bbox": [
+                        183.0,
+                        629.0,
+                        214.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "One",
+                    "bbox": [
+                        216.0,
+                        630.0,
+                        236.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "and",
+                    "bbox": [
+                        238.0,
+                        630.0,
+                        254.0,
+                        643.0
+                    ]
+                },
+                {
+                    "text": "Briefly",
+                    "bbox": [
+                        256.0,
+                        630.0,
+                        288.0,
+                        644.0
+                    ]
+                },
+                {
+                    "text": "Describe):",
+                    "bbox": [
+                        290.0,
+                        630.0,
+                        338.0,
+                        644.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Production Process:",
+            "line_bbox": [
+                136.0,
+                655.0,
+                227.0,
+                668.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Production",
+                    "bbox": [
+                        137.0,
+                        655.0,
+                        183.0,
+                        668.0
+                    ]
+                },
+                {
+                    "text": "Process:",
+                    "bbox": [
+                        185.0,
+                        655.0,
+                        226.0,
+                        669.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "label adhesive",
+            "line_bbox": [
+                285.0,
+                649.0,
+                381.0,
+                662.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "label",
+                    "bbox": [
+                        287.0,
+                        649.0,
+                        320.0,
+                        662.0
+                    ]
+                },
+                {
+                    "text": "adhesive",
+                    "bbox": [
+                        325.0,
+                        649.0,
+                        379.0,
+                        663.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Water Treatment:",
+            "line_bbox": [
+                135.0,
+                691.0,
+                215.0,
+                703.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Water",
+                    "bbox": [
+                        136.0,
+                        691.0,
+                        164.0,
+                        703.0
+                    ]
+                },
+                {
+                    "text": "Treatment:",
+                    "bbox": [
+                        165.0,
+                        692.0,
+                        216.0,
+                        704.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Housekeeping/Cleaning:",
+            "line_bbox": [
+                133.0,
+                726.0,
+                240.0,
+                741.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Housekeeping/Cleaning:",
+                    "bbox": [
+                        134.0,
+                        727.0,
+                        240.0,
+                        741.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "Other.",
+            "line_bbox": [
+                135.0,
+                765.0,
+                165.0,
+                776.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "Other.",
+                    "bbox": [
+                        135.0,
+                        765.0,
+                        164.0,
+                        776.0
+                    ]
+                }
+            ]
+        },
+        {
+            "line_text": "ATX02 0132045",
+            "line_bbox": [
+                525.0,
+                874.0,
+                638.0,
+                889.0
+            ],
+            "handwriting": 0,
+            "words": [
+                {
+                    "text": "ATX02",
+                    "bbox": [
+                        526.0,
+                        875.0,
+                        568.0,
+                        890.0
+                    ]
+                },
+                {
+                    "text": "0132045",
+                    "bbox": [
+                        576.0,
+                        875.0,
+                        635.0,
+                        890.0
+                    ]
+                }
+            ]
+        }
+    ]
+}
