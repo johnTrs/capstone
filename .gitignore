@@ -32,7 +32,7 @@ Thumbs.db
 *.h5
 *.ckpt
 *.pt
-*.pkl
+# *.pkl
 *.zip
 *.tar.gz
 *.tar.bz2
