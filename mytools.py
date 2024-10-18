@@ -33,3 +33,19 @@ def quad_to_rect(quad_box):
     
     # Return the rectangular bounding box
     return [x_min, y_min, x_max, y_max]
+
+def unnormalize_box(bbox, width, height):
+     return [
+         width * (bbox[0] / 1000),
+         height * (bbox[1] / 1000),
+         width * (bbox[2] / 1000),
+         height * (bbox[3] / 1000),
+     ]
+
+def normalize_box(bbox, width, height):
+    return [
+        bbox[0] / width * 1000,  # x1
+        bbox[1] / height * 1000, # y1
+        bbox[2] / width * 1000,  # x2
+        bbox[3] / height * 1000, # y2
+    ]
