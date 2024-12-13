@@ -45,12 +45,13 @@ class CustomSuryaDataset:
             image = self.load_image(image_path)
 
             for item in data['text_lines']: 
-                wt = nlp.tokenizer(item['text'])    
-                tokens.extend(wt)
-                # Rejoin tokens that were split by slashes
-                split_them = ['/', ':']  # Punctuation to merge with adjacent tokens
-                not_split = ['&']        # Punctuation to remain unsplit
-                for i in range(len(wt)):
+                # wt = nlp.tokenizer(item['text'])    
+                # for token in wt:
+                #     tokens.append(token.text)
+                # for i in range(len(wt)):
+                #     boxes.append(item['bbox'])
+                for token in item['text'].split(" "):
+                    tokens.append(token)
                     boxes.append(item['bbox'])
             assert len(tokens) == len(boxes)  , "Lengths of ner_tags, tokens, and boxes must be equal."
 
